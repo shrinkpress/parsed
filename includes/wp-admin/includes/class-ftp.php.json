@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/class-ftp.php",
+    "includes": {
+        "wp-admin/includes/class-wp-filesystem-ftpsockets.php:36": [
+            "wp-admin/includes/class-wp-filesystem-ftpsockets.php",
+            36,
+            0,
+            "include_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

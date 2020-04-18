@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/update-core.php",
+    "includes": {
+        "wp-admin/network/update-core.php:13": [
+            "wp-admin/network/update-core.php",
+            13,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

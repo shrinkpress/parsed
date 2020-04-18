@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-hook.php",
+    "includes": {
+        "wp-includes/plugin.php:25": [
+            "wp-includes/plugin.php",
+            25,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

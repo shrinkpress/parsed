@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/edit-form-comment.php",
+    "includes": {
+        "wp-admin/comment.php:80": [
+            "wp-admin/comment.php",
+            80,
+            0,
+            "include"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

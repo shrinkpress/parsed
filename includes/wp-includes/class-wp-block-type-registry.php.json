@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-block-type-registry.php",
+    "includes": {
+        "wp-settings.php:260": [
+            "wp-settings.php",
+            260,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

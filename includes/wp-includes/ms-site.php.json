@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/ms-site.php",
+    "includes": {
+        "wp-includes/ms-blogs.php:11": [
+            "wp-includes/ms-blogs.php",
+            11,
+            3,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/shortcodes.php",
+    "includes": {
+        "wp-settings.php:209": [
+            "wp-settings.php",
+            209,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

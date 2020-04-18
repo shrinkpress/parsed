@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/uninstall.php",
+    "includes": {
+        "wp-admin/includes/plugin.php:1209": [
+            "wp-admin/includes/plugin.php",
+            1209,
+            0,
+            "include"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

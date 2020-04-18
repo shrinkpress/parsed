@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-user.php",
+    "includes": {
+        "wp-settings.php:159": [
+            "wp-settings.php",
+            159,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

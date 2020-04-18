@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/site-health-info.php",
+    "includes": {
+        "wp-admin/site-health.php:10": [
+            "wp-admin/site-health.php",
+            10,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/class-wp-http-ixr-client.php",
+    "includes": {
+        "wp-includes/comment.php:2799": [
+            "wp-includes/comment.php",
+            2799,
+            0,
+            "include_once"
+        ],
+        "wp-includes/comment.php:2955": [
+            "wp-includes/comment.php",
+            2955,
+            0,
+            "include_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

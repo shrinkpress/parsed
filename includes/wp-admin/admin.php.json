@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/admin.php",
+    "includes": {
+        "wp-admin/async-upload.php:23": [
+            "wp-admin/async-upload.php",
+            23,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

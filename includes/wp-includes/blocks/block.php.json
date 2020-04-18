@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/blocks/block.php",
+    "includes": {
+        "wp-settings.php:264": [
+            "wp-settings.php",
+            264,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

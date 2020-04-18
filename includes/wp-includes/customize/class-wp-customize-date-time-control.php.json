@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/customize/class-wp-customize-date-time-control.php",
+    "includes": {
+        "wp-includes/class-wp-customize-control.php:792": [
+            "wp-includes/class-wp-customize-control.php",
+            792,
+            789,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

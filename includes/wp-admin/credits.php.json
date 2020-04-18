@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/credits.php",
+    "includes": {
+        "wp-admin/network/credits.php:13": [
+            "wp-admin/network/credits.php",
+            13,
+            0,
+            "require"
+        ],
+        "wp-admin/user/credits.php:13": [
+            "wp-admin/user/credits.php",
+            13,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/class-simplepie.php",
+    "includes": {
+        "wp-includes/class-feed.php:13": [
+            "wp-includes/class-feed.php",
+            13,
+            0,
+            "require_once"
+        ],
+        "wp-includes/feed.php:755": [
+            "wp-includes/feed.php",
+            755,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

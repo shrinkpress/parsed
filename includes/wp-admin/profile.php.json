@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/profile.php",
+    "includes": {
+        "wp-admin/network/profile.php:13": [
+            "wp-admin/network/profile.php",
+            13,
+            0,
+            "require"
+        ],
+        "wp-admin/user/profile.php:13": [
+            "wp-admin/user/profile.php",
+            13,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

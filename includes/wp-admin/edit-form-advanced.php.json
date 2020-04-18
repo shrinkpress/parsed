@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/edit-form-advanced.php",
+    "includes": {
+        "wp-admin/post-new.php:75": [
+            "wp-admin/post-new.php",
+            75,
+            0,
+            "include"
+        ],
+        "wp-admin/post.php:198": [
+            "wp-admin/post.php",
+            198,
+            0,
+            "include"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

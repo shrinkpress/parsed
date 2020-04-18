@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/wp-diff.php",
+    "includes": {
+        "wp-includes/pluggable.php:2727": [
+            "wp-includes/pluggable.php",
+            2727,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

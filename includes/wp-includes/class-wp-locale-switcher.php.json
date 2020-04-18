@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/class-wp-locale-switcher.php",
+    "includes": {
+        "wp-includes/load.php:1158": [
+            "wp-includes/load.php",
+            1158,
+            0,
+            "require_once"
+        ],
+        "wp-settings.php:148": [
+            "wp-settings.php",
+            148,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

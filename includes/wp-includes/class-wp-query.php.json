@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-query.php",
+    "includes": {
+        "wp-settings.php:160": [
+            "wp-settings.php",
+            160,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

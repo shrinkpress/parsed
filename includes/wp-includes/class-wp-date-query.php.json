@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/class-wp-date-query.php",
+    "includes": {
+        "wp-includes/date.php:14": [
+            "wp-includes/date.php",
+            14,
+            13,
+            "require_once"
+        ],
+        "wp-settings.php:162": [
+            "wp-settings.php",
+            162,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

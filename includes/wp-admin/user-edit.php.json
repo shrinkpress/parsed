@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/user-edit.php",
+    "includes": {
+        "wp-admin/network/user-edit.php:13": [
+            "wp-admin/network/user-edit.php",
+            13,
+            0,
+            "require"
+        ],
+        "wp-admin/user/user-edit.php:13": [
+            "wp-admin/user/user-edit.php",
+            13,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

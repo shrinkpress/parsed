@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-http-streams.php",
+    "includes": {
+        "wp-settings.php:217": [
+            "wp-settings.php",
+            217,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

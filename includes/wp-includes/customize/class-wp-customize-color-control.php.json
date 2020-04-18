@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/customize/class-wp-customize-color-control.php",
+    "includes": {
+        "wp-includes/class-wp-customize-control.php:696": [
+            "wp-includes/class-wp-customize-control.php",
+            696,
+            693,
+            "require_once"
+        ],
+        "wp-includes/class-wp-customize-manager.php:301": [
+            "wp-includes/class-wp-customize-manager.php",
+            301,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

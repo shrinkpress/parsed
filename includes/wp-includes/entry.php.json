@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/entry.php",
+    "includes": {
+        "wp-includes/pomo/translations.php:11": [
+            "wp-includes/pomo/translations.php",
+            11,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

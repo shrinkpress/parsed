@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-image-editor-gd.php",
+    "includes": {
+        "wp-includes/media.php:3226": [
+            "wp-includes/media.php",
+            3226,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

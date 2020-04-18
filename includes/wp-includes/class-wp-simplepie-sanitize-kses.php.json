@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/class-wp-simplepie-sanitize-kses.php",
+    "includes": {
+        "wp-includes/class-feed.php:19": [
+            "wp-includes/class-feed.php",
+            19,
+            0,
+            "require_once"
+        ],
+        "wp-includes/feed.php:761": [
+            "wp-includes/feed.php",
+            761,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/Renderer.php",
+    "includes": {
+        "wp-includes/Text/Diff/Renderer/inline.php:17": [
+            "wp-includes/Text/Diff/Renderer/inline.php",
+            17,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

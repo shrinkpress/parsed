@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/nav-menu-template.php",
+    "includes": {
+        "wp-settings.php:229": [
+            "wp-settings.php",
+            229,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

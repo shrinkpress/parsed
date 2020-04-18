@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/random_bytes_dev_urandom.php",
+    "includes": {
+        "wp-includes/random_compat/random.php:120": [
+            "wp-includes/random_compat/random.php",
+            120,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

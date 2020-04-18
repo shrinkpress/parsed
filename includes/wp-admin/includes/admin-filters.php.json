@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/admin-filters.php",
+    "includes": {
+        "wp-admin/includes/admin.php:20": [
+            "wp-admin/includes/admin.php",
+            20,
+            19,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

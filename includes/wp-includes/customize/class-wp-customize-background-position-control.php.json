@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/customize/class-wp-customize-background-position-control.php",
+    "includes": {
+        "wp-includes/class-wp-customize-control.php:721": [
+            "wp-includes/class-wp-customize-control.php",
+            721,
+            718,
+            "require_once"
+        ],
+        "wp-includes/class-wp-customize-manager.php:306": [
+            "wp-includes/class-wp-customize-manager.php",
+            306,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

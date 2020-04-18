@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/SimplePie/Cache.php",
+    "includes": {
+        "wp-includes/class-simplepie.php:6": [
+            "wp-includes/class-simplepie.php",
+            6,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

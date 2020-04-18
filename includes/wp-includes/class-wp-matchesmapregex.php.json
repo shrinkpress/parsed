@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-matchesmapregex.php",
+    "includes": {
+        "wp-settings.php:109": [
+            "wp-settings.php",
+            109,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

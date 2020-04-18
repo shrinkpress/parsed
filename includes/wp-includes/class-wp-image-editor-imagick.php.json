@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-image-editor-imagick.php",
+    "includes": {
+        "wp-includes/media.php:3227": [
+            "wp-includes/media.php",
+            3227,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

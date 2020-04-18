@@ -1,0 +1,24 @@
+{
+    "includedFile": "wp-admin/includes/image-edit.php",
+    "includes": {
+        "wp-admin/includes/ajax-actions.php:237": [
+            "wp-admin/includes/ajax-actions.php",
+            237,
+            0,
+            "include_once"
+        ],
+        "wp-admin/includes/ajax-actions.php:2596": [
+            "wp-admin/includes/ajax-actions.php",
+            2596,
+            0,
+            "include_once"
+        ],
+        "wp-admin/includes/media.php:3056": [
+            "wp-admin/includes/media.php",
+            3056,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

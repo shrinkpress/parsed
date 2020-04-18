@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/template-loader.php",
+    "includes": {
+        "wp-blog-header.php:19": [
+            "wp-blog-header.php",
+            19,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

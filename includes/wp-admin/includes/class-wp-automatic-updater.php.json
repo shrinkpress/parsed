@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/class-wp-automatic-updater.php",
+    "includes": {
+        "wp-admin/includes/class-wp-upgrader.php:947": [
+            "wp-admin/includes/class-wp-upgrader.php",
+            947,
+            946,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

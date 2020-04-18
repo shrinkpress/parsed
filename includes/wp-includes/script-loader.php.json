@@ -1,0 +1,24 @@
+{
+    "includedFile": "wp-includes/script-loader.php",
+    "includes": {
+        "wp-admin/load-scripts.php:37": [
+            "wp-admin/load-scripts.php",
+            37,
+            0,
+            "require"
+        ],
+        "wp-admin/load-styles.php:18": [
+            "wp-admin/load-styles.php",
+            18,
+            0,
+            "require"
+        ],
+        "wp-settings.php:201": [
+            "wp-settings.php",
+            201,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

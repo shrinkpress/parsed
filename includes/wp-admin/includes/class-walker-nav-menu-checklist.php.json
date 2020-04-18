@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/class-walker-nav-menu-checklist.php",
+    "includes": {
+        "wp-admin/includes/nav-menu.php:14": [
+            "wp-admin/includes/nav-menu.php",
+            14,
+            13,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

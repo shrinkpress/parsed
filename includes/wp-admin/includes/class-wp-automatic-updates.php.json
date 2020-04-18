@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/class-wp-automatic-updates.php",
+    "includes": {
+        "wp-admin/includes/class-wp-site-health-auto-updates.php:169": [
+            "wp-admin/includes/class-wp-site-health-auto-updates.php",
+            169,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

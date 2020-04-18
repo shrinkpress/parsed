@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/src/SodiumException.php",
+    "includes": {
+        "wp-includes/sodium_compat/autoload.php:40": [
+            "wp-includes/sodium_compat/autoload.php",
+            40,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

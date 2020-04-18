@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/customize/class-wp-customize-themes-section.php",
+    "includes": {
+        "wp-includes/class-wp-customize-manager.php:325": [
+            "wp-includes/class-wp-customize-manager.php",
+            325,
+            0,
+            "require_once"
+        ],
+        "wp-includes/class-wp-customize-section.php:379": [
+            "wp-includes/class-wp-customize-section.php",
+            379,
+            378,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,24 @@
+{
+    "includedFile": "wp-admin/includes/widgets.php",
+    "includes": {
+        "wp-admin/widgets.php:13": [
+            "wp-admin/widgets.php",
+            13,
+            12,
+            "require_once"
+        ],
+        "wp-includes/class-wp-customize-widgets.php:952": [
+            "wp-includes/class-wp-customize-widgets.php",
+            952,
+            0,
+            "require_once"
+        ],
+        "wp-includes/customize/class-wp-widget-form-customize-control.php:99": [
+            "wp-includes/customize/class-wp-widget-form-customize-control.php",
+            99,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,24 @@
+{
+    "includedFile": "wp-admin/includes/class-wp-privacy-requests-table.php",
+    "includes": {
+        "wp-admin/includes/admin.php:78": [
+            "wp-admin/includes/admin.php",
+            78,
+            0,
+            "require_once"
+        ],
+        "wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:11": [
+            "wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php",
+            11,
+            0,
+            "require_once"
+        ],
+        "wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:11": [
+            "wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php",
+            11,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

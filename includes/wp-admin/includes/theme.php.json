@@ -1,0 +1,30 @@
+{
+    "includedFile": "wp-admin/includes/theme.php",
+    "includes": {
+        "wp-admin/includes/admin.php:71": [
+            "wp-admin/includes/admin.php",
+            71,
+            70,
+            "require_once"
+        ],
+        "wp-admin/includes/ajax-actions.php:4004": [
+            "wp-admin/includes/ajax-actions.php",
+            4004,
+            0,
+            "include_once"
+        ],
+        "wp-admin/includes/ajax-actions.php:4246": [
+            "wp-admin/includes/ajax-actions.php",
+            4246,
+            0,
+            "include_once"
+        ],
+        "wp-includes/class-wp-customize-manager.php:5749": [
+            "wp-includes/class-wp-customize-manager.php",
+            5749,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

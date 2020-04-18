@@ -1,0 +1,24 @@
+{
+    "includedFile": "wp-admin/includes/class-custom-image-header.php",
+    "includes": {
+        "wp-admin/custom-header.php:15": [
+            "wp-admin/custom-header.php",
+            15,
+            14,
+            "require_once"
+        ],
+        "wp-includes/customize/class-wp-customize-header-image-setting.php:34": [
+            "wp-includes/customize/class-wp-customize-header-image-setting.php",
+            34,
+            0,
+            "require_once"
+        ],
+        "wp-includes/theme.php:2635": [
+            "wp-includes/theme.php",
+            2635,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

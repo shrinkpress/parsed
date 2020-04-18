@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/vars.php",
+    "includes": {
+        "wp-settings.php:340": [
+            "wp-settings.php",
+            340,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

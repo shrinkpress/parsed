@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/widgets/class-wp-widget-recent-comments.php",
+    "includes": {
+        "wp-includes/default-widgets.php:53": [
+            "wp-includes/default-widgets.php",
+            53,
+            52,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/wp-config.php",
+    "includes": {
+        "wp-load.php:42": [
+            "wp-load.php",
+            42,
+            41,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

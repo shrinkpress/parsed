@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php",
+    "includes": {
+        "wp-settings.php:254": [
+            "wp-settings.php",
+            254,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

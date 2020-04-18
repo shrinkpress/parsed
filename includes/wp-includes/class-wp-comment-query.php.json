@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-comment-query.php",
+    "includes": {
+        "wp-settings.php:190": [
+            "wp-settings.php",
+            190,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/update.php",
+    "includes": {
+        "wp-admin/includes/admin.php:89": [
+            "wp-admin/includes/admin.php",
+            89,
+            88,
+            "require_once"
+        ],
+        "wp-includes/class-wp-customize-manager.php:405": [
+            "wp-includes/class-wp-customize-manager.php",
+            405,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

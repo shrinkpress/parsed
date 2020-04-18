@@ -1,0 +1,42 @@
+{
+    "includedFile": "wp-admin/includes/class-wp-site-health.php",
+    "includes": {
+        "wp-admin/includes/ajax-actions.php:5118": [
+            "wp-admin/includes/ajax-actions.php",
+            5118,
+            0,
+            "require_once"
+        ],
+        "wp-admin/includes/ajax-actions.php:5138": [
+            "wp-admin/includes/ajax-actions.php",
+            5138,
+            0,
+            "require_once"
+        ],
+        "wp-admin/includes/ajax-actions.php:5158": [
+            "wp-admin/includes/ajax-actions.php",
+            5158,
+            0,
+            "require_once"
+        ],
+        "wp-admin/includes/ajax-actions.php:5179": [
+            "wp-admin/includes/ajax-actions.php",
+            5179,
+            0,
+            "require_once"
+        ],
+        "wp-admin/site-health-info.php:25": [
+            "wp-admin/site-health-info.php",
+            25,
+            0,
+            "require_once"
+        ],
+        "wp-admin/site-health.php:27": [
+            "wp-admin/site-health.php",
+            27,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

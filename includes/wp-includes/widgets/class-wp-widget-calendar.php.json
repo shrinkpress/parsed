@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/widgets/class-wp-widget-calendar.php",
+    "includes": {
+        "wp-includes/default-widgets.php:41": [
+            "wp-includes/default-widgets.php",
+            41,
+            40,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

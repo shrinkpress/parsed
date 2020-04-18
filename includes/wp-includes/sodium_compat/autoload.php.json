@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/sodium_compat/autoload.php",
+    "includes": {
+        "wp-includes/compat.php:335": [
+            "wp-includes/compat.php",
+            335,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,30 @@
+{
+    "includedFile": "wp-includes/.php",
+    "includes": {
+        "wp-admin/includes/class-ftp.php:906": [
+            "wp-admin/includes/class-ftp.php",
+            906,
+            0,
+            "require_once"
+        ],
+        "wp-includes/class-requests.php:146": [
+            "wp-includes/class-requests.php",
+            146,
+            0,
+            "require_once"
+        ],
+        "wp-includes/ID3/getid3.php:1838": [
+            "wp-includes/ID3/getid3.php",
+            1838,
+            0,
+            "include_once"
+        ],
+        "wp-includes/Text/Diff.php:51": [
+            "wp-includes/Text/Diff.php",
+            51,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

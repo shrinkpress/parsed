@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/constants.php",
+    "includes": {
+        "wp-includes/sodium_compat/lib/sodium_compat.php:825": [
+            "wp-includes/sodium_compat/lib/sodium_compat.php",
+            825,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

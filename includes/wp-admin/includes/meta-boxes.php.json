@@ -1,0 +1,24 @@
+{
+    "includedFile": "wp-admin/includes/meta-boxes.php",
+    "includes": {
+        "wp-admin/edit-form-advanced.php:267": [
+            "wp-admin/edit-form-advanced.php",
+            267,
+            0,
+            "require_once"
+        ],
+        "wp-admin/edit-form-blocks.php:364": [
+            "wp-admin/edit-form-blocks.php",
+            364,
+            0,
+            "require_once"
+        ],
+        "wp-admin/edit-link-form.php:28": [
+            "wp-admin/edit-link-form.php",
+            28,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/class-wp-feed-cache.php",
+    "includes": {
+        "wp-includes/class-feed.php:16": [
+            "wp-includes/class-feed.php",
+            16,
+            0,
+            "require_once"
+        ],
+        "wp-includes/feed.php:758": [
+            "wp-includes/feed.php",
+            758,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

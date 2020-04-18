@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+    "includes": {
+        "wp-settings.php:245": [
+            "wp-settings.php",
+            245,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

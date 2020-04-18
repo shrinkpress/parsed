@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/IXR/class-IXR-value.php",
+    "includes": {
+        "wp-includes/class-IXR.php:60": [
+            "wp-includes/class-IXR.php",
+            60,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

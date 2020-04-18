@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/random_bytes_com_dotnet.php",
+    "includes": {
+        "wp-includes/random_compat/random.php:187": [
+            "wp-includes/random_compat/random.php",
+            187,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

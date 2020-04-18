@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/ID3/getid3.php",
+    "includes": {
+        "wp-admin/includes/media.php:3450": [
+            "wp-admin/includes/media.php",
+            3450,
+            0,
+            "require"
+        ],
+        "wp-admin/includes/media.php:3561": [
+            "wp-admin/includes/media.php",
+            3561,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

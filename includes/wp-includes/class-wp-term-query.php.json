@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-term-query.php",
+    "includes": {
+        "wp-settings.php:205": [
+            "wp-settings.php",
+            205,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

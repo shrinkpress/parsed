@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/freedoms.php",
+    "includes": {
+        "wp-admin/network/freedoms.php:13": [
+            "wp-admin/network/freedoms.php",
+            13,
+            0,
+            "require"
+        ],
+        "wp-admin/user/freedoms.php:13": [
+            "wp-admin/user/freedoms.php",
+            13,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

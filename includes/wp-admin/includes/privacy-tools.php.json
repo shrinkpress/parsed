@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/privacy-tools.php",
+    "includes": {
+        "wp-admin/includes/admin.php:74": [
+            "wp-admin/includes/admin.php",
+            74,
+            73,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

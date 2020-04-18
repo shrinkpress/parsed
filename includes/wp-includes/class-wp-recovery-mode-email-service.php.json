@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-recovery-mode-email-service.php",
+    "includes": {
+        "wp-settings.php:36": [
+            "wp-settings.php",
+            36,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

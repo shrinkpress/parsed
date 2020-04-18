@@ -1,0 +1,54 @@
+{
+    "includedFile": "wp-admin/includes/admin.php",
+    "includes": {
+        "wp-admin/admin-ajax.php:36": [
+            "wp-admin/admin-ajax.php",
+            36,
+            35,
+            "require_once"
+        ],
+        "wp-admin/admin-functions.php:15": [
+            "wp-admin/admin-functions.php",
+            15,
+            14,
+            "require_once"
+        ],
+        "wp-admin/admin-post.php:25": [
+            "wp-admin/admin-post.php",
+            25,
+            0,
+            "require_once"
+        ],
+        "wp-admin/admin.php:92": [
+            "wp-admin/admin.php",
+            92,
+            0,
+            "require_once"
+        ],
+        "wp-admin/includes/upgrade.php:17": [
+            "wp-admin/includes/upgrade.php",
+            17,
+            16,
+            "require_once"
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1105": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            1105,
+            1104,
+            "require_once"
+        ],
+        "wp-includes/update.php:606": [
+            "wp-includes/update.php",
+            606,
+            0,
+            "include_once"
+        ],
+        "xmlrpc.php:63": [
+            "xmlrpc.php",
+            63,
+            0,
+            "include_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

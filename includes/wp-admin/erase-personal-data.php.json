@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/erase-personal-data.php",
+    "includes": {
+        "wp-admin/tools.php:16": [
+            "wp-admin/tools.php",
+            16,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

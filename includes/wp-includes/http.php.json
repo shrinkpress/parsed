@@ -1,0 +1,24 @@
+{
+    "includedFile": "wp-includes/http.php",
+    "includes": {
+        "wp-admin/admin.php:76": [
+            "wp-admin/admin.php",
+            76,
+            0,
+            "require_once"
+        ],
+        "wp-admin/network/upgrade.php:13": [
+            "wp-admin/network/upgrade.php",
+            13,
+            0,
+            "require_once"
+        ],
+        "wp-settings.php:215": [
+            "wp-settings.php",
+            215,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

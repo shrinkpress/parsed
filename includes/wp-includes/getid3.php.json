@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/getid3.php",
+    "includes": {
+        "wp-includes/ID3/getid3.lib.php:1489": [
+            "wp-includes/ID3/getid3.lib.php",
+            1489,
+            0,
+            "include_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

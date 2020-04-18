@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/wp-db.php",
+    "includes": {
+        "wp-admin/install.php:45": [
+            "wp-admin/install.php",
+            45,
+            44,
+            "require_once"
+        ],
+        "wp-includes/load.php:411": [
+            "wp-includes/load.php",
+            411,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

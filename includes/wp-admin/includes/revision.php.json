@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/revision.php",
+    "includes": {
+        "wp-admin/includes/ajax-actions.php:3407": [
+            "wp-admin/includes/ajax-actions.php",
+            3407,
+            0,
+            "require"
+        ],
+        "wp-admin/revision.php:15": [
+            "wp-admin/revision.php",
+            15,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

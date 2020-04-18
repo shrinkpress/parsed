@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/class-theme-installer-skin.php",
+    "includes": {
+        "wp-admin/includes/class-wp-upgrader-skins.php:35": [
+            "wp-admin/includes/class-wp-upgrader-skins.php",
+            35,
+            34,
+            "require_once"
+        ],
+        "wp-admin/includes/class-wp-upgrader.php:34": [
+            "wp-admin/includes/class-wp-upgrader.php",
+            34,
+            33,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

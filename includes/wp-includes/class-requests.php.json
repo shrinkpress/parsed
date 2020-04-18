@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-requests.php",
+    "includes": {
+        "wp-includes/class-http.php:11": [
+            "wp-includes/class-http.php",
+            11,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

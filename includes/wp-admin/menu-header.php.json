@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/menu-header.php",
+    "includes": {
+        "wp-admin/admin-header.php:236": [
+            "wp-admin/admin-header.php",
+            236,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,48 @@
+{
+    "includedFile": "wp-admin/includes/translation-install.php",
+    "includes": {
+        "wp-admin/install.php:42": [
+            "wp-admin/install.php",
+            42,
+            41,
+            "require_once"
+        ],
+        "wp-admin/network/settings.php:14": [
+            "wp-admin/network/settings.php",
+            14,
+            13,
+            "require_once"
+        ],
+        "wp-admin/network/site-new.php:14": [
+            "wp-admin/network/site-new.php",
+            14,
+            13,
+            "require_once"
+        ],
+        "wp-admin/options-general.php:13": [
+            "wp-admin/options-general.php",
+            13,
+            12,
+            "require_once"
+        ],
+        "wp-admin/options.php:249": [
+            "wp-admin/options.php",
+            249,
+            0,
+            "require_once"
+        ],
+        "wp-admin/setup-config.php:39": [
+            "wp-admin/setup-config.php",
+            39,
+            38,
+            "require_once"
+        ],
+        "wp-includes/l10n.php:1451": [
+            "wp-includes/l10n.php",
+            1451,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

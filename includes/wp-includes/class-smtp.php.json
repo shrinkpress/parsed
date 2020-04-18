@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-smtp.php",
+    "includes": {
+        "wp-includes/pluggable.php:215": [
+            "wp-includes/pluggable.php",
+            215,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

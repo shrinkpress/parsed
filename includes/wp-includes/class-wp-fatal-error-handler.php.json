@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-fatal-error-handler.php",
+    "includes": {
+        "wp-settings.php:32": [
+            "wp-settings.php",
+            32,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/noop.php",
+    "includes": {
+        "wp-admin/load-scripts.php:36": [
+            "wp-admin/load-scripts.php",
+            36,
+            0,
+            "require"
+        ],
+        "wp-admin/load-styles.php:17": [
+            "wp-admin/load-styles.php",
+            17,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

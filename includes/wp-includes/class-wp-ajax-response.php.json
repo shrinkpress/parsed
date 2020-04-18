@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-ajax-response.php",
+    "includes": {
+        "wp-settings.php:155": [
+            "wp-settings.php",
+            155,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

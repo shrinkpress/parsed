@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/widgets/class-wp-widget-search.php",
+    "includes": {
+        "wp-includes/default-widgets.php:17": [
+            "wp-includes/default-widgets.php",
+            17,
+            16,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

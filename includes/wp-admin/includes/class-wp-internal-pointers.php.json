@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/class-wp-internal-pointers.php",
+    "includes": {
+        "wp-admin/includes/template.php:15": [
+            "wp-admin/includes/template.php",
+            15,
+            14,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

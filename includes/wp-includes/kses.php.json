@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/kses.php",
+    "includes": {
+        "wp-includes/load.php:608": [
+            "wp-includes/load.php",
+            608,
+            0,
+            "require"
+        ],
+        "wp-settings.php:198": [
+            "wp-settings.php",
+            198,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

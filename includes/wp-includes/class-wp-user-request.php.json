@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-user-request.php",
+    "includes": {
+        "wp-settings.php:166": [
+            "wp-settings.php",
+            166,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

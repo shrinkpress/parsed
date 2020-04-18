@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/customize/class-wp-customize-code-editor-control.php",
+    "includes": {
+        "wp-includes/class-wp-customize-manager.php:311": [
+            "wp-includes/class-wp-customize-manager.php",
+            311,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

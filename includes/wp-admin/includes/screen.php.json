@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/screen.php",
+    "includes": {
+        "wp-admin/includes/admin.php:57": [
+            "wp-admin/includes/admin.php",
+            57,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

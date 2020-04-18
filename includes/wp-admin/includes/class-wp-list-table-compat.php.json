@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/class-wp-list-table-compat.php",
+    "includes": {
+        "wp-admin/includes/admin.php:67": [
+            "wp-admin/includes/admin.php",
+            67,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

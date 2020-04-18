@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/customize/class-wp-customize-custom-css-setting.php",
+    "includes": {
+        "wp-includes/class-wp-customize-manager.php:330": [
+            "wp-includes/class-wp-customize-manager.php",
+            330,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

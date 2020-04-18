@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-pop3.php",
+    "includes": {
+        "wp-mail.php:32": [
+            "wp-mail.php",
+            32,
+            31,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

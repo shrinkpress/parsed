@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/theme-install.php",
+    "includes": {
+        "wp-admin/network/theme-install.php:17": [
+            "wp-admin/network/theme-install.php",
+            17,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

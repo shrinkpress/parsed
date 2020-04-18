@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/widgets/class-wp-widget-custom-html.php",
+    "includes": {
+        "wp-includes/default-widgets.php:65": [
+            "wp-includes/default-widgets.php",
+            65,
+            64,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

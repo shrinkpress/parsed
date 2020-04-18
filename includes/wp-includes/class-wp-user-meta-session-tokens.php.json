@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/class-wp-user-meta-session-tokens.php",
+    "includes": {
+        "wp-includes/session.php:12": [
+            "wp-includes/session.php",
+            12,
+            0,
+            "require_once"
+        ],
+        "wp-settings.php:170": [
+            "wp-settings.php",
+            170,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

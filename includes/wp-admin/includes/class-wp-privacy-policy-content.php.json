@@ -1,0 +1,36 @@
+{
+    "includedFile": "wp-admin/includes/class-wp-privacy-policy-content.php",
+    "includes": {
+        "wp-admin/includes/admin.php:44": [
+            "wp-admin/includes/admin.php",
+            44,
+            43,
+            "require_once"
+        ],
+        "wp-admin/includes/plugin.php:2272": [
+            "wp-admin/includes/plugin.php",
+            2272,
+            0,
+            "require_once"
+        ],
+        "wp-admin/includes/upgrade.php:345": [
+            "wp-admin/includes/upgrade.php",
+            345,
+            0,
+            "include_once"
+        ],
+        "wp-admin/options-privacy.php:52": [
+            "wp-admin/options-privacy.php",
+            52,
+            0,
+            "require_once"
+        ],
+        "wp-admin/privacy-policy-guide.php:17": [
+            "wp-admin/privacy-policy-guide.php",
+            17,
+            0,
+            "include_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

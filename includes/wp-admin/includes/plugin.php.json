@@ -1,0 +1,24 @@
+{
+    "includedFile": "wp-admin/includes/plugin.php",
+    "includes": {
+        "wp-admin/includes/admin.php:50": [
+            "wp-admin/includes/admin.php",
+            50,
+            49,
+            "require_once"
+        ],
+        "wp-includes/class-wp-recovery-mode-email-service.php:284": [
+            "wp-includes/class-wp-recovery-mode-email-service.php",
+            284,
+            0,
+            "require_once"
+        ],
+        "wp-includes/update.php:268": [
+            "wp-includes/update.php",
+            268,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

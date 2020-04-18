@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/blocks/tag-cloud.php",
+    "includes": {
+        "wp-settings.php:272": [
+            "wp-settings.php",
+            272,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

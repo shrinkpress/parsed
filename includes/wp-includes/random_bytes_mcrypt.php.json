@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/random_bytes_mcrypt.php",
+    "includes": {
+        "wp-includes/random_compat/random.php:162": [
+            "wp-includes/random_compat/random.php",
+            162,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

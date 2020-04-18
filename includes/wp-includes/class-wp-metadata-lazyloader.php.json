@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-metadata-lazyloader.php",
+    "includes": {
+        "wp-settings.php:171": [
+            "wp-settings.php",
+            171,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

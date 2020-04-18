@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-roles.php",
+    "includes": {
+        "wp-settings.php:157": [
+            "wp-settings.php",
+            157,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

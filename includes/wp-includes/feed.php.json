@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/feed.php",
+    "includes": {
+        "wp-settings.php:195": [
+            "wp-settings.php",
+            195,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

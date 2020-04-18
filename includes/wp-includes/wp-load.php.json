@@ -1,0 +1,126 @@
+{
+    "includedFile": "wp-includes/wp-load.php",
+    "includes": {
+        "wp-activate.php:12": [
+            "wp-activate.php",
+            12,
+            11,
+            "require"
+        ],
+        "wp-admin/admin-ajax.php:22": [
+            "wp-admin/admin-ajax.php",
+            22,
+            21,
+            "require_once"
+        ],
+        "wp-admin/admin-post.php:19": [
+            "wp-admin/admin-post.php",
+            19,
+            0,
+            "require_once"
+        ],
+        "wp-admin/admin.php:34": [
+            "wp-admin/admin.php",
+            34,
+            0,
+            "require_once"
+        ],
+        "wp-admin/async-upload.php:20": [
+            "wp-admin/async-upload.php",
+            20,
+            0,
+            "require_once"
+        ],
+        "wp-admin/install-helper.php:38": [
+            "wp-admin/install-helper.php",
+            38,
+            37,
+            "require_once"
+        ],
+        "wp-admin/install.php:36": [
+            "wp-admin/install.php",
+            36,
+            35,
+            "require_once"
+        ],
+        "wp-admin/maint/repair.php:10": [
+            "wp-admin/maint/repair.php",
+            10,
+            0,
+            "require_once"
+        ],
+        "wp-admin/moderation.php:10": [
+            "wp-admin/moderation.php",
+            10,
+            2,
+            "require_once"
+        ],
+        "wp-admin/upgrade.php:18": [
+            "wp-admin/upgrade.php",
+            18,
+            17,
+            "require"
+        ],
+        "wp-blog-header.php:13": [
+            "wp-blog-header.php",
+            13,
+            0,
+            "require_once"
+        ],
+        "wp-comments-post.php:21": [
+            "wp-comments-post.php",
+            21,
+            20,
+            "require"
+        ],
+        "wp-cron.php:44": [
+            "wp-cron.php",
+            44,
+            43,
+            "require_once"
+        ],
+        "wp-includes/ms-files.php:12": [
+            "wp-includes/ms-files.php",
+            12,
+            0,
+            "require_once"
+        ],
+        "wp-links-opml.php:15": [
+            "wp-links-opml.php",
+            15,
+            2,
+            "require_once"
+        ],
+        "wp-login.php:12": [
+            "wp-login.php",
+            12,
+            11,
+            "require"
+        ],
+        "wp-mail.php:11": [
+            "wp-mail.php",
+            11,
+            10,
+            "require"
+        ],
+        "wp-signup.php:4": [
+            "wp-signup.php",
+            4,
+            3,
+            "require"
+        ],
+        "wp-trackback.php:12": [
+            "wp-trackback.php",
+            12,
+            0,
+            "require_once"
+        ],
+        "xmlrpc.php:30": [
+            "xmlrpc.php",
+            30,
+            29,
+            "include"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

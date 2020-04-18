@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/class-wp-oembed.php",
+    "includes": {
+        "wp-includes/class-oembed.php:15": [
+            "wp-includes/class-oembed.php",
+            15,
+            14,
+            "require_once"
+        ],
+        "wp-settings.php:212": [
+            "wp-settings.php",
+            212,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

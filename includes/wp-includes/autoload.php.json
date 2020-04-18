@@ -1,0 +1,30 @@
+{
+    "includedFile": "wp-includes/autoload.php",
+    "includes": {
+        "wp-includes/sodium_compat/lib/constants.php:4": [
+            "wp-includes/sodium_compat/lib/constants.php",
+            4,
+            0,
+            "require_once"
+        ],
+        "wp-includes/sodium_compat/lib/namespaced.php:3": [
+            "wp-includes/sodium_compat/lib/namespaced.php",
+            3,
+            0,
+            "require_once"
+        ],
+        "wp-includes/sodium_compat/lib/php72compat.php:3": [
+            "wp-includes/sodium_compat/lib/php72compat.php",
+            3,
+            0,
+            "require_once"
+        ],
+        "wp-includes/sodium_compat/lib/sodium_compat.php:4": [
+            "wp-includes/sodium_compat/lib/sodium_compat.php",
+            4,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/export-personal-data.php",
+    "includes": {
+        "wp-admin/tools.php:13": [
+            "wp-admin/tools.php",
+            13,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

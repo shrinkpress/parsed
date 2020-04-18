@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/pomo/mo.php",
+    "includes": {
+        "wp-includes/load.php:1155": [
+            "wp-includes/load.php",
+            1155,
+            0,
+            "require_once"
+        ],
+        "wp-settings.php:112": [
+            "wp-settings.php",
+            112,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

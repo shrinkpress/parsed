@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/widgets/class-wp-widget-media-audio.php",
+    "includes": {
+        "wp-includes/default-widgets.php:26": [
+            "wp-includes/default-widgets.php",
+            26,
+            25,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

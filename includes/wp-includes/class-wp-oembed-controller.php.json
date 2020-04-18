@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-oembed-controller.php",
+    "includes": {
+        "wp-settings.php:213": [
+            "wp-settings.php",
+            213,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

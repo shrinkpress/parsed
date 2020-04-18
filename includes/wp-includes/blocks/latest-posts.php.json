@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/blocks/latest-posts.php",
+    "includes": {
+        "wp-settings.php:268": [
+            "wp-settings.php",
+            268,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

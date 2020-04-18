@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/class-wp-site-icon.php",
+    "includes": {
+        "wp-admin/includes/admin.php:86": [
+            "wp-admin/includes/admin.php",
+            86,
+            85,
+            "require_once"
+        ],
+        "wp-admin/includes/ajax-actions.php:3851": [
+            "wp-admin/includes/ajax-actions.php",
+            3851,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

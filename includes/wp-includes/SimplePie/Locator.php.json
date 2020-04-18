@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/SimplePie/Locator.php",
+    "includes": {
+        "wp-includes/class-simplepie.php:11": [
+            "wp-includes/class-simplepie.php",
+            11,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

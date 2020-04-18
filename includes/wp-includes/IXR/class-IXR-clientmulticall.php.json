@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/IXR/class-IXR-clientmulticall.php",
+    "includes": {
+        "wp-includes/class-IXR.php:48": [
+            "wp-includes/class-IXR.php",
+            48,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

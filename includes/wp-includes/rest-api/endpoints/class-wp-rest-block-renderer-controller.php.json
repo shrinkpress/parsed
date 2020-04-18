@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php",
+    "includes": {
+        "wp-settings.php:248": [
+            "wp-settings.php",
+            248,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

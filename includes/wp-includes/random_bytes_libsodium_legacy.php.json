@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/random_bytes_libsodium_legacy.php",
+    "includes": {
+        "wp-includes/random_compat/random.php:81": [
+            "wp-includes/random_compat/random.php",
+            81,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

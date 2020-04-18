@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/src/PHP52/SplFixedArray.php",
+    "includes": {
+        "wp-includes/sodium_compat/autoload.php:47": [
+            "wp-includes/sodium_compat/autoload.php",
+            47,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

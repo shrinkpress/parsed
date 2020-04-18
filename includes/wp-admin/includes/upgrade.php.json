@@ -1,0 +1,60 @@
+{
+    "includedFile": "wp-admin/includes/upgrade.php",
+    "includes": {
+        "wp-admin/admin.php:328": [
+            "wp-admin/admin.php",
+            328,
+            0,
+            "require_once"
+        ],
+        "wp-admin/install.php:39": [
+            "wp-admin/install.php",
+            39,
+            38,
+            "require_once"
+        ],
+        "wp-admin/network.php:94": [
+            "wp-admin/network.php",
+            94,
+            0,
+            "require_once"
+        ],
+        "wp-admin/setup-config.php:36": [
+            "wp-admin/setup-config.php",
+            36,
+            35,
+            "require_once"
+        ],
+        "wp-admin/upgrade-functions.php:12": [
+            "wp-admin/upgrade-functions.php",
+            12,
+            0,
+            "require_once"
+        ],
+        "wp-admin/upgrade.php:22": [
+            "wp-admin/upgrade.php",
+            22,
+            0,
+            "require_once"
+        ],
+        "wp-includes/ms-deprecated.php:613": [
+            "wp-includes/ms-deprecated.php",
+            613,
+            0,
+            "require_once"
+        ],
+        "wp-includes/ms-deprecated.php:680": [
+            "wp-includes/ms-deprecated.php",
+            680,
+            0,
+            "require_once"
+        ],
+        "wp-includes/ms-site.php:720": [
+            "wp-includes/ms-site.php",
+            720,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

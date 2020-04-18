@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/plugin-editor.php",
+    "includes": {
+        "wp-admin/network/plugin-editor.php:13": [
+            "wp-admin/network/plugin-editor.php",
+            13,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

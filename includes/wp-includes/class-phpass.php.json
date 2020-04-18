@@ -1,0 +1,60 @@
+{
+    "includedFile": "wp-includes/class-phpass.php",
+    "includes": {
+        "wp-includes/class-wp-recovery-mode-key-service.php:52": [
+            "wp-includes/class-wp-recovery-mode-key-service.php",
+            52,
+            0,
+            "require_once"
+        ],
+        "wp-includes/pluggable.php:2304": [
+            "wp-includes/pluggable.php",
+            2304,
+            0,
+            "require_once"
+        ],
+        "wp-includes/pluggable.php:2364": [
+            "wp-includes/pluggable.php",
+            2364,
+            0,
+            "require_once"
+        ],
+        "wp-includes/post-template.php:858": [
+            "wp-includes/post-template.php",
+            858,
+            0,
+            "require_once"
+        ],
+        "wp-includes/user.php:2322": [
+            "wp-includes/user.php",
+            2322,
+            0,
+            "require_once"
+        ],
+        "wp-includes/user.php:2379": [
+            "wp-includes/user.php",
+            2379,
+            0,
+            "require_once"
+        ],
+        "wp-includes/user.php:3613": [
+            "wp-includes/user.php",
+            3613,
+            0,
+            "require_once"
+        ],
+        "wp-includes/user.php:3656": [
+            "wp-includes/user.php",
+            3656,
+            0,
+            "require_once"
+        ],
+        "wp-login.php:729": [
+            "wp-login.php",
+            729,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

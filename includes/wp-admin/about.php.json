@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/about.php",
+    "includes": {
+        "wp-admin/network/about.php:13": [
+            "wp-admin/network/about.php",
+            13,
+            0,
+            "require"
+        ],
+        "wp-admin/user/about.php:13": [
+            "wp-admin/user/about.php",
+            13,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

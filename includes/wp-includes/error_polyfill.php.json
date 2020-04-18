@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/error_polyfill.php",
+    "includes": {
+        "wp-includes/random_compat/random.php:59": [
+            "wp-includes/random_compat/random.php",
+            59,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

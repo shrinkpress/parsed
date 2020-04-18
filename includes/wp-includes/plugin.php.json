@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/plugin.php",
+    "includes": {
+        "wp-includes/load.php:1161": [
+            "wp-includes/load.php",
+            1161,
+            0,
+            "require_once"
+        ],
+        "wp-settings.php:40": [
+            "wp-settings.php",
+            40,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

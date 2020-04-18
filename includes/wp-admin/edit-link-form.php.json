@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/edit-link-form.php",
+    "includes": {
+        "wp-admin/link-add.php:29": [
+            "wp-admin/link-add.php",
+            29,
+            0,
+            "include"
+        ],
+        "wp-admin/link.php:120": [
+            "wp-admin/link.php",
+            120,
+            0,
+            "include"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/widgets/class-wp-widget-media-image.php",
+    "includes": {
+        "wp-includes/default-widgets.php:29": [
+            "wp-includes/default-widgets.php",
+            29,
+            28,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

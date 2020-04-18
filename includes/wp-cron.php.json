@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-cron.php",
+    "includes": {
+        "wp-includes/cron.php:683": [
+            "wp-includes/cron.php",
+            683,
+            0,
+            "include_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

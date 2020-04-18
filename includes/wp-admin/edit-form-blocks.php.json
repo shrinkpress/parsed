@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/edit-form-blocks.php",
+    "includes": {
+        "wp-admin/post-new.php:72": [
+            "wp-admin/post-new.php",
+            72,
+            0,
+            "include"
+        ],
+        "wp-admin/post.php:179": [
+            "wp-admin/post.php",
+            179,
+            0,
+            "include"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

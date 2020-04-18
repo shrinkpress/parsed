@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/class-pclzip.php",
+    "includes": {
+        "wp-admin/includes/file.php:1593": [
+            "wp-admin/includes/file.php",
+            1593,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

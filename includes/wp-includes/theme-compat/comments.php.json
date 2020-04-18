@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/theme-compat/comments.php",
+    "includes": {
+        "wp-includes/comment-template.php:1512": [
+            "wp-includes/comment-template.php",
+            1512,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

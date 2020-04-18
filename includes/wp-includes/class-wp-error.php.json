@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/class-wp-error.php",
+    "includes": {
+        "wp-includes/class-wp-fatal-error-handler.php:175": [
+            "wp-includes/class-wp-fatal-error-handler.php",
+            175,
+            0,
+            "require_once"
+        ],
+        "wp-settings.php:111": [
+            "wp-settings.php",
+            111,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

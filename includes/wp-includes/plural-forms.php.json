@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/plural-forms.php",
+    "includes": {
+        "wp-includes/pomo/translations.php:10": [
+            "wp-includes/pomo/translations.php",
+            10,
+            2,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

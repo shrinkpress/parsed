@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-includes/customize/class-wp-customize-background-image-setting.php",
+    "includes": {
+        "wp-includes/class-wp-customize-manager.php:333": [
+            "wp-includes/class-wp-customize-manager.php",
+            333,
+            0,
+            "require_once"
+        ],
+        "wp-includes/class-wp-customize-setting.php:957": [
+            "wp-includes/class-wp-customize-setting.php",
+            957,
+            954,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

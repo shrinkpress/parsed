@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-settings.php",
+    "includes": {
+        "wp-admin/setup-config.php:33": [
+            "wp-admin/setup-config.php",
+            33,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

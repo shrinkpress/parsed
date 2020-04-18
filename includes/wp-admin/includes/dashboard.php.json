@@ -1,0 +1,36 @@
+{
+    "includedFile": "wp-admin/includes/dashboard.php",
+    "includes": {
+        "wp-admin/includes/ajax-actions.php:391": [
+            "wp-admin/includes/ajax-actions.php",
+            391,
+            0,
+            "require_once"
+        ],
+        "wp-admin/includes/ajax-actions.php:1345": [
+            "wp-admin/includes/ajax-actions.php",
+            1345,
+            0,
+            "require_once"
+        ],
+        "wp-admin/index.php:13": [
+            "wp-admin/index.php",
+            13,
+            12,
+            "require_once"
+        ],
+        "wp-admin/network/index.php:14": [
+            "wp-admin/network/index.php",
+            14,
+            13,
+            "require_once"
+        ],
+        "wp-admin/post.php:79": [
+            "wp-admin/post.php",
+            79,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

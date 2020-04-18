@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/theme-install.php",
+    "includes": {
+        "wp-admin/includes/class-wp-theme-install-list-table.php:37": [
+            "wp-admin/includes/class-wp-theme-install-list-table.php",
+            37,
+            0,
+            "include"
+        ],
+        "wp-admin/theme-install.php:11": [
+            "wp-admin/theme-install.php",
+            11,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

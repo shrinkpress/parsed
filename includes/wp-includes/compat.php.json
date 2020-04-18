@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/compat.php",
+    "includes": {
+        "wp-settings.php:103": [
+            "wp-settings.php",
+            103,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

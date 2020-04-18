@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/canonical.php",
+    "includes": {
+        "wp-settings.php:208": [
+            "wp-settings.php",
+            208,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

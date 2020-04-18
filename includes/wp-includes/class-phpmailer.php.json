@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-phpmailer.php",
+    "includes": {
+        "wp-includes/pluggable.php:214": [
+            "wp-includes/pluggable.php",
+            214,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

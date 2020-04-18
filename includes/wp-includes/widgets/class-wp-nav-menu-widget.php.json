@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/widgets/class-wp-nav-menu-widget.php",
+    "includes": {
+        "wp-includes/default-widgets.php:62": [
+            "wp-includes/default-widgets.php",
+            62,
+            61,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

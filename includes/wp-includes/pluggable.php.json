@@ -1,0 +1,48 @@
+{
+    "includedFile": "wp-includes/pluggable.php",
+    "includes": {
+        "wp-includes/class-wp-recovery-mode-cookie-service.php:204": [
+            "wp-includes/class-wp-recovery-mode-cookie-service.php",
+            204,
+            0,
+            "require_once"
+        ],
+        "wp-includes/class-wp-recovery-mode-cookie-service.php:219": [
+            "wp-includes/class-wp-recovery-mode-cookie-service.php",
+            219,
+            0,
+            "require_once"
+        ],
+        "wp-includes/class-wp-recovery-mode-link-service.php:80": [
+            "wp-includes/class-wp-recovery-mode-link-service.php",
+            80,
+            0,
+            "require_once"
+        ],
+        "wp-includes/class-wp-recovery-mode.php:181": [
+            "wp-includes/class-wp-recovery-mode.php",
+            181,
+            0,
+            "require_once"
+        ],
+        "wp-includes/class-wp-recovery-mode.php:460": [
+            "wp-includes/class-wp-recovery-mode.php",
+            460,
+            0,
+            "require_once"
+        ],
+        "wp-includes/load.php:609": [
+            "wp-includes/load.php",
+            609,
+            0,
+            "require"
+        ],
+        "wp-settings.php:374": [
+            "wp-settings.php",
+            374,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

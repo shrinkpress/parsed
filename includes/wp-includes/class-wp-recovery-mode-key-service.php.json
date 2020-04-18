@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-recovery-mode-key-service.php",
+    "includes": {
+        "wp-settings.php:34": [
+            "wp-settings.php",
+            34,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

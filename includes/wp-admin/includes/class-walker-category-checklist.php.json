@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/class-walker-category-checklist.php",
+    "includes": {
+        "wp-admin/includes/template.php:12": [
+            "wp-admin/includes/template.php",
+            12,
+            11,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

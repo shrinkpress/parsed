@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/cache.php",
+    "includes": {
+        "wp-includes/load.php:568": [
+            "wp-includes/load.php",
+            568,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

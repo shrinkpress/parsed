@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-customize-nav-menus.php",
+    "includes": {
+        "wp-includes/class-wp-customize-manager.php:363": [
+            "wp-includes/class-wp-customize-manager.php",
+            363,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

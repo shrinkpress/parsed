@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/ms-deprecated.php",
+    "includes": {
+        "wp-admin/includes/admin.php:98": [
+            "wp-admin/includes/admin.php",
+            98,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

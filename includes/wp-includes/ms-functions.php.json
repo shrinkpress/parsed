@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/ms-functions.php",
+    "includes": {
+        "wp-settings.php:278": [
+            "wp-settings.php",
+            278,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

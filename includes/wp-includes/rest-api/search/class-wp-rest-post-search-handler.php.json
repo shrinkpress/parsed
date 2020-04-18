@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/rest-api/search/class-wp-rest-post-search-handler.php",
+    "includes": {
+        "wp-settings.php:257": [
+            "wp-settings.php",
+            257,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

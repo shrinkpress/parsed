@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-walker-category.php",
+    "includes": {
+        "wp-settings.php:185": [
+            "wp-settings.php",
+            185,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

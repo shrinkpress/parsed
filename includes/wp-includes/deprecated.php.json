@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/deprecated.php",
+    "includes": {
+        "wp-settings.php:200": [
+            "wp-settings.php",
+            200,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

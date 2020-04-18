@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/lib/namespaced.php",
+    "includes": {
+        "wp-includes/sodium_compat/autoload.php:44": [
+            "wp-includes/sodium_compat/autoload.php",
+            44,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

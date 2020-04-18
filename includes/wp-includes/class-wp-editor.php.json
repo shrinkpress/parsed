@@ -1,0 +1,30 @@
+{
+    "includedFile": "wp-includes/class-wp-editor.php",
+    "includes": {
+        "wp-admin/includes/ajax-actions.php:1854": [
+            "wp-admin/includes/ajax-actions.php",
+            1854,
+            0,
+            "require"
+        ],
+        "wp-admin/includes/deprecated.php:765": [
+            "wp-admin/includes/deprecated.php",
+            765,
+            0,
+            "require_once"
+        ],
+        "wp-includes/general-template.php:3409": [
+            "wp-includes/general-template.php",
+            3409,
+            0,
+            "require"
+        ],
+        "wp-includes/general-template.php:3425": [
+            "wp-includes/general-template.php",
+            3425,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

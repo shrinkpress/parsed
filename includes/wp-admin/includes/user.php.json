@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/user.php",
+    "includes": {
+        "wp-admin/includes/admin.php:83": [
+            "wp-admin/includes/admin.php",
+            83,
+            82,
+            "require_once"
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:803": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            803,
+            802,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

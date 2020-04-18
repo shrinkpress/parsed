@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/-list-table.php",
+    "includes": {
+        "wp-admin/includes/list-table.php:49": [
+            "wp-admin/includes/list-table.php",
+            49,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

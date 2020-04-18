@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/edit-tag-messages.php",
+    "includes": {
+        "wp-admin/edit-tag-form.php:55": [
+            "wp-admin/edit-tag-form.php",
+            55,
+            54,
+            "require_once"
+        ],
+        "wp-admin/edit-tags.php:321": [
+            "wp-admin/edit-tags.php",
+            321,
+            320,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

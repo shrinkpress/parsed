@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/blocks/rss.php",
+    "includes": {
+        "wp-settings.php:269": [
+            "wp-settings.php",
+            269,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

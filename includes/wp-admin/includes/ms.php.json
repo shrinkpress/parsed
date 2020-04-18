@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/ms.php",
+    "includes": {
+        "wp-admin/includes/admin.php:97": [
+            "wp-admin/includes/admin.php",
+            97,
+            0,
+            "require_once"
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:922": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
+            922,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-trackback.php",
+    "includes": {
+        "wp-includes/template-loader.php:43": [
+            "wp-includes/template-loader.php",
+            43,
+            0,
+            "include"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

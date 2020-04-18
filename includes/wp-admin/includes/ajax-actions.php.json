@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/ajax-actions.php",
+    "includes": {
+        "wp-admin/admin-ajax.php:39": [
+            "wp-admin/admin-ajax.php",
+            39,
+            38,
+            "require_once"
+        ],
+        "wp-admin/async-upload.php:28": [
+            "wp-admin/async-upload.php",
+            28,
+            0,
+            "include"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

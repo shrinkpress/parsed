@@ -1,0 +1,48 @@
+{
+    "includedFile": "wp-includes/functions.php",
+    "includes": {
+        "wp-includes/class-wp-fatal-error-handler.php:171": [
+            "wp-includes/class-wp-fatal-error-handler.php",
+            171,
+            0,
+            "require_once"
+        ],
+        "wp-includes/load.php:142": [
+            "wp-includes/load.php",
+            142,
+            0,
+            "require_once"
+        ],
+        "wp-includes/load.php:222": [
+            "wp-includes/load.php",
+            222,
+            0,
+            "require_once"
+        ],
+        "wp-includes/load.php:1510": [
+            "wp-includes/load.php",
+            1510,
+            0,
+            "require_once"
+        ],
+        "wp-load.php:54": [
+            "wp-load.php",
+            54,
+            0,
+            "require_once"
+        ],
+        "wp-settings.php:107": [
+            "wp-settings.php",
+            107,
+            0,
+            "require"
+        ],
+        "wp-settings.php:497": [
+            "wp-settings.php",
+            497,
+            0,
+            "include"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

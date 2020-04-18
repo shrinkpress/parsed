@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-post.php",
+    "includes": {
+        "wp-settings.php:179": [
+            "wp-settings.php",
+            179,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

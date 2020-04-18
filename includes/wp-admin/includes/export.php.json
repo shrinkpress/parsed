@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/export.php",
+    "includes": {
+        "wp-admin/export.php:17": [
+            "wp-admin/export.php",
+            17,
+            16,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

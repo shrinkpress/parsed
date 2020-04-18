@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/class-wp-xmlrpc-server.php",
+    "includes": {
+        "xmlrpc.php:65": [
+            "xmlrpc.php",
+            65,
+            0,
+            "include_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

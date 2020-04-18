@@ -1,0 +1,18 @@
+{
+    "includedFile": "wp-admin/includes/class-custom-background.php",
+    "includes": {
+        "wp-admin/custom-background.php:15": [
+            "wp-admin/custom-background.php",
+            15,
+            14,
+            "require_once"
+        ],
+        "wp-includes/theme.php:2648": [
+            "wp-includes/theme.php",
+            2648,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

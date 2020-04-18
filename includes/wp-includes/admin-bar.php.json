@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/admin-bar.php",
+    "includes": {
+        "wp-settings.php:230": [
+            "wp-settings.php",
+            230,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

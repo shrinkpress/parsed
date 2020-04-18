@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/option.php",
+    "includes": {
+        "wp-includes/functions.php:8": [
+            "wp-includes/functions.php",
+            8,
+            2,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

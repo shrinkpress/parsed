@@ -1,0 +1,30 @@
+{
+    "includedFile": "wp-admin/includes/plugin-install.php",
+    "includes": {
+        "wp-admin/includes/ajax-actions.php:4294": [
+            "wp-admin/includes/ajax-actions.php",
+            4294,
+            0,
+            "include_once"
+        ],
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:88": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            88,
+            0,
+            "include_once"
+        ],
+        "wp-admin/update-core.php:296": [
+            "wp-admin/update-core.php",
+            296,
+            0,
+            "require_once"
+        ],
+        "wp-admin/update.php:105": [
+            "wp-admin/update.php",
+            105,
+            0,
+            "include_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

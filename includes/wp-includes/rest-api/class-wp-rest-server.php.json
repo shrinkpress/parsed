@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/rest-api/class-wp-rest-server.php",
+    "includes": {
+        "wp-settings.php:232": [
+            "wp-settings.php",
+            232,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

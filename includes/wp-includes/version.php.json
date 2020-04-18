@@ -1,0 +1,150 @@
+{
+    "includedFile": "wp-includes/version.php",
+    "includes": {
+        "wp-admin/includes/class-core-upgrader.php:65": [
+            "wp-admin/includes/class-core-upgrader.php",
+            65,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/class-core-upgrader.php:272": [
+            "wp-admin/includes/class-core-upgrader.php",
+            272,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/class-wp-community-events.php:96": [
+            "wp-admin/includes/class-wp-community-events.php",
+            96,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/class-wp-site-health-auto-updates.php:339": [
+            "wp-admin/includes/class-wp-site-health-auto-updates.php",
+            339,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/class-wp-site-health-auto-updates.php:417": [
+            "wp-admin/includes/class-wp-site-health-auto-updates.php",
+            417,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/credits.php:19": [
+            "wp-admin/includes/credits.php",
+            19,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/dashboard.php:1646": [
+            "wp-admin/includes/dashboard.php",
+            1646,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/import.php:133": [
+            "wp-admin/includes/import.php",
+            133,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/plugin-install.php:104": [
+            "wp-admin/includes/plugin-install.php",
+            104,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/theme.php:437": [
+            "wp-admin/includes/theme.php",
+            437,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/translation-install.php:20": [
+            "wp-admin/includes/translation-install.php",
+            20,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/translation-install.php:129": [
+            "wp-admin/includes/translation-install.php",
+            129,
+            0,
+            "include"
+        ],
+        "wp-admin/includes/update.php:694": [
+            "wp-admin/includes/update.php",
+            694,
+            0,
+            "include"
+        ],
+        "wp-admin/load-scripts.php:38": [
+            "wp-admin/load-scripts.php",
+            38,
+            0,
+            "require"
+        ],
+        "wp-admin/load-styles.php:19": [
+            "wp-admin/load-styles.php",
+            19,
+            0,
+            "require"
+        ],
+        "wp-includes/load.php:1152": [
+            "wp-includes/load.php",
+            1152,
+            0,
+            "require"
+        ],
+        "wp-includes/script-loader.php:918": [
+            "wp-includes/script-loader.php",
+            918,
+            0,
+            "include"
+        ],
+        "wp-includes/script-loader.php:1996": [
+            "wp-includes/script-loader.php",
+            1996,
+            0,
+            "include"
+        ],
+        "wp-includes/update.php:31": [
+            "wp-includes/update.php",
+            31,
+            0,
+            "include"
+        ],
+        "wp-includes/update.php:264": [
+            "wp-includes/update.php",
+            264,
+            0,
+            "include"
+        ],
+        "wp-includes/update.php:444": [
+            "wp-includes/update.php",
+            444,
+            0,
+            "include"
+        ],
+        "wp-includes/update.php:732": [
+            "wp-includes/update.php",
+            732,
+            0,
+            "include"
+        ],
+        "wp-load.php:69": [
+            "wp-load.php",
+            69,
+            0,
+            "require_once"
+        ],
+        "wp-settings.php:24": [
+            "wp-settings.php",
+            24,
+            0,
+            "require"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

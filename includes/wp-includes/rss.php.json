@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/rss.php",
+    "includes": {
+        "wp-includes/rss-functions.php:10": [
+            "wp-includes/rss-functions.php",
+            10,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

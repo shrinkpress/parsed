@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-includes/user-edit.php",
+    "includes": {
+        "wp-admin/profile.php:18": [
+            "wp-admin/profile.php",
+            18,
+            17,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}
