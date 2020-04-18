@@ -1,0 +1,22 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "wp_list_widgets": 17,
+        "_sort_name_callback": 72,
+        "wp_list_widget_controls": 85,
+        "wp_list_widget_controls_dynamic_sidebar": 134,
+        "next_widget_id_number": 162,
+        "wp_widget_control": 190,
+        "wp_widgets_access_body_class": 328
+    },
+    "globals": {
+        "wp_registered_widgets": 191,
+        "wp_registered_widget_controls": 191,
+        "sidebars_widgets": 191
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/widgets.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

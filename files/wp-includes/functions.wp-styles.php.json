@@ -1,0 +1,22 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Dependencies",
+    "classes": [],
+    "functions": {
+        "wp_styles": 20,
+        "wp_print_styles": 42,
+        "wp_add_inline_style": 83,
+        "wp_register_style": 125,
+        "wp_deregister_style": 140,
+        "wp_enqueue_style": 169,
+        "wp_dequeue_style": 190,
+        "wp_style_is": 206,
+        "wp_style_add_data": 234
+    },
+    "globals": {
+        "wp_styles": 57
+    },
+    "includes": [],
+    "filename": "wp-includes/functions.wp-styles.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

@@ -1,0 +1,20 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "post_type": 24,
+        "post_type_object": 24,
+        "post": 24,
+        "title": 24,
+        "editor_styles": 24,
+        "wp_meta_boxes": 24
+    },
+    "includes": {
+        "wp-admin/includes/meta-boxes.php": 364,
+        "wp-admin/admin-header.php": 402
+    },
+    "filename": "wp-admin/edit-form-blocks.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

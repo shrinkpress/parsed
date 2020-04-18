@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Upgrader",
+    "classes": {
+        "WP_Automatic_Updater": 16
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 195
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/class-wp-automatic-updater.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

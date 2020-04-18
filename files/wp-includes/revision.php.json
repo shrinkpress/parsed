@@ -1,0 +1,32 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Post_Revisions",
+    "classes": [],
+    "functions": {
+        "_wp_post_revision_fields": 24,
+        "_wp_post_revision_data": 77,
+        "wp_save_post_revision": 111,
+        "wp_get_post_autosave": 234,
+        "wp_is_post_revision": 258,
+        "wp_is_post_autosave": 275,
+        "_wp_put_post_revision": 298,
+        "wp_get_post_revision": 346,
+        "wp_restore_post_revision": 379,
+        "wp_delete_post_revision": 433,
+        "wp_get_post_revisions": 466,
+        "wp_revisions_enabled": 508,
+        "wp_revisions_to_keep": 525,
+        "_set_preview": 560,
+        "_show_post_preview": 588,
+        "_wp_preview_terms_filter": 611,
+        "_wp_preview_post_thumbnail_filter": 644,
+        "_wp_get_post_revision_version": 677,
+        "_wp_upgrade_revisions_of_post": 703
+    },
+    "globals": {
+        "wpdb": 704
+    },
+    "includes": [],
+    "filename": "wp-includes/revision.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

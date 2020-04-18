@@ -1,0 +1,21 @@
+{
+    "docPackage": "",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/IXR/class-IXR-server.php": 42,
+        "wp-includes/IXR/class-IXR-base64.php": 44,
+        "wp-includes/IXR/class-IXR-client.php": 46,
+        "wp-includes/IXR/class-IXR-clientmulticall.php": 48,
+        "wp-includes/IXR/class-IXR-date.php": 50,
+        "wp-includes/IXR/class-IXR-error.php": 52,
+        "wp-includes/IXR/class-IXR-introspectionserver.php": 54,
+        "wp-includes/IXR/class-IXR-message.php": 56,
+        "wp-includes/IXR/class-IXR-request.php": 58,
+        "wp-includes/IXR/class-IXR-value.php": 60
+    },
+    "filename": "wp-includes/class-IXR.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\External_Lib"
+}

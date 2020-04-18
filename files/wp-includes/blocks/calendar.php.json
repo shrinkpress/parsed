@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "render_block_core_calendar": 15,
+        "register_block_core_calendar": 54
+    },
+    "globals": {
+        "monthnum": 16,
+        "year": 16
+    },
+    "includes": [],
+    "filename": "wp-includes/blocks/calendar.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Block"
+}

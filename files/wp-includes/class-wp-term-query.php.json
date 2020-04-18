@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Taxonomy",
+    "classes": {
+        "WP_Term_Query": 18
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 994
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-term-query.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

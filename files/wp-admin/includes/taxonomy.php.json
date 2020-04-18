@@ -1,0 +1,22 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "category_exists": 24,
+        "get_category_to_edit": 40,
+        "wp_create_category": 55,
+        "wp_create_categories": 78,
+        "wp_insert_category": 121,
+        "wp_update_category": 188,
+        "tag_exists": 220,
+        "wp_create_tag": 232,
+        "get_tags_to_edit": 245,
+        "get_terms_to_edit": 258,
+        "wp_create_term": 307
+    },
+    "globals": [],
+    "includes": [],
+    "filename": "wp-admin/includes/taxonomy.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

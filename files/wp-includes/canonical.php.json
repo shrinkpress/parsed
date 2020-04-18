@@ -1,0 +1,23 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "lowercase_octets": 580,
+        "redirect_canonical": 42,
+        "_remove_qs_args_if_not_in_url": 631,
+        "strip_fragment_from_url": 654,
+        "redirect_guess_404_permalink": 684,
+        "wp_redirect_admin_locations": 733
+    },
+    "globals": {
+        "wp_rewrite": 734,
+        "is_IIS": 43,
+        "wp_query": 43,
+        "wpdb": 685,
+        "wp": 43
+    },
+    "includes": [],
+    "filename": "wp-includes/canonical.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

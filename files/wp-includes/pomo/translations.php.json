@@ -1,0 +1,17 @@
+{
+    "docPackage": "pomo",
+    "docSubPackage": "translations",
+    "classes": {
+        "Translations": 14,
+        "Gettext_Translations": 184,
+        "NOOP_Translations": 303
+    },
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/plural-forms.php": 10,
+        "wp-includes/entry.php": 11
+    },
+    "filename": "wp-includes/pomo/translations.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "do_activate_header": 88,
+        "wpmu_activate_stylesheet": 105
+    },
+    "globals": [],
+    "includes": {
+        "wp-includes/wp-load.php": 12,
+        "wp-includes/wp-blog-header.php": 14
+    },
+    "filename": "wp-activate.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WordPress_PHP"
+}

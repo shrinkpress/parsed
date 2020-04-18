@@ -1,0 +1,27 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "pagenow": 125,
+        "wp_importers": 125,
+        "hook_suffix": 125,
+        "plugin_page": 125,
+        "typenow": 125,
+        "taxnow": 125
+    },
+    "includes": {
+        "wp-includes/wp-load.php": 34,
+        "wp-includes/http.php": 76,
+        "wp-admin/includes/admin.php": 92,
+        "wp-admin/network/menu.php": 149,
+        "wp-admin/user/menu.php": 151,
+        "wp-admin/menu.php": 153,
+        "wp-admin/admin-header.php": 325,
+        "wp-admin/admin-footer.php": 348,
+        "wp-admin/includes/upgrade.php": 328
+    },
+    "filename": "wp-admin/admin.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

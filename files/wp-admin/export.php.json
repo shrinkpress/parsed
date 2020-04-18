@@ -1,0 +1,21 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "export_add_js": 25,
+        "export_date_options": 137
+    },
+    "globals": {
+        "wpdb": 138,
+        "wp_locale": 138
+    },
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/includes/export.php": 17,
+        "wp-admin/admin-header.php": 125,
+        "wp-admin/admin-footer.php": 324
+    },
+    "filename": "wp-admin/export.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

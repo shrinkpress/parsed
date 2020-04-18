@@ -1,0 +1,20 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": {
+        "WP_Plugin_Install_List_Table": 18
+    },
+    "functions": [],
+    "globals": {
+        "tabs": 293,
+        "tab": 372,
+        "paged": 90,
+        "type": 90,
+        "term": 90
+    },
+    "includes": {
+        "wp-admin/includes/plugin-install.php": 88
+    },
+    "filename": "wp-admin/includes/class-wp-plugin-install-list-table.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

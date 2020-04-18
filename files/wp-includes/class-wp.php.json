@@ -1,0 +1,24 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": {
+        "WP": 8
+    },
+    "functions": [],
+    "globals": {
+        "wp_rewrite": 134,
+        "wp_query": 635,
+        "key": 577,
+        "query_string": 580,
+        "posts": 581,
+        "post": 582,
+        "request": 583,
+        "more": 586,
+        "single": 587,
+        "authordata": 591,
+        "wp_the_query": 612
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

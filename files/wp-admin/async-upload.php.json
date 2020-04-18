@@ -1,0 +1,15 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-load.php": 18,
+        "wp-includes/wp-load.php": 20,
+        "wp-admin/admin.php": 23,
+        "wp-admin/includes/ajax-actions.php": 28
+    },
+    "filename": "wp-admin/async-upload.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

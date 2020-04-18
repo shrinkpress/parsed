@@ -1,0 +1,21 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "get_column_headers": 19,
+        "get_hidden_columns": 54,
+        "meta_box_prefs": 99,
+        "get_hidden_meta_boxes": 151,
+        "add_screen_option": 203,
+        "get_current_screen": 222,
+        "set_current_screen": 240
+    },
+    "globals": {
+        "wp_meta_boxes": 100,
+        "current_screen": 223
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/screen.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

@@ -1,0 +1,13 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/wp-load.php": 11,
+        "wp-includes/class-pop3.php": 32
+    },
+    "filename": "wp-mail.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WordPress_PHP"
+}

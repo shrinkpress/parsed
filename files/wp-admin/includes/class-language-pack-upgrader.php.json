@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Upgrader",
+    "classes": {
+        "Language_Pack_Upgrader": 19
+    },
+    "functions": [],
+    "globals": {
+        "wp_filesystem": 402
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/class-language-pack-upgrader.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

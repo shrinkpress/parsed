@@ -1,0 +1,23 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Customize",
+    "classes": {
+        "WP_Customize_Widgets": 19
+    },
+    "functions": [],
+    "globals": {
+        "wp_widget_factory": 145,
+        "sidebars_widgets": 322,
+        "_wp_sidebars_widgets": 284,
+        "wp_registered_widgets": 1379,
+        "wp_registered_widget_controls": 1399,
+        "wp_registered_sidebars": 1173,
+        "wp_scripts": 676,
+        "wp_registered_widget_updates": 1399
+    },
+    "includes": {
+        "wp-admin/includes/widgets.php": 952
+    },
+    "filename": "wp-includes/class-wp-customize-widgets.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

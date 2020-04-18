@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/admin-header.php": 50,
+        "wp-admin/admin-footer.php": 92
+    },
+    "filename": "wp-admin/export-personal-data.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

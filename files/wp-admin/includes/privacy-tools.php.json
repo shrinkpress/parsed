@@ -1,0 +1,20 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "_wp_privacy_resend_request": 18,
+        "_wp_privacy_completed_request": 46,
+        "_wp_personal_data_handle_actions": 72,
+        "_wp_personal_data_cleanup_requests": 182,
+        "wp_privacy_generate_personal_data_export_group_html": 236,
+        "wp_privacy_generate_personal_data_export_file": 286,
+        "wp_privacy_send_personal_data_export_email": 475,
+        "wp_privacy_process_personal_data_export_page": 625,
+        "wp_privacy_process_personal_data_erasure_page": 764
+    },
+    "globals": [],
+    "includes": [],
+    "filename": "wp-admin/includes/privacy-tools.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

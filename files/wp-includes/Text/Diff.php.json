@@ -1,0 +1,20 @@
+{
+    "docPackage": "Text_Diff",
+    "docSubPackage": "",
+    "classes": {
+        "Text_Diff": 18,
+        "Text_MappedDiff": 296,
+        "Text_Diff_Op": 355,
+        "Text_Diff_Op_copy": 383,
+        "Text_Diff_Op_delete": 418,
+        "Text_Diff_Op_add": 450,
+        "Text_Diff_Op_change": 482
+    },
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/.php": 51
+    },
+    "filename": "wp-includes/Text/Diff.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\External_Lib"
+}

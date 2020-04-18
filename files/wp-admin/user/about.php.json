@@ -1,0 +1,13 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 11,
+        "wp-admin/about.php": 13
+    },
+    "filename": "wp-admin/user/about.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

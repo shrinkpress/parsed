@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Database",
+    "classes": {
+        "wpdb": 51
+    },
+    "functions": [],
+    "globals": {
+        "EZSQL_ERROR": 1439,
+        "wp_version": 3500,
+        "required_mysql_version": 3500
+    },
+    "includes": [],
+    "filename": "wp-includes/wp-db.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

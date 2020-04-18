@@ -1,0 +1,20 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": {
+        "WP_Screen": 15
+    },
+    "functions": [],
+    "globals": {
+        "hook_suffix": 214,
+        "current_screen": 400,
+        "taxnow": 400,
+        "typenow": 400,
+        "screen_layout_columns": 917,
+        "wp_meta_boxes": 1071,
+        "mode": 1281
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/class-wp-screen.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

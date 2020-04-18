@@ -1,0 +1,22 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "network_domain_check": 19,
+        "allow_subdomain_install": 35,
+        "allow_subdirectory_install": 53,
+        "get_clean_basedomain": 84,
+        "network_step1": 109,
+        "network_step2": 385
+    },
+    "globals": {
+        "wpdb": 386,
+        "is_apache": 110
+    },
+    "includes": {
+        "wp-admin/admin-footer.php": 147
+    },
+    "filename": "wp-admin/includes/network.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

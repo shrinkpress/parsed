@@ -1,0 +1,37 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "get_preferred_from_update_core": 14,
+        "get_core_updates": 32,
+        "find_core_auto_update": 83,
+        "get_core_checksums": 118,
+        "dismiss_core_update": 162,
+        "undismiss_core_update": 173,
+        "find_core_update": 190,
+        "core_update_footer": 210,
+        "update_nag": 261,
+        "update_right_now_message": 305,
+        "get_plugin_updates": 350,
+        "wp_plugin_update_rows": 367,
+        "wp_plugin_update_row": 388,
+        "get_theme_updates": 545,
+        "wp_theme_update_rows": 564,
+        "wp_theme_update_row": 586,
+        "maintenance_nag": 693,
+        "wp_print_admin_notice_templates": 748,
+        "wp_print_update_row_templates": 840,
+        "wp_recovery_mode_nag": 880
+    },
+    "globals": {
+        "pagenow": 266,
+        "upgrading": 695
+    },
+    "includes": {
+        "wp-admin/includes/class-wp-upgrader.php": 89,
+        "wp-includes/version.php": 694
+    },
+    "filename": "wp-admin/includes/update.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

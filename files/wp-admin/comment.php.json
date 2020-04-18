@@ -1,0 +1,17 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "action": 18
+    },
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/admin-header.php": 109,
+        "wp-admin/edit-form-comment.php": 80,
+        "wp-admin/admin-footer.php": 360
+    },
+    "filename": "wp-admin/comment.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

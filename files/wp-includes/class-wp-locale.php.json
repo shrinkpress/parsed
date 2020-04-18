@@ -1,0 +1,19 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "i18n",
+    "classes": {
+        "WP_Locale": 16
+    },
+    "functions": [],
+    "globals": {
+        "text_direction": 214,
+        "weekday": 335,
+        "weekday_initial": 336,
+        "weekday_abbrev": 337,
+        "month": 338,
+        "month_abbrev": 339
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-locale.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

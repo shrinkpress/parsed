@@ -1,0 +1,22 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": {
+        "WP_Posts_List_Table": 18
+    },
+    "functions": [],
+    "globals": {
+        "post_type_object": 75,
+        "wpdb": 753,
+        "avail_post_stati": 275,
+        "wp_query": 707,
+        "per_page": 707,
+        "mode": 1459,
+        "locked_post_status": 275,
+        "cat": 437,
+        "post": 1301
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/class-wp-posts-list-table.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

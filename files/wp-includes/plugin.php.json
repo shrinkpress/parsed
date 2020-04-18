@@ -1,0 +1,46 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Plugin",
+    "classes": [],
+    "functions": {
+        "add_filter": 108,
+        "has_filter": 133,
+        "apply_filters": 181,
+        "apply_filters_ref_array": 228,
+        "remove_filter": 276,
+        "remove_all_filters": 301,
+        "current_filter": 323,
+        "current_action": 335,
+        "doing_filter": 360,
+        "doing_action": 379,
+        "add_action": 403,
+        "do_action": 444,
+        "did_action": 493,
+        "do_action_ref_array": 517,
+        "has_action": 565,
+        "remove_action": 583,
+        "remove_all_actions": 596,
+        "apply_filters_deprecated": 626,
+        "do_action_deprecated": 653,
+        "plugin_basename": 679,
+        "wp_register_plugin_realpath": 717,
+        "plugin_dir_path": 749,
+        "plugin_dir_url": 761,
+        "register_activation_hook": 783,
+        "register_deactivation_hook": 806,
+        "register_uninstall_hook": 837,
+        "_wp_call_all_hook": 874,
+        "_wp_filter_build_unique_id": 914
+    },
+    "globals": {
+        "wp_filter": 915,
+        "wp_actions": 518,
+        "wp_current_filter": 518,
+        "wp_plugin_paths": 718
+    },
+    "includes": {
+        "wp-includes/class-wp-hook.php": 25
+    },
+    "filename": "wp-includes/plugin.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

@@ -1,0 +1,21 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": {
+        "WP_Theme_Install_List_Table": 18
+    },
+    "functions": [],
+    "globals": {
+        "tabs": 177,
+        "tab": 532,
+        "paged": 39,
+        "type": 532,
+        "theme_field_defaults": 39,
+        "themes_allowedtags": 430
+    },
+    "includes": {
+        "wp-admin/includes/theme-install.php": 37
+    },
+    "filename": "wp-admin/includes/class-wp-theme-install-list-table.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

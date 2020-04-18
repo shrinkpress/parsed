@@ -1,0 +1,29 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "wp_schedule_single_event": 34,
+        "wp_schedule_event": 188,
+        "wp_reschedule_event": 253,
+        "wp_unschedule_event": 343,
+        "wp_clear_scheduled_hook": 400,
+        "wp_unschedule_hook": 467,
+        "wp_get_scheduled_event": 533,
+        "wp_next_scheduled": 611,
+        "spawn_cron": 629,
+        "wp_cron": 745,
+        "wp_get_schedules": 812,
+        "wp_get_schedule": 849,
+        "wp_get_ready_cron_jobs": 879,
+        "_get_cron_array": 931,
+        "_set_cron_array": 957,
+        "_upgrade_cron_array": 973
+    },
+    "globals": [],
+    "includes": {
+        "wp-cron.php": 683
+    },
+    "filename": "wp-includes/cron.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

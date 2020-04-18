@@ -1,0 +1,15 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/includes/class-wp-privacy-policy-content.php": 17,
+        "wp-admin/admin-header.php": 24,
+        "wp-admin/admin-footer.php": 36
+    },
+    "filename": "wp-admin/privacy-policy-guide.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

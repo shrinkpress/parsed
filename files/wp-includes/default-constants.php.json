@@ -1,0 +1,20 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "wp_initial_constants": 18,
+        "wp_plugin_directory_constants": 150,
+        "wp_cookie_constants": 219,
+        "wp_ssl_constants": 324,
+        "wp_functionality_constants": 351,
+        "wp_templating_constants": 383
+    },
+    "globals": {
+        "blog_id": 19,
+        "wp_version": 99
+    },
+    "includes": [],
+    "filename": "wp-includes/default-constants.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

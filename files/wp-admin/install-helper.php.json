@@ -1,0 +1,19 @@
+{
+    "docPackage": "",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "maybe_create_table": 52,
+        "maybe_add_column": 85,
+        "maybe_drop_column": 119,
+        "check_column": 168
+    },
+    "globals": {
+        "wpdb": 169
+    },
+    "includes": {
+        "wp-includes/wp-load.php": 38
+    },
+    "filename": "wp-admin/install-helper.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

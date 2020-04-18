@@ -1,0 +1,12 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Multisite",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 10
+    },
+    "filename": "wp-admin/ms-edit.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

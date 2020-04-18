@@ -1,0 +1,37 @@
+{
+    "docPackage": "",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "do_signup_header": 22,
+        "wpmu_signup_stylesheet": 57,
+        "show_blog_form": 100,
+        "validate_blog_form": 233,
+        "show_user_form": 251,
+        "validate_user_form": 296,
+        "signup_another_blog": 309,
+        "validate_another_blog_signup": 408,
+        "confirm_another_blog_signup": 500,
+        "signup_user": 558,
+        "validate_user_signup": 633,
+        "confirm_user_signup": 664,
+        "signup_blog": 696,
+        "validate_blog_signup": 757,
+        "confirm_blog_signup": 821,
+        "signup_get_available_languages": 866
+    },
+    "globals": {
+        "blogname": 409,
+        "blog_title": 409,
+        "errors": 409,
+        "domain": 409,
+        "path": 409,
+        "active_signup": 559
+    },
+    "includes": {
+        "wp-includes/wp-load.php": 4,
+        "wp-includes/wp-blog-header.php": 8
+    },
+    "filename": "wp-signup.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WordPress_PHP"
+}

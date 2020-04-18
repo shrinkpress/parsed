@@ -1,0 +1,15 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Rewrite",
+    "classes": {
+        "WP_Rewrite": 25
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 427,
+        "wp": 1684
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-rewrite.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

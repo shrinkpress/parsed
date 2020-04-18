@@ -1,0 +1,29 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "wp_is_mobile": 146
+    },
+    "globals": {
+        "pagenow": 18,
+        "is_lynx": 19,
+        "is_gecko": 19,
+        "is_winIE": 19,
+        "is_macIE": 19,
+        "is_opera": 19,
+        "is_NS4": 19,
+        "is_safari": 19,
+        "is_chrome": 19,
+        "is_iphone": 19,
+        "is_IE": 19,
+        "is_edge": 19,
+        "is_apache": 20,
+        "is_IIS": 20,
+        "is_iis7": 20,
+        "is_nginx": 20
+    },
+    "includes": [],
+    "filename": "wp-includes/vars.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

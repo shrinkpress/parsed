@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Feed",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/class-simplepie.php": 13,
+        "wp-includes/class-wp-feed-cache.php": 16,
+        "wp-includes/class-wp-feed-cache-transient.php": 17,
+        "wp-includes/class-wp-simplepie-file.php": 18,
+        "wp-includes/class-wp-simplepie-sanitize-kses.php": 19
+    },
+    "filename": "wp-includes/class-feed.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

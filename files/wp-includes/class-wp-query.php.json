@@ -1,0 +1,27 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Query",
+    "classes": {
+        "WP_Query": 18
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 3197,
+        "post": 4335,
+        "comment": 3356,
+        "wp_taxonomies": 3760,
+        "wp_the_query": 4171,
+        "id": 4195,
+        "authordata": 4195,
+        "currentday": 4195,
+        "currentmonth": 4195,
+        "page": 4195,
+        "pages": 4195,
+        "multipage": 4195,
+        "more": 4195,
+        "numpages": 4195
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-query.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

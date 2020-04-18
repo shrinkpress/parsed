@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Multisite",
+    "classes": {
+        "WP_Site": 25
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 156
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-site.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

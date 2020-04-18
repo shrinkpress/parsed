@@ -1,0 +1,19 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "post_type": 17,
+        "post_type_object": 17,
+        "post": 17
+    },
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/edit-form-blocks.php": 72,
+        "wp-admin/edit-form-advanced.php": 75,
+        "wp-admin/admin-footer.php": 83
+    },
+    "filename": "wp-admin/post-new.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

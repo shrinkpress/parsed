@@ -1,0 +1,22 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "wp_image_editor": 18,
+        "wp_stream_image": 264,
+        "wp_save_image_file": 324,
+        "_image_get_preview_ratio": 403,
+        "_rotate_image_resource": 420,
+        "_flip_image_resource": 445,
+        "_crop_image_resource": 477,
+        "image_edit_apply_changes": 497,
+        "stream_preview_image": 627,
+        "wp_restore_image": 667,
+        "wp_save_image": 758
+    },
+    "globals": [],
+    "includes": [],
+    "filename": "wp-admin/includes/image-edit.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

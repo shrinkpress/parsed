@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Upgrader",
+    "classes": {
+        "Plugin_Upgrader": 21
+    },
+    "functions": [],
+    "globals": {
+        "wp_filesystem": 456
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/class-plugin-upgrader.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

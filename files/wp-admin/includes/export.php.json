@@ -1,0 +1,29 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "wxr_cdata": 198,
+        "wxr_site_url": 215,
+        "wxr_cat_name": 232,
+        "wxr_category_description": 247,
+        "wxr_tag_name": 262,
+        "wxr_tag_description": 277,
+        "wxr_term_name": 292,
+        "wxr_term_description": 307,
+        "wxr_term_meta": 322,
+        "wxr_authors_list": 355,
+        "wxr_nav_menu_terms": 390,
+        "wxr_post_taxonomy": 411,
+        "wxr_filter_postmeta": 430,
+        "export_wp": 56
+    },
+    "globals": {
+        "wpdb": 356,
+        "post": 57,
+        "wp_query": 530
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/export.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

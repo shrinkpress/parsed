@@ -1,0 +1,23 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "title": 26,
+        "hook_suffix": 26,
+        "current_screen": 26,
+        "wp_locale": 26,
+        "pagenow": 26,
+        "update_title": 27,
+        "total_update_count": 27,
+        "parent_file": 27
+    },
+    "includes": {
+        "wp-includes/admin.php": 11,
+        "wp-admin/menu-header.php": 236,
+        "wp-admin/options-head.php": 292
+    },
+    "filename": "wp-admin/admin-header.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

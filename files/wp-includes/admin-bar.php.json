@@ -1,0 +1,44 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Toolbar",
+    "classes": [],
+    "functions": {
+        "_wp_admin_bar_init": 23,
+        "wp_admin_bar_render": 70,
+        "wp_admin_bar_wp_menu": 112,
+        "wp_admin_bar_sidebar_toggle": 196,
+        "wp_admin_bar_my_account_item": 215,
+        "wp_admin_bar_my_account_menu": 256,
+        "wp_admin_bar_site_menu": 326,
+        "wp_admin_bar_customize_menu": 408,
+        "wp_admin_bar_my_sites_menu": 451,
+        "wp_admin_bar_shortlink_menu": 653,
+        "wp_admin_bar_edit_menu": 685,
+        "wp_admin_bar_new_content_menu": 815,
+        "wp_admin_bar_comments_menu": 891,
+        "wp_admin_bar_appearance_menu": 924,
+        "wp_admin_bar_updates_menu": 1006,
+        "wp_admin_bar_search_menu": 1036,
+        "wp_admin_bar_recovery_mode_menu": 1067,
+        "wp_admin_bar_add_secondary_groups": 1093,
+        "wp_admin_bar_header": 1119,
+        "_admin_bar_bump_cb": 1131,
+        "show_admin_bar": 1157,
+        "is_admin_bar_showing": 1176,
+        "_get_admin_bar_pref": 1227
+    },
+    "globals": {
+        "wp_admin_bar": 71,
+        "wp_customize": 409,
+        "tag": 686,
+        "wp_the_query": 686,
+        "user_ID": 686,
+        "show_admin_bar": 1177,
+        "pagenow": 1177
+    },
+    "includes": {
+        "wp-includes/class-wp-admin-bar.php": 31
+    },
+    "filename": "wp-includes/admin-bar.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

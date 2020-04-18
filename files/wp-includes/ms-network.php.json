@@ -1,0 +1,20 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Multisite",
+    "classes": [],
+    "functions": {
+        "get_network": 23,
+        "get_networks": 63,
+        "clean_network_cache": 78,
+        "update_network_cache": 112,
+        "_prime_network_caches": 129
+    },
+    "globals": {
+        "current_site": 24,
+        "_wp_suspend_cache_invalidation": 79,
+        "wpdb": 130
+    },
+    "includes": [],
+    "filename": "wp-includes/ms-network.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

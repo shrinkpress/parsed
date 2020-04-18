@@ -1,0 +1,12 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-admin/includes/upgrade.php": 12
+    },
+    "filename": "wp-admin/upgrade-functions.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

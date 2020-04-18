@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Post",
+    "classes": {
+        "WP_Post": 21
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 232
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-post.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

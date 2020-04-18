@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Diff",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/Text/Diff.php": 13,
+        "wp-includes/Text/Diff/Renderer.php": 15,
+        "wp-includes/Text/Diff/Renderer/inline.php": 17,
+        "wp-includes/class-wp-text-diff-renderer-table.php": 20,
+        "wp-includes/class-wp-text-diff-renderer-inline.php": 21
+    },
+    "filename": "wp-includes/wp-diff.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

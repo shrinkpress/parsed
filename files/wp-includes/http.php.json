@@ -1,0 +1,41 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "HTTP",
+    "classes": [],
+    "functions": {
+        "_wp_http_get_object": 22,
+        "wp_safe_remote_request": 46,
+        "wp_safe_remote_get": 67,
+        "wp_safe_remote_post": 88,
+        "wp_safe_remote_head": 109,
+        "wp_remote_request": 145,
+        "wp_remote_get": 162,
+        "wp_remote_post": 179,
+        "wp_remote_head": 196,
+        "wp_remote_retrieve_headers": 212,
+        "wp_remote_retrieve_header": 229,
+        "wp_remote_retrieve_response_code": 251,
+        "wp_remote_retrieve_response_message": 269,
+        "wp_remote_retrieve_body": 285,
+        "wp_remote_retrieve_cookies": 301,
+        "wp_remote_retrieve_cookie": 318,
+        "wp_remote_retrieve_cookie_value": 343,
+        "wp_http_supports": 364,
+        "get_http_origin": 393,
+        "get_allowed_http_origins": 416,
+        "is_allowed_http_origin": 455,
+        "send_origin_headers": 490,
+        "wp_http_validate_url": 518,
+        "allowed_http_request_hosts": 608,
+        "ms_allowed_http_request_hosts": 629,
+        "wp_parse_url": 674,
+        "_get_component_from_parsed_url_array": 721,
+        "_wp_translate_php_url_constant_to_key": 747
+    },
+    "globals": {
+        "wpdb": 630
+    },
+    "includes": [],
+    "filename": "wp-includes/http.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

@@ -1,0 +1,25 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Multisite",
+    "classes": [],
+    "functions": {
+        "is_subdomain_install": 18,
+        "wp_get_active_network_plugins": 37,
+        "ms_site_check": 74,
+        "get_network_by_path": 141,
+        "get_site_by_path": 165,
+        "ms_load_current_site_and_network": 296,
+        "ms_not_installed": 461,
+        "get_current_site_name": 522,
+        "wpmu_current_site": 541,
+        "wp_get_network": 559
+    },
+    "globals": {
+        "current_site": 542,
+        "current_blog": 297,
+        "wpdb": 462
+    },
+    "includes": [],
+    "filename": "wp-includes/ms-load.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

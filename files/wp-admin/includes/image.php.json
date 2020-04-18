@@ -1,0 +1,26 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "wp_crop_image": 25,
+        "wp_get_missing_image_subsizes": 80,
+        "wp_update_image_subsizes": 149,
+        "_wp_image_meta_replace_original": 193,
+        "wp_create_image_subsizes": 224,
+        "_wp_make_subsizes": 380,
+        "wp_generate_attachment_metadata": 467,
+        "wp_exif_frac2dec": 628,
+        "wp_exif_date2ts": 648,
+        "wp_read_image_metadata": 671,
+        "file_is_valid_image": 865,
+        "file_is_displayable_image": 878,
+        "load_image_to_edit": 911,
+        "_load_image_to_edit_path": 963,
+        "_copy_image_file": 1023
+    },
+    "globals": [],
+    "includes": [],
+    "filename": "wp-admin/includes/image.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

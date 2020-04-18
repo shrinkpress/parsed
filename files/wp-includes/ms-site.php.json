@@ -1,0 +1,43 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Multisite",
+    "classes": [],
+    "functions": {
+        "wp_insert_site": 44,
+        "wp_update_site": 150,
+        "wp_delete_site": 203,
+        "get_site": 301,
+        "_prime_site_caches": 343,
+        "update_site_cache": 363,
+        "update_sitemeta_cache": 390,
+        "get_sites": 454,
+        "wp_prepare_site_data": 473,
+        "wp_normalize_site_data": 533,
+        "wp_validate_site_data": 588,
+        "wp_initialize_site": 666,
+        "wp_uninitialize_site": 797,
+        "wp_is_site_initialized": 919,
+        "clean_blog_cache": 971,
+        "add_site_meta": 1048,
+        "delete_site_meta": 1067,
+        "get_site_meta": 1083,
+        "update_site_meta": 1105,
+        "delete_site_meta_by_key": 1117,
+        "wp_maybe_update_network_site_counts_on_update": 1130,
+        "wp_maybe_transition_site_statuses_on_update": 1151,
+        "wp_maybe_clean_new_site_cache_on_update": 1277,
+        "wp_update_blog_public_option_on_site_update": 1291,
+        "wp_cache_set_sites_last_changed": 1306,
+        "wp_check_site_meta_support_prefilter": 1320
+    },
+    "globals": {
+        "wpdb": 1323,
+        "wp_roles": 667,
+        "_wp_suspend_cache_invalidation": 972
+    },
+    "includes": {
+        "wp-admin/includes/upgrade.php": 720
+    },
+    "filename": "wp-includes/ms-site.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

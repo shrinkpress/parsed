@@ -1,0 +1,34 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Upgrader",
+    "classes": {
+        "WP_Upgrader": 51
+    },
+    "functions": [],
+    "globals": {
+        "wp_filesystem": 856,
+        "wp_theme_directories": 450,
+        "wpdb": 881
+    },
+    "includes": {
+        "wp-admin/includes/class-wp-upgrader-skin.php": 13,
+        "wp-admin/includes/class-plugin-upgrader-skin.php": 16,
+        "wp-admin/includes/class-theme-upgrader-skin.php": 19,
+        "wp-admin/includes/class-bulk-upgrader-skin.php": 22,
+        "wp-admin/includes/class-bulk-plugin-upgrader-skin.php": 25,
+        "wp-admin/includes/class-bulk-theme-upgrader-skin.php": 28,
+        "wp-admin/includes/class-plugin-installer-skin.php": 31,
+        "wp-admin/includes/class-theme-installer-skin.php": 34,
+        "wp-admin/includes/class-language-pack-upgrader-skin.php": 37,
+        "wp-admin/includes/class-automatic-upgrader-skin.php": 40,
+        "wp-admin/includes/class-wp-ajax-upgrader-skin.php": 43,
+        "wp-admin/includes/class-plugin-upgrader.php": 932,
+        "wp-admin/includes/class-theme-upgrader.php": 935,
+        "wp-admin/includes/class-language-pack-upgrader.php": 938,
+        "wp-admin/includes/class-core-upgrader.php": 941,
+        "wp-admin/includes/class-file-upload-upgrader.php": 944,
+        "wp-admin/includes/class-wp-automatic-updater.php": 947
+    },
+    "filename": "wp-admin/includes/class-wp-upgrader.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

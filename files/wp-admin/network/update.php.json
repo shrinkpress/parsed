@@ -1,0 +1,13 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Multisite",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 15,
+        "wp-admin/update.php": 17
+    },
+    "filename": "wp-admin/network/update.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

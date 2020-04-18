@@ -1,0 +1,18 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "wp_credits": 17,
+        "_wp_credits_add_profile_link": 64,
+        "_wp_credits_build_object_link": 76,
+        "wp_credits_section_title": 87,
+        "wp_credits_section_list": 116
+    },
+    "globals": [],
+    "includes": {
+        "wp-includes/version.php": 19
+    },
+    "filename": "wp-admin/includes/credits.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

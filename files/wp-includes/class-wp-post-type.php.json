@@ -1,0 +1,17 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Post",
+    "classes": {
+        "WP_Post_Type": 17
+    },
+    "functions": [],
+    "globals": {
+        "wp_rewrite": 641,
+        "wp": 641,
+        "_wp_post_type_features": 626,
+        "post_type_meta_caps": 641
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-post-type.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

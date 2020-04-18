@@ -1,0 +1,20 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Bookmark",
+    "classes": [],
+    "functions": {
+        "get_bookmark": 22,
+        "get_bookmark_field": 76,
+        "get_bookmarks": 134,
+        "sanitize_bookmark": 333,
+        "sanitize_bookmark_field": 398,
+        "clean_bookmark_cache": 458
+    },
+    "globals": {
+        "wpdb": 135,
+        "link": 36
+    },
+    "includes": [],
+    "filename": "wp-includes/bookmark.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

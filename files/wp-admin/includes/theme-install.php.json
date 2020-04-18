@@ -1,0 +1,20 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "install_themes_feature_list": 62,
+        "install_theme_search_form": 91,
+        "install_themes_dashboard": 136,
+        "install_themes_upload": 180,
+        "display_theme": 201,
+        "display_themes": 218,
+        "install_theme_information": 236
+    },
+    "globals": {
+        "wp_list_table": 237
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/theme-install.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

@@ -1,0 +1,25 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "display_header": 58,
+        "display_setup_form": 91
+    },
+    "globals": {
+        "wpdb": 92,
+        "wp_version": 230,
+        "required_php_version": 230,
+        "required_mysql_version": 230,
+        "wp_local_package": 300,
+        "wp_locale": 346
+    },
+    "includes": {
+        "wp-includes/wp-load.php": 36,
+        "wp-admin/includes/upgrade.php": 39,
+        "wp-admin/includes/translation-install.php": 42,
+        "wp-includes/wp-db.php": 45
+    },
+    "filename": "wp-admin/install.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

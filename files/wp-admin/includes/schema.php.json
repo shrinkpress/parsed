@@ -1,0 +1,34 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "wp_get_db_schema": 36,
+        "populate_options": 361,
+        "populate_roles": 689,
+        "populate_roles_160": 705,
+        "populate_roles_210": 798,
+        "populate_roles_230": 846,
+        "populate_roles_250": 859,
+        "populate_roles_260": 872,
+        "populate_roles_270": 886,
+        "populate_roles_280": 900,
+        "populate_roles_300": 913,
+        "install_network": 933,
+        "populate_network": 961,
+        "populate_network_meta": 1117,
+        "populate_site_meta": 1297
+    },
+    "globals": {
+        "wpdb": 1298,
+        "wp_queries": 18,
+        "charset_collate": 18,
+        "wp_db_version": 1118,
+        "wp_current_db_version": 362,
+        "current_site": 962,
+        "wp_rewrite": 962
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/schema.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

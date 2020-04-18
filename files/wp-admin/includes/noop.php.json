@@ -1,0 +1,29 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "__": 13,
+        "_x": 18,
+        "add_filter": 23,
+        "esc_attr": 28,
+        "apply_filters": 33,
+        "get_option": 38,
+        "is_lighttpd_before_150": 43,
+        "add_action": 48,
+        "did_action": 53,
+        "do_action_ref_array": 58,
+        "get_bloginfo": 63,
+        "is_admin": 68,
+        "site_url": 74,
+        "admin_url": 79,
+        "home_url": 84,
+        "includes_url": 89,
+        "wp_guess_url": 94,
+        "get_file": 96
+    },
+    "globals": [],
+    "includes": [],
+    "filename": "wp-admin/includes/noop.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

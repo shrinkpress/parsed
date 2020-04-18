@@ -1,0 +1,19 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "setup_config_display_header": 95
+    },
+    "globals": {
+        "wp_local_package": 124,
+        "wp_locale": 257
+    },
+    "includes": {
+        "wp-settings.php": 33,
+        "wp-admin/includes/upgrade.php": 36,
+        "wp-admin/includes/translation-install.php": 39
+    },
+    "filename": "wp-admin/setup-config.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

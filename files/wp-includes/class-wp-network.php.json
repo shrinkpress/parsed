@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Multisite",
+    "classes": {
+        "WP_Network": 24
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 95
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-network.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

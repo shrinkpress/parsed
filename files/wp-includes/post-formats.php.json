@@ -1,0 +1,25 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Post",
+    "classes": [],
+    "functions": {
+        "get_post_format": 17,
+        "has_post_format": 48,
+        "set_post_format": 69,
+        "get_post_format_strings": 95,
+        "get_post_format_slugs": 118,
+        "get_post_format_string": 131,
+        "get_post_format_link": 148,
+        "_post_format_request": 165,
+        "_post_format_link": 193,
+        "_post_format_get_term": 215,
+        "_post_format_get_terms": 233,
+        "_post_format_wp_get_object_terms": 259
+    },
+    "globals": {
+        "wp_rewrite": 194
+    },
+    "includes": [],
+    "filename": "wp-includes/post-formats.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

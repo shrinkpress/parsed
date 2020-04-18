@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Site_Health",
+    "classes": {
+        "WP_Site_Health": 10
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 1151
+    },
+    "includes": {
+        "wp-admin/includes/class-wp-site-health-auto-updates.php": 1603
+    },
+    "filename": "wp-admin/includes/class-wp-site-health.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

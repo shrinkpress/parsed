@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Multisite",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 11,
+        "wp-admin/admin-header.php": 175,
+        "wp-admin/admin-footer.php": 229
+    },
+    "filename": "wp-admin/network/site-themes.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

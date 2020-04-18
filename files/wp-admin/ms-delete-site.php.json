@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Multisite",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/admin-header.php": 40,
+        "wp-admin/admin-footer.php": 136
+    },
+    "filename": "wp-admin/ms-delete-site.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

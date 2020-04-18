@@ -1,0 +1,23 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "login_header": 35,
+        "login_footer": 274,
+        "wp_shake_js": 326,
+        "wp_login_viewport_meta": 343,
+        "retrieve_password": 356
+    },
+    "globals": {
+        "error": 36,
+        "interim_login": 275,
+        "action": 36
+    },
+    "includes": {
+        "wp-includes/wp-load.php": 12,
+        "wp-includes/class-phpass.php": 729
+    },
+    "filename": "wp-login.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WordPress_PHP"
+}

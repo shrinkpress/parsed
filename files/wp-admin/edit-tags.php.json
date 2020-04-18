@@ -1,0 +1,17 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "post_type": 39
+    },
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/admin-header.php": 318,
+        "wp-admin/includes/edit-tag-messages.php": 321,
+        "wp-admin/admin-footer.php": 658
+    },
+    "filename": "wp-admin/edit-tags.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

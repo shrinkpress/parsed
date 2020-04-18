@@ -1,0 +1,18 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": {
+        "_WP_Editors": 11
+    },
+    "functions": [],
+    "globals": {
+        "current_screen": 246,
+        "tinymce_version": 1469,
+        "concatenate_scripts": 1446
+    },
+    "includes": {
+        "wp-admin/includes/media.php": 223
+    },
+    "filename": "wp-includes/class-wp-editor.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

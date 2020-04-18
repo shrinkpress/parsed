@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "wp_get_revision_ui_diff": 22,
+        "wp_prepare_revisions_for_js": 167,
+        "wp_print_revision_templates": 355
+    },
+    "globals": {
+        "post": 356
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/revision.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

@@ -1,0 +1,50 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Feed",
+    "classes": [],
+    "functions": {
+        "get_bloginfo_rss": 26,
+        "bloginfo_rss": 54,
+        "get_default_feed": 78,
+        "get_wp_title_rss": 100,
+        "wp_title_rss": 126,
+        "get_the_title_rss": 153,
+        "the_title_rss": 172,
+        "get_the_content_feed": 185,
+        "the_content_feed": 212,
+        "the_excerpt_rss": 221,
+        "the_permalink_rss": 238,
+        "comments_link_feed": 255,
+        "comment_guid": 274,
+        "get_comment_guid": 286,
+        "comment_link": 304,
+        "get_comment_author_rss": 324,
+        "comment_author_rss": 342,
+        "comment_text_rss": 351,
+        "get_the_category_rss": 376,
+        "the_category_rss": 434,
+        "html_type_rss": 445,
+        "rss_enclosure": 469,
+        "atom_enclosure": 509,
+        "prep_atom_text_construct": 548,
+        "atom_site_icon": 587,
+        "rss2_site_icon": 599,
+        "get_self_link": 625,
+        "self_link": 637,
+        "get_feed_build_date": 664,
+        "feed_content_type": 716,
+        "fetch_feed": 753
+    },
+    "globals": {
+        "wp_query": 665
+    },
+    "includes": {
+        "wp-includes/class-simplepie.php": 755,
+        "wp-includes/class-wp-feed-cache.php": 758,
+        "wp-includes/class-wp-feed-cache-transient.php": 759,
+        "wp-includes/class-wp-simplepie-file.php": 760,
+        "wp-includes/class-wp-simplepie-sanitize-kses.php": 761
+    },
+    "filename": "wp-includes/feed.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

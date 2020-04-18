@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Customize",
+    "classes": {
+        "WP_Customize_Nav_Menus_Panel": 19
+    },
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-admin/includes/nav-menu.php": 54
+    },
+    "filename": "wp-includes/customize/class-wp-customize-nav-menus-panel.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

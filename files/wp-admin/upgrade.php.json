@@ -1,0 +1,17 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "wp_version": 43,
+        "required_php_version": 43,
+        "required_mysql_version": 43
+    },
+    "includes": {
+        "wp-includes/wp-load.php": 18,
+        "wp-admin/includes/upgrade.php": 22
+    },
+    "filename": "wp-admin/upgrade.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

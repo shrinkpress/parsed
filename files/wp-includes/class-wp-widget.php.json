@@ -1,0 +1,15 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Widgets",
+    "classes": {
+        "WP_Widget": 20
+    },
+    "functions": [],
+    "globals": {
+        "wp_customize": 325,
+        "wp_registered_widgets": 397
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-widget.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

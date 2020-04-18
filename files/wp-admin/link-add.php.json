@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/edit-link-form.php": 29,
+        "wp-admin/admin-footer.php": 31
+    },
+    "filename": "wp-admin/link-add.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

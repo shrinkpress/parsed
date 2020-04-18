@@ -1,0 +1,38 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Multisite",
+    "classes": [],
+    "functions": {
+        "check_upload_size": 18,
+        "wpmu_delete_blog": 66,
+        "wpmu_delete_user": 139,
+        "upload_is_user_over_quota": 216,
+        "display_space_usage": 246,
+        "fix_import_form_size": 271,
+        "upload_space_setting": 286,
+        "refresh_user_details": 314,
+        "format_code_lang": 336,
+        "sync_category_tag_slugs": 550,
+        "_access_denied_splash": 568,
+        "check_import_new_users": 623,
+        "mu_dropdown_languages": 640,
+        "site_admin_notice": 692,
+        "avoid_blog_page_permalink_collision": 724,
+        "choose_primary_blog": 758,
+        "can_edit_network": 815,
+        "_thickbox_path_admin_subfolder": 840,
+        "confirm_delete_users": 851,
+        "network_settings_add_js": 993,
+        "network_edit_site_nav": 1023,
+        "get_site_screen_help_tab_args": 1126,
+        "get_site_screen_help_sidebar_content": 1150
+    },
+    "globals": {
+        "wpdb": 140,
+        "wp_db_version": 693,
+        "pagenow": 1098
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/ms.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

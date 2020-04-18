@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Filesystem",
+    "classes": {
+        "WP_Filesystem_ftpsockets": 16
+    },
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-admin/includes/class-ftp.php": 36
+    },
+    "filename": "wp-admin/includes/class-wp-filesystem-ftpsockets.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

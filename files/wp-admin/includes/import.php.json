@@ -1,0 +1,21 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "get_importers": 17,
+        "_usort_by_first_member": 37,
+        "register_importer": 54,
+        "wp_import_cleanup": 71,
+        "wp_import_handle_upload": 82,
+        "wp_get_popular_importers": 132
+    },
+    "globals": {
+        "wp_importers": 55
+    },
+    "includes": {
+        "wp-includes/version.php": 133
+    },
+    "filename": "wp-admin/includes/import.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

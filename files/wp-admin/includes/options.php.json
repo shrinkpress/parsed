@@ -1,0 +1,15 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "options_discussion_add_js": 15,
+        "options_general_add_js": 34,
+        "options_reading_add_js": 108,
+        "options_reading_blog_charset": 130
+    },
+    "globals": [],
+    "includes": [],
+    "filename": "wp-admin/includes/options.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

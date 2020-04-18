@@ -1,0 +1,43 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Template",
+    "classes": [],
+    "functions": {
+        "get_category_link": 19,
+        "get_category_parents": 46,
+        "get_the_category": 76,
+        "get_the_category_by_ID": 108,
+        "get_the_category_list": 132,
+        "in_category": 245,
+        "the_category": 263,
+        "category_description": 275,
+        "wp_dropdown_categories": 326,
+        "wp_list_categories": 510,
+        "wp_tag_cloud": 677,
+        "default_topic_count_scale": 752,
+        "wp_generate_tag_cloud": 802,
+        "_wp_object_name_sort_cb": 1030,
+        "_wp_object_count_sort_cb": 1046,
+        "walk_category_tree": 1067,
+        "walk_category_dropdown_tree": 1090,
+        "get_tag_link": 1113,
+        "get_the_tags": 1125,
+        "get_the_tag_list": 1150,
+        "the_tags": 1175,
+        "tag_description": 1195,
+        "term_description": 1209,
+        "get_the_terms": 1230,
+        "get_the_term_list": 1275,
+        "get_term_parents_list": 1329,
+        "the_terms": 1388,
+        "has_category": 1418,
+        "has_tag": 1443,
+        "has_term": 1461
+    },
+    "globals": {
+        "wp_rewrite": 133
+    },
+    "includes": [],
+    "filename": "wp-includes/category-template.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

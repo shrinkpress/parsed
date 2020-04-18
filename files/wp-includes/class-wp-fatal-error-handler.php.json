@@ -1,0 +1,17 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": {
+        "WP_Fatal_Error_Handler": 19
+    },
+    "functions": [],
+    "globals": {
+        "wp_locale": 40
+    },
+    "includes": {
+        "wp-includes/functions.php": 171,
+        "wp-includes/class-wp-error.php": 175
+    },
+    "filename": "wp-includes/class-wp-fatal-error-handler.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

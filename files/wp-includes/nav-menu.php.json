@@ -1,0 +1,38 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Nav_Menus",
+    "classes": [],
+    "functions": {
+        "wp_get_nav_menu_object": 18,
+        "is_nav_menu": 62,
+        "register_nav_menus": 90,
+        "unregister_nav_menu": 114,
+        "register_nav_menu": 135,
+        "get_registered_nav_menus": 147,
+        "get_nav_menu_locations": 164,
+        "has_nav_menu": 177,
+        "wp_get_nav_menu_name": 205,
+        "is_nav_menu_item": 237,
+        "wp_create_nav_menu": 251,
+        "wp_delete_nav_menu": 264,
+        "wp_update_nav_menu_object": 314,
+        "wp_update_nav_menu_item": 418,
+        "wp_get_nav_menus": 605,
+        "_is_valid_nav_menu_item": 637,
+        "wp_get_nav_menu_items": 672,
+        "wp_setup_nav_menu_item": 807,
+        "wp_get_associated_nav_menu_items": 989,
+        "_wp_delete_post_menu_item": 1032,
+        "_wp_delete_tax_menu_item": 1052,
+        "_wp_auto_add_pages_to_menu": 1072,
+        "_wp_delete_customize_changeset_dependent_auto_drafts": 1117,
+        "_wp_menus_changed": 1149,
+        "wp_map_nav_menu_locations": 1167
+    },
+    "globals": {
+        "_wp_registered_nav_menus": 148
+    },
+    "includes": [],
+    "filename": "wp-includes/nav-menu.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

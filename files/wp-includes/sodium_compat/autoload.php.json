@@ -1,0 +1,19 @@
+{
+    "docPackage": "",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "sodiumCompatAutoloader": 11
+    },
+    "globals": [],
+    "includes": {
+        "wp-includes/src/SodiumException.php": 40,
+        "wp-includes/lib/namespaced.php": 44,
+        "wp-includes/lib/sodium_compat.php": 45,
+        "wp-includes/src/PHP52/SplFixedArray.php": 47,
+        "wp-includes/lib/php72compat_const.php": 51,
+        "wp-includes/lib/php72compat.php": 58
+    },
+    "filename": "wp-includes/sodium_compat/autoload.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\External_Lib"
+}

@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/includes/class-wp-debug-data.php": 22,
+        "wp-admin/includes/class-wp-site-health.php": 25,
+        "wp-admin/admin-header.php": 30,
+        "wp-admin/admin-footer.php": 184
+    },
+    "filename": "wp-admin/site-health-info.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

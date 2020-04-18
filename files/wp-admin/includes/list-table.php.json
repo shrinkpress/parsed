@@ -1,0 +1,18 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "List_Table",
+    "classes": [],
+    "functions": {
+        "_get_list_table": 22,
+        "register_column_headers": 75,
+        "print_column_headers": 87
+    },
+    "globals": {
+        "hook_suffix": 54
+    },
+    "includes": {
+        "wp-includes/-list-table.php": 49
+    },
+    "filename": "wp-admin/includes/list-table.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

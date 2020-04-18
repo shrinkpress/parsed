@@ -1,0 +1,20 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Nav_Menus",
+    "classes": [],
+    "functions": {
+        "wp_nav_menu": 48,
+        "_wp_menu_item_classes_by_context": 302,
+        "walk_nav_menu_tree": 580,
+        "_nav_menu_item_id_use_once": 597
+    },
+    "globals": {
+        "wp_query": 303,
+        "wp_rewrite": 303
+    },
+    "includes": {
+        "wp-includes/class-walker-nav-menu.php": 11
+    },
+    "filename": "wp-includes/nav-menu-template.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

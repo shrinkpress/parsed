@@ -1,0 +1,24 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "add_link": 16,
+        "edit_link": 28,
+        "get_default_link_to_edit": 61,
+        "wp_delete_link": 90,
+        "wp_get_link_cats": 127,
+        "get_link_to_edit": 140,
+        "wp_insert_link": 155,
+        "wp_set_link_cats": 258,
+        "wp_update_link": 280,
+        "wp_link_manager_disabled_message": 310
+    },
+    "globals": {
+        "wpdb": 156,
+        "pagenow": 311
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/bookmark.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

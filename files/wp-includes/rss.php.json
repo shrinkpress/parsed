@@ -1,0 +1,29 @@
+{
+    "docPackage": "External",
+    "docSubPackage": "MagpieRSS",
+    "classes": {
+        "MagpieRSS": 34,
+        "RSSCache": 715
+    },
+    "functions": {
+        "fetch_rss": 412,
+        "_fetch_remote_file": 550,
+        "_response_to_rss": 593,
+        "init": 640,
+        "is_info": 691,
+        "is_success": 695,
+        "is_redirect": 699,
+        "is_error": 703,
+        "is_client_error": 707,
+        "is_server_error": 711,
+        "parse_w3cdtf": 844,
+        "wp_rss": 898,
+        "get_rss": 939
+    },
+    "globals": {
+        "wp_version": 669
+    },
+    "includes": [],
+    "filename": "wp-includes/rss.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

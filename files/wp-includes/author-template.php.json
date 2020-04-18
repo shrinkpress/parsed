@@ -1,0 +1,31 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Template",
+    "classes": [],
+    "functions": {
+        "get_the_author": 23,
+        "the_author": 59,
+        "get_the_modified_author": 90,
+        "the_modified_author": 115,
+        "get_the_author_meta": 160,
+        "the_author_meta": 202,
+        "get_the_author_link": 229,
+        "the_author_link": 253,
+        "get_the_author_posts": 264,
+        "the_author_posts": 278,
+        "get_the_author_posts_link": 293,
+        "the_author_posts_link": 325,
+        "get_author_posts_url": 343,
+        "wp_list_authors": 412,
+        "is_multi_author": 542,
+        "__clear_multi_author_cache": 568
+    },
+    "globals": {
+        "authordata": 294,
+        "wp_rewrite": 344,
+        "wpdb": 543
+    },
+    "includes": [],
+    "filename": "wp-includes/author-template.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

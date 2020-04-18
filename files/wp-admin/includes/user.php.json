@@ -1,0 +1,28 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "add_user": 16,
+        "edit_user": 30,
+        "get_editable_roles": 263,
+        "get_user_to_edit": 286,
+        "get_users_drafts": 306,
+        "wp_delete_user": 337,
+        "wp_revoke_user": 456,
+        "default_password_nag_handler": 470,
+        "default_password_nag_edit_user": 490,
+        "default_password_nag": 510,
+        "delete_users_add_js": 531,
+        "use_ssl_preference": 556,
+        "admin_created_user_email": 571
+    },
+    "globals": {
+        "wpdb": 338,
+        "user_ID": 471,
+        "pagenow": 511
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/user.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

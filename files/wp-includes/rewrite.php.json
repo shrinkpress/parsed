@@ -1,0 +1,25 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Rewrite",
+    "classes": [],
+    "functions": {
+        "add_rewrite_rule": 137,
+        "add_rewrite_tag": 159,
+        "remove_rewrite_tag": 185,
+        "add_permastruct": 203,
+        "remove_permastruct": 230,
+        "add_feed": 247,
+        "flush_rewrite_rules": 274,
+        "add_rewrite_endpoint": 314,
+        "_wp_filter_taxonomy_base": 330,
+        "wp_resolve_numeric_slug_conflicts": 360,
+        "url_to_postid": 468
+    },
+    "globals": {
+        "wp_rewrite": 469,
+        "wp": 595
+    },
+    "includes": [],
+    "filename": "wp-includes/rewrite.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

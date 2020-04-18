@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "wp_settings": 98
+    },
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/admin-header.php": 41,
+        "wp-admin/admin-footer.php": 156
+    },
+    "filename": "wp-admin/options-media.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

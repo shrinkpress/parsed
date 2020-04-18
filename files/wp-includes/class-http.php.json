@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "HTTP",
+    "classes": {
+        "WP_Http": 28
+    },
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/class-requests.php": 11
+    },
+    "filename": "wp-includes/class-http.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

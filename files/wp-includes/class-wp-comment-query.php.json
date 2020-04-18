@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Comments",
+    "classes": {
+        "WP_Comment_Query": 17
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 1109
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-comment-query.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

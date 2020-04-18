@@ -1,0 +1,30 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Widgets",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/widgets/class-wp-widget-pages.php": 11,
+        "wp-includes/widgets/class-wp-widget-links.php": 14,
+        "wp-includes/widgets/class-wp-widget-search.php": 17,
+        "wp-includes/widgets/class-wp-widget-archives.php": 20,
+        "wp-includes/widgets/class-wp-widget-media.php": 23,
+        "wp-includes/widgets/class-wp-widget-media-audio.php": 26,
+        "wp-includes/widgets/class-wp-widget-media-image.php": 29,
+        "wp-includes/widgets/class-wp-widget-media-video.php": 32,
+        "wp-includes/widgets/class-wp-widget-media-gallery.php": 35,
+        "wp-includes/widgets/class-wp-widget-meta.php": 38,
+        "wp-includes/widgets/class-wp-widget-calendar.php": 41,
+        "wp-includes/widgets/class-wp-widget-text.php": 44,
+        "wp-includes/widgets/class-wp-widget-categories.php": 47,
+        "wp-includes/widgets/class-wp-widget-recent-posts.php": 50,
+        "wp-includes/widgets/class-wp-widget-recent-comments.php": 53,
+        "wp-includes/widgets/class-wp-widget-rss.php": 56,
+        "wp-includes/widgets/class-wp-widget-tag-cloud.php": 59,
+        "wp-includes/widgets/class-wp-nav-menu-widget.php": 62,
+        "wp-includes/widgets/class-wp-widget-custom-html.php": 65
+    },
+    "filename": "wp-includes/default-widgets.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

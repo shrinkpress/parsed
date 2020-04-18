@@ -1,0 +1,36 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Nav_Menus",
+    "classes": [],
+    "functions": {
+        "_wp_ajax_menu_quick_search": 23,
+        "wp_nav_menu_setup": 140,
+        "wp_initial_nav_menu_meta_boxes": 174,
+        "wp_nav_menu_post_type_meta_boxes": 205,
+        "wp_nav_menu_taxonomy_meta_boxes": 240,
+        "wp_nav_menu_disabled_check": 269,
+        "wp_nav_menu_item_link_meta_box": 287,
+        "wp_nav_menu_item_post_type_meta_box": 334,
+        "wp_nav_menu_item_taxonomy_meta_box": 687,
+        "wp_save_nav_menu_items": 908,
+        "_wp_nav_menu_meta_box_object": 977,
+        "wp_get_nav_menu_to_edit": 1018,
+        "wp_nav_menu_manage_columns": 1092,
+        "_wp_delete_orphaned_draft_menu_items": 1112,
+        "wp_nav_menu_update_menu_items": 1133,
+        "_wp_expand_nav_menu_post_data": 1245
+    },
+    "globals": {
+        "wp_meta_boxes": 175,
+        "one_theme_location_no_menus": 270,
+        "_nav_menu_placeholder": 335,
+        "nav_menu_selected_id": 688,
+        "wpdb": 1113
+    },
+    "includes": {
+        "wp-admin/includes/class-walker-nav-menu-edit.php": 11,
+        "wp-admin/includes/class-walker-nav-menu-checklist.php": 14
+    },
+    "filename": "wp-admin/includes/nav-menu.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

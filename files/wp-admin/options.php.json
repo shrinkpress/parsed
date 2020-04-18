@@ -1,0 +1,17 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "locale": 293
+    },
+    "includes": {
+        "wp-includes/admin.php": 19,
+        "wp-admin/includes/translation-install.php": 249,
+        "wp-admin/admin-header.php": 317,
+        "wp-admin/admin-footer.php": 377
+    },
+    "filename": "wp-admin/options.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

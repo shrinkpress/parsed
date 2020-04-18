@@ -1,0 +1,15 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Customize",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "wp_scripts": 27,
+        "wp_customize": 27
+    },
+    "includes": {
+        "wp-includes/admin.php": 13
+    },
+    "filename": "wp-admin/customize.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

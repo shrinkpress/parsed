@@ -1,0 +1,23 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Deprecated",
+    "classes": {
+        "wp_atom_server": 199
+    },
+    "functions": {
+        "set_current_user": 32,
+        "get_currentuserinfo": 48,
+        "get_userdatabylogin": 66,
+        "get_user_by_email": 83,
+        "wp_setcookie": 104,
+        "wp_clearcookie": 121,
+        "wp_get_cookie_login": 141,
+        "wp_login": 171
+    },
+    "globals": {
+        "error": 173
+    },
+    "includes": [],
+    "filename": "wp-includes/pluggable-deprecated.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\Pluggable_Deprecated"
+}

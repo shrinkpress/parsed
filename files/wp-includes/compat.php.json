@@ -1,0 +1,25 @@
+{
+    "docPackage": "PHP",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "_": 11,
+        "_wp_can_use_pcre_u": 30,
+        "mb_substr": 61,
+        "_mb_substr": 83,
+        "mb_strlen": 148,
+        "_mb_strlen": 167,
+        "hash_hmac": 244,
+        "_hash_hmac": 263,
+        "hash_equals": 313,
+        "is_countable": 351,
+        "is_iterable": 373
+    },
+    "globals": [],
+    "includes": {
+        "wp-includes/random_compat/random.php": 331,
+        "wp-includes/sodium_compat/autoload.php": 335
+    },
+    "filename": "wp-includes/compat.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\Compat"
+}

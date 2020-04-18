@@ -1,0 +1,26 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Dependencies",
+    "classes": [],
+    "functions": {
+        "wp_scripts": 20,
+        "_wp_scripts_maybe_doing_it_wrong": 36,
+        "wp_print_scripts": 70,
+        "wp_add_inline_script": 111,
+        "wp_register_script": 154,
+        "wp_localize_script": 193,
+        "wp_set_script_translations": 219,
+        "wp_deregister_script": 241,
+        "wp_enqueue_script": 317,
+        "wp_dequeue_script": 346,
+        "wp_script_is": 367,
+        "wp_script_add_data": 390
+    },
+    "globals": {
+        "wp_scripts": 220,
+        "pagenow": 250
+    },
+    "includes": [],
+    "filename": "wp-includes/functions.wp-scripts.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

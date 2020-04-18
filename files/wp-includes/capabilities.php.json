@@ -1,0 +1,31 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Users",
+    "classes": [],
+    "functions": {
+        "map_meta_cap": 38,
+        "current_user_can": 651,
+        "current_user_can_for_blog": 683,
+        "author_can": 726,
+        "user_can": 763,
+        "wp_roles": 784,
+        "get_role": 801,
+        "add_role": 815,
+        "remove_role": 829,
+        "get_super_admins": 842,
+        "is_super_admin": 860,
+        "grant_super_admin": 896,
+        "revoke_super_admin": 943,
+        "wp_maybe_grant_install_languages_cap": 993,
+        "wp_maybe_grant_resume_extensions_caps": 1009,
+        "wp_maybe_grant_site_health_caps": 1040
+    },
+    "globals": {
+        "post_type_meta_caps": 582,
+        "wp_roles": 785,
+        "super_admins": 945
+    },
+    "includes": [],
+    "filename": "wp-includes/capabilities.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

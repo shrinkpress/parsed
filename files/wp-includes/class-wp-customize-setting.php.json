@@ -1,0 +1,18 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Customize",
+    "classes": {
+        "WP_Customize_Setting": 19
+    },
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/customize/class-wp-customize-filter-setting.php": 947,
+        "wp-includes/customize/class-wp-customize-header-image-setting.php": 952,
+        "wp-includes/customize/class-wp-customize-background-image-setting.php": 957,
+        "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php": 962,
+        "wp-includes/customize/class-wp-customize-nav-menu-setting.php": 967
+    },
+    "filename": "wp-includes/class-wp-customize-setting.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

@@ -1,0 +1,17 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": {
+        "post_type": 19,
+        "post_type_object": 19,
+        "post": 19
+    },
+    "includes": {
+        "wp-admin/includes/meta-boxes.php": 267,
+        "wp-admin/admin-header.php": 419
+    },
+    "filename": "wp-admin/edit-form-advanced.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

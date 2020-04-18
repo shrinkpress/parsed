@@ -1,0 +1,25 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": {
+        "plugins_api": 102,
+        "install_popular_tags": 242,
+        "install_dashboard": 263,
+        "install_search_form": 322,
+        "install_plugins_upload": 347,
+        "install_plugins_favorites_form": 366,
+        "display_plugins_table": 390,
+        "install_plugin_install_status": 434,
+        "install_plugin_information": 512
+    },
+    "globals": {
+        "wp_list_table": 391,
+        "tab": 513
+    },
+    "includes": {
+        "wp-includes/version.php": 104
+    },
+    "filename": "wp-admin/includes/plugin-install.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

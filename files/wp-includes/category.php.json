@@ -1,0 +1,24 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Taxonomy",
+    "classes": [],
+    "functions": {
+        "get_categories": 26,
+        "get_category": 92,
+        "get_category_by_path": 124,
+        "get_category_by_slug": 181,
+        "get_cat_ID": 198,
+        "get_cat_name": 214,
+        "cat_is_ancestor_of": 235,
+        "sanitize_category": 248,
+        "sanitize_category_field": 263,
+        "get_tags": 278,
+        "get_tag": 321,
+        "clean_category_cache": 334,
+        "_make_cat_compat": 358
+    },
+    "globals": [],
+    "includes": [],
+    "filename": "wp-includes/category.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

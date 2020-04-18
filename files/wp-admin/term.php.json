@@ -1,0 +1,15 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 11,
+        "wp-admin/admin-header.php": 73,
+        "wp-admin/edit-tag-form.php": 74,
+        "wp-admin/admin-footer.php": 75
+    },
+    "filename": "wp-admin/term.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

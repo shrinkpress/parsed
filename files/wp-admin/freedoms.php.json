@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/admin.php": 10,
+        "wp-admin/admin-header.php": 22,
+        "wp-admin/admin-footer.php": 126
+    },
+    "filename": "wp-admin/freedoms.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

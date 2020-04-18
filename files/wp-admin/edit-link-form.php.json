@@ -1,0 +1,13 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-admin/includes/meta-boxes.php": 28,
+        "wp-admin/admin-header.php": 80
+    },
+    "filename": "wp-admin/edit-link-form.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

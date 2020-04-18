@@ -1,0 +1,28 @@
+{
+    "docPackage": "",
+    "docSubPackage": "",
+    "classes": {
+        "SimplePie": 448
+    },
+    "functions": {
+        "wp_simplepie_autoload": 24
+    },
+    "globals": [],
+    "includes": {
+        "wp-includes/SimplePie/Misc.php": 5,
+        "wp-includes/SimplePie/Cache.php": 6,
+        "wp-includes/SimplePie/File.php": 7,
+        "wp-includes/SimplePie/Sanitize.php": 8,
+        "wp-includes/SimplePie/Registry.php": 9,
+        "wp-includes/SimplePie/IRI.php": 10,
+        "wp-includes/SimplePie/Locator.php": 11,
+        "wp-includes/SimplePie/Content/Type/Sniffer.php": 12,
+        "wp-includes/SimplePie/XML/Declaration/Parser.php": 13,
+        "wp-includes/SimplePie/Parser.php": 14,
+        "wp-includes/SimplePie/Item.php": 15,
+        "wp-includes/SimplePie/Parse/Date.php": 16,
+        "wp-includes/SimplePie/Author.php": 17
+    },
+    "filename": "wp-includes/class-simplepie.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\External_Lib"
+}

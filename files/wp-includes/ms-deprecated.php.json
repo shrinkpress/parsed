@@ -1,0 +1,38 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Deprecated",
+    "classes": [],
+    "functions": {
+        "get_dashboard_blog": 26,
+        "generate_random_password": 44,
+        "is_site_admin": 64,
+        "graceful_fail": 89,
+        "get_user_details": 129,
+        "clear_global_post_cache": 143,
+        "is_main_blog": 154,
+        "validate_email": 170,
+        "get_blog_list": 186,
+        "get_most_active_blogs": 219,
+        "wpmu_admin_do_redirect": 270,
+        "wpmu_admin_redirect_add_updated_param": 315,
+        "get_user_id_from_string": 340,
+        "get_blogaddress_by_domain": 365,
+        "create_empty_blog": 396,
+        "get_admin_users_for_domain": 432,
+        "wp_get_sites": 480,
+        "is_user_option_local": 541,
+        "insert_blog": 570,
+        "install_blog": 605,
+        "install_blog_defaults": 675,
+        "update_user_status": 707
+    },
+    "globals": {
+        "wpdb": 708,
+        "wp_roles": 606
+    },
+    "includes": {
+        "wp-admin/includes/upgrade.php": 680
+    },
+    "filename": "wp-includes/ms-deprecated.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

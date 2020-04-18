@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-config.php": 37,
+        "wp-includes/wp-config.php": 42,
+        "wp-includes/load.php": 49,
+        "wp-includes/functions.php": 54,
+        "wp-includes/version.php": 69
+    },
+    "filename": "wp-load.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WordPress_PHP"
+}

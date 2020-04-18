@@ -1,0 +1,15 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Site_Health",
+    "classes": {
+        "WP_Debug_Data": 10
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 1204,
+        "_wp_theme_features": 870
+    },
+    "includes": [],
+    "filename": "wp-admin/includes/class-wp-debug-data.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

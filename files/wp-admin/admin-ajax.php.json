@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Administration",
+    "classes": [],
+    "functions": [],
+    "globals": [],
+    "includes": {
+        "wp-includes/wp-load.php": 22,
+        "wp-admin/includes/admin.php": 36,
+        "wp-admin/includes/ajax-actions.php": 39
+    },
+    "filename": "wp-admin/admin-ajax.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"
+}

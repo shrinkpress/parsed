@@ -1,0 +1,17 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "wp_paused_plugins": 14,
+        "wp_paused_themes": 29,
+        "wp_get_extension_error_description": 48,
+        "wp_register_fatal_error_handler": 82,
+        "wp_is_fatal_error_handler_enabled": 109,
+        "wp_recovery_mode": 129
+    },
+    "globals": [],
+    "includes": [],
+    "filename": "wp-includes/error-protection.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

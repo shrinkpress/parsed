@@ -1,0 +1,35 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Blocks",
+    "classes": [],
+    "functions": {
+        "register_block_type": 26,
+        "unregister_block_type": 39,
+        "has_blocks": 56,
+        "has_block": 81,
+        "get_dynamic_block_names": 126,
+        "serialize_block_attributes": 152,
+        "strip_core_block_namespace": 173,
+        "get_comment_delimited_block_content": 191,
+        "serialize_block": 226,
+        "serialize_blocks": 254,
+        "filter_block_content": 271,
+        "filter_block_kses": 296,
+        "filter_block_kses_value": 321,
+        "excerpt_remove_blocks": 351,
+        "_excerpt_render_inner_columns_blocks": 420,
+        "render_block": 444,
+        "parse_blocks": 510,
+        "do_blocks": 532,
+        "_restore_wpautop_hook": 561,
+        "block_version": 580,
+        "register_block_style": 594,
+        "unregister_block_style": 608
+    },
+    "globals": {
+        "post": 445
+    },
+    "includes": [],
+    "filename": "wp-includes/blocks.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}

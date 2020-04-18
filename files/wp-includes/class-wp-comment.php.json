@@ -1,0 +1,14 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "Comments",
+    "classes": {
+        "WP_Comment": 15
+    },
+    "functions": [],
+    "globals": {
+        "wpdb": 172
+    },
+    "includes": [],
+    "filename": "wp-includes/class-wp-comment.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
+}
