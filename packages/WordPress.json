@@ -61,7 +61,8 @@
         "wp-login.php",
         "wp-mail.php",
         "wp-settings.php",
-        "xmlrpc.php"
+        "xmlrpc.php",
+        "wp-includes/blocks/social-link.php"
     ],
     ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
 }

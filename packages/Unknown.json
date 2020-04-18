@@ -169,7 +169,8 @@
         "wp-includes/sodium_compat/src/PHP52/SplFixedArray.php",
         "wp-includes/sodium_compat/src/SodiumException.php",
         "wp-includes/Text/Diff/Engine/native.php",
-        "wp-signup.php"
+        "wp-signup.php",
+        "wp-includes/assets/script-loader-packages.php"
     ],
     ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
 }

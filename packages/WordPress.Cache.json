@@ -1,7 +1,8 @@
 {
     "packageName": "WordPress.Cache",
     "files": [
-        "wp-includes/cache.php"
+        "wp-includes/cache.php",
+        "wp-includes/class-wp-object-cache.php"
     ],
     ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
 }
