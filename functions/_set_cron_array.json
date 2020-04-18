@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "_set_cron_array",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 946,
+    "startLine": 957,
+    "endLine": 960,
+    "calls": {
+        "wp-admin/includes/upgrade.php:2013": [
+            "wp-admin/includes/upgrade.php",
+            2013
+        ],
+        "wp-includes/cron.php:155": [
+            "wp-includes/cron.php",
+            155
+        ],
+        "wp-includes/cron.php:231": [
+            "wp-includes/cron.php",
+            231
+        ],
+        "wp-includes/cron.php:379": [
+            "wp-includes/cron.php",
+            379
+        ],
+        "wp-includes/cron.php:512": [
+            "wp-includes/cron.php",
+            512
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

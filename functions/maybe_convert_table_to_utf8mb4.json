@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "maybe_convert_table_to_utf8mb4",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 2399,
+    "startLine": 2409,
+    "endLine": 2440,
+    "calls": {
+        "wp-admin/includes/upgrade.php:1947": [
+            "wp-admin/includes/upgrade.php",
+            1947
+        ],
+        "wp-admin/includes/upgrade.php:2246": [
+            "wp-admin/includes/upgrade.php",
+            2246
+        ],
+        "wp-admin/includes/upgrade.php:2275": [
+            "wp-admin/includes/upgrade.php",
+            2275
+        ],
+        "wp-admin/includes/upgrade.php:3303": [
+            "wp-admin/includes/upgrade.php",
+            3303
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

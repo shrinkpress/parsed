@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "deactivate_plugins",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 721,
+    "startLine": 734,
+    "endLine": 826,
+    "calls": {
+        "wp-admin/includes/class-plugin-upgrader.php:433": [
+            "wp-admin/includes/class-plugin-upgrader.php",
+            433
+        ],
+        "wp-admin/includes/plugin.php:1058": [
+            "wp-admin/includes/plugin.php",
+            1058
+        ],
+        "wp-admin/includes/update-core.php:1507": [
+            "wp-admin/includes/update-core.php",
+            1507
+        ],
+        "wp-admin/includes/upgrade.php:1880": [
+            "wp-admin/includes/upgrade.php",
+            1880
+        ],
+        "wp-admin/plugins.php:192": [
+            "wp-admin/plugins.php",
+            192
+        ],
+        "wp-admin/plugins.php:234": [
+            "wp-admin/plugins.php",
+            234
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,55 @@
+{
+    "callbacks": [],
+    "functionName": "delete_transient",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 624,
+    "startLine": 632,
+    "endLine": 669,
+    "calls": {
+        "wp-admin/includes/dashboard.php:1174": [
+            "wp-admin/includes/dashboard.php",
+            1174
+        ],
+        "wp-admin/includes/file.php:597": [
+            "wp-admin/includes/file.php",
+            597
+        ],
+        "wp-admin/includes/file.php:898": [
+            "wp-admin/includes/file.php",
+            898
+        ],
+        "wp-admin/includes/template.php:1770": [
+            "wp-admin/includes/template.php",
+            1770
+        ],
+        "wp-admin/plugins.php:541": [
+            "wp-admin/plugins.php",
+            541
+        ],
+        "wp-cron.php:149": [
+            "wp-cron.php",
+            149
+        ],
+        "wp-includes/author-template.php:569": [
+            "wp-includes/author-template.php",
+            569
+        ],
+        "wp-includes/class-wp-feed-cache-transient.php:128": [
+            "wp-includes/class-wp-feed-cache-transient.php",
+            128
+        ],
+        "wp-includes/class-wp-feed-cache-transient.php:129": [
+            "wp-includes/class-wp-feed-cache-transient.php",
+            129
+        ],
+        "wp-includes/media.php:4224": [
+            "wp-includes/media.php",
+            4224
+        ],
+        "wp-includes/post.php:5593": [
+            "wp-includes/post.php",
+            5593
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

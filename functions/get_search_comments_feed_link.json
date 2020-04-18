@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_search_comments_feed_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 1169,
+    "startLine": 1181,
+    "endLine": 1200,
+    "calls": {
+        "wp-includes/feed-atom-comments.php:54": [
+            "wp-includes/feed-atom-comments.php",
+            54
+        ],
+        "wp-includes/feed-atom-comments.php:55": [
+            "wp-includes/feed-atom-comments.php",
+            55
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

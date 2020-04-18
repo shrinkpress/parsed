@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:46": [
+            "wp-admin/includes/admin-filters.php",
+            46,
+            "admin_head",
+            "add_action"
+        ]
+    },
+    "functionName": "_ipad_meta",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 981,
+    "startLine": 984,
+    "endLine": 990,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

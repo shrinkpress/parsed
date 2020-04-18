@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "in_the_loop",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 898,
+    "startLine": 911,
+    "endLine": 914,
+    "calls": {
+        "wp-includes/post-thumbnail-template.php:168": [
+            "wp-includes/post-thumbnail-template.php",
+            168
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

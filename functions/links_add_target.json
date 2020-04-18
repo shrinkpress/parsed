@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "links_add_target",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5144,
+    "startLine": 5161,
+    "endLine": 5166,
+    "calls": {
+        "wp-admin/includes/plugin-install.php:650": [
+            "wp-admin/includes/plugin-install.php",
+            650
+        ],
+        "wp-admin/includes/plugin-install.php:834": [
+            "wp-admin/includes/plugin-install.php",
+            834
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

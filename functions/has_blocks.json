@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "has_blocks",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 43,
+    "startLine": 56,
+    "endLine": 65,
+    "calls": {
+        "wp-includes/blocks.php:82": [
+            "wp-includes/blocks.php",
+            82
+        ],
+        "wp-includes/blocks.php:542": [
+            "wp-includes/blocks.php",
+            542
+        ],
+        "wp-includes/blocks.php:581": [
+            "wp-includes/blocks.php",
+            581
+        ],
+        "wp-includes/class-wp-editor.php:86": [
+            "wp-includes/class-wp-editor.php",
+            86
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

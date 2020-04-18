@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:123": [
+            "wp-admin/includes/admin-filters.php",
+            123,
+            "_core_updated_successfully",
+            "add_action"
+        ]
+    },
+    "functionName": "_redirect_to_about_wordpress",
+    "filename": "wp-admin/includes/update-core.php",
+    "docCommentLine": 1367,
+    "startLine": 1380,
+    "endLine": 1429,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

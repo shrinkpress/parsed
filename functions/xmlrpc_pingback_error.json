@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:261": [
+            "wp-includes/default-filters.php",
+            261,
+            "xmlrpc_pingback_error",
+            "add_filter"
+        ]
+    },
+    "functionName": "xmlrpc_pingback_error",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 2983,
+    "startLine": 2995,
+    "endLine": 3000,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

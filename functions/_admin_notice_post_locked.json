@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-admin/edit-form-advanced.php:26": [
+            "wp-admin/edit-form-advanced.php",
+            26,
+            "admin_footer",
+            "add_action"
+        ],
+        "wp-admin/edit-form-advanced.php:36": [
+            "wp-admin/edit-form-advanced.php",
+            36,
+            "admin_footer",
+            "add_action"
+        ]
+    },
+    "functionName": "_admin_notice_post_locked",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1621,
+    "startLine": 1627,
+    "endLine": 1781,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

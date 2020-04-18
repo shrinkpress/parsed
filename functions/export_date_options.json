@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "export_date_options",
+    "filename": "wp-admin/export.php",
+    "docCommentLine": 127,
+    "startLine": 137,
+    "endLine": 165,
+    "calls": {
+        "wp-admin/export.php:212": [
+            "wp-admin/export.php",
+            212
+        ],
+        "wp-admin/export.php:217": [
+            "wp-admin/export.php",
+            217
+        ],
+        "wp-admin/export.php:259": [
+            "wp-admin/export.php",
+            259
+        ],
+        "wp-admin/export.php:264": [
+            "wp-admin/export.php",
+            264
+        ],
+        "wp-admin/export.php:299": [
+            "wp-admin/export.php",
+            299
+        ],
+        "wp-admin/export.php:304": [
+            "wp-admin/export.php",
+            304
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

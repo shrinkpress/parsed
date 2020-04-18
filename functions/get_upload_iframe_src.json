@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_upload_iframe_src",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 668,
+    "startLine": 675,
+    "endLine": 705,
+    "calls": {
+        "wp-admin/includes/post.php:1494": [
+            "wp-admin/includes/post.php",
+            1494
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

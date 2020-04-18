@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:20": [
+            "wp-includes/ms-default-filters.php",
+            20,
+            "option_users_can_register",
+            "add_filter"
+        ]
+    },
+    "functionName": "users_can_register_signup_filter",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2212,
+    "startLine": 2219,
+    "endLine": 2222,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

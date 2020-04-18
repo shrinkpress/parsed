@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "filter_block_kses_value",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 308,
+    "startLine": 321,
+    "endLine": 338,
+    "calls": {
+        "wp-includes/blocks.php:297": [
+            "wp-includes/blocks.php",
+            297
+        ],
+        "wp-includes/blocks.php:324": [
+            "wp-includes/blocks.php",
+            324
+        ],
+        "wp-includes/blocks.php:325": [
+            "wp-includes/blocks.php",
+            325
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

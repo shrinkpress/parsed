@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_timezone_string",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 98,
+    "startLine": 108,
+    "endLine": 125,
+    "calls": {
+        "wp-admin/includes/class-wp-debug-data.php:76": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            76
+        ],
+        "wp-includes/functions.php:137": [
+            "wp-includes/functions.php",
+            137
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

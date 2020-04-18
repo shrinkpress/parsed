@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:259": [
+            "wp-includes/default-filters.php",
+            259,
+            "nav_menu_meta_box_object",
+            "add_filter"
+        ]
+    },
+    "functionName": "_wp_nav_menu_meta_box_object",
+    "filename": "wp-admin/includes/nav-menu.php",
+    "docCommentLine": 967,
+    "startLine": 977,
+    "endLine": 1008,
+    "calls": {
+        "wp-admin/includes/nav-menu.php:71": [
+            "wp-admin/includes/nav-menu.php",
+            71
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

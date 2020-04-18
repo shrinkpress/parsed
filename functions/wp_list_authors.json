@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_list_authors",
+    "filename": "wp-includes/author-template.php",
+    "docCommentLine": 376,
+    "startLine": 412,
+    "endLine": 525,
+    "calls": {
+        "wp-includes/deprecated.php:715": [
+            "wp-includes/deprecated.php",
+            715
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

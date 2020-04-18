@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_list_meta_row",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 597,
+    "startLine": 608,
+    "endLine": 652,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:1594": [
+            "wp-admin/includes/ajax-actions.php",
+            1594
+        ],
+        "wp-admin/includes/ajax-actions.php:1634": [
+            "wp-admin/includes/ajax-actions.php",
+            1634
+        ],
+        "wp-admin/includes/template.php:589": [
+            "wp-admin/includes/template.php",
+            589
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_referer_field",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 1790,
+    "startLine": 1801,
+    "endLine": 1808,
+    "calls": {
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:377": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            377
+        ],
+        "wp-includes/functions.php:1780": [
+            "wp-includes/functions.php",
+            1780
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

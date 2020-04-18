@@ -1,0 +1,43 @@
+{
+    "callbacks": [],
+    "functionName": "sanitize_option",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 4551,
+    "startLine": 4565,
+    "endLine": 4824,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2737": [
+            "wp-admin/includes/ajax-actions.php",
+            2737
+        ],
+        "wp-admin/includes/ajax-actions.php:2746": [
+            "wp-admin/includes/ajax-actions.php",
+            2746
+        ],
+        "wp-admin/includes/template.php:1764": [
+            "wp-admin/includes/template.php",
+            1764
+        ],
+        "wp-admin/options-permalink.php:129": [
+            "wp-admin/options-permalink.php",
+            129
+        ],
+        "wp-includes/option.php:319": [
+            "wp-includes/option.php",
+            319
+        ],
+        "wp-includes/option.php:480": [
+            "wp-includes/option.php",
+            480
+        ],
+        "wp-includes/option.php:1400": [
+            "wp-includes/option.php",
+            1400
+        ],
+        "wp-includes/option.php:1630": [
+            "wp-includes/option.php",
+            1630
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

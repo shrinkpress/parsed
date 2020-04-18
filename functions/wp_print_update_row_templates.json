@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_print_update_row_templates",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 813,
+    "startLine": 840,
+    "endLine": 873,
+    "calls": {
+        "wp-admin/network/themes.php:344": [
+            "wp-admin/network/themes.php",
+            344
+        ],
+        "wp-admin/plugins.php:641": [
+            "wp-admin/plugins.php",
+            641
+        ],
+        "wp-admin/themes.php:621": [
+            "wp-admin/themes.php",
+            621
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

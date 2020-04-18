@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_oembed_get",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 86,
+    "startLine": 98,
+    "endLine": 101,
+    "calls": {
+        "wp-includes/class-wp-embed.php:273": [
+            "wp-includes/class-wp-embed.php",
+            273
+        ],
+        "wp-includes/widgets/class-wp-widget-media-video.php:146": [
+            "wp-includes/widgets/class-wp-widget-media-video.php",
+            146
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

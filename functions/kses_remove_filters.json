@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "kses_remove_filters",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 2001,
+    "startLine": 2013,
+    "endLine": 2025,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:1291": [
+            "wp-admin/includes/ajax-actions.php",
+            1291
+        ],
+        "wp-includes/class-wp-customize-manager.php:2934": [
+            "wp-includes/class-wp-customize-manager.php",
+            2934
+        ],
+        "wp-includes/class-wp-embed.php:287": [
+            "wp-includes/class-wp-embed.php",
+            287
+        ],
+        "wp-includes/comment.php:3327": [
+            "wp-includes/comment.php",
+            3327
+        ],
+        "wp-includes/kses.php:2037": [
+            "wp-includes/kses.php",
+            2037
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

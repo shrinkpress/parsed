@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_mysql_week",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5918,
+    "startLine": 5927,
+    "endLine": 5942,
+    "calls": {
+        "wp-includes/class-wp-date-query.php:756": [
+            "wp-includes/class-wp-date-query.php",
+            756
+        ],
+        "wp-includes/general-template.php:1958": [
+            "wp-includes/general-template.php",
+            1958
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

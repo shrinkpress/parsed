@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_header",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 9,
+    "startLine": 22,
+    "endLine": 42,
+    "calls": {
+        "wp-activate.php:119": [
+            "wp-activate.php",
+            119
+        ],
+        "wp-includes/theme-compat/embed.php:13": [
+            "wp-includes/theme-compat/embed.php",
+            13
+        ],
+        "wp-signup.php:79": [
+            "wp-signup.php",
+            79
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_feed_build_date",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 651,
+    "startLine": 664,
+    "endLine": 707,
+    "calls": {
+        "wp-includes/feed-atom-comments.php:46": [
+            "wp-includes/feed-atom-comments.php",
+            46
+        ],
+        "wp-includes/feed-atom.php:33": [
+            "wp-includes/feed-atom.php",
+            33
+        ],
+        "wp-includes/feed-rdf.php:36": [
+            "wp-includes/feed-rdf.php",
+            36
+        ],
+        "wp-includes/feed-rss.php:17": [
+            "wp-includes/feed-rss.php",
+            17
+        ],
+        "wp-includes/feed-rss2-comments.php:52": [
+            "wp-includes/feed-rss2-comments.php",
+            52
+        ],
+        "wp-includes/feed-rss2.php:45": [
+            "wp-includes/feed-rss2.php",
+            45
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_embed_register_handler",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 10,
+    "startLine": 25,
+    "endLine": 28,
+    "calls": {
+        "wp-includes/embed.php:192": [
+            "wp-includes/embed.php",
+            192
+        ],
+        "wp-includes/embed.php:201": [
+            "wp-includes/embed.php",
+            201
+        ],
+        "wp-includes/embed.php:210": [
+            "wp-includes/embed.php",
+            210
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

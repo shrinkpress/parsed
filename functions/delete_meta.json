@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "delete_meta",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 931,
+    "startLine": 939,
+    "endLine": 941,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:823": [
+            "wp-admin/includes/ajax-actions.php",
+            823
+        ],
+        "wp-admin/includes/post.php:371": [
+            "wp-admin/includes/post.php",
+            371
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

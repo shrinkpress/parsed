@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "populate_options",
+    "filename": "wp-admin/includes/schema.php",
+    "docCommentLine": 349,
+    "startLine": 361,
+    "endLine": 682,
+    "calls": {
+        "wp-admin/includes/upgrade.php:48": [
+            "wp-admin/includes/upgrade.php",
+            48
+        ],
+        "wp-admin/includes/upgrade.php:707": [
+            "wp-admin/includes/upgrade.php",
+            707
+        ],
+        "wp-includes/ms-deprecated.php:625": [
+            "wp-includes/ms-deprecated.php",
+            625
+        ],
+        "wp-includes/ms-site.php:737": [
+            "wp-includes/ms-site.php",
+            737
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

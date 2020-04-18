@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "xmlrpc_getpostcategory",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 728,
+    "startLine": 742,
+    "endLine": 751,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:5041": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5041
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:5127": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5127
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

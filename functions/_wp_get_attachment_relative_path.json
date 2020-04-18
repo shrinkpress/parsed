@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_get_attachment_relative_path",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 1059,
+    "startLine": 1068,
+    "endLine": 1082,
+    "calls": {
+        "wp-includes/media.php:1204": [
+            "wp-includes/media.php",
+            1204
+        ],
+        "wp-includes/post.php:5830": [
+            "wp-includes/post.php",
+            5830
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

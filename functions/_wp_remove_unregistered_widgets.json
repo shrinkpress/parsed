@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_remove_unregistered_widgets",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 1456,
+    "startLine": 1465,
+    "endLine": 1477,
+    "calls": {
+        "wp-includes/widgets.php:1250": [
+            "wp-includes/widgets.php",
+            1250
+        ],
+        "wp-includes/widgets.php:1257": [
+            "wp-includes/widgets.php",
+            1257
+        ],
+        "wp-includes/widgets.php:1416": [
+            "wp-includes/widgets.php",
+            1416
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

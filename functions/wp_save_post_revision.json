@@ -1,0 +1,26 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:353": [
+            "wp-includes/default-filters.php",
+            353,
+            "post_updated",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_save_post_revision",
+    "filename": "wp-includes/revision.php",
+    "docCommentLine": 100,
+    "startLine": 111,
+    "endLine": 219,
+    "calls": {
+        "wp-includes/revision.php:780": [
+            "wp-includes/revision.php",
+            780
+        ],
+        "wp-includes/theme.php:1906": [
+            "wp-includes/theme.php",
+            1906
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

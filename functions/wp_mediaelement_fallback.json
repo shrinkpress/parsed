@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_mediaelement_fallback",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 2358,
+    "startLine": 2366,
+    "endLine": 2376,
+    "calls": {
+        "wp-includes/media.php:2606": [
+            "wp-includes/media.php",
+            2606
+        ],
+        "wp-includes/media.php:2884": [
+            "wp-includes/media.php",
+            2884
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

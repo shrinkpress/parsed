@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_remote_retrieve_cookie",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 309,
+    "startLine": 318,
+    "endLine": 332,
+    "calls": {
+        "wp-includes/http.php:344": [
+            "wp-includes/http.php",
+            344
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

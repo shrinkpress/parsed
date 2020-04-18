@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_theme_feature_list",
+    "filename": "wp-admin/includes/theme.php",
+    "docCommentLine": 254,
+    "startLine": 262,
+    "endLine": 352,
+    "calls": {
+        "wp-admin/includes/theme-install.php:145": [
+            "wp-admin/includes/theme-install.php",
+            145
+        ],
+        "wp-admin/theme-install.php:211": [
+            "wp-admin/theme-install.php",
+            211
+        ],
+        "wp-includes/class-wp-theme.php:959": [
+            "wp-includes/class-wp-theme.php",
+            959
+        ],
+        "wp-includes/customize/class-wp-customize-themes-section.php:167": [
+            "wp-includes/customize/class-wp-customize-themes-section.php",
+            167
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

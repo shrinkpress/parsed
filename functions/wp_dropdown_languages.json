@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_dropdown_languages",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 1393,
+    "startLine": 1422,
+    "endLine": 1545,
+    "calls": {
+        "wp-admin/network/settings.php:423": [
+            "wp-admin/network/settings.php",
+            423
+        ],
+        "wp-admin/network/site-new.php:267": [
+            "wp-admin/network/site-new.php",
+            267
+        ],
+        "wp-admin/options-general.php:174": [
+            "wp-admin/options-general.php",
+            174
+        ],
+        "wp-admin/user-edit.php:358": [
+            "wp-admin/user-edit.php",
+            358
+        ],
+        "wp-signup.php:176": [
+            "wp-signup.php",
+            176
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

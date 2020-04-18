@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:342": [
+            "wp-includes/default-filters.php",
+            342,
+            "sanitize_comment_cookies",
+            "add_action"
+        ]
+    },
+    "functionName": "sanitize_comment_cookies",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 581,
+    "startLine": 589,
+    "endLine": 639,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

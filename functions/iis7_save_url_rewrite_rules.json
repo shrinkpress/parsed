@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "iis7_save_url_rewrite_rules",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 269,
+    "startLine": 279,
+    "endLine": 302,
+    "calls": {
+        "wp-includes/class-wp-rewrite.php:1823": [
+            "wp-includes/class-wp-rewrite.php",
+            1823
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

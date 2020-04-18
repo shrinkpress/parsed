@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "remove_theme_mods",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 1004,
+    "startLine": 1009,
+    "endLine": 1018,
+    "calls": {
+        "wp-includes/theme.php:997": [
+            "wp-includes/theme.php",
+            997
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

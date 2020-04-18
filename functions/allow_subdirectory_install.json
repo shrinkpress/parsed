@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "allow_subdirectory_install",
+    "filename": "wp-admin/includes/network.php",
+    "docCommentLine": 44,
+    "startLine": 53,
+    "endLine": 76,
+    "calls": {
+        "wp-admin/includes/network.php:186": [
+            "wp-admin/includes/network.php",
+            186
+        ],
+        "wp-admin/includes/network.php:222": [
+            "wp-admin/includes/network.php",
+            222
+        ],
+        "wp-admin/includes/network.php:259": [
+            "wp-admin/includes/network.php",
+            259
+        ],
+        "wp-admin/includes/network.php:308": [
+            "wp-admin/includes/network.php",
+            308
+        ],
+        "wp-admin/includes/network.php:321": [
+            "wp-admin/includes/network.php",
+            321
+        ],
+        "wp-admin/includes/network.php:327": [
+            "wp-admin/includes/network.php",
+            327
+        ],
+        "wp-admin/includes/network.php:410": [
+            "wp-admin/includes/network.php",
+            410
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

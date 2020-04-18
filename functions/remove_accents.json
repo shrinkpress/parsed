@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "remove_accents",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 1215,
+    "startLine": 1601,
+    "endLine": 1986,
+    "calls": {
+        "wp-includes/formatting.php:2093": [
+            "wp-includes/formatting.php",
+            2093
+        ],
+        "wp-includes/formatting.php:2163": [
+            "wp-includes/formatting.php",
+            2163
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

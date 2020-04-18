@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "show_blog_form",
+    "filename": "wp-signup.php",
+    "docCommentLine": 91,
+    "startLine": 100,
+    "endLine": 224,
+    "calls": {
+        "wp-signup.php:388": [
+            "wp-signup.php",
+            388
+        ],
+        "wp-signup.php:744": [
+            "wp-signup.php",
+            744
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

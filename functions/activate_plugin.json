@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "activate_plugin",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 590,
+    "startLine": 618,
+    "endLine": 719,
+    "calls": {
+        "wp-admin/includes/plugin.php:854": [
+            "wp-admin/includes/plugin.php",
+            854
+        ],
+        "wp-admin/plugins.php:44": [
+            "wp-admin/plugins.php",
+            44
+        ],
+        "wp-admin/update.php:81": [
+            "wp-admin/update.php",
+            81
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "list_files",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 120,
+    "startLine": 132,
+    "endLine": 174,
+    "calls": {
+        "wp-admin/includes/file.php:159": [
+            "wp-admin/includes/file.php",
+            159
+        ],
+        "wp-admin/includes/plugin.php:248": [
+            "wp-admin/includes/plugin.php",
+            248
+        ],
+        "wp-includes/functions.php:7072": [
+            "wp-includes/functions.php",
+            7072
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

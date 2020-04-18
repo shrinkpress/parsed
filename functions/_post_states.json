@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_post_states",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 2064,
+    "startLine": 2076,
+    "endLine": 2097,
+    "calls": {
+        "wp-admin/includes/class-walker-nav-menu-checklist.php:104": [
+            "wp-admin/includes/class-walker-nav-menu-checklist.php",
+            104
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1033": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1033
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

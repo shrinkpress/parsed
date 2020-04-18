@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_add_inline_style",
+    "filename": "wp-includes/functions.wp-styles.php",
+    "docCommentLine": 67,
+    "startLine": 83,
+    "endLine": 101,
+    "calls": {
+        "wp-includes/script-loader.php:2910": [
+            "wp-includes/script-loader.php",
+            2910
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

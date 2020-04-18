@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "paginate_links",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3997,
+    "startLine": 4075,
+    "endLine": 4244,
+    "calls": {
+        "wp-admin/includes/deprecated.php:594": [
+            "wp-admin/includes/deprecated.php",
+            594
+        ],
+        "wp-admin/includes/media.php:2759": [
+            "wp-admin/includes/media.php",
+            2759
+        ],
+        "wp-admin/includes/nav-menu.php:445": [
+            "wp-admin/includes/nav-menu.php",
+            445
+        ],
+        "wp-admin/includes/nav-menu.php:731": [
+            "wp-admin/includes/nav-menu.php",
+            731
+        ],
+        "wp-includes/link-template.php:2734": [
+            "wp-includes/link-template.php",
+            2734
+        ],
+        "wp-includes/link-template.php:2999": [
+            "wp-includes/link-template.php",
+            2999
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

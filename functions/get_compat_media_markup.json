@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_compat_media_markup",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 1819,
+    "startLine": 1826,
+    "endLine": 2012,
+    "calls": {
+        "wp-admin/includes/media.php:3220": [
+            "wp-admin/includes/media.php",
+            3220
+        ],
+        "wp-includes/media.php:3573": [
+            "wp-includes/media.php",
+            3573
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

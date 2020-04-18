@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_search_feed_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 1128,
+    "startLine": 1140,
+    "endLine": 1167,
+    "calls": {
+        "wp-includes/general-template.php:3035": [
+            "wp-includes/general-template.php",
+            3035
+        ],
+        "wp-includes/link-template.php:1188": [
+            "wp-includes/link-template.php",
+            1188
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

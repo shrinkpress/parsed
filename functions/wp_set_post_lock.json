@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "wp_set_post_lock",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1593,
+    "startLine": 1602,
+    "endLine": 1619,
+    "calls": {
+        "wp-admin/edit-form-blocks.php:252": [
+            "wp-admin/edit-form-blocks.php",
+            252
+        ],
+        "wp-admin/includes/misc.php:1080": [
+            "wp-admin/includes/misc.php",
+            1080
+        ],
+        "wp-admin/includes/post.php:424": [
+            "wp-admin/includes/post.php",
+            424
+        ],
+        "wp-admin/includes/post.php:863": [
+            "wp-admin/includes/post.php",
+            863
+        ],
+        "wp-admin/post.php:140": [
+            "wp-admin/post.php",
+            140
+        ],
+        "wp-admin/post.php:184": [
+            "wp-admin/post.php",
+            184
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

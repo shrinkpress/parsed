@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-signup.php:30": [
+            "wp-signup.php",
+            30,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "do_signup_header",
+    "filename": "wp-signup.php",
+    "docCommentLine": 17,
+    "startLine": 22,
+    "endLine": 29,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

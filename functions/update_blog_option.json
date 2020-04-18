@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "update_blog_option",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 439,
+    "startLine": 450,
+    "endLine": 466,
+    "calls": {
+        "wp-includes/ms-site.php:1298": [
+            "wp-includes/ms-site.php",
+            1298
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

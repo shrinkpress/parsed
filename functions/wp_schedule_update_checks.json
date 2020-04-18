@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/update.php:835": [
+            "wp-includes/update.php",
+            835,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_schedule_update_checks",
+    "filename": "wp-includes/update.php",
+    "docCommentLine": 778,
+    "startLine": 783,
+    "endLine": 795,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

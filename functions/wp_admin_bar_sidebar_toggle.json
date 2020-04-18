@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/class-wp-admin-bar.php:606": [
+            "wp-includes/class-wp-admin-bar.php",
+            606,
+            "admin_bar_menu",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_admin_bar_sidebar_toggle",
+    "filename": "wp-includes/admin-bar.php",
+    "docCommentLine": 189,
+    "startLine": 196,
+    "endLine": 206,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

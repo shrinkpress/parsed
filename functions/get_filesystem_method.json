@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_filesystem_method",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 1824,
+    "startLine": 1850,
+    "endLine": 1916,
+    "calls": {
+        "wp-admin/includes/file.php:1767": [
+            "wp-admin/includes/file.php",
+            1767
+        ],
+        "wp-admin/includes/file.php:1975": [
+            "wp-admin/includes/file.php",
+            1975
+        ],
+        "wp-admin/includes/file.php:2218": [
+            "wp-admin/includes/file.php",
+            2218
+        ],
+        "wp-includes/class-wp-customize-manager.php:4859": [
+            "wp-includes/class-wp-customize-manager.php",
+            4859
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

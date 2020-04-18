@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:118": [
+            "wp-admin/includes/admin-filters.php",
+            118,
+            "admin_notices",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_recovery_mode_nag",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 875,
+    "startLine": 880,
+    "endLine": 902,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "image_resize",
+    "filename": "wp-includes/deprecated.php",
+    "docCommentLine": 3206,
+    "startLine": 3230,
+    "endLine": 3249,
+    "calls": {
+        "wp-admin/includes/deprecated.php:1128": [
+            "wp-admin/includes/deprecated.php",
+            1128
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

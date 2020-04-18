@@ -1,0 +1,83 @@
+{
+    "callbacks": [],
+    "functionName": "is_single",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 669,
+    "startLine": 691,
+    "endLine": 700,
+    "calls": {
+        "wp-includes/canonical.php:177": [
+            "wp-includes/canonical.php",
+            177
+        ],
+        "wp-includes/canonical.php:182": [
+            "wp-includes/canonical.php",
+            182
+        ],
+        "wp-includes/canonical.php:289": [
+            "wp-includes/canonical.php",
+            289
+        ],
+        "wp-includes/canonical.php:357": [
+            "wp-includes/canonical.php",
+            357
+        ],
+        "wp-includes/canonical.php:359": [
+            "wp-includes/canonical.php",
+            359
+        ],
+        "wp-includes/comment-template.php:1324": [
+            "wp-includes/comment-template.php",
+            1324
+        ],
+        "wp-includes/feed-rss2-comments.php:50": [
+            "wp-includes/feed-rss2-comments.php",
+            50
+        ],
+        "wp-includes/general-template.php:1200": [
+            "wp-includes/general-template.php",
+            1200
+        ],
+        "wp-includes/link-template.php:1966": [
+            "wp-includes/link-template.php",
+            1966
+        ],
+        "wp-includes/link-template.php:2022": [
+            "wp-includes/link-template.php",
+            2022
+        ],
+        "wp-includes/link-template.php:2313": [
+            "wp-includes/link-template.php",
+            2313
+        ],
+        "wp-includes/link-template.php:2372": [
+            "wp-includes/link-template.php",
+            2372
+        ],
+        "wp-includes/link-template.php:2414": [
+            "wp-includes/link-template.php",
+            2414
+        ],
+        "wp-includes/link-template.php:2458": [
+            "wp-includes/link-template.php",
+            2458
+        ],
+        "wp-includes/post-template.php:661": [
+            "wp-includes/post-template.php",
+            661
+        ],
+        "wp-includes/post-template.php:793": [
+            "wp-includes/post-template.php",
+            793
+        ],
+        "wp-includes/theme-compat/header.php:34": [
+            "wp-includes/theme-compat/header.php",
+            34
+        ],
+        "wp-trackback.php:83": [
+            "wp-trackback.php",
+            83
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

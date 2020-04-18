@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_prepare_site_data",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 460,
+    "startLine": 473,
+    "endLine": 522,
+    "calls": {
+        "wp-includes/ms-site.php:63": [
+            "wp-includes/ms-site.php",
+            63
+        ],
+        "wp-includes/ms-site.php:167": [
+            "wp-includes/ms-site.php",
+            167
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

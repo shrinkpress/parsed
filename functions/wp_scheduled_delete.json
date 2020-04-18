@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:372": [
+            "wp-includes/default-filters.php",
+            372,
+            "wp_scheduled_delete",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_scheduled_delete",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5708,
+    "startLine": 5718,
+    "endLine": 5758,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "image_downsize",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 160,
+    "startLine": 185,
+    "endLine": 266,
+    "calls": {
+        "wp-admin/includes/media.php:1151": [
+            "wp-admin/includes/media.php",
+            1151
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:1023": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1023
+        ],
+        "wp-includes/media.php:370": [
+            "wp-includes/media.php",
+            370
+        ],
+        "wp-includes/media.php:932": [
+            "wp-includes/media.php",
+            932
+        ],
+        "wp-includes/post.php:5959": [
+            "wp-includes/post.php",
+            5959
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

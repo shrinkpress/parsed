@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_upload_bits",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 2554,
+    "startLine": 2577,
+    "endLine": 2671,
+    "calls": {
+        "wp-admin/includes/image.php:514": [
+            "wp-admin/includes/image.php",
+            514
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:6341": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            6341
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

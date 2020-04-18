@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_raw_referer",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 1859,
+    "startLine": 1868,
+    "endLine": 1876,
+    "calls": {
+        "wp-includes/functions.php:1850": [
+            "wp-includes/functions.php",
+            1850
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

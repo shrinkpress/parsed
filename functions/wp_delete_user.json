@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_delete_user",
+    "filename": "wp-admin/includes/user.php",
+    "docCommentLine": 321,
+    "startLine": 337,
+    "endLine": 447,
+    "calls": {
+        "wp-admin/users.php:196": [
+            "wp-admin/users.php",
+            196
+        ],
+        "wp-admin/users.php:199": [
+            "wp-admin/users.php",
+            199
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:805": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            805
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

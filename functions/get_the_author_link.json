@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_author_link",
+    "filename": "wp-includes/author-template.php",
+    "docCommentLine": 218,
+    "startLine": 229,
+    "endLine": 241,
+    "calls": {
+        "wp-includes/author-template.php:254": [
+            "wp-includes/author-template.php",
+            254
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

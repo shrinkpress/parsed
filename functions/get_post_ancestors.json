@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_ancestors",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 788,
+    "startLine": 796,
+    "endLine": 819,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:1291": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1291
+        ],
+        "wp-includes/class-wp-post.php:337": [
+            "wp-includes/class-wp-post.php",
+            337
+        ],
+        "wp-includes/taxonomy.php:4523": [
+            "wp-includes/taxonomy.php",
+            4523
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

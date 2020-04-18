@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_page_traverse_name",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 5090,
+    "startLine": 5104,
+    "endLine": 5111,
+    "calls": {
+        "wp-includes/post.php:5085": [
+            "wp-includes/post.php",
+            5085
+        ],
+        "wp-includes/post.php:5108": [
+            "wp-includes/post.php",
+            5108
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

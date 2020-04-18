@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "install_blog",
+    "filename": "wp-includes/ms-deprecated.php",
+    "docCommentLine": 589,
+    "startLine": 605,
+    "endLine": 659,
+    "calls": {
+        "wp-includes/ms-deprecated.php:414": [
+            "wp-includes/ms-deprecated.php",
+            414
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,63 @@
+{
+    "callbacks": [],
+    "functionName": "get_comments",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 230,
+    "startLine": 241,
+    "endLine": 244,
+    "calls": {
+        "wp-admin/includes/class-wp-comments-list-table.php:147": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            147
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:159": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            159
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:281": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            281
+        ],
+        "wp-admin/includes/dashboard.php:993": [
+            "wp-admin/includes/dashboard.php",
+            993
+        ],
+        "wp-admin/includes/meta-boxes.php:827": [
+            "wp-admin/includes/meta-boxes.php",
+            827
+        ],
+        "wp-includes/blocks/latest-comments.php:45": [
+            "wp-includes/blocks/latest-comments.php",
+            45
+        ],
+        "wp-includes/class-wp-comment-query.php:1008": [
+            "wp-includes/class-wp-comment-query.php",
+            1008
+        ],
+        "wp-includes/class-wp-comment.php:271": [
+            "wp-includes/class-wp-comment.php",
+            271
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:3618": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            3618
+        ],
+        "wp-includes/comment-template.php:2080": [
+            "wp-includes/comment-template.php",
+            2080
+        ],
+        "wp-includes/comment.php:3423": [
+            "wp-includes/comment.php",
+            3423
+        ],
+        "wp-includes/comment.php:3544": [
+            "wp-includes/comment.php",
+            3544
+        ],
+        "wp-includes/widgets/class-wp-widget-recent-comments.php:102": [
+            "wp-includes/widgets/class-wp-widget-recent-comments.php",
+            102
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

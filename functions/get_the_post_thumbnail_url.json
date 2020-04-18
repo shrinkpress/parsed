@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_post_thumbnail_url",
+    "filename": "wp-includes/post-thumbnail-template.php",
+    "docCommentLine": 203,
+    "startLine": 213,
+    "endLine": 219,
+    "calls": {
+        "wp-includes/post-thumbnail-template.php:231": [
+            "wp-includes/post-thumbnail-template.php",
+            231
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

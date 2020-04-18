@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:64": [
+            "wp-admin/includes/admin-filters.php",
+            64,
+            "heartbeat_received",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_check_locked_posts",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 992,
+    "startLine": 1002,
+    "endLine": 1037,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "has_block",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 67,
+    "startLine": 81,
+    "endLine": 117,
+    "calls": {
+        "wp-includes/post-template.php:323": [
+            "wp-includes/post-template.php",
+            323
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

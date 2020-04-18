@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_permalink",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 92,
+    "startLine": 106,
+    "endLine": 108,
+    "calls": {
+        "wp-admin/includes/dashboard.php:637": [
+            "wp-admin/includes/dashboard.php",
+            637
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

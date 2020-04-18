@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_transition_post_status",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 4589,
+    "startLine": 4610,
+    "endLine": 4654,
+    "calls": {
+        "wp-includes/class-wp-customize-manager.php:3044": [
+            "wp-includes/class-wp-customize-manager.php",
+            3044
+        ],
+        "wp-includes/post.php:4021": [
+            "wp-includes/post.php",
+            4021
+        ],
+        "wp-includes/post.php:4227": [
+            "wp-includes/post.php",
+            4227
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

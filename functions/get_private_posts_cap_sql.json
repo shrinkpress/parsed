@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_private_posts_cap_sql",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6271,
+    "startLine": 6285,
+    "endLine": 6287,
+    "calls": {
+        "wp-includes/author-template.php:442": [
+            "wp-includes/author-template.php",
+            442
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

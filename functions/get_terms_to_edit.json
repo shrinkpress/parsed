@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_terms_to_edit",
+    "filename": "wp-admin/includes/taxonomy.php",
+    "docCommentLine": 249,
+    "startLine": 258,
+    "endLine": 296,
+    "calls": {
+        "wp-admin/includes/meta-boxes.php:517": [
+            "wp-admin/includes/meta-boxes.php",
+            517
+        ],
+        "wp-admin/includes/taxonomy.php:246": [
+            "wp-admin/includes/taxonomy.php",
+            246
+        ],
+        "wp-admin/includes/template.php:356": [
+            "wp-admin/includes/template.php",
+            356
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

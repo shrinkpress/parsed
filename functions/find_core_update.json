@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "find_core_update",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 185,
+    "startLine": 190,
+    "endLine": 204,
+    "calls": {
+        "wp-admin/update-core.php:569": [
+            "wp-admin/update-core.php",
+            569
+        ],
+        "wp-admin/update-core.php:660": [
+            "wp-admin/update-core.php",
+            660
+        ],
+        "wp-admin/update-core.php:677": [
+            "wp-admin/update-core.php",
+            677
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

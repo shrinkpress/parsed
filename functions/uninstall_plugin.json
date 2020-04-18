@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "uninstall_plugin",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 1175,
+    "startLine": 1185,
+    "endLine": 1235,
+    "calls": {
+        "wp-admin/includes/plugin.php:944": [
+            "wp-admin/includes/plugin.php",
+            944
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

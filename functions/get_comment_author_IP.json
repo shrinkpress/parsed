@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_author_IP",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 257,
+    "startLine": 267,
+    "endLine": 281,
+    "calls": {
+        "wp-admin/includes/class-wp-comments-list-table.php:849": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            849
+        ],
+        "wp-includes/comment-template.php:293": [
+            "wp-includes/comment-template.php",
+            293
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

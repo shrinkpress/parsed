@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:24": [
+            "wp-admin/includes/admin-filters.php",
+            24,
+            "post-plupload-upload-ui",
+            "add_action"
+        ],
+        "wp-includes/media-template.php:273": [
+            "wp-includes/media-template.php",
+            273,
+            "post-plupload-upload-ui",
+            "remove_action"
+        ],
+        "wp-includes/media-template.php:276": [
+            "wp-includes/media-template.php",
+            276,
+            "post-plupload-upload-ui",
+            "add_action"
+        ]
+    },
+    "functionName": "media_upload_flash_bypass",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 2954,
+    "startLine": 2961,
+    "endLine": 2983,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

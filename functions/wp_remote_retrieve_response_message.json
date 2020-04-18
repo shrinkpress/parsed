@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_remote_retrieve_response_message",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 259,
+    "startLine": 269,
+    "endLine": 275,
+    "calls": {
+        "wp-admin/includes/file.php:1049": [
+            "wp-admin/includes/file.php",
+            1049
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

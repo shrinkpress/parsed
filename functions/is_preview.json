@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "is_preview",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 601,
+    "startLine": 614,
+    "endLine": 623,
+    "calls": {
+        "wp-includes/canonical.php:51": [
+            "wp-includes/canonical.php",
+            51
+        ],
+        "wp-includes/canonical.php:59": [
+            "wp-includes/canonical.php",
+            59
+        ],
+        "wp-includes/functions.php:6538": [
+            "wp-includes/functions.php",
+            6538
+        ],
+        "wp-includes/post-template.php:1042": [
+            "wp-includes/post-template.php",
+            1042
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

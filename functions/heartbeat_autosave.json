@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:66": [
+            "wp-admin/includes/admin-filters.php",
+            66,
+            "heartbeat_received",
+            "add_filter"
+        ]
+    },
+    "functionName": "heartbeat_autosave",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 1167,
+    "startLine": 1176,
+    "endLine": 1202,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

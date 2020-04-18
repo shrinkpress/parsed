@@ -1,0 +1,46 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:157": [
+            "wp-includes/default-filters.php",
+            157,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":157,\"endLine\":157}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":157,\"endLine\":157}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:176": [
+            "wp-includes/default-filters.php",
+            176,
+            "the_content",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:184": [
+            "wp-includes/default-filters.php",
+            184,
+            "the_excerpt",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:209": [
+            "wp-includes/default-filters.php",
+            209,
+            "widget_text_content",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:574": [
+            "wp-includes/default-filters.php",
+            574,
+            "the_excerpt_embed",
+            "add_filter"
+        ]
+    },
+    "functionName": "shortcode_unautop",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 826,
+    "startLine": 838,
+    "endLine": 883,
+    "calls": {
+        "wp-includes/widgets/class-wp-widget-text.php:310": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            310
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

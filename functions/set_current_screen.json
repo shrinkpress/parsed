@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "set_current_screen",
+    "filename": "wp-admin/includes/screen.php",
+    "docCommentLine": 232,
+    "startLine": 240,
+    "endLine": 242,
+    "calls": {
+        "wp-admin/admin-header.php:31": [
+            "wp-admin/admin-header.php",
+            31
+        ],
+        "wp-admin/admin.php:207": [
+            "wp-admin/admin.php",
+            207
+        ],
+        "wp-admin/includes/ajax-actions.php:395": [
+            "wp-admin/includes/ajax-actions.php",
+            395
+        ],
+        "wp-admin/includes/ajax-actions.php:4566": [
+            "wp-admin/includes/ajax-actions.php",
+            4566
+        ],
+        "wp-admin/includes/ajax-actions.php:4618": [
+            "wp-admin/includes/ajax-actions.php",
+            4618
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

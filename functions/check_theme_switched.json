@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:302": [
+            "wp-includes/default-filters.php",
+            302,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "check_theme_switched",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 2931,
+    "startLine": 2938,
+    "endLine": 2973,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

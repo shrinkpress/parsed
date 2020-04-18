@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_category_rss",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 364,
+    "startLine": 376,
+    "endLine": 424,
+    "calls": {
+        "wp-includes/feed.php:435": [
+            "wp-includes/feed.php",
+            435
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

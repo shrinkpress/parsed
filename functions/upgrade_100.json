@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "upgrade_100",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 828,
+    "startLine": 836,
+    "endLine": 891,
+    "calls": {
+        "wp-admin/includes/upgrade.php:710": [
+            "wp-admin/includes/upgrade.php",
+            710
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

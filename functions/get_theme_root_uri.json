@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_theme_root_uri",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 603,
+    "startLine": 618,
+    "endLine": 654,
+    "calls": {
+        "wp-includes/class-wp-theme.php:1108": [
+            "wp-includes/class-wp-theme.php",
+            1108
+        ],
+        "wp-includes/theme.php:213": [
+            "wp-includes/theme.php",
+            213
+        ],
+        "wp-includes/theme.php:347": [
+            "wp-includes/theme.php",
+            347
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

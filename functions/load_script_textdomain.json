@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "load_script_textdomain",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 902,
+    "startLine": 918,
+    "endLine": 1036,
+    "calls": {
+        "wp-includes/class.wp-scripts.php:574": [
+            "wp-includes/class.wp-scripts.php",
+            574
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

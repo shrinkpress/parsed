@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "set_user_setting",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 981,
+    "startLine": 994,
+    "endLine": 1003,
+    "calls": {
+        "wp-admin/includes/class-wp-ms-sites-list-table.php:74": [
+            "wp-admin/includes/class-wp-ms-sites-list-table.php",
+            74
+        ],
+        "wp-admin/includes/class-wp-ms-users-list-table.php:88": [
+            "wp-admin/includes/class-wp-ms-users-list-table.php",
+            88
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:182": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            182
+        ],
+        "wp-admin/widgets.php:28": [
+            "wp-admin/widgets.php",
+            28
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

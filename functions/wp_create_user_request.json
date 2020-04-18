@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_create_user_request",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 3371,
+    "startLine": 3384,
+    "endLine": 3432,
+    "calls": {
+        "wp-admin/includes/privacy-tools.php:143": [
+            "wp-admin/includes/privacy-tools.php",
+            143
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

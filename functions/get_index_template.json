@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_index_template",
+    "filename": "wp-includes/template.php",
+    "docCommentLine": 66,
+    "startLine": 78,
+    "endLine": 80,
+    "calls": {
+        "wp-includes/template-loader.php:86": [
+            "wp-includes/template-loader.php",
+            86
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

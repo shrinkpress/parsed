@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "enqueue_comment_hotkeys_js",
+    "filename": "wp-admin/includes/comment.php",
+    "docCommentLine": 195,
+    "startLine": 198,
+    "endLine": 202,
+    "calls": {
+        "wp-admin/edit-comments.php:149": [
+            "wp-admin/edit-comments.php",
+            149
+        ],
+        "wp-admin/post.php:195": [
+            "wp-admin/post.php",
+            195
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

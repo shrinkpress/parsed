@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_convert_widget_settings",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 1045,
+    "startLine": 1057,
+    "endLine": 1111,
+    "calls": {
+        "wp-includes/class-wp-widget.php:593": [
+            "wp-includes/class-wp-widget.php",
+            593
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

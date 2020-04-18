@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_post_thumbnail_html",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1479,
+    "startLine": 1488,
+    "endLine": 1553,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2640": [
+            "wp-admin/includes/ajax-actions.php",
+            2640
+        ],
+        "wp-admin/includes/ajax-actions.php:2648": [
+            "wp-admin/includes/ajax-actions.php",
+            2648
+        ],
+        "wp-admin/includes/ajax-actions.php:2676": [
+            "wp-admin/includes/ajax-actions.php",
+            2676
+        ],
+        "wp-admin/includes/meta-boxes.php:1360": [
+            "wp-admin/includes/meta-boxes.php",
+            1360
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

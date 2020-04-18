@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_kses_normalize_entities",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 1722,
+    "startLine": 1733,
+    "endLine": 1743,
+    "calls": {
+        "wp-includes/formatting.php:995": [
+            "wp-includes/formatting.php",
+            995
+        ],
+        "wp-includes/formatting.php:4316": [
+            "wp-includes/formatting.php",
+            4316
+        ],
+        "wp-includes/kses.php:736": [
+            "wp-includes/kses.php",
+            736
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

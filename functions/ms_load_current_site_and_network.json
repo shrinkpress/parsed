@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "ms_load_current_site_and_network",
+    "filename": "wp-includes/ms-load.php",
+    "docCommentLine": 266,
+    "startLine": 296,
+    "endLine": 445,
+    "calls": {
+        "wp-includes/ms-settings.php:72": [
+            "wp-includes/ms-settings.php",
+            72
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

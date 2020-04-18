@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_audio_shortcode",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 2432,
+    "startLine": 2455,
+    "endLine": 2623,
+    "calls": {
+        "wp-admin/includes/media.php:3110": [
+            "wp-admin/includes/media.php",
+            3110
+        ],
+        "wp-includes/post-template.php:1668": [
+            "wp-includes/post-template.php",
+            1668
+        ],
+        "wp-includes/widgets/class-wp-widget-media-audio.php:115": [
+            "wp-includes/widgets/class-wp-widget-media-audio.php",
+            115
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

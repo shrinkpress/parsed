@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_check_jsonp_callback",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 4041,
+    "startLine": 4053,
+    "endLine": 4061,
+    "calls": {
+        "wp-includes/load.php:1514": [
+            "wp-includes/load.php",
+            1514
+        ],
+        "wp-includes/rest-api/class-wp-rest-server.php:293": [
+            "wp-includes/rest-api/class-wp-rest-server.php",
+            293
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

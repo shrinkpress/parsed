@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:88": [
+            "wp-admin/includes/admin-filters.php",
+            88,
+            "install_plugins_pre_plugin-information",
+            "add_action"
+        ]
+    },
+    "functionName": "install_plugin_information",
+    "filename": "wp-admin/includes/plugin-install.php",
+    "docCommentLine": 505,
+    "startLine": 512,
+    "endLine": 888,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

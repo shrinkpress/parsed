@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_defer_term_counting",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 3056,
+    "startLine": 3066,
+    "endLine": 3078,
+    "calls": {
+        "wp-admin/includes/nav-menu.php:1166": [
+            "wp-admin/includes/nav-menu.php",
+            1166
+        ],
+        "wp-admin/includes/nav-menu.php:1220": [
+            "wp-admin/includes/nav-menu.php",
+            1220
+        ],
+        "wp-includes/taxonomy.php:3116": [
+            "wp-includes/taxonomy.php",
+            3116
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

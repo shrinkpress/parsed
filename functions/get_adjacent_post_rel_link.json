@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_adjacent_post_rel_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 1879,
+    "startLine": 1893,
+    "endLine": 1938,
+    "calls": {
+        "wp-includes/link-template.php:1951": [
+            "wp-includes/link-template.php",
+            1951
+        ],
+        "wp-includes/link-template.php:1952": [
+            "wp-includes/link-template.php",
+            1952
+        ],
+        "wp-includes/link-template.php:1985": [
+            "wp-includes/link-template.php",
+            1985
+        ],
+        "wp-includes/link-template.php:2001": [
+            "wp-includes/link-template.php",
+            2001
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

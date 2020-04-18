@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "the_search_query",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3921,
+    "startLine": 3929,
+    "endLine": 3938,
+    "calls": {
+        "wp-admin/includes/media.php:2685": [
+            "wp-admin/includes/media.php",
+            2685
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

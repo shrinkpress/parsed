@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "touch_time",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 765,
+    "startLine": 779,
+    "endLine": 856,
+    "calls": {
+        "wp-admin/edit-form-comment.php:124": [
+            "wp-admin/edit-form-comment.php",
+            124
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1562": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1562
+        ],
+        "wp-admin/includes/meta-boxes.php:258": [
+            "wp-admin/includes/meta-boxes.php",
+            258
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_term_list",
+    "filename": "wp-includes/category-template.php",
+    "docCommentLine": 1263,
+    "startLine": 1275,
+    "endLine": 1309,
+    "calls": {
+        "wp-includes/category-template.php:1163": [
+            "wp-includes/category-template.php",
+            1163
+        ],
+        "wp-includes/category-template.php:1389": [
+            "wp-includes/category-template.php",
+            1389
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

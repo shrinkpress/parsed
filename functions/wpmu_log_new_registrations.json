@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:51": [
+            "wp-includes/ms-default-filters.php",
+            51,
+            "wp_initialize_site",
+            "add_action"
+        ]
+    },
+    "functionName": "wpmu_log_new_registrations",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1841,
+    "startLine": 1852,
+    "endLine": 1875,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

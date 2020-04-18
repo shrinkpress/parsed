@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "is_plugin_inactive",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 521,
+    "startLine": 536,
+    "endLine": 538,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:4352": [
+            "wp-admin/includes/ajax-actions.php",
+            4352
+        ],
+        "wp-admin/includes/template.php:1144": [
+            "wp-admin/includes/template.php",
+            1144
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

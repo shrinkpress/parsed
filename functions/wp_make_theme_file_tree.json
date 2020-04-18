@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_make_theme_file_tree",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 327,
+    "startLine": 336,
+    "endLine": 347,
+    "calls": {
+        "wp-admin/theme-editor.php:268": [
+            "wp-admin/theme-editor.php",
+            268
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

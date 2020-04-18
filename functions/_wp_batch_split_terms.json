@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:436": [
+            "wp-includes/default-filters.php",
+            436,
+            "wp_split_shared_term_batch",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_batch_split_terms",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 3909,
+    "startLine": 3916,
+    "endLine": 4003,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

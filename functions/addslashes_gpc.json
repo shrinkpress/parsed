@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "addslashes_gpc",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 2704,
+    "startLine": 2715,
+    "endLine": 2717,
+    "calls": {
+        "wp-includes/class-wp-query.php:2203": [
+            "wp-includes/class-wp-query.php",
+            2203
+        ],
+        "wp-includes/class-wp-query.php:2309": [
+            "wp-includes/class-wp-query.php",
+            2309
+        ],
+        "wp-includes/class-wp-query.php:2322": [
+            "wp-includes/class-wp-query.php",
+            2322
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

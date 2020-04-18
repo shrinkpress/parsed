@@ -1,0 +1,143 @@
+{
+    "callbacks": [],
+    "functionName": "taxonomy_exists",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 271,
+    "startLine": 287,
+    "endLine": 291,
+    "calls": {
+        "wp-admin/admin.php:142": [
+            "wp-admin/admin.php",
+            142
+        ],
+        "wp-admin/includes/class-wp-screen.php:244": [
+            "wp-admin/includes/class-wp-screen.php",
+            244
+        ],
+        "wp-admin/includes/class-wp-screen.php:280": [
+            "wp-admin/includes/class-wp-screen.php",
+            280
+        ],
+        "wp-admin/includes/class-wp-terms-list-table.php:57": [
+            "wp-admin/includes/class-wp-terms-list-table.php",
+            57
+        ],
+        "wp-admin/includes/nav-menu.php:51": [
+            "wp-admin/includes/nav-menu.php",
+            51
+        ],
+        "wp-includes/category-template.php:562": [
+            "wp-includes/category-template.php",
+            562
+        ],
+        "wp-includes/class-wp-tax-query.php:554": [
+            "wp-includes/class-wp-tax-query.php",
+            554
+        ],
+        "wp-includes/class-wp-term.php:153": [
+            "wp-includes/class-wp-term.php",
+            153
+        ],
+        "wp-includes/class-wp-term.php:171": [
+            "wp-includes/class-wp-term.php",
+            171
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:2028": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            2028
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:2133": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            2133
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:2249": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            2249
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:2328": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            2328
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:2393": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            2393
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:2499": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            2499
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:389": [
+            "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php",
+            389
+        ],
+        "wp-includes/deprecated.php:2491": [
+            "wp-includes/deprecated.php",
+            2491
+        ],
+        "wp-includes/link-template.php:1704": [
+            "wp-includes/link-template.php",
+            1704
+        ],
+        "wp-includes/link-template.php:2022": [
+            "wp-includes/link-template.php",
+            2022
+        ],
+        "wp-includes/taxonomy.php:264": [
+            "wp-includes/taxonomy.php",
+            264
+        ],
+        "wp-includes/taxonomy.php:311": [
+            "wp-includes/taxonomy.php",
+            311
+        ],
+        "wp-includes/taxonomy.php:460": [
+            "wp-includes/taxonomy.php",
+            460
+        ],
+        "wp-includes/taxonomy.php:721": [
+            "wp-includes/taxonomy.php",
+            721
+        ],
+        "wp-includes/taxonomy.php:821": [
+            "wp-includes/taxonomy.php",
+            821
+        ],
+        "wp-includes/taxonomy.php:928": [
+            "wp-includes/taxonomy.php",
+            928
+        ],
+        "wp-includes/taxonomy.php:1003": [
+            "wp-includes/taxonomy.php",
+            1003
+        ],
+        "wp-includes/taxonomy.php:1169": [
+            "wp-includes/taxonomy.php",
+            1169
+        ],
+        "wp-includes/taxonomy.php:1979": [
+            "wp-includes/taxonomy.php",
+            1979
+        ],
+        "wp-includes/taxonomy.php:2117": [
+            "wp-includes/taxonomy.php",
+            2117
+        ],
+        "wp-includes/taxonomy.php:2433": [
+            "wp-includes/taxonomy.php",
+            2433
+        ],
+        "wp-includes/taxonomy.php:2609": [
+            "wp-includes/taxonomy.php",
+            2609
+        ],
+        "wp-includes/taxonomy.php:2814": [
+            "wp-includes/taxonomy.php",
+            2814
+        ],
+        "wp-includes/widgets/class-wp-widget-tag-cloud.php:197": [
+            "wp-includes/widgets/class-wp-widget-tag-cloud.php",
+            197
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "username_exists",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 1385,
+    "startLine": 1397,
+    "endLine": 1414,
+    "calls": {
+        "wp-admin/includes/class-wp-importer.php:174": [
+            "wp-admin/includes/class-wp-importer.php",
+            174
+        ],
+        "wp-admin/includes/upgrade.php:75": [
+            "wp-admin/includes/upgrade.php",
+            75
+        ],
+        "wp-admin/includes/user.php:189": [
+            "wp-admin/includes/user.php",
+            189
+        ],
+        "wp-admin/network/site-new.php:119": [
+            "wp-admin/network/site-new.php",
+            119
+        ],
+        "wp-includes/ms-functions.php:512": [
+            "wp-includes/ms-functions.php",
+            512
+        ],
+        "wp-includes/ms-functions.php:686": [
+            "wp-includes/ms-functions.php",
+            686
+        ],
+        "wp-includes/ms-functions.php:1144": [
+            "wp-includes/ms-functions.php",
+            1144
+        ],
+        "wp-includes/user.php:1569": [
+            "wp-includes/user.php",
+            1569
+        ],
+        "wp-includes/user.php:2495": [
+            "wp-includes/user.php",
+            2495
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_fix_server_vars",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 49,
+    "startLine": 58,
+    "endLine": 115,
+    "calls": {
+        "wp-load.php:52": [
+            "wp-load.php",
+            52
+        ],
+        "wp-settings.php:64": [
+            "wp-settings.php",
+            64
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

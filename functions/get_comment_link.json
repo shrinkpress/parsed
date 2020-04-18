@@ -1,0 +1,87 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_link",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 682,
+    "startLine": 707,
+    "endLine": 795,
+    "calls": {
+        "wp-admin/comment.php:192": [
+            "wp-admin/comment.php",
+            192
+        ],
+        "wp-admin/comment.php:216": [
+            "wp-admin/comment.php",
+            216
+        ],
+        "wp-admin/edit-form-comment.php:28": [
+            "wp-admin/edit-form-comment.php",
+            28
+        ],
+        "wp-admin/edit-form-comment.php:152": [
+            "wp-admin/edit-form-comment.php",
+            152
+        ],
+        "wp-admin/includes/ajax-actions.php:448": [
+            "wp-admin/includes/ajax-actions.php",
+            448
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:790": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            790
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:883": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            883
+        ],
+        "wp-admin/includes/dashboard.php:726": [
+            "wp-admin/includes/dashboard.php",
+            726
+        ],
+        "wp-comments-post.php:57": [
+            "wp-comments-post.php",
+            57
+        ],
+        "wp-includes/blocks/latest-comments.php:95": [
+            "wp-includes/blocks/latest-comments.php",
+            95
+        ],
+        "wp-includes/class-walker-comment.php:297": [
+            "wp-includes/class-walker-comment.php",
+            297
+        ],
+        "wp-includes/class-walker-comment.php:384": [
+            "wp-includes/class-walker-comment.php",
+            384
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:1148": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1148
+        ],
+        "wp-includes/comment.php:3466": [
+            "wp-includes/comment.php",
+            3466
+        ],
+        "wp-includes/feed-atom-comments.php:120": [
+            "wp-includes/feed-atom-comments.php",
+            120
+        ],
+        "wp-includes/feed.php:314": [
+            "wp-includes/feed.php",
+            314
+        ],
+        "wp-includes/pluggable.php:1602": [
+            "wp-includes/pluggable.php",
+            1602
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:945": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            945
+        ],
+        "wp-includes/widgets/class-wp-widget-recent-comments.php:131": [
+            "wp-includes/widgets/class-wp-widget-recent-comments.php",
+            131
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

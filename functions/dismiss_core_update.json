@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "dismiss_core_update",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 158,
+    "startLine": 162,
+    "endLine": 166,
+    "calls": {
+        "wp-admin/update-core.php:664": [
+            "wp-admin/update-core.php",
+            664
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

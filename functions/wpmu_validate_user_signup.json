@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wpmu_validate_user_signup",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 428,
+    "startLine": 448,
+    "endLine": 571,
+    "calls": {
+        "wp-admin/network/user-new.php:46": [
+            "wp-admin/network/user-new.php",
+            46
+        ],
+        "wp-admin/user-new.php:179": [
+            "wp-admin/user-new.php",
+            179
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:493": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            493
+        ],
+        "wp-signup.php:297": [
+            "wp-signup.php",
+            297
+        ],
+        "wp-signup.php:759": [
+            "wp-signup.php",
+            759
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

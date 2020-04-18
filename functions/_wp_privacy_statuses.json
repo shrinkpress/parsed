@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_privacy_statuses",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 967,
+    "startLine": 975,
+    "endLine": 982,
+    "calls": {
+        "wp-admin/includes/class-wp-privacy-requests-table.php:144": [
+            "wp-admin/includes/class-wp-privacy-requests-table.php",
+            144
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

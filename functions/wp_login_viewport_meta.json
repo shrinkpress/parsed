@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-login.php:41": [
+            "wp-login.php",
+            41,
+            "login_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_login_viewport_meta",
+    "filename": "wp-login.php",
+    "docCommentLine": 338,
+    "startLine": 343,
+    "endLine": 347,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

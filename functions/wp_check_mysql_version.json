@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_check_mysql_version",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 3198,
+    "startLine": 3205,
+    "endLine": 3211,
+    "calls": {
+        "wp-admin/includes/upgrade.php:45": [
+            "wp-admin/includes/upgrade.php",
+            45
+        ],
+        "wp-admin/includes/upgrade.php:644": [
+            "wp-admin/includes/upgrade.php",
+            644
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

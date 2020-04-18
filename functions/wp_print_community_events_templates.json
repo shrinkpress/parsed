@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_print_community_events_templates",
+    "filename": "wp-admin/includes/dashboard.php",
+    "docCommentLine": 1307,
+    "startLine": 1312,
+    "endLine": 1384,
+    "calls": {
+        "wp-admin/index.php:154": [
+            "wp-admin/index.php",
+            154
+        ],
+        "wp-admin/network/index.php:82": [
+            "wp-admin/network/index.php",
+            82
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

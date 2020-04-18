@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:249": [
+            "wp-includes/default-filters.php",
+            249,
+            "comment_flood_filter",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_throttle_comment_flood",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 2006,
+    "startLine": 2016,
+    "endLine": 2024,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

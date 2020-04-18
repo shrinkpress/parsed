@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_blogaddress_by_id",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 33,
+    "startLine": 41,
+    "endLine": 52,
+    "calls": {
+        "wp-includes/ms-deprecated.php:621": [
+            "wp-includes/ms-deprecated.php",
+            621
+        ],
+        "wp-includes/ms-functions.php:1578": [
+            "wp-includes/ms-functions.php",
+            1578
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

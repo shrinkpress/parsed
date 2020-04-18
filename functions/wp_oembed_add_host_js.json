@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:552": [
+            "wp-includes/default-filters.php",
+            552,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_oembed_add_host_js",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 343,
+    "startLine": 348,
+    "endLine": 350,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

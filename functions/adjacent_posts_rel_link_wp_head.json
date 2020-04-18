@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:287": [
+            "wp-includes/default-filters.php",
+            287,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "adjacent_posts_rel_link_wp_head",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 1955,
+    "startLine": 1965,
+    "endLine": 1970,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

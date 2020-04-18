@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "is_embed",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 830,
+    "startLine": 839,
+    "endLine": 848,
+    "calls": {
+        "wp-includes/admin-bar.php:1184": [
+            "wp-includes/admin-bar.php",
+            1184
+        ],
+        "wp-includes/embed.php:925": [
+            "wp-includes/embed.php",
+            925
+        ],
+        "wp-includes/query.php:1027": [
+            "wp-includes/query.php",
+            1027
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

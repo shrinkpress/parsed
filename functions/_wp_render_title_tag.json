@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:280": [
+            "wp-includes/default-filters.php",
+            280,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_render_title_tag",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 1146,
+    "startLine": 1154,
+    "endLine": 1160,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

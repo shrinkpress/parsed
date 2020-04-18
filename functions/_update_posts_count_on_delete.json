@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:78": [
+            "wp-includes/ms-default-filters.php",
+            78,
+            "delete_post",
+            "add_action"
+        ]
+    },
+    "functionName": "_update_posts_count_on_delete",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 814,
+    "startLine": 821,
+    "endLine": 829,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

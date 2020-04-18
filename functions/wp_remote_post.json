@@ -1,0 +1,59 @@
+{
+    "callbacks": [],
+    "functionName": "wp_remote_post",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 167,
+    "startLine": 179,
+    "endLine": 182,
+    "calls": {
+        "wp-admin/includes/dashboard.php:1658": [
+            "wp-admin/includes/dashboard.php",
+            1658
+        ],
+        "wp-admin/includes/translation-install.php:58": [
+            "wp-admin/includes/translation-install.php",
+            58
+        ],
+        "wp-admin/includes/translation-install.php:70": [
+            "wp-admin/includes/translation-install.php",
+            70
+        ],
+        "wp-admin/includes/update-core.php:1266": [
+            "wp-admin/includes/update-core.php",
+            1266
+        ],
+        "wp-includes/class-wp-http-ixr-client.php:88": [
+            "wp-includes/class-wp-http-ixr-client.php",
+            88
+        ],
+        "wp-includes/cron.php:727": [
+            "wp-includes/cron.php",
+            727
+        ],
+        "wp-includes/update.php:154": [
+            "wp-includes/update.php",
+            154
+        ],
+        "wp-includes/update.php:164": [
+            "wp-includes/update.php",
+            164
+        ],
+        "wp-includes/update.php:380": [
+            "wp-includes/update.php",
+            380
+        ],
+        "wp-includes/update.php:390": [
+            "wp-includes/update.php",
+            390
+        ],
+        "wp-includes/update.php:569": [
+            "wp-includes/update.php",
+            569
+        ],
+        "wp-includes/update.php:579": [
+            "wp-includes/update.php",
+            579
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

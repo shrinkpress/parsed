@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "list_meta",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 553,
+    "startLine": 560,
+    "endLine": 595,
+    "calls": {
+        "wp-admin/includes/meta-boxes.php:750": [
+            "wp-admin/includes/meta-boxes.php",
+            750
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

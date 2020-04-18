@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "validate_current_theme",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 818,
+    "startLine": 833,
+    "endLine": 878,
+    "calls": {
+        "wp-admin/themes.php:201": [
+            "wp-admin/themes.php",
+            201
+        ],
+        "wp-includes/class-wp-customize-manager.php:655": [
+            "wp-includes/class-wp-customize-manager.php",
+            655
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "wp_remote_retrieve_header",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 220,
+    "startLine": 229,
+    "endLine": 239,
+    "calls": {
+        "wp-admin/includes/file.php:1052": [
+            "wp-admin/includes/file.php",
+            1052
+        ],
+        "wp-admin/includes/file.php:1076": [
+            "wp-admin/includes/file.php",
+            1076
+        ],
+        "wp-admin/includes/upgrade.php:551": [
+            "wp-admin/includes/upgrade.php",
+            551
+        ],
+        "wp-includes/comment.php:2601": [
+            "wp-includes/comment.php",
+            2601
+        ],
+        "wp-includes/comment.php:2602": [
+            "wp-includes/comment.php",
+            2602
+        ],
+        "wp-includes/comment.php:2606": [
+            "wp-includes/comment.php",
+            2606
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

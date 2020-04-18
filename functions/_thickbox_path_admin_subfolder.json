@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/general-template.php:4511": [
+            "wp-includes/general-template.php",
+            4511,
+            "admin_head",
+            "add_action"
+        ]
+    },
+    "functionName": "_thickbox_path_admin_subfolder",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 833,
+    "startLine": 840,
+    "endLine": 846,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

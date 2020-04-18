@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_language_attributes",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3940,
+    "startLine": 3950,
+    "endLine": 3980,
+    "calls": {
+        "wp-includes/functions.php:3350": [
+            "wp-includes/functions.php",
+            3350
+        ],
+        "wp-includes/general-template.php:3994": [
+            "wp-includes/general-template.php",
+            3994
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

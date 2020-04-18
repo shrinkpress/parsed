@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ms-admin-filters.php:32": [
+            "wp-admin/includes/ms-admin-filters.php",
+            32,
+            "import_allow_create_users",
+            "add_filter"
+        ]
+    },
+    "functionName": "check_import_new_users",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 615,
+    "startLine": 623,
+    "endLine": 629,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

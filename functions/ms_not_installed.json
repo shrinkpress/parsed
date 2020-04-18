@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "ms_not_installed",
+    "filename": "wp-includes/ms-load.php",
+    "docCommentLine": 447,
+    "startLine": 461,
+    "endLine": 507,
+    "calls": {
+        "wp-includes/ms-settings.php:77": [
+            "wp-includes/ms-settings.php",
+            77
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

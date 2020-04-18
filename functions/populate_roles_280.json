@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "populate_roles_280",
+    "filename": "wp-admin/includes/schema.php",
+    "docCommentLine": 895,
+    "startLine": 900,
+    "endLine": 906,
+    "calls": {
+        "wp-admin/includes/schema.php:696": [
+            "wp-admin/includes/schema.php",
+            696
+        ],
+        "wp-admin/includes/upgrade.php:1592": [
+            "wp-admin/includes/upgrade.php",
+            1592
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

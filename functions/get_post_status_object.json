@@ -1,0 +1,75 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_status_object",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 1112,
+    "startLine": 1124,
+    "endLine": 1132,
+    "calls": {
+        "wp-admin/edit.php:87": [
+            "wp-admin/edit.php",
+            87
+        ],
+        "wp-admin/includes/class-wp-privacy-requests-table.php:172": [
+            "wp-admin/includes/class-wp-privacy-requests-table.php",
+            172
+        ],
+        "wp-admin/includes/class-wp-privacy-requests-table.php:338": [
+            "wp-admin/includes/class-wp-privacy-requests-table.php",
+            338
+        ],
+        "wp-admin/includes/post.php:100": [
+            "wp-admin/includes/post.php",
+            100
+        ],
+        "wp-includes/capabilities.php:243": [
+            "wp-includes/capabilities.php",
+            243
+        ],
+        "wp-includes/class-wp-customize-manager.php:2447": [
+            "wp-includes/class-wp-customize-manager.php",
+            2447
+        ],
+        "wp-includes/class-wp-query.php:3059": [
+            "wp-includes/class-wp-query.php",
+            3059
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:1427": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1427
+        ],
+        "wp-includes/class-wp.php:232": [
+            "wp-includes/class-wp.php",
+            232
+        ],
+        "wp-includes/comment.php:3243": [
+            "wp-includes/comment.php",
+            3243
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:109": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php",
+            109
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:134": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php",
+            134
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:184": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php",
+            184
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1166": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1166
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1356": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1356
+        ],
+        "wp-includes/rewrite.php:580": [
+            "wp-includes/rewrite.php",
+            580
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

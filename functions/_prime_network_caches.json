@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_prime_network_caches",
+    "filename": "wp-includes/ms-network.php",
+    "docCommentLine": 118,
+    "startLine": 129,
+    "endLine": 138,
+    "calls": {
+        "wp-includes/class-wp-network-query.php:271": [
+            "wp-includes/class-wp-network-query.php",
+            271
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

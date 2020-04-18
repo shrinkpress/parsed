@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:21": [
+            "wp-includes/ms-default-filters.php",
+            21,
+            "site_option_welcome_user_email",
+            "add_filter"
+        ],
+        "wp-includes/ms-functions.php:2234": [
+            "wp-includes/ms-functions.php",
+            2234,
+            "site_option_welcome_user_email",
+            "remove_filter"
+        ]
+    },
+    "functionName": "welcome_user_msg_filter",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2224,
+    "startLine": 2232,
+    "endLine": 2254,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

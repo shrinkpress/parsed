@@ -1,0 +1,43 @@
+{
+    "callbacks": [],
+    "functionName": "get_edit_user_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 1612,
+    "startLine": 1620,
+    "endLine": 1650,
+    "calls": {
+        "wp-admin/includes/class-wp-ms-users-list-table.php:273": [
+            "wp-admin/includes/class-wp-ms-users-list-table.php",
+            273
+        ],
+        "wp-admin/includes/class-wp-ms-users-list-table.php:503": [
+            "wp-admin/includes/class-wp-ms-users-list-table.php",
+            503
+        ],
+        "wp-admin/includes/class-wp-users-list-table.php:446": [
+            "wp-admin/includes/class-wp-users-list-table.php",
+            446
+        ],
+        "wp-admin/network/user-new.php:85": [
+            "wp-admin/network/user-new.php",
+            85
+        ],
+        "wp-admin/user-edit.php:168": [
+            "wp-admin/user-edit.php",
+            168
+        ],
+        "wp-admin/user-new.php:297": [
+            "wp-admin/user-new.php",
+            297
+        ],
+        "wp-includes/admin-bar.php:794": [
+            "wp-includes/admin-bar.php",
+            794
+        ],
+        "wp-includes/comment-template.php:2384": [
+            "wp-includes/comment-template.php",
+            2384
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

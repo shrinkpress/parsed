@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_excerpt",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 393,
+    "startLine": 402,
+    "endLine": 426,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:1043": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1043
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1045": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1045
+        ],
+        "wp-includes/embed.php:946": [
+            "wp-includes/embed.php",
+            946
+        ],
+        "wp-includes/feed.php:222": [
+            "wp-includes/feed.php",
+            222
+        ],
+        "wp-includes/post-template.php:390": [
+            "wp-includes/post-template.php",
+            390
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

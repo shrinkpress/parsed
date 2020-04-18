@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-admin/includes/class-wp-theme-install-list-table.php:116": [
+            "wp-admin/includes/class-wp-theme-install-list-table.php",
+            116,
+            "install_themes_table_header",
+            "add_action"
+        ]
+    },
+    "functionName": "install_theme_search_form",
+    "filename": "wp-admin/includes/theme-install.php",
+    "docCommentLine": 84,
+    "startLine": 91,
+    "endLine": 129,
+    "calls": {
+        "wp-admin/includes/theme-install.php:137": [
+            "wp-admin/includes/theme-install.php",
+            137
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_timestamp",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 2654,
+    "startLine": 2667,
+    "endLine": 2675,
+    "calls": {
+        "wp-admin/includes/class-wp-media-list-table.php:455": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            455
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1070": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1070
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

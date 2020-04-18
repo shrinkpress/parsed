@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_hidden_columns",
+    "filename": "wp-admin/includes/screen.php",
+    "docCommentLine": 46,
+    "startLine": 54,
+    "endLine": 88,
+    "calls": {
+        "wp-admin/includes/class-wp-list-table-compat.php:37": [
+            "wp-admin/includes/class-wp-list-table-compat.php",
+            37
+        ],
+        "wp-admin/includes/class-wp-list-table.php:1051": [
+            "wp-admin/includes/class-wp-list-table.php",
+            1051
+        ],
+        "wp-admin/includes/class-wp-screen.php:1109": [
+            "wp-admin/includes/class-wp-screen.php",
+            1109
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

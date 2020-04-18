@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "clean_bookmark_cache",
+    "filename": "wp-includes/bookmark.php",
+    "docCommentLine": 451,
+    "startLine": 458,
+    "endLine": 462,
+    "calls": {
+        "wp-admin/includes/bookmark.php:114": [
+            "wp-admin/includes/bookmark.php",
+            114
+        ],
+        "wp-admin/includes/bookmark.php:245": [
+            "wp-admin/includes/bookmark.php",
+            245
+        ],
+        "wp-admin/includes/bookmark.php:269": [
+            "wp-admin/includes/bookmark.php",
+            269
+        ],
+        "wp-admin/includes/user.php:416": [
+            "wp-admin/includes/user.php",
+            416
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

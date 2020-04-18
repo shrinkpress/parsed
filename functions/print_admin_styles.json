@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-admin/customize.php:105": [
+            "wp-admin/customize.php",
+            105,
+            "customize_controls_print_styles",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:314": [
+            "wp-includes/default-filters.php",
+            314,
+            "login_head",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:347": [
+            "wp-includes/default-filters.php",
+            347,
+            "admin_print_styles",
+            "add_action"
+        ]
+    },
+    "functionName": "print_admin_styles",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 2673,
+    "startLine": 2682,
+    "endLine": 2704,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

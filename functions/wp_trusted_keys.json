@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_trusted_keys",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 1339,
+    "startLine": 1346,
+    "endLine": 1364,
+    "calls": {
+        "wp-admin/includes/file.php:1282": [
+            "wp-admin/includes/file.php",
+            1282
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

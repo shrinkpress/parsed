@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "img_caption_shortcode",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 1607,
+    "startLine": 1635,
+    "endLine": 1764,
+    "calls": {
+        "wp-includes/widgets/class-wp-widget-media-image.php:274": [
+            "wp-includes/widgets/class-wp-widget-media-image.php",
+            274
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

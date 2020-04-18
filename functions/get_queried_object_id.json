@@ -1,0 +1,55 @@
+{
+    "callbacks": [],
+    "functionName": "get_queried_object_id",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 47,
+    "startLine": 58,
+    "endLine": 61,
+    "calls": {
+        "wp-includes/canonical.php:192": [
+            "wp-includes/canonical.php",
+            192
+        ],
+        "wp-includes/canonical.php:302": [
+            "wp-includes/canonical.php",
+            302
+        ],
+        "wp-includes/category-template.php:622": [
+            "wp-includes/category-template.php",
+            622
+        ],
+        "wp-includes/class-wp-query.php:4269": [
+            "wp-includes/class-wp-query.php",
+            4269
+        ],
+        "wp-includes/link-template.php:3777": [
+            "wp-includes/link-template.php",
+            3777
+        ],
+        "wp-includes/link-template.php:3815": [
+            "wp-includes/link-template.php",
+            3815
+        ],
+        "wp-includes/link-template.php:3870": [
+            "wp-includes/link-template.php",
+            3870
+        ],
+        "wp-includes/post-template.php:1310": [
+            "wp-includes/post-template.php",
+            1310
+        ],
+        "wp-includes/post-template.php:1747": [
+            "wp-includes/post-template.php",
+            1747
+        ],
+        "wp-includes/template.php:426": [
+            "wp-includes/template.php",
+            426
+        ],
+        "wp-includes/widgets/class-wp-widget-recent-posts.php:100": [
+            "wp-includes/widgets/class-wp-widget-recent-posts.php",
+            100
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

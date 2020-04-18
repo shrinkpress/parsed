@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_media_states",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 2171,
+    "startLine": 2179,
+    "endLine": 2250,
+    "calls": {
+        "wp-admin/includes/class-wp-media-list-table.php:405": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            405
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

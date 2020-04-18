@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:254": [
+            "wp-includes/default-filters.php",
+            254,
+            "the_posts",
+            "add_filter"
+        ]
+    },
+    "functionName": "_close_comments_for_old_posts",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 3085,
+    "startLine": 3095,
+    "endLine": 3123,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_comment_count_now",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 2483,
+    "startLine": 2493,
+    "endLine": 2549,
+    "calls": {
+        "wp-includes/comment.php:2468": [
+            "wp-includes/comment.php",
+            2468
+        ],
+        "wp-includes/comment.php:2478": [
+            "wp-includes/comment.php",
+            2478
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

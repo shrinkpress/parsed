@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "switch_theme",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 716,
+    "startLine": 730,
+    "endLine": 816,
+    "calls": {
+        "wp-admin/includes/class-theme-upgrader.php:577": [
+            "wp-admin/includes/class-theme-upgrader.php",
+            577
+        ],
+        "wp-admin/themes.php:33": [
+            "wp-admin/themes.php",
+            33
+        ],
+        "wp-includes/class-wp-customize-manager.php:2881": [
+            "wp-includes/class-wp-customize-manager.php",
+            2881
+        ],
+        "wp-includes/theme.php:858": [
+            "wp-includes/theme.php",
+            858
+        ],
+        "wp-includes/theme.php:876": [
+            "wp-includes/theme.php",
+            876
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

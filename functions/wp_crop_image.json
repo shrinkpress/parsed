@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_crop_image",
+    "filename": "wp-admin/includes/image.php",
+    "docCommentLine": 9,
+    "startLine": 25,
+    "endLine": 67,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:3843": [
+            "wp-admin/includes/ajax-actions.php",
+            3843
+        ],
+        "wp-admin/includes/class-custom-image-header.php:836": [
+            "wp-admin/includes/class-custom-image-header.php",
+            836
+        ],
+        "wp-admin/includes/class-custom-image-header.php:973": [
+            "wp-admin/includes/class-custom-image-header.php",
+            973
+        ],
+        "wp-admin/includes/class-custom-image-header.php:1306": [
+            "wp-admin/includes/class-custom-image-header.php",
+            1306
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

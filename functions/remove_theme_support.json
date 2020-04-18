@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "remove_theme_support",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 2721,
+    "startLine": 2732,
+    "endLine": 2739,
+    "calls": {
+        "wp-includes/deprecated.php:3010": [
+            "wp-includes/deprecated.php",
+            3010
+        ],
+        "wp-includes/deprecated.php:3047": [
+            "wp-includes/deprecated.php",
+            3047
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

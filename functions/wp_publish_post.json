@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_publish_post",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 4200,
+    "startLine": 4209,
+    "endLine": 4243,
+    "calls": {
+        "wp-includes/post.php:4276": [
+            "wp-includes/post.php",
+            4276
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

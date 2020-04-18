@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "is_blog_admin",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 992,
+    "startLine": 1006,
+    "endLine": 1014,
+    "calls": {
+        "wp-admin/about.php:258": [
+            "wp-admin/about.php",
+            258
+        ],
+        "wp-admin/includes/dashboard.php:46": [
+            "wp-admin/includes/dashboard.php",
+            46
+        ],
+        "wp-admin/includes/dashboard.php:55": [
+            "wp-admin/includes/dashboard.php",
+            55
+        ],
+        "wp-admin/includes/dashboard.php:60": [
+            "wp-admin/includes/dashboard.php",
+            60
+        ],
+        "wp-admin/index.php:81": [
+            "wp-admin/index.php",
+            81
+        ],
+        "wp-includes/admin-bar.php:374": [
+            "wp-includes/admin-bar.php",
+            374
+        ],
+        "wp-includes/user.php:347": [
+            "wp-includes/user.php",
+            347
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

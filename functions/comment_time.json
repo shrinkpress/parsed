@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "comment_time",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 1041,
+    "startLine": 1048,
+    "endLine": 1050,
+    "calls": {
+        "wp-includes/class-walker-comment.php:385": [
+            "wp-includes/class-walker-comment.php",
+            385
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

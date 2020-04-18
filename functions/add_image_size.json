@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "add_image_size",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 268,
+    "startLine": 285,
+    "endLine": 293,
+    "calls": {
+        "wp-includes/media.php:342": [
+            "wp-includes/media.php",
+            342
+        ],
+        "wp-includes/media.php:4385": [
+            "wp-includes/media.php",
+            4385
+        ],
+        "wp-includes/media.php:4387": [
+            "wp-includes/media.php",
+            4387
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

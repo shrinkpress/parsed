@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "_get_plugin_data_markup_translate",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 115,
+    "startLine": 143,
+    "endLine": 221,
+    "calls": {
+        "wp-admin/includes/class-wp-plugins-list-table.php:255": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            255
+        ],
+        "wp-admin/includes/plugin.php:106": [
+            "wp-admin/includes/plugin.php",
+            106
+        ],
+        "wp-admin/plugins.php:307": [
+            "wp-admin/plugins.php",
+            307
+        ],
+        "wp-admin/update-core.php:328": [
+            "wp-admin/update-core.php",
+            328
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

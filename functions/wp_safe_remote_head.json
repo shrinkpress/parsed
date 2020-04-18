@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_safe_remote_head",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 94,
+    "startLine": 109,
+    "endLine": 113,
+    "calls": {
+        "wp-includes/comment.php:2589": [
+            "wp-includes/comment.php",
+            2589
+        ],
+        "wp-includes/functions.php:921": [
+            "wp-includes/functions.php",
+            921
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

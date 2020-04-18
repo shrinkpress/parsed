@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "tag_escape",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 4514,
+    "startLine": 4522,
+    "endLine": 4533,
+    "calls": {
+        "wp-includes/functions.php:6358": [
+            "wp-includes/functions.php",
+            6358
+        ],
+        "wp-includes/media.php:1911": [
+            "wp-includes/media.php",
+            1911
+        ],
+        "wp-includes/media.php:1912": [
+            "wp-includes/media.php",
+            1912
+        ],
+        "wp-includes/media.php:1913": [
+            "wp-includes/media.php",
+            1913
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

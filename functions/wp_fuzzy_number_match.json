@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_fuzzy_number_match",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 7389,
+    "startLine": 7401,
+    "endLine": 7403,
+    "calls": {
+        "wp-includes/media.php:613": [
+            "wp-includes/media.php",
+            613
+        ],
+        "wp-includes/media.php:697": [
+            "wp-includes/media.php",
+            697
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

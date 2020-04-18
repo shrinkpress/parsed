@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_get_post_revision_version",
+    "filename": "wp-includes/revision.php",
+    "docCommentLine": 668,
+    "startLine": 677,
+    "endLine": 689,
+    "calls": {
+        "wp-admin/includes/post.php:272": [
+            "wp-admin/includes/post.php",
+            272
+        ],
+        "wp-includes/revision.php:737": [
+            "wp-includes/revision.php",
+            737
+        ],
+        "wp-includes/revision.php:760": [
+            "wp-includes/revision.php",
+            760
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

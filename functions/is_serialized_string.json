@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "is_serialized_string",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 653,
+    "startLine": 661,
+    "endLine": 680,
+    "calls": {
+        "wp-admin/includes/template.php:623": [
+            "wp-admin/includes/template.php",
+            623
+        ],
+        "wp-admin/network/site-settings.php:133": [
+            "wp-admin/network/site-settings.php",
+            133
+        ],
+        "wp-admin/options.php:340": [
+            "wp-admin/options.php",
+            340
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:53": [
+            "wp-admin/includes/admin-filters.php",
+            53,
+            "admin_print_scripts-post.php",
+            "add_action"
+        ],
+        "wp-admin/includes/admin-filters.php:54": [
+            "wp-admin/includes/admin-filters.php",
+            54,
+            "admin_print_scripts-post-new.php",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_page_reload_on_back_button_js",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 1255,
+    "startLine": 1263,
+    "endLine": 1271,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

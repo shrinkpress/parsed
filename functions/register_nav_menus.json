@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "register_nav_menus",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 81,
+    "startLine": 90,
+    "endLine": 103,
+    "calls": {
+        "wp-includes/nav-menu.php:136": [
+            "wp-includes/nav-menu.php",
+            136
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,87 @@
+{
+    "callbacks": [],
+    "functionName": "get_blogs_of_user",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 583,
+    "startLine": 597,
+    "endLine": 713,
+    "calls": {
+        "wp-admin/includes/class-wp-ms-users-list-table.php:364": [
+            "wp-admin/includes/class-wp-ms-users-list-table.php",
+            364
+        ],
+        "wp-admin/includes/dashboard.php:508": [
+            "wp-admin/includes/dashboard.php",
+            508
+        ],
+        "wp-admin/includes/ms.php:168": [
+            "wp-admin/includes/ms.php",
+            168
+        ],
+        "wp-admin/includes/ms.php:573": [
+            "wp-admin/includes/ms.php",
+            573
+        ],
+        "wp-admin/includes/ms.php:766": [
+            "wp-admin/includes/ms.php",
+            766
+        ],
+        "wp-admin/includes/ms.php:904": [
+            "wp-admin/includes/ms.php",
+            904
+        ],
+        "wp-admin/my-sites.php:22": [
+            "wp-admin/my-sites.php",
+            22
+        ],
+        "wp-admin/network/users.php:84": [
+            "wp-admin/network/users.php",
+            84
+        ],
+        "wp-admin/network/users.php:102": [
+            "wp-admin/network/users.php",
+            102
+        ],
+        "wp-admin/user-new.php:66": [
+            "wp-admin/user-new.php",
+            66
+        ],
+        "wp-includes/class-wp-admin-bar.php:42": [
+            "wp-includes/class-wp-admin-bar.php",
+            42
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:689": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            689
+        ],
+        "wp-includes/link-template.php:3684": [
+            "wp-includes/link-template.php",
+            3684
+        ],
+        "wp-includes/ms-functions.php:41": [
+            "wp-includes/ms-functions.php",
+            41
+        ],
+        "wp-includes/ms-functions.php:70": [
+            "wp-includes/ms-functions.php",
+            70
+        ],
+        "wp-includes/ms-functions.php:256": [
+            "wp-includes/ms-functions.php",
+            256
+        ],
+        "wp-includes/ms-functions.php:279": [
+            "wp-includes/ms-functions.php",
+            279
+        ],
+        "wp-includes/ms-functions.php:1763": [
+            "wp-includes/ms-functions.php",
+            1763
+        ],
+        "wp-signup.php:359": [
+            "wp-signup.php",
+            359
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

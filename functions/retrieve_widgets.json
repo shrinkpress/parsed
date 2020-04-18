@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "retrieve_widgets",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 1219,
+    "startLine": 1232,
+    "endLine": 1279,
+    "calls": {
+        "wp-admin/includes/upgrade.php:1758": [
+            "wp-admin/includes/upgrade.php",
+            1758
+        ],
+        "wp-admin/widgets.php:137": [
+            "wp-admin/widgets.php",
+            137
+        ],
+        "wp-includes/class-wp-customize-widgets.php:281": [
+            "wp-includes/class-wp-customize-widgets.php",
+            281
+        ],
+        "wp-includes/widgets.php:1216": [
+            "wp-includes/widgets.php",
+            1216
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

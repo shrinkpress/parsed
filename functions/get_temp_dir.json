@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_temp_dir",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 2066,
+    "startLine": 2082,
+    "endLine": 2110,
+    "calls": {
+        "wp-admin/includes/file.php:640": [
+            "wp-admin/includes/file.php",
+            640
+        ],
+        "wp-admin/includes/media.php:3446": [
+            "wp-admin/includes/media.php",
+            3446
+        ],
+        "wp-admin/includes/media.php:3557": [
+            "wp-admin/includes/media.php",
+            3557
+        ],
+        "wp-includes/class-http.php:292": [
+            "wp-includes/class-http.php",
+            292
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:269": [
+            "wp-includes/default-filters.php",
+            269,
+            "xmlrpc_rsd_apis",
+            "add_action"
+        ]
+    },
+    "functionName": "rest_output_rsd",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 809,
+    "startLine": 816,
+    "endLine": 825,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

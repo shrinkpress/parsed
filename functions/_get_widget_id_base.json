@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_get_widget_id_base",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 1189,
+    "startLine": 1197,
+    "endLine": 1199,
+    "calls": {
+        "wp-includes/widgets.php:378": [
+            "wp-includes/widgets.php",
+            378
+        ],
+        "wp-includes/widgets.php:512": [
+            "wp-includes/widgets.php",
+            512
+        ],
+        "wp-includes/widgets.php:879": [
+            "wp-includes/widgets.php",
+            879
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "parse_blocks",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 502,
+    "startLine": 510,
+    "endLine": 522,
+    "calls": {
+        "wp-includes/blocks.php:274": [
+            "wp-includes/blocks.php",
+            274
+        ],
+        "wp-includes/blocks.php:381": [
+            "wp-includes/blocks.php",
+            381
+        ],
+        "wp-includes/blocks.php:533": [
+            "wp-includes/blocks.php",
+            533
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

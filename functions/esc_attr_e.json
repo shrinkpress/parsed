@@ -1,0 +1,475 @@
+{
+    "callbacks": [],
+    "functionName": "esc_attr_e",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 304,
+    "startLine": 313,
+    "endLine": 315,
+    "calls": {
+        "wp-activate.php:133": [
+            "wp-activate.php",
+            133
+        ],
+        "wp-admin/about.php:43": [
+            "wp-admin/about.php",
+            43
+        ],
+        "wp-admin/credits.php:45": [
+            "wp-admin/credits.php",
+            45
+        ],
+        "wp-admin/customize.php:183": [
+            "wp-admin/customize.php",
+            183
+        ],
+        "wp-admin/freedoms.php:48": [
+            "wp-admin/freedoms.php",
+            48
+        ],
+        "wp-admin/includes/class-custom-background.php:338": [
+            "wp-admin/includes/class-custom-background.php",
+            338
+        ],
+        "wp-admin/includes/class-custom-background.php:339": [
+            "wp-admin/includes/class-custom-background.php",
+            339
+        ],
+        "wp-admin/includes/class-custom-image-header.php:631": [
+            "wp-admin/includes/class-custom-image-header.php",
+            631
+        ],
+        "wp-admin/includes/class-custom-image-header.php:632": [
+            "wp-admin/includes/class-custom-image-header.php",
+            632
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:389": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            389
+        ],
+        "wp-admin/includes/class-wp-screen.php:834": [
+            "wp-admin/includes/class-wp-screen.php",
+            834
+        ],
+        "wp-admin/includes/class-wp-theme-install-list-table.php:392": [
+            "wp-admin/includes/class-wp-theme-install-list-table.php",
+            392
+        ],
+        "wp-admin/includes/dashboard.php:534": [
+            "wp-admin/includes/dashboard.php",
+            534
+        ],
+        "wp-admin/includes/dashboard.php:1270": [
+            "wp-admin/includes/dashboard.php",
+            1270
+        ],
+        "wp-admin/includes/dashboard.php:1289": [
+            "wp-admin/includes/dashboard.php",
+            1289
+        ],
+        "wp-admin/includes/file.php:2139": [
+            "wp-admin/includes/file.php",
+            2139
+        ],
+        "wp-admin/includes/image-edit.php:81": [
+            "wp-admin/includes/image-edit.php",
+            81
+        ],
+        "wp-admin/includes/image-edit.php:105": [
+            "wp-admin/includes/image-edit.php",
+            105
+        ],
+        "wp-admin/includes/image-edit.php:242": [
+            "wp-admin/includes/image-edit.php",
+            242
+        ],
+        "wp-admin/includes/image-edit.php:243": [
+            "wp-admin/includes/image-edit.php",
+            243
+        ],
+        "wp-admin/includes/media.php:2190": [
+            "wp-admin/includes/media.php",
+            2190
+        ],
+        "wp-admin/includes/media.php:2624": [
+            "wp-admin/includes/media.php",
+            2624
+        ],
+        "wp-admin/includes/media.php:2625": [
+            "wp-admin/includes/media.php",
+            2625
+        ],
+        "wp-admin/includes/meta-boxes.php:47": [
+            "wp-admin/includes/meta-boxes.php",
+            47
+        ],
+        "wp-admin/includes/meta-boxes.php:50": [
+            "wp-admin/includes/meta-boxes.php",
+            50
+        ],
+        "wp-admin/includes/meta-boxes.php:336": [
+            "wp-admin/includes/meta-boxes.php",
+            336
+        ],
+        "wp-admin/includes/meta-boxes.php:342": [
+            "wp-admin/includes/meta-boxes.php",
+            342
+        ],
+        "wp-admin/includes/meta-boxes.php:348": [
+            "wp-admin/includes/meta-boxes.php",
+            348
+        ],
+        "wp-admin/includes/meta-boxes.php:349": [
+            "wp-admin/includes/meta-boxes.php",
+            349
+        ],
+        "wp-admin/includes/meta-boxes.php:430": [
+            "wp-admin/includes/meta-boxes.php",
+            430
+        ],
+        "wp-admin/includes/meta-boxes.php:431": [
+            "wp-admin/includes/meta-boxes.php",
+            431
+        ],
+        "wp-admin/includes/meta-boxes.php:532": [
+            "wp-admin/includes/meta-boxes.php",
+            532
+        ],
+        "wp-admin/includes/meta-boxes.php:1059": [
+            "wp-admin/includes/meta-boxes.php",
+            1059
+        ],
+        "wp-admin/includes/meta-boxes.php:1061": [
+            "wp-admin/includes/meta-boxes.php",
+            1061
+        ],
+        "wp-admin/includes/meta-boxes.php:1116": [
+            "wp-admin/includes/meta-boxes.php",
+            1116
+        ],
+        "wp-admin/includes/meta-boxes.php:1117": [
+            "wp-admin/includes/meta-boxes.php",
+            1117
+        ],
+        "wp-admin/includes/nav-menu.php:307": [
+            "wp-admin/includes/nav-menu.php",
+            307
+        ],
+        "wp-admin/includes/nav-menu.php:661": [
+            "wp-admin/includes/nav-menu.php",
+            661
+        ],
+        "wp-admin/includes/nav-menu.php:890": [
+            "wp-admin/includes/nav-menu.php",
+            890
+        ],
+        "wp-admin/includes/plugin-install.php:335": [
+            "wp-admin/includes/plugin-install.php",
+            335
+        ],
+        "wp-admin/includes/plugin-install.php:376": [
+            "wp-admin/includes/plugin-install.php",
+            376
+        ],
+        "wp-admin/includes/revision.php:441": [
+            "wp-admin/includes/revision.php",
+            441
+        ],
+        "wp-admin/includes/revision.php:443": [
+            "wp-admin/includes/revision.php",
+            443
+        ],
+        "wp-admin/includes/template.php:1883": [
+            "wp-admin/includes/template.php",
+            1883
+        ],
+        "wp-admin/index.php:131": [
+            "wp-admin/index.php",
+            131
+        ],
+        "wp-admin/install.php:145": [
+            "wp-admin/install.php",
+            145
+        ],
+        "wp-admin/menu-header.php:268": [
+            "wp-admin/menu-header.php",
+            268
+        ],
+        "wp-admin/nav-menus.php:641": [
+            "wp-admin/nav-menus.php",
+            641
+        ],
+        "wp-admin/nav-menus.php:833": [
+            "wp-admin/nav-menus.php",
+            833
+        ],
+        "wp-admin/plugin-editor.php:268": [
+            "wp-admin/plugin-editor.php",
+            268
+        ],
+        "wp-admin/privacy.php:42": [
+            "wp-admin/privacy.php",
+            42
+        ],
+        "wp-admin/site-health-info.php:51": [
+            "wp-admin/site-health-info.php",
+            51
+        ],
+        "wp-admin/site-health.php:56": [
+            "wp-admin/site-health.php",
+            56
+        ],
+        "wp-admin/theme-editor.php:292": [
+            "wp-admin/theme-editor.php",
+            292
+        ],
+        "wp-admin/theme-install.php:201": [
+            "wp-admin/theme-install.php",
+            201
+        ],
+        "wp-admin/theme-install.php:208": [
+            "wp-admin/theme-install.php",
+            208
+        ],
+        "wp-admin/theme-install.php:228": [
+            "wp-admin/theme-install.php",
+            228
+        ],
+        "wp-admin/theme-install.php:360": [
+            "wp-admin/theme-install.php",
+            360
+        ],
+        "wp-admin/theme-install.php:367": [
+            "wp-admin/theme-install.php",
+            367
+        ],
+        "wp-admin/themes.php:376": [
+            "wp-admin/themes.php",
+            376
+        ],
+        "wp-admin/update-core.php:316": [
+            "wp-admin/update-core.php",
+            316
+        ],
+        "wp-admin/update-core.php:433": [
+            "wp-admin/update-core.php",
+            433
+        ],
+        "wp-admin/update-core.php:466": [
+            "wp-admin/update-core.php",
+            466
+        ],
+        "wp-admin/update-core.php:515": [
+            "wp-admin/update-core.php",
+            515
+        ],
+        "wp-admin/update-core.php:541": [
+            "wp-admin/update-core.php",
+            541
+        ],
+        "wp-admin/update-core.php:894": [
+            "wp-admin/update-core.php",
+            894
+        ],
+        "wp-admin/user-edit.php:637": [
+            "wp-admin/user-edit.php",
+            637
+        ],
+        "wp-admin/user-edit.php:641": [
+            "wp-admin/user-edit.php",
+            641
+        ],
+        "wp-admin/user-new.php:516": [
+            "wp-admin/user-new.php",
+            516
+        ],
+        "wp-admin/user-new.php:520": [
+            "wp-admin/user-new.php",
+            520
+        ],
+        "wp-includes/class-wp-admin-bar.php:445": [
+            "wp-includes/class-wp-admin-bar.php",
+            445
+        ],
+        "wp-includes/class-wp-customize-control.php:631": [
+            "wp-includes/class-wp-customize-control.php",
+            631
+        ],
+        "wp-includes/class-wp-customize-manager.php:4310": [
+            "wp-includes/class-wp-customize-manager.php",
+            4310
+        ],
+        "wp-includes/class-wp-customize-nav-menus.php:1096": [
+            "wp-includes/class-wp-customize-nav-menus.php",
+            1096
+        ],
+        "wp-includes/class-wp-customize-nav-menus.php:1203": [
+            "wp-includes/class-wp-customize-nav-menus.php",
+            1203
+        ],
+        "wp-includes/class-wp-customize-widgets.php:837": [
+            "wp-includes/class-wp-customize-widgets.php",
+            837
+        ],
+        "wp-includes/class-wp-editor.php:1786": [
+            "wp-includes/class-wp-editor.php",
+            1786
+        ],
+        "wp-includes/customize/class-wp-customize-header-image-control.php:236": [
+            "wp-includes/customize/class-wp-customize-header-image-control.php",
+            236
+        ],
+        "wp-includes/customize/class-wp-customize-header-image-control.php:237": [
+            "wp-includes/customize/class-wp-customize-header-image-control.php",
+            237
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-control.php:52": [
+            "wp-includes/customize/class-wp-customize-nav-menu-control.php",
+            52
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-control.php:55": [
+            "wp-includes/customize/class-wp-customize-nav-menu-control.php",
+            55
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-location-control.php:85": [
+            "wp-includes/customize/class-wp-customize-nav-menu-location-control.php",
+            85
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-location-control.php:86": [
+            "wp-includes/customize/class-wp-customize-nav-menu-location-control.php",
+            86
+        ],
+        "wp-includes/customize/class-wp-customize-site-icon-control.php:65": [
+            "wp-includes/customize/class-wp-customize-site-icon-control.php",
+            65
+        ],
+        "wp-includes/customize/class-wp-customize-site-icon-control.php:69": [
+            "wp-includes/customize/class-wp-customize-site-icon-control.php",
+            69
+        ],
+        "wp-includes/customize/class-wp-customize-themes-panel.php:49": [
+            "wp-includes/customize/class-wp-customize-themes-panel.php",
+            49
+        ],
+        "wp-includes/customize/class-wp-customize-themes-section.php:78": [
+            "wp-includes/customize/class-wp-customize-themes-section.php",
+            78
+        ],
+        "wp-includes/customize/class-wp-customize-themes-section.php:128": [
+            "wp-includes/customize/class-wp-customize-themes-section.php",
+            128
+        ],
+        "wp-includes/customize/class-wp-customize-themes-section.php:143": [
+            "wp-includes/customize/class-wp-customize-themes-section.php",
+            143
+        ],
+        "wp-includes/customize/class-wp-widget-area-customize-control.php:59": [
+            "wp-includes/customize/class-wp-widget-area-customize-control.php",
+            59
+        ],
+        "wp-includes/embed.php:1115": [
+            "wp-includes/embed.php",
+            1115
+        ],
+        "wp-includes/embed.php:1132": [
+            "wp-includes/embed.php",
+            1132
+        ],
+        "wp-includes/embed.php:1159": [
+            "wp-includes/embed.php",
+            1159
+        ],
+        "wp-includes/media-template.php:567": [
+            "wp-includes/media-template.php",
+            567
+        ],
+        "wp-includes/media-template.php:568": [
+            "wp-includes/media-template.php",
+            568
+        ],
+        "wp-includes/media-template.php:572": [
+            "wp-includes/media-template.php",
+            572
+        ],
+        "wp-includes/media-template.php:573": [
+            "wp-includes/media-template.php",
+            573
+        ],
+        "wp-includes/media-template.php:575": [
+            "wp-includes/media-template.php",
+            575
+        ],
+        "wp-includes/media-template.php:576": [
+            "wp-includes/media-template.php",
+            576
+        ],
+        "wp-includes/media-template.php:578": [
+            "wp-includes/media-template.php",
+            578
+        ],
+        "wp-includes/media-template.php:579": [
+            "wp-includes/media-template.php",
+            579
+        ],
+        "wp-includes/media-template.php:1168": [
+            "wp-includes/media-template.php",
+            1168
+        ],
+        "wp-includes/media-template.php:1169": [
+            "wp-includes/media-template.php",
+            1169
+        ],
+        "wp-includes/media-template.php:1425": [
+            "wp-includes/media-template.php",
+            1425
+        ],
+        "wp-includes/media-template.php:1437": [
+            "wp-includes/media-template.php",
+            1437
+        ],
+        "wp-includes/media-template.php:1444": [
+            "wp-includes/media-template.php",
+            1444
+        ],
+        "wp-login.php:696": [
+            "wp-login.php",
+            696
+        ],
+        "wp-login.php:860": [
+            "wp-login.php",
+            860
+        ],
+        "wp-login.php:962": [
+            "wp-login.php",
+            962
+        ],
+        "wp-login.php:995": [
+            "wp-login.php",
+            995
+        ],
+        "wp-login.php:1097": [
+            "wp-login.php",
+            1097
+        ],
+        "wp-login.php:1364": [
+            "wp-login.php",
+            1364
+        ],
+        "wp-login.php:1381": [
+            "wp-login.php",
+            1381
+        ],
+        "wp-signup.php:389": [
+            "wp-signup.php",
+            389
+        ],
+        "wp-signup.php:621": [
+            "wp-signup.php",
+            621
+        ],
+        "wp-signup.php:745": [
+            "wp-signup.php",
+            745
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:128": [
+            "wp-includes/ms-default-filters.php",
+            128,
+            "http_request_host_is_external",
+            "add_filter"
+        ]
+    },
+    "functionName": "ms_allowed_http_request_hosts",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 615,
+    "startLine": 629,
+    "endLine": 643,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

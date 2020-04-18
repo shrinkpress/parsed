@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_count",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 357,
+    "startLine": 380,
+    "endLine": 438,
+    "calls": {
+        "wp-includes/comment.php:1354": [
+            "wp-includes/comment.php",
+            1354
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,59 @@
+{
+    "callbacks": [],
+    "functionName": "do_settings_fields",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 1653,
+    "startLine": 1667,
+    "endLine": 1694,
+    "calls": {
+        "wp-admin/includes/template.php:1648": [
+            "wp-admin/includes/template.php",
+            1648
+        ],
+        "wp-admin/options-discussion.php:215": [
+            "wp-admin/options-discussion.php",
+            215
+        ],
+        "wp-admin/options-discussion.php:322": [
+            "wp-admin/options-discussion.php",
+            322
+        ],
+        "wp-admin/options-general.php:412": [
+            "wp-admin/options-general.php",
+            412
+        ],
+        "wp-admin/options-media.php:91": [
+            "wp-admin/options-media.php",
+            91
+        ],
+        "wp-admin/options-media.php:102": [
+            "wp-admin/options-media.php",
+            102
+        ],
+        "wp-admin/options-media.php:144": [
+            "wp-admin/options-media.php",
+            144
+        ],
+        "wp-admin/options-permalink.php:322": [
+            "wp-admin/options-permalink.php",
+            322
+        ],
+        "wp-admin/options-reading.php:210": [
+            "wp-admin/options-reading.php",
+            210
+        ],
+        "wp-admin/options-writing.php:131": [
+            "wp-admin/options-writing.php",
+            131
+        ],
+        "wp-admin/options-writing.php:132": [
+            "wp-admin/options-writing.php",
+            132
+        ],
+        "wp-admin/options-writing.php:187": [
+            "wp-admin/options-writing.php",
+            187
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

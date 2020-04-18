@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/options-general.php:24": [
+            "wp-admin/options-general.php",
+            24,
+            "admin_head",
+            "add_action"
+        ]
+    },
+    "functionName": "options_general_add_js",
+    "filename": "wp-admin/includes/options.php",
+    "docCommentLine": 29,
+    "startLine": 34,
+    "endLine": 101,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

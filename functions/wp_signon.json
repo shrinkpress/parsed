@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_signon",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 9,
+    "startLine": 33,
+    "endLine": 112,
+    "calls": {
+        "wp-login.php:1187": [
+            "wp-login.php",
+            1187
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

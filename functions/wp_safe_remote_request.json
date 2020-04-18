@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_safe_remote_request",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 31,
+    "startLine": 46,
+    "endLine": 50,
+    "calls": {
+        "wp-admin/includes/class-wp-importer.php:220": [
+            "wp-admin/includes/class-wp-importer.php",
+            220
+        ],
+        "wp-includes/class-wp-simplepie-file.php:58": [
+            "wp-includes/class-wp-simplepie-file.php",
+            58
+        ],
+        "wp-includes/deprecated.php:3663": [
+            "wp-includes/deprecated.php",
+            3663
+        ],
+        "wp-includes/rss.php:551": [
+            "wp-includes/rss.php",
+            551
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

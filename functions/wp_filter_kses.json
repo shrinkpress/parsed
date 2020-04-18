@@ -1,0 +1,71 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ajax-actions.php:1294": [
+            "wp-admin/includes/ajax-actions.php",
+            1294,
+            "pre_comment_content",
+            "add_filter"
+        ],
+        "wp-includes/comment.php:3330": [
+            "wp-includes/comment.php",
+            3330,
+            "pre_comment_content",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:18": [
+            "wp-includes/default-filters.php",
+            18,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":18,\"endLine\":18}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":18,\"endLine\":18}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:34": [
+            "wp-includes/default-filters.php",
+            34,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":34,\"endLine\":34}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":34,\"endLine\":34}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:49": [
+            "wp-includes/default-filters.php",
+            49,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":49,\"endLine\":49}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":49,\"endLine\":49}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:71": [
+            "wp-includes/default-filters.php",
+            71,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":71,\"endLine\":71}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":71,\"endLine\":71}}",
+            "add_filter"
+        ],
+        "wp-includes/kses.php:1986": [
+            "wp-includes/kses.php",
+            1986,
+            "title_save_pre",
+            "add_filter"
+        ],
+        "wp-includes/kses.php:1992": [
+            "wp-includes/kses.php",
+            1992,
+            "pre_comment_content",
+            "add_filter"
+        ],
+        "wp-includes/kses.php:2015": [
+            "wp-includes/kses.php",
+            2015,
+            "title_save_pre",
+            "remove_filter"
+        ],
+        "wp-includes/kses.php:2019": [
+            "wp-includes/kses.php",
+            2019,
+            "pre_comment_content",
+            "remove_filter"
+        ]
+    },
+    "functionName": "wp_filter_kses",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 1882,
+    "startLine": 1892,
+    "endLine": 1894,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

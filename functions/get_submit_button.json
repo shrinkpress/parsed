@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "get_submit_button",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 2342,
+    "startLine": 2363,
+    "endLine": 2409,
+    "calls": {
+        "wp-admin/includes/media.php:1685": [
+            "wp-admin/includes/media.php",
+            1685
+        ],
+        "wp-admin/includes/media.php:2948": [
+            "wp-admin/includes/media.php",
+            2948
+        ],
+        "wp-admin/includes/template.php:643": [
+            "wp-admin/includes/template.php",
+            643
+        ],
+        "wp-admin/includes/template.php:645": [
+            "wp-admin/includes/template.php",
+            645
+        ],
+        "wp-admin/includes/template.php:2339": [
+            "wp-admin/includes/template.php",
+            2339
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

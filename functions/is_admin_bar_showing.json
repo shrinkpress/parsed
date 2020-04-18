@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "is_admin_bar_showing",
+    "filename": "wp-includes/admin-bar.php",
+    "docCommentLine": 1162,
+    "startLine": 1176,
+    "endLine": 1214,
+    "calls": {
+        "wp-admin/admin-header.php:159": [
+            "wp-admin/admin-header.php",
+            159
+        ],
+        "wp-admin/includes/template.php:2417": [
+            "wp-admin/includes/template.php",
+            2417
+        ],
+        "wp-includes/admin-bar.php:26": [
+            "wp-includes/admin-bar.php",
+            26
+        ],
+        "wp-includes/admin-bar.php:73": [
+            "wp-includes/admin-bar.php",
+            73
+        ],
+        "wp-includes/post-template.php:766": [
+            "wp-includes/post-template.php",
+            766
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

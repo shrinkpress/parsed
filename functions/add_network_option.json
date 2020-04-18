@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "add_network_option",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 1337,
+    "startLine": 1353,
+    "endLine": 1459,
+    "calls": {
+        "wp-includes/option.php:1172": [
+            "wp-includes/option.php",
+            1172
+        ],
+        "wp-includes/option.php:1617": [
+            "wp-includes/option.php",
+            1617
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

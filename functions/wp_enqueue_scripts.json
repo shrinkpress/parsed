@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:281": [
+            "wp-includes/default-filters.php",
+            281,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_enqueue_scripts",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 2656,
+    "startLine": 2664,
+    "endLine": 2671,
+    "calls": {
+        "wp-includes/class-wp-customize-manager.php:455": [
+            "wp-includes/class-wp-customize-manager.php",
+            455
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

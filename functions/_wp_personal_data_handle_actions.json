@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_personal_data_handle_actions",
+    "filename": "wp-admin/includes/privacy-tools.php",
+    "docCommentLine": 66,
+    "startLine": 72,
+    "endLine": 174,
+    "calls": {
+        "wp-admin/erase-personal-data.php:17": [
+            "wp-admin/erase-personal-data.php",
+            17
+        ],
+        "wp-admin/export-personal-data.php:17": [
+            "wp-admin/export-personal-data.php",
+            17
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

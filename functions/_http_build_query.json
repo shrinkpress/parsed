@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_http_build_query",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 974,
+    "startLine": 992,
+    "endLine": 1025,
+    "calls": {
+        "wp-includes/functions.php:971": [
+            "wp-includes/functions.php",
+            971
+        ],
+        "wp-includes/functions.php:1012": [
+            "wp-includes/functions.php",
+            1012
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

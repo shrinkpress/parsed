@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "get_author_posts_url",
+    "filename": "wp-includes/author-template.php",
+    "docCommentLine": 332,
+    "startLine": 343,
+    "endLine": 374,
+    "calls": {
+        "wp-admin/includes/class-wp-users-list-table.php:463": [
+            "wp-admin/includes/class-wp-users-list-table.php",
+            463
+        ],
+        "wp-includes/admin-bar.php:748": [
+            "wp-includes/admin-bar.php",
+            748
+        ],
+        "wp-includes/author-template.php:301": [
+            "wp-includes/author-template.php",
+            301
+        ],
+        "wp-includes/author-template.php:476": [
+            "wp-includes/author-template.php",
+            476
+        ],
+        "wp-includes/blocks/latest-comments.php:83": [
+            "wp-includes/blocks/latest-comments.php",
+            83
+        ],
+        "wp-includes/canonical.php:234": [
+            "wp-includes/canonical.php",
+            234
+        ],
+        "wp-includes/deprecated.php:788": [
+            "wp-includes/deprecated.php",
+            788
+        ],
+        "wp-includes/embed.php:550": [
+            "wp-includes/embed.php",
+            550
+        ],
+        "wp-includes/link-template.php:800": [
+            "wp-includes/link-template.php",
+            800
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:908": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            908
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_ID",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 651,
+    "startLine": 658,
+    "endLine": 671,
+    "calls": {
+        "wp-includes/comment-template.php:679": [
+            "wp-includes/comment-template.php",
+            679
+        ],
+        "wp-includes/comment-template.php:1953": [
+            "wp-includes/comment-template.php",
+            1953
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

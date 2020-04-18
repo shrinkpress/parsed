@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:567": [
+            "wp-includes/default-filters.php",
+            567,
+            "embed_footer",
+            "add_action"
+        ]
+    },
+    "functionName": "print_embed_scripts",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 1030,
+    "startLine": 1035,
+    "endLine": 1060,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

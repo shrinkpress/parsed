@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_personal_data_cleanup_requests",
+    "filename": "wp-admin/includes/privacy-tools.php",
+    "docCommentLine": 176,
+    "startLine": 182,
+    "endLine": 212,
+    "calls": {
+        "wp-admin/erase-personal-data.php:20": [
+            "wp-admin/erase-personal-data.php",
+            20
+        ],
+        "wp-admin/export-personal-data.php:20": [
+            "wp-admin/export-personal-data.php",
+            20
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

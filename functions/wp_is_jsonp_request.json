@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_is_jsonp_request",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 1497,
+    "startLine": 1504,
+    "endLine": 1523,
+    "calls": {
+        "wp-includes/functions.php:3249": [
+            "wp-includes/functions.php",
+            3249
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

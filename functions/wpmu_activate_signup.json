@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wpmu_activate_signup",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1109,
+    "startLine": 1124,
+    "endLine": 1237,
+    "calls": {
+        "wp-activate.php:45": [
+            "wp-activate.php",
+            45
+        ],
+        "wp-activate.php:51": [
+            "wp-activate.php",
+            51
+        ],
+        "wp-admin/user-new.php:199": [
+            "wp-admin/user-new.php",
+            199
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

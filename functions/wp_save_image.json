@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_save_image",
+    "filename": "wp-admin/includes/image-edit.php",
+    "docCommentLine": 749,
+    "startLine": 758,
+    "endLine": 982,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2601": [
+            "wp-admin/includes/ajax-actions.php",
+            2601
+        ],
+        "wp-admin/includes/ajax-actions.php:2606": [
+            "wp-admin/includes/ajax-actions.php",
+            2606
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

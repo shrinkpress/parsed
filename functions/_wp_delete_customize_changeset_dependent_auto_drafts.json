@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:382": [
+            "wp-includes/default-filters.php",
+            382,
+            "delete_post",
+            "add_action"
+        ],
+        "wp-includes/nav-menu.php:1128": [
+            "wp-includes/nav-menu.php",
+            1128,
+            "delete_post",
+            "remove_action"
+        ],
+        "wp-includes/nav-menu.php:1140": [
+            "wp-includes/nav-menu.php",
+            1140,
+            "delete_post",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_delete_customize_changeset_dependent_auto_drafts",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 1109,
+    "startLine": 1117,
+    "endLine": 1141,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

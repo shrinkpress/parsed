@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_check_invalid_utf8",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 1102,
+    "startLine": 1114,
+    "endLine": 1152,
+    "calls": {
+        "wp-includes/formatting.php:4424": [
+            "wp-includes/formatting.php",
+            4424
+        ],
+        "wp-includes/formatting.php:4452": [
+            "wp-includes/formatting.php",
+            4452
+        ],
+        "wp-includes/formatting.php:4477": [
+            "wp-includes/formatting.php",
+            4477
+        ],
+        "wp-includes/formatting.php:5302": [
+            "wp-includes/formatting.php",
+            5302
+        ],
+        "wp-includes/functions.php:3927": [
+            "wp-includes/functions.php",
+            3927
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

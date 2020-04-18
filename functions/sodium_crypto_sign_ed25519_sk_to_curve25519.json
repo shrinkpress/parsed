@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_sign_ed25519_sk_to_curve25519",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 1154,
+    "startLine": 1161,
+    "endLine": 1164,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:2934": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            2934
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

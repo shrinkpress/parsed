@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_allow_comment",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 641,
+    "startLine": 657,
+    "endLine": 828,
+    "calls": {
+        "wp-includes/comment.php:2121": [
+            "wp-includes/comment.php",
+            2121
+        ],
+        "wp-includes/comment.php:2138": [
+            "wp-includes/comment.php",
+            2138
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:565": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            565
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "postbox_classes",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1277,
+    "startLine": 1286,
+    "endLine": 1312,
+    "calls": {
+        "wp-admin/includes/template.php:1299": [
+            "wp-admin/includes/template.php",
+            1299
+        ],
+        "wp-admin/includes/template.php:1467": [
+            "wp-admin/includes/template.php",
+            1467
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

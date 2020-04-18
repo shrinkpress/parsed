@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_category_by_path",
+    "filename": "wp-includes/category.php",
+    "docCommentLine": 104,
+    "startLine": 124,
+    "endLine": 171,
+    "calls": {
+        "wp-includes/canonical.php:292": [
+            "wp-includes/canonical.php",
+            292
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

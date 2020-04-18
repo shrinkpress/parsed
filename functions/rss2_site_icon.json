@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:326": [
+            "wp-includes/default-filters.php",
+            326,
+            "rss2_head",
+            "add_action"
+        ]
+    },
+    "functionName": "rss2_site_icon",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 594,
+    "startLine": 599,
+    "endLine": 616,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

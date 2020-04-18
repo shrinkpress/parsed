@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_main_site_id",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5275,
+    "startLine": 5284,
+    "endLine": 5295,
+    "calls": {
+        "wp-includes/functions.php:5272": [
+            "wp-includes/functions.php",
+            5272
+        ],
+        "wp-includes/ms-load.php:441": [
+            "wp-includes/ms-load.php",
+            441
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

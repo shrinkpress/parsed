@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "settings_errors",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 1792,
+    "startLine": 1821,
+    "endLine": 1857,
+    "calls": {
+        "wp-admin/erase-personal-data.php:57": [
+            "wp-admin/erase-personal-data.php",
+            57
+        ],
+        "wp-admin/export-personal-data.php:57": [
+            "wp-admin/export-personal-data.php",
+            57
+        ],
+        "wp-admin/options-head.php:18": [
+            "wp-admin/options-head.php",
+            18
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

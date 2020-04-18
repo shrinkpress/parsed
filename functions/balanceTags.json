@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:127": [
+            "wp-includes/default-filters.php",
+            127,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":127,\"endLine\":127}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":127,\"endLine\":127}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:204": [
+            "wp-includes/default-filters.php",
+            204,
+            "widget_text",
+            "add_filter"
+        ]
+    },
+    "functionName": "balanceTags",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 2423,
+    "startLine": 2432,
+    "endLine": 2438,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

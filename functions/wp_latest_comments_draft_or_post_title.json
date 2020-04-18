@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_latest_comments_draft_or_post_title",
+    "filename": "wp-includes/blocks/latest-comments.php",
+    "docCommentLine": 8,
+    "startLine": 28,
+    "endLine": 34,
+    "calls": {
+        "wp-includes/blocks/latest-comments.php:95": [
+            "wp-includes/blocks/latest-comments.php",
+            95
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

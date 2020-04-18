@@ -1,0 +1,43 @@
+{
+    "callbacks": [],
+    "functionName": "wp_constrain_dimensions",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 408,
+    "startLine": 422,
+    "endLine": 484,
+    "calls": {
+        "wp-admin/includes/deprecated.php:52": [
+            "wp-admin/includes/deprecated.php",
+            52
+        ],
+        "wp-admin/includes/deprecated.php:68": [
+            "wp-admin/includes/deprecated.php",
+            68
+        ],
+        "wp-admin/includes/image-edit.php:155": [
+            "wp-admin/includes/image-edit.php",
+            155
+        ],
+        "wp-includes/media.php:129": [
+            "wp-includes/media.php",
+            129
+        ],
+        "wp-includes/media.php:610": [
+            "wp-includes/media.php",
+            610
+        ],
+        "wp-includes/media.php:689": [
+            "wp-includes/media.php",
+            689
+        ],
+        "wp-includes/media.php:692": [
+            "wp-includes/media.php",
+            692
+        ],
+        "wp-includes/media.php:3135": [
+            "wp-includes/media.php",
+            3135
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

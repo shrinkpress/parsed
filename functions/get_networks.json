@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_networks",
+    "filename": "wp-includes/ms-network.php",
+    "docCommentLine": 53,
+    "startLine": 63,
+    "endLine": 67,
+    "calls": {
+        "wp-includes/class-wp-network.php:358": [
+            "wp-includes/class-wp-network.php",
+            358
+        ],
+        "wp-includes/class-wp-network.php:423": [
+            "wp-includes/class-wp-network.php",
+            423
+        ],
+        "wp-includes/class-wp-network.php:440": [
+            "wp-includes/class-wp-network.php",
+            440
+        ],
+        "wp-includes/functions.php:5339": [
+            "wp-includes/functions.php",
+            5339
+        ],
+        "wp-includes/ms-deprecated.php:440": [
+            "wp-includes/ms-deprecated.php",
+            440
+        ],
+        "wp-includes/ms-load.php:330": [
+            "wp-includes/ms-load.php",
+            330
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

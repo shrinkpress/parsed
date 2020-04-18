@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_stylesheet_uri",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 228,
+    "startLine": 238,
+    "endLine": 250,
+    "calls": {
+        "wp-includes/general-template.php:750": [
+            "wp-includes/general-template.php",
+            750
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

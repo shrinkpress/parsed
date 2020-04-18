@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/edit-form-advanced.php:80": [
+            "wp-admin/edit-form-advanced.php",
+            80,
+            "edit_form_after_title",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_posts_page_notice",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 2572,
+    "startLine": 2578,
+    "endLine": 2580,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

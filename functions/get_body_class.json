@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_body_class",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 594,
+    "startLine": 604,
+    "endLine": 835,
+    "calls": {
+        "wp-includes/post-template.php:591": [
+            "wp-includes/post-template.php",
+            591
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

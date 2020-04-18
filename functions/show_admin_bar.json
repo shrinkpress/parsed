@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "show_admin_bar",
+    "filename": "wp-includes/admin-bar.php",
+    "docCommentLine": 1145,
+    "startLine": 1157,
+    "endLine": 1160,
+    "calls": {
+        "wp-admin/includes/template.php:1954": [
+            "wp-admin/includes/template.php",
+            1954
+        ],
+        "wp-includes/class-wp-customize-manager.php:561": [
+            "wp-includes/class-wp-customize-manager.php",
+            561
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

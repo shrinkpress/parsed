@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_install",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 23,
+    "startLine": 40,
+    "endLine": 120,
+    "calls": {
+        "wp-admin/install.php:391": [
+            "wp-admin/install.php",
+            391
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

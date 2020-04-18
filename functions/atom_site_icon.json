@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:325": [
+            "wp-includes/default-filters.php",
+            325,
+            "atom_head",
+            "add_action"
+        ]
+    },
+    "functionName": "atom_site_icon",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 580,
+    "startLine": 587,
+    "endLine": 592,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

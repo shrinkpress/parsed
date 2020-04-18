@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_create_post_autosave",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1783,
+    "startLine": 1791,
+    "endLine": 1846,
+    "calls": {
+        "wp-admin/includes/post.php:1880": [
+            "wp-admin/includes/post.php",
+            1880
+        ],
+        "wp-admin/includes/post.php:1949": [
+            "wp-admin/includes/post.php",
+            1949
+        ],
+        "wp-includes/class-wp-customize-manager.php:2948": [
+            "wp-includes/class-wp-customize-manager.php",
+            2948
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

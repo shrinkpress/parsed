@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/admin-ajax.php:157": [
+            "wp-admin/admin-ajax.php",
+            157,
+            "wp_ajax_nopriv_heartbeat",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_ajax_nopriv_heartbeat",
+    "filename": "wp-admin/includes/ajax-actions.php",
+    "docCommentLine": 14,
+    "startLine": 22,
+    "endLine": 73,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

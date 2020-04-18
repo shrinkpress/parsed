@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "image_resize_dimensions",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 486,
+    "startLine": 510,
+    "endLine": 636,
+    "calls": {
+        "wp-admin/includes/image.php:111": [
+            "wp-admin/includes/image.php",
+            111
+        ],
+        "wp-includes/class-wp-image-editor-gd.php:180": [
+            "wp-includes/class-wp-image-editor-gd.php",
+            180
+        ],
+        "wp-includes/class-wp-image-editor-imagick.php:255": [
+            "wp-includes/class-wp-image-editor-imagick.php",
+            255
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

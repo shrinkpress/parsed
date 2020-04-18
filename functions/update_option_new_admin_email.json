@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:61": [
+            "wp-admin/includes/admin-filters.php",
+            61,
+            "add_option_new_admin_email",
+            "add_action"
+        ],
+        "wp-admin/includes/admin-filters.php:62": [
+            "wp-admin/includes/admin-filters.php",
+            62,
+            "update_option_new_admin_email",
+            "add_action"
+        ]
+    },
+    "functionName": "update_option_new_admin_email",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 1273,
+    "startLine": 1284,
+    "endLine": 1361,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

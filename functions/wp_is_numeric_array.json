@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_is_numeric_array",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 4375,
+    "startLine": 4383,
+    "endLine": 4391,
+    "calls": {
+        "wp-includes/rest-api/class-wp-rest-server.php:453": [
+            "wp-includes/rest-api/class-wp-rest-server.php",
+            453
+        ],
+        "wp-includes/rest-api.php:760": [
+            "wp-includes/rest-api.php",
+            760
+        ],
+        "wp-includes/rest-api.php:1232": [
+            "wp-includes/rest-api.php",
+            1232
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

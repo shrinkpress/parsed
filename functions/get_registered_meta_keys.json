@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_registered_meta_keys",
+    "filename": "wp-includes/meta.php",
+    "docCommentLine": 1312,
+    "startLine": 1322,
+    "endLine": 1330,
+    "calls": {
+        "wp-includes/meta.php:1258": [
+            "wp-includes/meta.php",
+            1258
+        ],
+        "wp-includes/meta.php:1359": [
+            "wp-includes/meta.php",
+            1359
+        ],
+        "wp-includes/meta.php:1372": [
+            "wp-includes/meta.php",
+            1372
+        ],
+        "wp-includes/meta.php:1374": [
+            "wp-includes/meta.php",
+            1374
+        ],
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:396": [
+            "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
+            396
+        ],
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:398": [
+            "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
+            398
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

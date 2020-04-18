@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "user_can_create_post",
+    "filename": "wp-includes/deprecated.php",
+    "docCommentLine": 192,
+    "startLine": 204,
+    "endLine": 209,
+    "calls": {
+        "wp-includes/deprecated.php:293": [
+            "wp-includes/deprecated.php",
+            293
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

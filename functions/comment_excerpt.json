@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "comment_excerpt",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 626,
+    "startLine": 635,
+    "endLine": 649,
+    "calls": {
+        "wp-admin/includes/dashboard.php:830": [
+            "wp-admin/includes/dashboard.php",
+            830
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

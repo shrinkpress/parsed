@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "walk_page_tree",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 1502,
+    "startLine": 1514,
+    "endLine": 1528,
+    "calls": {
+        "wp-includes/post-template.php:1318": [
+            "wp-includes/post-template.php",
+            1318
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

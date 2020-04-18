@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "recurse_dirsize",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 7291,
+    "startLine": 7308,
+    "endLine": 7363,
+    "calls": {
+        "wp-admin/includes/class-wp-debug-data.php:1276": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            1276
+        ],
+        "wp-admin/includes/class-wp-debug-data.php:1278": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            1278
+        ],
+        "wp-includes/functions.php:7282": [
+            "wp-includes/functions.php",
+            7282
+        ],
+        "wp-includes/functions.php:7284": [
+            "wp-includes/functions.php",
+            7284
+        ],
+        "wp-includes/functions.php:7347": [
+            "wp-includes/functions.php",
+            7347
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

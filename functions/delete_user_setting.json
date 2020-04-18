@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "delete_user_setting",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 1005,
+    "startLine": 1017,
+    "endLine": 1038,
+    "calls": {
+        "wp-admin/includes/upgrade.php:2064": [
+            "wp-admin/includes/upgrade.php",
+            2064
+        ],
+        "wp-admin/includes/user.php:479": [
+            "wp-admin/includes/user.php",
+            479
+        ],
+        "wp-admin/includes/user.php:500": [
+            "wp-admin/includes/user.php",
+            500
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

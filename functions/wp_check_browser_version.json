@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_check_browser_version",
+    "filename": "wp-admin/includes/dashboard.php",
+    "docCommentLine": 1629,
+    "startLine": 1636,
+    "endLine": 1686,
+    "calls": {
+        "wp-admin/includes/dashboard.php:27": [
+            "wp-admin/includes/dashboard.php",
+            27
+        ],
+        "wp-admin/includes/dashboard.php:1559": [
+            "wp-admin/includes/dashboard.php",
+            1559
+        ],
+        "wp-admin/includes/dashboard.php:1620": [
+            "wp-admin/includes/dashboard.php",
+            1620
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

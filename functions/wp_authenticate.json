@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_authenticate",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 510,
+    "startLine": 521,
+    "endLine": 562,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:275": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            275
+        ],
+        "wp-includes/deprecated.php:3283": [
+            "wp-includes/deprecated.php",
+            3283
+        ],
+        "wp-includes/pluggable-deprecated.php:175": [
+            "wp-includes/pluggable-deprecated.php",
+            175
+        ],
+        "wp-includes/user.php:95": [
+            "wp-includes/user.php",
+            95
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "update_sitemeta_cache",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 379,
+    "startLine": 390,
+    "endLine": 396,
+    "calls": {
+        "wp-includes/ms-site.php:375": [
+            "wp-includes/ms-site.php",
+            375
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "delete_comment_meta",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 460,
+    "startLine": 475,
+    "endLine": 477,
+    "calls": {
+        "wp-includes/comment.php:1477": [
+            "wp-includes/comment.php",
+            1477
+        ],
+        "wp-includes/comment.php:1478": [
+            "wp-includes/comment.php",
+            1478
+        ],
+        "wp-includes/comment.php:1529": [
+            "wp-includes/comment.php",
+            1529
+        ],
+        "wp-includes/comment.php:1530": [
+            "wp-includes/comment.php",
+            1530
+        ],
+        "wp-includes/comment.php:1573": [
+            "wp-includes/comment.php",
+            1573
+        ],
+        "wp-includes/comment.php:1574": [
+            "wp-includes/comment.php",
+            1574
+        ],
+        "wp-includes/comment.php:1624": [
+            "wp-includes/comment.php",
+            1624
+        ],
+        "wp-includes/comment.php:1625": [
+            "wp-includes/comment.php",
+            1625
+        ],
+        "wp-includes/functions.php:5752": [
+            "wp-includes/functions.php",
+            5752
+        ],
+        "wp-includes/functions.php:5753": [
+            "wp-includes/functions.php",
+            5753
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

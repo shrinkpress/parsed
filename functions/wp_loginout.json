@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_loginout",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 310,
+    "startLine": 322,
+    "endLine": 342,
+    "calls": {
+        "wp-includes/theme-compat/sidebar.php:141": [
+            "wp-includes/theme-compat/sidebar.php",
+            141
+        ],
+        "wp-includes/widgets/class-wp-widget-meta.php:58": [
+            "wp-includes/widgets/class-wp-widget-meta.php",
+            58
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

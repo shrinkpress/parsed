@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "validate_active_plugins",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 1025,
+    "startLine": 1034,
+    "endLine": 1062,
+    "calls": {
+        "wp-admin/plugins.php:483": [
+            "wp-admin/plugins.php",
+            483
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

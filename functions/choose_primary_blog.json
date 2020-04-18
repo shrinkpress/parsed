@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "choose_primary_blog",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 750,
+    "startLine": 758,
+    "endLine": 802,
+    "calls": {
+        "wp-admin/my-sites.php:86": [
+            "wp-admin/my-sites.php",
+            86
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

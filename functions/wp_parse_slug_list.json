@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_parse_slug_list",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 4341,
+    "startLine": 4349,
+    "endLine": 4353,
+    "calls": {
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2591": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            2591
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:327": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php",
+            327
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:230": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php",
+            230
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

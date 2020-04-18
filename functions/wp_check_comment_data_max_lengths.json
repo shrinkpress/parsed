@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_check_comment_data_max_lengths",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 1214,
+    "startLine": 1223,
+    "endLine": 1243,
+    "calls": {
+        "wp-includes/comment.php:3373": [
+            "wp-includes/comment.php",
+            3373
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:559": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            559
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:736": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            736
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

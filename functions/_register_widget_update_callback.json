@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_register_widget_update_callback",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 559,
+    "startLine": 574,
+    "endLine": 591,
+    "calls": {
+        "wp-includes/class-wp-widget.php:551": [
+            "wp-includes/class-wp-widget.php",
+            551
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

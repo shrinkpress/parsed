@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "is_trackback",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 758,
+    "startLine": 771,
+    "endLine": 780,
+    "calls": {
+        "wp-includes/canonical.php:59": [
+            "wp-includes/canonical.php",
+            59
+        ],
+        "wp-includes/functions.php:3271": [
+            "wp-includes/functions.php",
+            3271
+        ],
+        "wp-includes/template-loader.php:42": [
+            "wp-includes/template-loader.php",
+            42
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

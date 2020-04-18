@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "validate_user_signup",
+    "filename": "wp-signup.php",
+    "docCommentLine": 626,
+    "startLine": 633,
+    "endLine": 654,
+    "calls": {
+        "wp-signup.php:947": [
+            "wp-signup.php",
+            947
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

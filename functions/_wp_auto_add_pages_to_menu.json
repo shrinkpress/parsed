@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:381": [
+            "wp-includes/default-filters.php",
+            381,
+            "transition_post_status",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_auto_add_pages_to_menu",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 1062,
+    "startLine": 1072,
+    "endLine": 1107,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

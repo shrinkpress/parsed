@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_blog_status",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 721,
+    "startLine": 732,
+    "endLine": 741,
+    "calls": {
+        "wp-includes/ms-blogs.php:665": [
+            "wp-includes/ms-blogs.php",
+            665
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

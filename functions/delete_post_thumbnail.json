@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "delete_post_thumbnail",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6913,
+    "startLine": 6921,
+    "endLine": 6927,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2639": [
+            "wp-admin/includes/ajax-actions.php",
+            2639
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:1494": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1494
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:5914": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5914
+        ],
+        "wp-includes/post.php:3996": [
+            "wp-includes/post.php",
+            3996
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1195": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1195
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

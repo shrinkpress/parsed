@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_nav_menu_setup",
+    "filename": "wp-admin/includes/nav-menu.php",
+    "docCommentLine": 135,
+    "startLine": 140,
+    "endLine": 165,
+    "calls": {
+        "wp-admin/nav-menus.php:528": [
+            "wp-admin/nav-menus.php",
+            528
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

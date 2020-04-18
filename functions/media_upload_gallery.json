@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:35": [
+            "wp-admin/includes/admin-filters.php",
+            35,
+            "media_upload_gallery",
+            "add_filter"
+        ]
+    },
+    "functionName": "media_upload_gallery",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 1028,
+    "startLine": 1035,
+    "endLine": 1052,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

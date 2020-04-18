@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_tags",
+    "filename": "wp-includes/category-template.php",
+    "docCommentLine": 1117,
+    "startLine": 1125,
+    "endLine": 1137,
+    "calls": {
+        "wp-includes/feed.php:381": [
+            "wp-includes/feed.php",
+            381
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

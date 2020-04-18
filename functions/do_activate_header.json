@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-activate.php:98": [
+            "wp-activate.php",
+            98,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "do_activate_header",
+    "filename": "wp-activate.php",
+    "docCommentLine": 81,
+    "startLine": 88,
+    "endLine": 97,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

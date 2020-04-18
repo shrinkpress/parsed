@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_boundary_post",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 2004,
+    "startLine": 2020,
+    "endLine": 2068,
+    "calls": {
+        "wp-includes/deprecated.php:2675": [
+            "wp-includes/deprecated.php",
+            2675
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

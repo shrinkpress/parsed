@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "current_action",
+    "filename": "wp-includes/plugin.php",
+    "docCommentLine": 328,
+    "startLine": 335,
+    "endLine": 337,
+    "calls": {
+        "wp-includes/rest-api.php:936": [
+            "wp-includes/rest-api.php",
+            936
+        ],
+        "wp-includes/theme.php:734": [
+            "wp-includes/theme.php",
+            734
+        ],
+        "wp-includes/theme.php:798": [
+            "wp-includes/theme.php",
+            798
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

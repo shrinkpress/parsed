@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "wp_is_post_autosave",
+    "filename": "wp-includes/revision.php",
+    "docCommentLine": 267,
+    "startLine": 275,
+    "endLine": 286,
+    "calls": {
+        "wp-admin/includes/revision.php:182": [
+            "wp-admin/includes/revision.php",
+            182
+        ],
+        "wp-admin/includes/revision.php:224": [
+            "wp-admin/includes/revision.php",
+            224
+        ],
+        "wp-admin/revision.php:51": [
+            "wp-admin/revision.php",
+            51
+        ],
+        "wp-admin/revision.php:90": [
+            "wp-admin/revision.php",
+            90
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:4632": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            4632
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:4683": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            4683
+        ],
+        "wp-includes/post-template.php:1828": [
+            "wp-includes/post-template.php",
+            1828
+        ],
+        "wp-includes/post-template.php:1882": [
+            "wp-includes/post-template.php",
+            1882
+        ],
+        "wp-includes/post-template.php:1933": [
+            "wp-includes/post-template.php",
+            1933
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:391": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
+            391
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

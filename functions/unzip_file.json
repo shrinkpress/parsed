@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "unzip_file",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 1366,
+    "startLine": 1384,
+    "endLine": 1437,
+    "calls": {
+        "wp-admin/includes/class-wp-upgrader.php:325": [
+            "wp-admin/includes/class-wp-upgrader.php",
+            325
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

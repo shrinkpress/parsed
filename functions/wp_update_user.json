@@ -1,0 +1,43 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_user",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 1903,
+    "startLine": 1919,
+    "endLine": 2138,
+    "calls": {
+        "wp-admin/includes/user.php:228": [
+            "wp-admin/includes/user.php",
+            228
+        ],
+        "wp-admin/network/users.php:95": [
+            "wp-admin/network/users.php",
+            95
+        ],
+        "wp-admin/network/users.php:111": [
+            "wp-admin/network/users.php",
+            111
+        ],
+        "wp-admin/user-edit.php:106": [
+            "wp-admin/user-edit.php",
+            106
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:2873": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            2873
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:518": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            518
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:672": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            672
+        ],
+        "wp-includes/user.php:2328": [
+            "wp-includes/user.php",
+            2328
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:250": [
+            "wp-includes/default-filters.php",
+            250,
+            "pre_comment_content",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_rel_ugc",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 3118,
+    "startLine": 3126,
+    "endLine": 3137,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

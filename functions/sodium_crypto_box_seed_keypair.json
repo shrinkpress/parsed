@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_box_seed_keypair",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 526,
+    "startLine": 533,
+    "endLine": 536,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:1370": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            1370
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

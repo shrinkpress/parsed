@@ -1,0 +1,75 @@
+{
+    "callbacks": [],
+    "functionName": "esc_html_x",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 381,
+    "startLine": 392,
+    "endLine": 394,
+    "calls": {
+        "wp-admin/edit-form-blocks.php:180": [
+            "wp-admin/edit-form-blocks.php",
+            180
+        ],
+        "wp-admin/edit-link-form.php:90": [
+            "wp-admin/edit-link-form.php",
+            90
+        ],
+        "wp-admin/link-manager.php:101": [
+            "wp-admin/link-manager.php",
+            101
+        ],
+        "wp-admin/media.php:129": [
+            "wp-admin/media.php",
+            129
+        ],
+        "wp-admin/my-sites.php:72": [
+            "wp-admin/my-sites.php",
+            72
+        ],
+        "wp-admin/network/sites.php:364": [
+            "wp-admin/network/sites.php",
+            364
+        ],
+        "wp-admin/network/themes.php:272": [
+            "wp-admin/network/themes.php",
+            272
+        ],
+        "wp-admin/network/users.php:274": [
+            "wp-admin/network/users.php",
+            274
+        ],
+        "wp-admin/plugins.php:593": [
+            "wp-admin/plugins.php",
+            593
+        ],
+        "wp-admin/themes.php:194": [
+            "wp-admin/themes.php",
+            194
+        ],
+        "wp-admin/upload.php:90": [
+            "wp-admin/upload.php",
+            90
+        ],
+        "wp-admin/upload.php:271": [
+            "wp-admin/upload.php",
+            271
+        ],
+        "wp-admin/user-edit.php:227": [
+            "wp-admin/user-edit.php",
+            227
+        ],
+        "wp-admin/user-edit.php:229": [
+            "wp-admin/user-edit.php",
+            229
+        ],
+        "wp-admin/users.php:564": [
+            "wp-admin/users.php",
+            564
+        ],
+        "wp-admin/users.php:566": [
+            "wp-admin/users.php",
+            566
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

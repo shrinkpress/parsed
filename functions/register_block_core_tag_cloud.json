@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/blocks/tag-cloud.php:78": [
+            "wp-includes/blocks/tag-cloud.php",
+            78,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "register_block_core_tag_cloud",
+    "filename": "wp-includes/blocks/tag-cloud.php",
+    "docCommentLine": 50,
+    "startLine": 53,
+    "endLine": 77,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

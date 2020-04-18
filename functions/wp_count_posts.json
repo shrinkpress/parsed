@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_count_posts",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 2589,
+    "startLine": 2608,
+    "endLine": 2657,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:162": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            162
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:284": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            284
+        ],
+        "wp-admin/includes/dashboard.php:269": [
+            "wp-admin/includes/dashboard.php",
+            269
+        ],
+        "wp-admin/includes/post.php:1089": [
+            "wp-admin/includes/post.php",
+            1089
+        ],
+        "wp-admin/nav-menus.php:423": [
+            "wp-admin/nav-menus.php",
+            423
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

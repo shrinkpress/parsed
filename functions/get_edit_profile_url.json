@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_edit_profile_url",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 3717,
+    "startLine": 3727,
+    "endLine": 3749,
+    "calls": {
+        "wp-admin/includes/user.php:522": [
+            "wp-admin/includes/user.php",
+            522
+        ],
+        "wp-includes/admin-bar.php:224": [
+            "wp-includes/admin-bar.php",
+            224
+        ],
+        "wp-includes/admin-bar.php:265": [
+            "wp-includes/admin-bar.php",
+            265
+        ],
+        "wp-includes/class-wp-customize-manager.php:5625": [
+            "wp-includes/class-wp-customize-manager.php",
+            5625
+        ],
+        "wp-includes/link-template.php:1636": [
+            "wp-includes/link-template.php",
+            1636
+        ],
+        "wp-includes/widgets/class-wp-widget-custom-html.php:309": [
+            "wp-includes/widgets/class-wp-widget-custom-html.php",
+            309
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

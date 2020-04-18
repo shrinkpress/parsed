@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:434": [
+            "wp-includes/default-filters.php",
+            434,
+            "split_shared_term",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_check_split_terms_in_menus",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 4041,
+    "startLine": 4054,
+    "endLine": 4075,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

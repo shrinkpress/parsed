@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "iis7_delete_rewrite_rule",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 747,
+    "startLine": 755,
+    "endLine": 781,
+    "calls": {
+        "wp-admin/includes/misc.php:298": [
+            "wp-admin/includes/misc.php",
+            298
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

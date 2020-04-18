@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_install_maybe_enable_pretty_permalinks",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 494,
+    "startLine": 505,
+    "endLine": 567,
+    "calls": {
+        "wp-admin/includes/upgrade.php:97": [
+            "wp-admin/includes/upgrade.php",
+            97
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

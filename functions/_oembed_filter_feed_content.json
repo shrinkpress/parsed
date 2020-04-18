@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:218": [
+            "wp-includes/default-filters.php",
+            218,
+            "the_content_feed",
+            "add_filter"
+        ]
+    },
+    "functionName": "_oembed_filter_feed_content",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 1062,
+    "startLine": 1071,
+    "endLine": 1073,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

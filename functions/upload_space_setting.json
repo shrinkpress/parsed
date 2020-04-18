@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ms-admin-filters.php:20": [
+            "wp-admin/includes/ms-admin-filters.php",
+            20,
+            "wpmueditblogaction",
+            "add_action"
+        ]
+    },
+    "functionName": "upload_space_setting",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 279,
+    "startLine": 286,
+    "endLine": 304,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

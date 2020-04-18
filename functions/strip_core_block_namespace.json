@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "strip_core_block_namespace",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 164,
+    "startLine": 173,
+    "endLine": 179,
+    "calls": {
+        "wp-includes/blocks.php:110": [
+            "wp-includes/blocks.php",
+            110
+        ],
+        "wp-includes/blocks.php:196": [
+            "wp-includes/blocks.php",
+            196
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

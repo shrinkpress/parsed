@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:26": [
+            "wp-includes/ms-default-filters.php",
+            26,
+            "wpmu_new_user",
+            "add_action"
+        ]
+    },
+    "functionName": "newuser_notify_siteadmin",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1415,
+    "startLine": 1426,
+    "endLine": 1469,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,59 @@
+{
+    "callbacks": [],
+    "functionName": "wp_next_scheduled",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 600,
+    "startLine": 611,
+    "endLine": 618,
+    "calls": {
+        "wp-admin/admin.php:97": [
+            "wp-admin/admin.php",
+            97
+        ],
+        "wp-admin/admin.php:102": [
+            "wp-admin/admin.php",
+            102
+        ],
+        "wp-admin/includes/post.php:680": [
+            "wp-admin/includes/post.php",
+            680
+        ],
+        "wp-includes/class-wp-recovery-mode.php:98": [
+            "wp-includes/class-wp-recovery-mode.php",
+            98
+        ],
+        "wp-includes/functions.php:7049": [
+            "wp-includes/functions.php",
+            7049
+        ],
+        "wp-includes/ms-functions.php:2310": [
+            "wp-includes/ms-functions.php",
+            2310
+        ],
+        "wp-includes/post.php:6816": [
+            "wp-includes/post.php",
+            6816
+        ],
+        "wp-includes/taxonomy.php:4013": [
+            "wp-includes/taxonomy.php",
+            4013
+        ],
+        "wp-includes/update.php:229": [
+            "wp-includes/update.php",
+            229
+        ],
+        "wp-includes/update.php:784": [
+            "wp-includes/update.php",
+            784
+        ],
+        "wp-includes/update.php:788": [
+            "wp-includes/update.php",
+            788
+        ],
+        "wp-includes/update.php:792": [
+            "wp-includes/update.php",
+            792
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

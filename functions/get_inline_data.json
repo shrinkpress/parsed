@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_inline_data",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 297,
+    "startLine": 304,
+    "endLine": 386,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:1049": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1049
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

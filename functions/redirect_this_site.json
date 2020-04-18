@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:74": [
+            "wp-includes/ms-default-filters.php",
+            74,
+            "allowed_redirect_hosts",
+            "add_filter"
+        ]
+    },
+    "functionName": "redirect_this_site",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1969,
+    "startLine": 1978,
+    "endLine": 1980,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

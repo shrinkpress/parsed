@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "unregister_setting",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 2184,
+    "startLine": 2197,
+    "endLine": 2257,
+    "calls": {
+        "wp-admin/includes/deprecated.php:185": [
+            "wp-admin/includes/deprecated.php",
+            185
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_active_and_valid_plugins",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 650,
+    "startLine": 664,
+    "endLine": 700,
+    "calls": {
+        "wp-settings.php:358": [
+            "wp-settings.php",
+            358
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

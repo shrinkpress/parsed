@@ -1,0 +1,41 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:442": [
+            "wp-includes/default-filters.php",
+            442,
+            "register_new_user",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:443": [
+            "wp-includes/default-filters.php",
+            443,
+            "edit_user_created_user",
+            "add_action"
+        ],
+        "wp-includes/ms-default-filters.php:30": [
+            "wp-includes/ms-default-filters.php",
+            30,
+            "network_site_new_created_user",
+            "add_action"
+        ],
+        "wp-includes/ms-default-filters.php:31": [
+            "wp-includes/ms-default-filters.php",
+            31,
+            "network_site_users_created_user",
+            "add_action"
+        ],
+        "wp-includes/ms-default-filters.php:32": [
+            "wp-includes/ms-default-filters.php",
+            32,
+            "network_user_new_created_user",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_send_new_user_notifications",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 2579,
+    "startLine": 2593,
+    "endLine": 2595,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

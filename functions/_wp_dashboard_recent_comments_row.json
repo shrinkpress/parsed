@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_dashboard_recent_comments_row",
+    "filename": "wp-admin/includes/dashboard.php",
+    "docCommentLine": 620,
+    "startLine": 631,
+    "endLine": 838,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:1346": [
+            "wp-admin/includes/ajax-actions.php",
+            1346
+        ],
+        "wp-admin/includes/dashboard.php:1016": [
+            "wp-admin/includes/dashboard.php",
+            1016
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

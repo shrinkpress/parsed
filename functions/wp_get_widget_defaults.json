@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_widget_defaults",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 1023,
+    "startLine": 1033,
+    "endLine": 1043,
+    "calls": {
+        "wp-admin/widgets.php:95": [
+            "wp-admin/widgets.php",
+            95
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

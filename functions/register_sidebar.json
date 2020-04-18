@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "register_sidebar",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 206,
+    "startLine": 247,
+    "endLine": 305,
+    "calls": {
+        "wp-admin/widgets.php:105": [
+            "wp-admin/widgets.php",
+            105
+        ],
+        "wp-admin/widgets.php:124": [
+            "wp-admin/widgets.php",
+            124
+        ],
+        "wp-includes/widgets.php:202": [
+            "wp-includes/widgets.php",
+            202
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

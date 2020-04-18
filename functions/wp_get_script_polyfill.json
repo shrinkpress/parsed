@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_script_polyfill",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 162,
+    "startLine": 173,
+    "endLine": 211,
+    "calls": {
+        "wp-includes/script-loader.php:120": [
+            "wp-includes/script-loader.php",
+            120
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

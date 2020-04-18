@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_call_all_hook",
+    "filename": "wp-includes/plugin.php",
+    "docCommentLine": 856,
+    "startLine": 874,
+    "endLine": 878,
+    "calls": {
+        "wp-includes/plugin.php:189": [
+            "wp-includes/plugin.php",
+            189
+        ],
+        "wp-includes/plugin.php:235": [
+            "wp-includes/plugin.php",
+            235
+        ],
+        "wp-includes/plugin.php:457": [
+            "wp-includes/plugin.php",
+            457
+        ],
+        "wp-includes/plugin.php:530": [
+            "wp-includes/plugin.php",
+            530
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

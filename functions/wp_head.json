@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_head",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 2866,
+    "startLine": 2873,
+    "endLine": 2880,
+    "calls": {
+        "wp-includes/theme-compat/header.php:49": [
+            "wp-includes/theme-compat/header.php",
+            49
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

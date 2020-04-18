@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "render_block",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 434,
+    "startLine": 444,
+    "endLine": 500,
+    "calls": {
+        "wp-includes/blocks.php:403": [
+            "wp-includes/blocks.php",
+            403
+        ],
+        "wp-includes/blocks.php:426": [
+            "wp-includes/blocks.php",
+            426
+        ],
+        "wp-includes/blocks.php:478": [
+            "wp-includes/blocks.php",
+            478
+        ],
+        "wp-includes/blocks.php:537": [
+            "wp-includes/blocks.php",
+            537
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

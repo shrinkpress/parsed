@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_extract_urls",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 768,
+    "startLine": 776,
+    "endLine": 797,
+    "calls": {
+        "wp-includes/comment.php:2817": [
+            "wp-includes/comment.php",
+            2817
+        ],
+        "wp-includes/functions.php:835": [
+            "wp-includes/functions.php",
+            835
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:357": [
+            "wp-includes/default-filters.php",
+            357,
+            "comment_form",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_comment_form_unfiltered_html_nonce",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 1262,
+    "startLine": 1276,
+    "endLine": 1284,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

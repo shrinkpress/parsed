@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "do_feed",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 1503,
+    "startLine": 1515,
+    "endLine": 1544,
+    "calls": {
+        "wp-includes/template-loader.php:40": [
+            "wp-includes/template-loader.php",
+            40
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

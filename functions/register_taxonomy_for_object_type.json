@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "register_taxonomy_for_object_type",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 598,
+    "startLine": 609,
+    "endLine": 638,
+    "calls": {
+        "wp-includes/class-wp-post-type.php:614": [
+            "wp-includes/class-wp-post-type.php",
+            614
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_link_page",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 1014,
+    "startLine": 1025,
+    "endLine": 1053,
+    "calls": {
+        "wp-includes/post-template.php:956": [
+            "wp-includes/post-template.php",
+            956
+        ],
+        "wp-includes/post-template.php:979": [
+            "wp-includes/post-template.php",
+            979
+        ],
+        "wp-includes/post-template.php:989": [
+            "wp-includes/post-template.php",
+            989
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

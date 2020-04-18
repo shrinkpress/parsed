@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "rest_parse_date",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 946,
+    "startLine": 956,
+    "endLine": 968,
+    "calls": {
+        "wp-includes/rest-api.php:988": [
+            "wp-includes/rest-api.php",
+            988
+        ],
+        "wp-includes/rest-api.php:1319": [
+            "wp-includes/rest-api.php",
+            1319
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

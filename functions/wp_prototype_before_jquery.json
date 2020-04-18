@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:503": [
+            "wp-includes/default-filters.php",
+            503,
+            "print_scripts_array",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_prototype_before_jquery",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 2224,
+    "startLine": 2232,
+    "endLine": 2254,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

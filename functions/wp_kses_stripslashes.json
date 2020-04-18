@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_kses_stripslashes",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 1600,
+    "startLine": 1611,
+    "endLine": 1613,
+    "calls": {
+        "wp-includes/kses.php:1039": [
+            "wp-includes/kses.php",
+            1039
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

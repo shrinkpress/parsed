@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_privacy_policy_url",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 4385,
+    "startLine": 4392,
+    "endLine": 4410,
+    "calls": {
+        "wp-includes/link-template.php:4437": [
+            "wp-includes/link-template.php",
+            4437
+        ],
+        "wp-includes/user.php:3227": [
+            "wp-includes/user.php",
+            3227
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

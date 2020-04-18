@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "use_block_editor_for_post",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 2063,
+    "startLine": 2071,
+    "endLine": 2100,
+    "calls": {
+        "wp-admin/includes/class-wp-screen.php:304": [
+            "wp-admin/includes/class-wp-screen.php",
+            304
+        ],
+        "wp-admin/post-new.php:71": [
+            "wp-admin/post-new.php",
+            71
+        ],
+        "wp-admin/post.php:178": [
+            "wp-admin/post.php",
+            178
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:245": [
+            "wp-includes/default-filters.php",
+            245,
+            "pre_kses",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_pre_kses_less_than",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 4876,
+    "startLine": 4886,
+    "endLine": 4888,
+    "calls": {
+        "wp-includes/formatting.php:5305": [
+            "wp-includes/formatting.php",
+            5305
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

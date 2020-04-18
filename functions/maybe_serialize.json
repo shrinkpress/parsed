@@ -1,0 +1,67 @@
+{
+    "callbacks": [],
+    "functionName": "maybe_serialize",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 682,
+    "startLine": 690,
+    "endLine": 703,
+    "calls": {
+        "wp-includes/class-wp-customize-manager.php:1522": [
+            "wp-includes/class-wp-customize-manager.php",
+            1522
+        ],
+        "wp-includes/class-wp-customize-manager.php:1563": [
+            "wp-includes/class-wp-customize-manager.php",
+            1563
+        ],
+        "wp-includes/deprecated.php:2329": [
+            "wp-includes/deprecated.php",
+            2329
+        ],
+        "wp-includes/meta.php:88": [
+            "wp-includes/meta.php",
+            88
+        ],
+        "wp-includes/meta.php:223": [
+            "wp-includes/meta.php",
+            223
+        ],
+        "wp-includes/meta.php:232": [
+            "wp-includes/meta.php",
+            232
+        ],
+        "wp-includes/meta.php:376": [
+            "wp-includes/meta.php",
+            376
+        ],
+        "wp-includes/meta.php:724": [
+            "wp-includes/meta.php",
+            724
+        ],
+        "wp-includes/option.php:356": [
+            "wp-includes/option.php",
+            356
+        ],
+        "wp-includes/option.php:370": [
+            "wp-includes/option.php",
+            370
+        ],
+        "wp-includes/option.php:491": [
+            "wp-includes/option.php",
+            491
+        ],
+        "wp-includes/option.php:1402": [
+            "wp-includes/option.php",
+            1402
+        ],
+        "wp-includes/option.php:1612": [
+            "wp-includes/option.php",
+            1612
+        ],
+        "wp-includes/option.php:1632": [
+            "wp-includes/option.php",
+            1632
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

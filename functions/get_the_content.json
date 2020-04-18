@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_content",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 258,
+    "startLine": 276,
+    "endLine": 372,
+    "calls": {
+        "wp-includes/deprecated.php:1660": [
+            "wp-includes/deprecated.php",
+            1660
+        ],
+        "wp-includes/feed.php:191": [
+            "wp-includes/feed.php",
+            191
+        ],
+        "wp-includes/formatting.php:3796": [
+            "wp-includes/formatting.php",
+            3796
+        ],
+        "wp-includes/post-template.php:244": [
+            "wp-includes/post-template.php",
+            244
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

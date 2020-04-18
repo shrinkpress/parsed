@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "themes_api",
+    "filename": "wp-admin/includes/theme.php",
+    "docCommentLine": 354,
+    "startLine": 435,
+    "endLine": 577,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:3508": [
+            "wp-admin/includes/ajax-actions.php",
+            3508
+        ],
+        "wp-admin/includes/ajax-actions.php:4006": [
+            "wp-admin/includes/ajax-actions.php",
+            4006
+        ],
+        "wp-admin/includes/class-theme-upgrader.php:113": [
+            "wp-admin/includes/class-theme-upgrader.php",
+            113
+        ],
+        "wp-admin/includes/class-wp-theme-install-list-table.php:148": [
+            "wp-admin/includes/class-wp-theme-install-list-table.php",
+            148
+        ],
+        "wp-admin/includes/theme-install.php:74": [
+            "wp-admin/includes/theme-install.php",
+            74
+        ],
+        "wp-admin/includes/theme-install.php:239": [
+            "wp-admin/includes/theme-install.php",
+            239
+        ],
+        "wp-admin/includes/theme.php:316": [
+            "wp-admin/includes/theme.php",
+            316
+        ],
+        "wp-admin/themes.php:452": [
+            "wp-admin/themes.php",
+            452
+        ],
+        "wp-admin/update.php:230": [
+            "wp-admin/update.php",
+            230
+        ],
+        "wp-includes/class-wp-customize-manager.php:5781": [
+            "wp-includes/class-wp-customize-manager.php",
+            5781
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

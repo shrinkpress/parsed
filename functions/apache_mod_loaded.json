@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "apache_mod_loaded",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5015,
+    "startLine": 5026,
+    "endLine": 5047,
+    "calls": {
+        "wp-admin/includes/misc.php:17": [
+            "wp-admin/includes/misc.php",
+            17
+        ],
+        "wp-admin/includes/network.php:184": [
+            "wp-admin/includes/network.php",
+            184
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

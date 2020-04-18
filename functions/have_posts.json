@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "have_posts",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 884,
+    "startLine": 893,
+    "endLine": 896,
+    "calls": {
+        "wp-admin/includes/class-wp-media-list-table.php:219": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            219
+        ],
+        "wp-admin/includes/class-wp-media-list-table.php:626": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            626
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:201": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            201
+        ],
+        "wp-includes/feed-atom.php:47": [
+            "wp-includes/feed-atom.php",
+            47
+        ],
+        "wp-includes/feed-rdf.php:61": [
+            "wp-includes/feed-rdf.php",
+            61
+        ],
+        "wp-includes/feed-rdf.php:71": [
+            "wp-includes/feed-rdf.php",
+            71
+        ],
+        "wp-includes/feed-rss.php:31": [
+            "wp-includes/feed-rss.php",
+            31
+        ],
+        "wp-includes/feed-rss2.php:85": [
+            "wp-includes/feed-rss2.php",
+            85
+        ],
+        "wp-includes/theme-compat/embed.php:15": [
+            "wp-includes/theme-compat/embed.php",
+            15
+        ],
+        "wp-includes/theme-compat/embed.php:16": [
+            "wp-includes/theme-compat/embed.php",
+            16
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

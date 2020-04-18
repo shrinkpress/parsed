@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/comment-template.php:2324": [
+            "wp-includes/comment-template.php",
+            2324,
+            "set_comment_cookies",
+            "has_action"
+        ],
+        "wp-includes/default-filters.php:341": [
+            "wp-includes/default-filters.php",
+            341,
+            "set_comment_cookies",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_set_comment_cookies",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 540,
+    "startLine": 551,
+    "endLine": 579,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

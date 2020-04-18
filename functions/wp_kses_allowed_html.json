@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "wp_kses_allowed_html",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 814,
+    "startLine": 829,
+    "endLine": 889,
+    "calls": {
+        "wp-includes/general-template.php:3751": [
+            "wp-includes/general-template.php",
+            3751
+        ],
+        "wp-includes/kses.php:754": [
+            "wp-includes/kses.php",
+            754
+        ],
+        "wp-includes/kses.php:1072": [
+            "wp-includes/kses.php",
+            1072
+        ],
+        "wp-includes/kses.php:1107": [
+            "wp-includes/kses.php",
+            1107
+        ],
+        "wp-includes/media.php:1914": [
+            "wp-includes/media.php",
+            1914
+        ],
+        "wp-includes/widgets/class-wp-widget-custom-html.php:274": [
+            "wp-includes/widgets/class-wp-widget-custom-html.php",
+            274
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

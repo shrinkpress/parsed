@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "user_can_edit_post_comments",
+    "filename": "wp-includes/deprecated.php",
+    "docCommentLine": 315,
+    "startLine": 327,
+    "endLine": 332,
+    "calls": {
+        "wp-includes/deprecated.php:350": [
+            "wp-includes/deprecated.php",
+            350
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_random_header_image",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 1212,
+    "startLine": 1219,
+    "endLine": 1225,
+    "calls": {
+        "wp-includes/theme.php:1084": [
+            "wp-includes/theme.php",
+            1084
+        ],
+        "wp-includes/theme.php:1243": [
+            "wp-includes/theme.php",
+            1243
+        ],
+        "wp-includes/theme.php:1249": [
+            "wp-includes/theme.php",
+            1249
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/user-new.php:29": [
+            "wp-admin/user-new.php",
+            29,
+            "wpmu_signup_user_notification_email",
+            "add_filter"
+        ]
+    },
+    "functionName": "admin_created_user_email",
+    "filename": "wp-admin/includes/user.php",
+    "docCommentLine": 565,
+    "startLine": 571,
+    "endLine": 591,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

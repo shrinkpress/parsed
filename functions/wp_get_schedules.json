@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_schedules",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 783,
+    "startLine": 812,
+    "endLine": 835,
+    "calls": {
+        "wp-admin/includes/class-wp-site-health.php:2019": [
+            "wp-admin/includes/class-wp-site-health.php",
+            2019
+        ],
+        "wp-includes/cron.php:194": [
+            "wp-includes/cron.php",
+            194
+        ],
+        "wp-includes/cron.php:259": [
+            "wp-includes/cron.php",
+            259
+        ],
+        "wp-includes/cron.php:762": [
+            "wp-includes/cron.php",
+            762
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

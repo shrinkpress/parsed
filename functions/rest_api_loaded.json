@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:450": [
+            "wp-includes/default-filters.php",
+            450,
+            "parse_request",
+            "add_action"
+        ]
+    },
+    "functionName": "rest_api_loaded",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 277,
+    "startLine": 284,
+    "endLine": 309,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

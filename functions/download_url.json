@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "download_url",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 984,
+    "startLine": 997,
+    "endLine": 1139,
+    "calls": {
+        "wp-admin/includes/class-wp-upgrader.php:280": [
+            "wp-admin/includes/class-wp-upgrader.php",
+            280
+        ],
+        "wp-admin/includes/media.php:991": [
+            "wp-admin/includes/media.php",
+            991
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

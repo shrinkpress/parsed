@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_revisions_to_keep",
+    "filename": "wp-includes/revision.php",
+    "docCommentLine": 512,
+    "startLine": 525,
+    "endLine": 549,
+    "calls": {
+        "wp-includes/revision.php:194": [
+            "wp-includes/revision.php",
+            194
+        ],
+        "wp-includes/revision.php:509": [
+            "wp-includes/revision.php",
+            509
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

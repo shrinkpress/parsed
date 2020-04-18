@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:252": [
+            "wp-includes/default-filters.php",
+            252,
+            "option_tag_base",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:253": [
+            "wp-includes/default-filters.php",
+            253,
+            "option_category_base",
+            "add_filter"
+        ]
+    },
+    "functionName": "_wp_filter_taxonomy_base",
+    "filename": "wp-includes/rewrite.php",
+    "docCommentLine": 319,
+    "startLine": 330,
+    "endLine": 336,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_theme_mods",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 880,
+    "startLine": 887,
+    "endLine": 902,
+    "calls": {
+        "wp-includes/theme.php:919": [
+            "wp-includes/theme.php",
+            919
+        ],
+        "wp-includes/theme.php:956": [
+            "wp-includes/theme.php",
+            956
+        ],
+        "wp-includes/theme.php:988": [
+            "wp-includes/theme.php",
+            988
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

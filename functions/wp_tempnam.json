@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "wp_tempnam",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 625,
+    "startLine": 638,
+    "endLine": 670,
+    "calls": {
+        "wp-admin/includes/class-wp-filesystem-ftpext.php:135": [
+            "wp-admin/includes/class-wp-filesystem-ftpext.php",
+            135
+        ],
+        "wp-admin/includes/class-wp-filesystem-ftpext.php:185": [
+            "wp-admin/includes/class-wp-filesystem-ftpext.php",
+            185
+        ],
+        "wp-admin/includes/class-wp-filesystem-ftpsockets.php:137": [
+            "wp-admin/includes/class-wp-filesystem-ftpsockets.php",
+            137
+        ],
+        "wp-admin/includes/class-wp-filesystem-ftpsockets.php:194": [
+            "wp-admin/includes/class-wp-filesystem-ftpsockets.php",
+            194
+        ],
+        "wp-admin/includes/file.php:653": [
+            "wp-admin/includes/file.php",
+            653
+        ],
+        "wp-admin/includes/file.php:663": [
+            "wp-admin/includes/file.php",
+            663
+        ],
+        "wp-admin/includes/file.php:1005": [
+            "wp-admin/includes/file.php",
+            1005
+        ],
+        "wp-includes/class-wp-customize-manager.php:1364": [
+            "wp-includes/class-wp-customize-manager.php",
+            1364
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:674": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
+            674
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

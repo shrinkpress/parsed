@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_is_uuid",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6708,
+    "startLine": 6718,
+    "endLine": 6735,
+    "calls": {
+        "wp-includes/class-wp-customize-manager.php:524": [
+            "wp-includes/class-wp-customize-manager.php",
+            524
+        ],
+        "wp-includes/class-wp-customize-manager.php:630": [
+            "wp-includes/class-wp-customize-manager.php",
+            630
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "add_settings_field",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 1543,
+    "startLine": 1578,
+    "endLine": 1613,
+    "calls": {
+        "wp-admin/options-reading.php:66": [
+            "wp-admin/options-reading.php",
+            66
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

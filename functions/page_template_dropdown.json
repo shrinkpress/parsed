@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "page_template_dropdown",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 858,
+    "startLine": 867,
+    "endLine": 874,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:1713": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1713
+        ],
+        "wp-admin/includes/meta-boxes.php:978": [
+            "wp-admin/includes/meta-boxes.php",
+            978
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

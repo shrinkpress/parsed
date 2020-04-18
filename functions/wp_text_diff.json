@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_text_diff",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 2688,
+    "startLine": 2717,
+    "endLine": 2771,
+    "calls": {
+        "wp-admin/includes/revision.php:111": [
+            "wp-admin/includes/revision.php",
+            111
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

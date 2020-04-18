@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:185": [
+            "wp-includes/default-filters.php",
+            185,
+            "get_the_excerpt",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_trim_excerpt",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 3777,
+    "startLine": 3792,
+    "endLine": 3837,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

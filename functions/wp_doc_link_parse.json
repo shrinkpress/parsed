@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_doc_link_parse",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 569,
+    "startLine": 575,
+    "endLine": 626,
+    "calls": {
+        "wp-admin/plugin-editor.php:164": [
+            "wp-admin/plugin-editor.php",
+            164
+        ],
+        "wp-admin/theme-editor.php:165": [
+            "wp-admin/theme-editor.php",
+            165
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

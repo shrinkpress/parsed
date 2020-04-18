@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "comment_reply_link",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 1728,
+    "startLine": 1740,
+    "endLine": 1742,
+    "calls": {
+        "wp-includes/class-walker-comment.php:323": [
+            "wp-includes/class-walker-comment.php",
+            323
+        ],
+        "wp-includes/class-walker-comment.php:405": [
+            "wp-includes/class-walker-comment.php",
+            405
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

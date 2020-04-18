@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/nav-menus.php:526": [
+            "wp-admin/nav-menus.php",
+            526,
+            "admin_body_class",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_nav_menu_max_depth",
+    "filename": "wp-admin/nav-menus.php",
+    "docCommentLine": 515,
+    "startLine": 521,
+    "endLine": 524,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:380": [
+            "wp-includes/default-filters.php",
+            380,
+            "delete_term",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_delete_tax_menu_item",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 1042,
+    "startLine": 1052,
+    "endLine": 1060,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

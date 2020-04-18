@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_header_textcolor",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 1020,
+    "startLine": 1027,
+    "endLine": 1029,
+    "calls": {
+        "wp-admin/includes/class-custom-image-header.php:534": [
+            "wp-admin/includes/class-custom-image-header.php",
+            534
+        ],
+        "wp-admin/includes/class-custom-image-header.php:730": [
+            "wp-admin/includes/class-custom-image-header.php",
+            730
+        ],
+        "wp-includes/theme.php:1037": [
+            "wp-includes/theme.php",
+            1037
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

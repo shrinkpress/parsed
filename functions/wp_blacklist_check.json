@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_blacklist_check",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 1245,
+    "startLine": 1258,
+    "endLine": 1307,
+    "calls": {
+        "wp-includes/comment.php:804": [
+            "wp-includes/comment.php",
+            804
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

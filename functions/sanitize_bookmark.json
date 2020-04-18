@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "sanitize_bookmark",
+    "filename": "wp-includes/bookmark.php",
+    "docCommentLine": 323,
+    "startLine": 333,
+    "endLine": 372,
+    "calls": {
+        "wp-admin/includes/bookmark.php:166": [
+            "wp-admin/includes/bookmark.php",
+            166
+        ],
+        "wp-admin/includes/class-wp-links-list-table.php:298": [
+            "wp-admin/includes/class-wp-links-list-table.php",
+            298
+        ],
+        "wp-includes/bookmark.php:53": [
+            "wp-includes/bookmark.php",
+            53
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_copy_image_file",
+    "filename": "wp-admin/includes/image.php",
+    "docCommentLine": 1014,
+    "startLine": 1023,
+    "endLine": 1049,
+    "calls": {
+        "wp-admin/includes/class-custom-image-header.php:975": [
+            "wp-admin/includes/class-custom-image-header.php",
+            975
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

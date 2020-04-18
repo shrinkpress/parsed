@@ -1,0 +1,30 @@
+{
+    "callbacks": {
+        "wp-admin/includes/widgets.php:86": [
+            "wp-admin/includes/widgets.php",
+            86,
+            "dynamic_sidebar_params",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_list_widget_controls_dynamic_sidebar",
+    "filename": "wp-admin/includes/widgets.php",
+    "docCommentLine": 122,
+    "startLine": 134,
+    "endLine": 154,
+    "calls": {
+        "wp-admin/includes/widgets.php:58": [
+            "wp-admin/includes/widgets.php",
+            58
+        ],
+        "wp-includes/class-wp-customize-widgets.php:995": [
+            "wp-includes/class-wp-customize-widgets.php",
+            995
+        ],
+        "wp-includes/customize/class-wp-widget-form-customize-control.php:111": [
+            "wp-includes/customize/class-wp-widget-form-customize-control.php",
+            111
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:26": [
+            "wp-admin/includes/admin-filters.php",
+            26,
+            "post-html-upload-ui",
+            "add_action"
+        ]
+    },
+    "functionName": "media_upload_html_bypass",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 2985,
+    "startLine": 2990,
+    "endLine": 2996,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

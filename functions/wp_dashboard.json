@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_dashboard",
+    "filename": "wp-admin/includes/dashboard.php",
+    "docCommentLine": 216,
+    "startLine": 221,
+    "endLine": 249,
+    "calls": {
+        "wp-admin/index.php:148": [
+            "wp-admin/index.php",
+            148
+        ],
+        "wp-admin/network/index.php:74": [
+            "wp-admin/network/index.php",
+            74
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,55 @@
+{
+    "callbacks": [],
+    "functionName": "update_blog_status",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 682,
+    "startLine": 696,
+    "endLine": 719,
+    "calls": {
+        "wp-admin/includes/ms.php:116": [
+            "wp-admin/includes/ms.php",
+            116
+        ],
+        "wp-admin/network/sites.php:219": [
+            "wp-admin/network/sites.php",
+            219
+        ],
+        "wp-admin/network/sites.php:248": [
+            "wp-admin/network/sites.php",
+            248
+        ],
+        "wp-admin/network/sites.php:252": [
+            "wp-admin/network/sites.php",
+            252
+        ],
+        "wp-admin/network/sites.php:273": [
+            "wp-admin/network/sites.php",
+            273
+        ],
+        "wp-admin/network/sites.php:278": [
+            "wp-admin/network/sites.php",
+            278
+        ],
+        "wp-admin/network/sites.php:283": [
+            "wp-admin/network/sites.php",
+            283
+        ],
+        "wp-admin/network/users.php:88": [
+            "wp-admin/network/users.php",
+            88
+        ],
+        "wp-admin/network/users.php:105": [
+            "wp-admin/network/users.php",
+            105
+        ],
+        "wp-includes/ms-blogs.php:678": [
+            "wp-includes/ms-blogs.php",
+            678
+        ],
+        "wp-includes/ms-functions.php:2209": [
+            "wp-includes/ms-functions.php",
+            2209
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

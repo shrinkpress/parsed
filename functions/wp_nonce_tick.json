@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_nonce_tick",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 2047,
+    "startLine": 2057,
+    "endLine": 2068,
+    "calls": {
+        "wp-includes/pluggable.php:2105": [
+            "wp-includes/pluggable.php",
+            2105
+        ],
+        "wp-includes/pluggable.php:2156": [
+            "wp-includes/pluggable.php",
+            2156
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

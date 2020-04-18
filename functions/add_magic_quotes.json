@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "add_magic_quotes",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 1194,
+    "startLine": 1202,
+    "endLine": 1211,
+    "calls": {
+        "wp-admin/includes/post.php:1074": [
+            "wp-admin/includes/post.php",
+            1074
+        ],
+        "wp-includes/functions.php:1205": [
+            "wp-includes/functions.php",
+            1205
+        ],
+        "wp-includes/load.php:926": [
+            "wp-includes/load.php",
+            926
+        ],
+        "wp-includes/load.php:927": [
+            "wp-includes/load.php",
+            927
+        ],
+        "wp-includes/load.php:928": [
+            "wp-includes/load.php",
+            928
+        ],
+        "wp-includes/load.php:929": [
+            "wp-includes/load.php",
+            929
+        ],
+        "wp-includes/user.php:1945": [
+            "wp-includes/user.php",
+            1945
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

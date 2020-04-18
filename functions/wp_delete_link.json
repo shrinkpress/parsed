@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "wp_delete_link",
+    "filename": "wp-admin/includes/bookmark.php",
+    "docCommentLine": 80,
+    "startLine": 90,
+    "endLine": 117,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:797": [
+            "wp-admin/includes/ajax-actions.php",
+            797
+        ],
+        "wp-admin/includes/ms.php:185": [
+            "wp-admin/includes/ms.php",
+            185
+        ],
+        "wp-admin/includes/user.php:401": [
+            "wp-admin/includes/user.php",
+            401
+        ],
+        "wp-admin/link-manager.php:30": [
+            "wp-admin/link-manager.php",
+            30
+        ],
+        "wp-admin/link.php:47": [
+            "wp-admin/link.php",
+            47
+        ],
+        "wp-admin/link.php:96": [
+            "wp-admin/link.php",
+            96
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

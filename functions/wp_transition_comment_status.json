@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_transition_comment_status",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 1673,
+    "startLine": 1691,
+    "endLine": 1749,
+    "calls": {
+        "wp-includes/comment.php:1441": [
+            "wp-includes/comment.php",
+            1441
+        ],
+        "wp-includes/comment.php:2295": [
+            "wp-includes/comment.php",
+            2295
+        ],
+        "wp-includes/comment.php:2404": [
+            "wp-includes/comment.php",
+            2404
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

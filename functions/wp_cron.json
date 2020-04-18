@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/class-wp-customize-manager.php:371": [
+            "wp-includes/class-wp-customize-manager.php",
+            371,
+            "init",
+            "remove_action"
+        ],
+        "wp-includes/default-filters.php:331": [
+            "wp-includes/default-filters.php",
+            331,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_cron",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 731,
+    "startLine": 745,
+    "endLine": 781,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

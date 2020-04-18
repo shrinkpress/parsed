@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "is_email_address_unsafe",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 372,
+    "startLine": 385,
+    "endLine": 426,
+    "calls": {
+        "wp-includes/ms-functions.php:485": [
+            "wp-includes/ms-functions.php",
+            485
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

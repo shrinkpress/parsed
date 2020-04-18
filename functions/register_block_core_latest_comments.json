@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/blocks/latest-comments.php:196": [
+            "wp-includes/blocks/latest-comments.php",
+            196,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "register_block_core_latest_comments",
+    "filename": "wp-includes/blocks/latest-comments.php",
+    "docCommentLine": 151,
+    "startLine": 154,
+    "endLine": 194,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

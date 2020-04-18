@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:449": [
+            "wp-includes/default-filters.php",
+            449,
+            "rest_api_init",
+            "add_action"
+        ]
+    },
+    "functionName": "create_initial_rest_routes",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 188,
+    "startLine": 193,
+    "endLine": 275,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

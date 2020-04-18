@@ -1,0 +1,43 @@
+{
+    "callbacks": [],
+    "functionName": "wp_checkdate",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6200,
+    "startLine": 6213,
+    "endLine": 6223,
+    "calls": {
+        "wp-admin/includes/post.php:181": [
+            "wp-admin/includes/post.php",
+            181
+        ],
+        "wp-includes/canonical.php:142": [
+            "wp-includes/canonical.php",
+            142
+        ],
+        "wp-includes/class-wp-customize-manager.php:2469": [
+            "wp-includes/class-wp-customize-manager.php",
+            2469
+        ],
+        "wp-includes/class-wp-date-query.php:427": [
+            "wp-includes/class-wp-date-query.php",
+            427
+        ],
+        "wp-includes/class-wp-date-query.php:443": [
+            "wp-includes/class-wp-date-query.php",
+            443
+        ],
+        "wp-includes/class-wp-query.php:835": [
+            "wp-includes/class-wp-query.php",
+            835
+        ],
+        "wp-includes/ms-site.php:617": [
+            "wp-includes/ms-site.php",
+            617
+        ],
+        "wp-includes/post.php:3722": [
+            "wp-includes/post.php",
+            3722
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

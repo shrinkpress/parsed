@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "is_local_attachment",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 5475,
+    "startLine": 5487,
+    "endLine": 5503,
+    "calls": {
+        "wp-includes/comment.php:2830": [
+            "wp-includes/comment.php",
+            2830
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

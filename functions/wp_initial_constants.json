@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_initial_constants",
+    "filename": "wp-includes/default-constants.php",
+    "docCommentLine": 8,
+    "startLine": 18,
+    "endLine": 141,
+    "calls": {
+        "wp-settings.php:52": [
+            "wp-settings.php",
+            52
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

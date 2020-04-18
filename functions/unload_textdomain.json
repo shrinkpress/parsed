@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "unload_textdomain",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 674,
+    "startLine": 685,
+    "endLine": 724,
+    "calls": {
+        "wp-includes/class-wp-locale-switcher.php:203": [
+            "wp-includes/class-wp-locale-switcher.php",
+            203
+        ],
+        "wp-includes/functions.php:5520": [
+            "wp-includes/functions.php",
+            5520
+        ],
+        "wp-includes/l10n.php:745": [
+            "wp-includes/l10n.php",
+            745
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

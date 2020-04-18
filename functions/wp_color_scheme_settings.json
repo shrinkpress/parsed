@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:44": [
+            "wp-admin/includes/admin-filters.php",
+            44,
+            "admin_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_color_scheme_settings",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 951,
+    "startLine": 955,
+    "endLine": 979,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

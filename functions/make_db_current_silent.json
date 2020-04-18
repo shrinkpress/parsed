@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "make_db_current_silent",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 2931,
+    "startLine": 2943,
+    "endLine": 2945,
+    "calls": {
+        "wp-admin/includes/upgrade.php:47": [
+            "wp-admin/includes/upgrade.php",
+            47
+        ],
+        "wp-admin/includes/upgrade.php:647": [
+            "wp-admin/includes/upgrade.php",
+            647
+        ],
+        "wp-includes/ms-deprecated.php:624": [
+            "wp-includes/ms-deprecated.php",
+            624
+        ],
+        "wp-includes/ms-site.php:723": [
+            "wp-includes/ms-site.php",
+            723
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

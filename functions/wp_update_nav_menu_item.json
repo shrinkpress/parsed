@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_nav_menu_item",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 405,
+    "startLine": 418,
+    "endLine": 592,
+    "calls": {
+        "wp-admin/includes/nav-menu.php:960": [
+            "wp-admin/includes/nav-menu.php",
+            960
+        ],
+        "wp-admin/includes/nav-menu.php:1181": [
+            "wp-admin/includes/nav-menu.php",
+            1181
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:853": [
+            "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php",
+            853
+        ],
+        "wp-includes/nav-menu.php:1105": [
+            "wp-includes/nav-menu.php",
+            1105
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "do_shortcode_tag",
+    "filename": "wp-includes/shortcodes.php",
+    "docCommentLine": 274,
+    "startLine": 287,
+    "endLine": 338,
+    "calls": {
+        "wp-includes/media.php:4112": [
+            "wp-includes/media.php",
+            4112
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

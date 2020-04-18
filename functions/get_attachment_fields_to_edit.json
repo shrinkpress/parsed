@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_attachment_fields_to_edit",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 1335,
+    "startLine": 1344,
+    "endLine": 1467,
+    "calls": {
+        "wp-admin/includes/media.php:1587": [
+            "wp-admin/includes/media.php",
+            1587
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

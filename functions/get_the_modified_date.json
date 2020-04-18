@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_modified_date",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 2455,
+    "startLine": 2465,
+    "endLine": 2489,
+    "calls": {
+        "wp-includes/general-template.php:2432": [
+            "wp-includes/general-template.php",
+            2432
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

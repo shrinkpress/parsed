@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/class-wp-admin-bar.php:615": [
+            "wp-includes/class-wp-admin-bar.php",
+            615,
+            "admin_bar_menu",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_admin_bar_comments_menu",
+    "filename": "wp-includes/admin-bar.php",
+    "docCommentLine": 884,
+    "startLine": 891,
+    "endLine": 915,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

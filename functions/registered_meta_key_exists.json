@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "registered_meta_key_exists",
+    "filename": "wp-includes/meta.php",
+    "docCommentLine": 1244,
+    "startLine": 1257,
+    "endLine": 1261,
+    "calls": {
+        "wp-includes/meta.php:1277": [
+            "wp-includes/meta.php",
+            1277
+        ],
+        "wp-includes/meta.php:1351": [
+            "wp-includes/meta.php",
+            1351
+        ],
+        "wp-includes/meta.php:1355": [
+            "wp-includes/meta.php",
+            1355
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

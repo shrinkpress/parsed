@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_attachment_icon_src",
+    "filename": "wp-includes/deprecated.php",
+    "docCommentLine": 1863,
+    "startLine": 1874,
+    "endLine": 1902,
+    "calls": {
+        "wp-includes/deprecated.php:1922": [
+            "wp-includes/deprecated.php",
+            1922
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:29": [
+            "wp-includes/ms-default-filters.php",
+            29,
+            "after_signup_user",
+            "add_action"
+        ]
+    },
+    "functionName": "wpmu_signup_user_notification",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1002,
+    "startLine": 1024,
+    "endLine": 1107,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

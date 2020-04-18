@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "comment_text_rss",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 346,
+    "startLine": 351,
+    "endLine": 362,
+    "calls": {
+        "wp-includes/feed-rss2-comments.php:102": [
+            "wp-includes/feed-rss2-comments.php",
+            102
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

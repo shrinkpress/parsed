@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_user_to_edit",
+    "filename": "wp-admin/includes/user.php",
+    "docCommentLine": 278,
+    "startLine": 286,
+    "endLine": 294,
+    "calls": {
+        "wp-admin/user-edit.php:178": [
+            "wp-admin/user-edit.php",
+            178
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

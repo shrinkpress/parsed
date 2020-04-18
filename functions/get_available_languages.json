@@ -1,0 +1,75 @@
+{
+    "callbacks": [],
+    "functionName": "get_available_languages",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 1275,
+    "startLine": 1287,
+    "endLine": 1310,
+    "calls": {
+        "wp-admin/includes/translation-install.php:162": [
+            "wp-admin/includes/translation-install.php",
+            162
+        ],
+        "wp-admin/includes/translation-install.php:212": [
+            "wp-admin/includes/translation-install.php",
+            212
+        ],
+        "wp-admin/includes/upgrade.php:1896": [
+            "wp-admin/includes/upgrade.php",
+            1896
+        ],
+        "wp-admin/includes/user.php:128": [
+            "wp-admin/includes/user.php",
+            128
+        ],
+        "wp-admin/network/settings.php:408": [
+            "wp-admin/network/settings.php",
+            408
+        ],
+        "wp-admin/network/site-new.php:76": [
+            "wp-admin/network/site-new.php",
+            76
+        ],
+        "wp-admin/network/site-new.php:251": [
+            "wp-admin/network/site-new.php",
+            251
+        ],
+        "wp-admin/options-general.php:158": [
+            "wp-admin/options-general.php",
+            158
+        ],
+        "wp-admin/user-edit.php:340": [
+            "wp-admin/user-edit.php",
+            340
+        ],
+        "wp-includes/class-wp-locale-switcher.php:49": [
+            "wp-includes/class-wp-locale-switcher.php",
+            49
+        ],
+        "wp-includes/formatting.php:4709": [
+            "wp-includes/formatting.php",
+            4709
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1257": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            1257
+        ],
+        "wp-includes/update.php:338": [
+            "wp-includes/update.php",
+            338
+        ],
+        "wp-includes/update.php:528": [
+            "wp-includes/update.php",
+            528
+        ],
+        "wp-signup.php:879": [
+            "wp-signup.php",
+            879
+        ],
+        "wp-signup.php:887": [
+            "wp-signup.php",
+            887
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

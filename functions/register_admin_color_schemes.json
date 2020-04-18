@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:407": [
+            "wp-includes/default-filters.php",
+            407,
+            "admin_init",
+            "add_action"
+        ]
+    },
+    "functionName": "register_admin_color_schemes",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 4287,
+    "startLine": 4297,
+    "endLine": 4402,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

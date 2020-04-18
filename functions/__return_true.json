@@ -1,0 +1,77 @@
+{
+    "callbacks": {
+        "wp-admin/includes/bookmark.php:316": [
+            "wp-admin/includes/bookmark.php",
+            316,
+            "pre_option_link_manager_enabled",
+            "add_filter"
+        ],
+        "wp-admin/includes/bookmark.php:318": [
+            "wp-admin/includes/bookmark.php",
+            318,
+            "pre_option_link_manager_enabled",
+            "remove_filter"
+        ],
+        "wp-admin/includes/class-wp-screen.php:1229": [
+            "wp-admin/includes/class-wp-screen.php",
+            1229,
+            "screen_options_show_submit",
+            "add_filter"
+        ],
+        "wp-admin/includes/class-wp-screen.php:1284": [
+            "wp-admin/includes/class-wp-screen.php",
+            1284,
+            "screen_options_show_submit",
+            "add_filter"
+        ],
+        "wp-admin/options-discussion.php:298": [
+            "wp-admin/options-discussion.php",
+            298,
+            "pre_option_show_avatars",
+            "add_filter"
+        ],
+        "wp-admin/options-discussion.php:308": [
+            "wp-admin/options-discussion.php",
+            308,
+            "pre_option_show_avatars",
+            "remove_filter"
+        ],
+        "wp-includes/default-filters.php:411": [
+            "wp-includes/default-filters.php",
+            411,
+            "default_option_link_manager_enabled",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:414": [
+            "wp-includes/default-filters.php",
+            414,
+            "pre_option_embed_autourls",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-constants.php:20": [
+            "wp-includes/ms-default-constants.php",
+            20,
+            "default_site_option_ms_files_rewriting",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:112": [
+            "wp-includes/ms-default-filters.php",
+            112,
+            "force_filtered_html_on_import",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:125": [
+            "wp-includes/ms-default-filters.php",
+            125,
+            "default_site_option_ms_files_rewriting",
+            "add_filter"
+        ]
+    },
+    "functionName": "__return_true",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5822,
+    "startLine": 5833,
+    "endLine": 5835,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

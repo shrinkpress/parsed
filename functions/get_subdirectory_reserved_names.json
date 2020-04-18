@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_subdirectory_reserved_names",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2575,
+    "startLine": 2582,
+    "endLine": 2606,
+    "calls": {
+        "wp-admin/network/site-new.php:53": [
+            "wp-admin/network/site-new.php",
+            53
+        ],
+        "wp-includes/ms-functions.php:617": [
+            "wp-includes/ms-functions.php",
+            617
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

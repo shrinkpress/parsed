@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "cache_users",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 113,
+    "startLine": 122,
+    "endLine": 141,
+    "calls": {
+        "wp-admin/includes/revision.php:191": [
+            "wp-admin/includes/revision.php",
+            191
+        ],
+        "wp-includes/class-wp-user-query.php:646": [
+            "wp-includes/class-wp-user-query.php",
+            646
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "rest_get_avatar_sizes",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 1181,
+    "startLine": 1188,
+    "endLine": 1201,
+    "calls": {
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1354": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            1354
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1318": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            1318
+        ],
+        "wp-includes/rest-api.php:1171": [
+            "wp-includes/rest-api.php",
+            1171
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

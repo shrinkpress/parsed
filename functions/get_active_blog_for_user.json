@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_active_blog_for_user",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 26,
+    "startLine": 40,
+    "endLine": 96,
+    "calls": {
+        "wp-includes/class-wp-admin-bar.php:44": [
+            "wp-includes/class-wp-admin-bar.php",
+            44
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:692": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            692
+        ],
+        "wp-includes/link-template.php:3694": [
+            "wp-includes/link-template.php",
+            3694
+        ],
+        "wp-login.php:1273": [
+            "wp-login.php",
+            1273
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

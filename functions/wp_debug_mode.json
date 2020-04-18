@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_debug_mode",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 277,
+    "startLine": 309,
+    "endLine": 354,
+    "calls": {
+        "wp-settings.php:76": [
+            "wp-settings.php",
+            76
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

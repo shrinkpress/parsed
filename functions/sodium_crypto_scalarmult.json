@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_scalarmult",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 834,
+    "startLine": 842,
+    "endLine": 845,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:2187": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            2187
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:420": [
+            "wp-includes/default-filters.php",
+            420,
+            "admin_enqueue_scripts",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_auth_check_load",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6225,
+    "startLine": 6236,
+    "endLine": 6267,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

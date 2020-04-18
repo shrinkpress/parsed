@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "meta_box_prefs",
+    "filename": "wp-admin/includes/screen.php",
+    "docCommentLine": 90,
+    "startLine": 99,
+    "endLine": 141,
+    "calls": {
+        "wp-admin/includes/class-wp-screen.php:1080": [
+            "wp-admin/includes/class-wp-screen.php",
+            1080
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

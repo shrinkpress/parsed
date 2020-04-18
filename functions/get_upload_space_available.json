@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "get_upload_space_available",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2478,
+    "startLine": 2485,
+    "endLine": 2502,
+    "calls": {
+        "wp-admin/includes/ms.php:31": [
+            "wp-admin/includes/ms.php",
+            31
+        ],
+        "wp-admin/includes/ms.php:275": [
+            "wp-admin/includes/ms.php",
+            275
+        ],
+        "wp-includes/ms-functions.php:2515": [
+            "wp-includes/ms-functions.php",
+            2515
+        ],
+        "wp-includes/ms-functions.php:2532": [
+            "wp-includes/ms-functions.php",
+            2532
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:908": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
+            908
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_translate_postdata",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 9,
+    "startLine": 20,
+    "endLine": 196,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2517": [
+            "wp-admin/includes/ajax-actions.php",
+            2517
+        ],
+        "wp-admin/includes/post.php:293": [
+            "wp-admin/includes/post.php",
+            293
+        ],
+        "wp-admin/includes/post.php:609": [
+            "wp-admin/includes/post.php",
+            609
+        ],
+        "wp-admin/includes/post.php:840": [
+            "wp-admin/includes/post.php",
+            840
+        ],
+        "wp-admin/includes/post.php:1799": [
+            "wp-admin/includes/post.php",
+            1799
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

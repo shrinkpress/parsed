@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_all_user_settings",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 1040,
+    "startLine": 1049,
+    "endLine": 1079,
+    "calls": {
+        "wp-includes/option.php:976": [
+            "wp-includes/option.php",
+            976
+        ],
+        "wp-includes/option.php:999": [
+            "wp-includes/option.php",
+            999
+        ],
+        "wp-includes/option.php:1022": [
+            "wp-includes/option.php",
+            1022
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:172": [
+            "wp-includes/default-filters.php",
+            172,
+            "the_content",
+            "add_filter"
+        ]
+    },
+    "functionName": "do_blocks",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 524,
+    "startLine": 532,
+    "endLine": 548,
+    "calls": {
+        "wp-includes/blocks/block.php:29": [
+            "wp-includes/blocks/block.php",
+            29
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

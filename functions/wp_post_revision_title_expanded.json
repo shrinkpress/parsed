@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_post_revision_title_expanded",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 1835,
+    "startLine": 1844,
+    "endLine": 1897,
+    "calls": {
+        "wp-includes/post-template.php:1938": [
+            "wp-includes/post-template.php",
+            1938
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

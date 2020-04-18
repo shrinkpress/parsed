@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:294": [
+            "wp-includes/default-filters.php",
+            294,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_generator",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 4515,
+    "startLine": 4522,
+    "endLine": 4531,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

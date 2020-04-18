@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/functions.php:4521": [
+            "wp-includes/functions.php",
+            4521,
+            "_admin_menu",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_widgets_add_menu",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 4524,
+    "startLine": 4531,
+    "endLine": 4540,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

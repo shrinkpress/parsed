@@ -1,0 +1,75 @@
+{
+    "callbacks": [],
+    "functionName": "clean_post_cache",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6538,
+    "startLine": 6553,
+    "endLine": 6596,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:783": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            783
+        ],
+        "wp-admin/includes/user.php:409": [
+            "wp-admin/includes/user.php",
+            409
+        ],
+        "wp-includes/class-wp-customize-manager.php:3041": [
+            "wp-includes/class-wp-customize-manager.php",
+            3041
+        ],
+        "wp-includes/class-wp-customize-manager.php:3548": [
+            "wp-includes/class-wp-customize-manager.php",
+            3548
+        ],
+        "wp-includes/comment.php:2529": [
+            "wp-includes/comment.php",
+            2529
+        ],
+        "wp-includes/deprecated.php:3118": [
+            "wp-includes/deprecated.php",
+            3118
+        ],
+        "wp-includes/post.php:1950": [
+            "wp-includes/post.php",
+            1950
+        ],
+        "wp-includes/post.php:3040": [
+            "wp-includes/post.php",
+            3040
+        ],
+        "wp-includes/post.php:3044": [
+            "wp-includes/post.php",
+            3044
+        ],
+        "wp-includes/post.php:3928": [
+            "wp-includes/post.php",
+            3928
+        ],
+        "wp-includes/post.php:4003": [
+            "wp-includes/post.php",
+            4003
+        ],
+        "wp-includes/post.php:4223": [
+            "wp-includes/post.php",
+            4223
+        ],
+        "wp-includes/post.php:4701": [
+            "wp-includes/post.php",
+            4701
+        ],
+        "wp-includes/post.php:5636": [
+            "wp-includes/post.php",
+            5636
+        ],
+        "wp-includes/post.php:7088": [
+            "wp-includes/post.php",
+            7088
+        ],
+        "wp-includes/theme.php:3362": [
+            "wp-includes/theme.php",
+            3362
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

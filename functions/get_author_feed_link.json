@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_author_feed_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 776,
+    "startLine": 789,
+    "endLine": 821,
+    "calls": {
+        "wp-includes/author-template.php:488": [
+            "wp-includes/author-template.php",
+            488
+        ],
+        "wp-includes/deprecated.php:1159": [
+            "wp-includes/deprecated.php",
+            1159
+        ],
+        "wp-includes/general-template.php:3032": [
+            "wp-includes/general-template.php",
+            3032
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

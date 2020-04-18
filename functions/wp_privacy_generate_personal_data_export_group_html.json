@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_privacy_generate_personal_data_export_group_html",
+    "filename": "wp-admin/includes/privacy-tools.php",
+    "docCommentLine": 214,
+    "startLine": 236,
+    "endLine": 277,
+    "calls": {
+        "wp-admin/includes/privacy-tools.php:401": [
+            "wp-admin/includes/privacy-tools.php",
+            401
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

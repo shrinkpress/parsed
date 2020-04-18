@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "trackback_response",
+    "filename": "wp-trackback.php",
+    "docCommentLine": 16,
+    "startLine": 27,
+    "endLine": 42,
+    "calls": {
+        "wp-trackback.php:88": [
+            "wp-trackback.php",
+            88
+        ],
+        "wp-trackback.php:115": [
+            "wp-trackback.php",
+            115
+        ],
+        "wp-trackback.php:130": [
+            "wp-trackback.php",
+            130
+        ],
+        "wp-trackback.php:138": [
+            "wp-trackback.php",
+            138
+        ],
+        "wp-trackback.php:151": [
+            "wp-trackback.php",
+            151
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_video_shortcode",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 2645,
+    "startLine": 2673,
+    "endLine": 2906,
+    "calls": {
+        "wp-admin/includes/media.php:3137": [
+            "wp-admin/includes/media.php",
+            3137
+        ],
+        "wp-includes/post-template.php:1666": [
+            "wp-includes/post-template.php",
+            1666
+        ],
+        "wp-includes/widgets/class-wp-widget-media-video.php:136": [
+            "wp-includes/widgets/class-wp-widget-media-video.php",
+            136
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

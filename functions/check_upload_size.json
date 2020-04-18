@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ms-admin-filters.php:11": [
+            "wp-admin/includes/ms-admin-filters.php",
+            11,
+            "wp_handle_upload_prefilter",
+            "add_filter"
+        ]
+    },
+    "functionName": "check_upload_size",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 10,
+    "startLine": 18,
+    "endLine": 53,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "is_day",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 355,
+    "startLine": 370,
+    "endLine": 379,
+    "calls": {
+        "wp-includes/canonical.php:199": [
+            "wp-includes/canonical.php",
+            199
+        ],
+        "wp-includes/canonical.php:216": [
+            "wp-includes/canonical.php",
+            216
+        ],
+        "wp-includes/general-template.php:1095": [
+            "wp-includes/general-template.php",
+            1095
+        ],
+        "wp-includes/general-template.php:1576": [
+            "wp-includes/general-template.php",
+            1576
+        ],
+        "wp-includes/theme-compat/sidebar.php:35": [
+            "wp-includes/theme-compat/sidebar.php",
+            35
+        ],
+        "wp-includes/theme-compat/sidebar.php:52": [
+            "wp-includes/theme-compat/sidebar.php",
+            52
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_tinymce_inline_scripts",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 743,
+    "startLine": 753,
+    "endLine": 885,
+    "calls": {
+        "wp-admin/edit-form-blocks.php:342": [
+            "wp-admin/edit-form-blocks.php",
+            342
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

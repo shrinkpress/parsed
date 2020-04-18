@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "do_accordion_sections",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 1409,
+    "startLine": 1425,
+    "endLine": 1483,
+    "calls": {
+        "wp-admin/nav-menus.php:872": [
+            "wp-admin/nav-menus.php",
+            872
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

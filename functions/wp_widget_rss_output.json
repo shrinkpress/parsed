@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_widget_rss_output",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 1479,
+    "startLine": 1487,
+    "endLine": 1584,
+    "calls": {
+        "wp-admin/includes/dashboard.php:1045": [
+            "wp-admin/includes/dashboard.php",
+            1045
+        ],
+        "wp-admin/includes/dashboard.php:1486": [
+            "wp-admin/includes/dashboard.php",
+            1486
+        ],
+        "wp-includes/widgets/class-wp-widget-rss.php:97": [
+            "wp-includes/widgets/class-wp-widget-rss.php",
+            97
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

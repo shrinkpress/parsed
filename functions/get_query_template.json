@@ -1,0 +1,83 @@
+{
+    "callbacks": [],
+    "functionName": "get_query_template",
+    "filename": "wp-includes/template.php",
+    "docCommentLine": 9,
+    "startLine": 23,
+    "endLine": 64,
+    "calls": {
+        "wp-includes/deprecated.php:3791": [
+            "wp-includes/deprecated.php",
+            3791
+        ],
+        "wp-includes/template.php:79": [
+            "wp-includes/template.php",
+            79
+        ],
+        "wp-includes/template.php:95": [
+            "wp-includes/template.php",
+            95
+        ],
+        "wp-includes/template.php:121": [
+            "wp-includes/template.php",
+            121
+        ],
+        "wp-includes/template.php:185": [
+            "wp-includes/template.php",
+            185
+        ],
+        "wp-includes/template.php:231": [
+            "wp-includes/template.php",
+            231
+        ],
+        "wp-includes/template.php:277": [
+            "wp-includes/template.php",
+            277
+        ],
+        "wp-includes/template.php:324": [
+            "wp-includes/template.php",
+            324
+        ],
+        "wp-includes/template.php:340": [
+            "wp-includes/template.php",
+            340
+        ],
+        "wp-includes/template.php:358": [
+            "wp-includes/template.php",
+            358
+        ],
+        "wp-includes/template.php:376": [
+            "wp-includes/template.php",
+            376
+        ],
+        "wp-includes/template.php:394": [
+            "wp-includes/template.php",
+            394
+        ],
+        "wp-includes/template.php:454": [
+            "wp-includes/template.php",
+            454
+        ],
+        "wp-includes/template.php:470": [
+            "wp-includes/template.php",
+            470
+        ],
+        "wp-includes/template.php:526": [
+            "wp-includes/template.php",
+            526
+        ],
+        "wp-includes/template.php:568": [
+            "wp-includes/template.php",
+            568
+        ],
+        "wp-includes/template.php:584": [
+            "wp-includes/template.php",
+            584
+        ],
+        "wp-includes/template.php:636": [
+            "wp-includes/template.php",
+            636
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

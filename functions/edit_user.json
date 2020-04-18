@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "edit_user",
+    "filename": "wp-admin/includes/user.php",
+    "docCommentLine": 20,
+    "startLine": 30,
+    "endLine": 245,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:1668": [
+            "wp-admin/includes/ajax-actions.php",
+            1668
+        ],
+        "wp-admin/includes/user.php:17": [
+            "wp-admin/includes/user.php",
+            17
+        ],
+        "wp-admin/user-edit.php:160": [
+            "wp-admin/user-edit.php",
+            160
+        ],
+        "wp-admin/user-new.php:163": [
+            "wp-admin/user-new.php",
+            163
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "is_date",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 331,
+    "startLine": 344,
+    "endLine": 353,
+    "calls": {
+        "wp-includes/post-template.php:625": [
+            "wp-includes/post-template.php",
+            625
+        ],
+        "wp-includes/post-template.php:801": [
+            "wp-includes/post-template.php",
+            801
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

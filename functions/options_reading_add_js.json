@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/options-reading.php:19": [
+            "wp-admin/options-reading.php",
+            19,
+            "admin_head",
+            "add_action"
+        ]
+    },
+    "functionName": "options_reading_add_js",
+    "filename": "wp-admin/includes/options.php",
+    "docCommentLine": 103,
+    "startLine": 108,
+    "endLine": 123,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

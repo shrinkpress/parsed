@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "add_cssclass",
+    "filename": "wp-admin/includes/menu.php",
+    "docCommentLine": 189,
+    "startLine": 194,
+    "endLine": 197,
+    "calls": {
+        "wp-admin/includes/menu.php:212": [
+            "wp-admin/includes/menu.php",
+            212
+        ],
+        "wp-admin/includes/menu.php:220": [
+            "wp-admin/includes/menu.php",
+            220
+        ],
+        "wp-admin/includes/menu.php:226": [
+            "wp-admin/includes/menu.php",
+            226
+        ],
+        "wp-admin/includes/menu.php:232": [
+            "wp-admin/includes/menu.php",
+            232
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

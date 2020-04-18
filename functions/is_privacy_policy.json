@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "is_privacy_policy",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 492,
+    "startLine": 511,
+    "endLine": 520,
+    "calls": {
+        "wp-includes/post-template.php:619": [
+            "wp-includes/post-template.php",
+            619
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

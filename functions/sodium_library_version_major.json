@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_library_version_major",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 1234,
+    "startLine": 1238,
+    "endLine": 1241,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:3126": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3126
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

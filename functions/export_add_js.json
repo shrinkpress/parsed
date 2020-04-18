@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/export.php:44": [
+            "wp-admin/export.php",
+            44,
+            "admin_head",
+            "add_action"
+        ]
+    },
+    "functionName": "export_add_js",
+    "filename": "wp-admin/export.php",
+    "docCommentLine": 20,
+    "startLine": 25,
+    "endLine": 43,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

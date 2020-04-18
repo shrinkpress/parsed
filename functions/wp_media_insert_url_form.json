@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_media_insert_url_form",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 2847,
+    "startLine": 2855,
+    "endLine": 2952,
+    "calls": {
+        "wp-admin/includes/deprecated.php:934": [
+            "wp-admin/includes/deprecated.php",
+            934
+        ],
+        "wp-admin/includes/deprecated.php:947": [
+            "wp-admin/includes/deprecated.php",
+            947
+        ],
+        "wp-admin/includes/deprecated.php:960": [
+            "wp-admin/includes/deprecated.php",
+            960
+        ],
+        "wp-admin/includes/deprecated.php:973": [
+            "wp-admin/includes/deprecated.php",
+            973
+        ],
+        "wp-admin/includes/media.php:2462": [
+            "wp-admin/includes/media.php",
+            2462
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

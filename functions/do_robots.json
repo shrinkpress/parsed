@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:340": [
+            "wp-includes/default-filters.php",
+            340,
+            "do_robots",
+            "add_action"
+        ]
+    },
+    "functionName": "do_robots",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 1602,
+    "startLine": 1609,
+    "endLine": 1636,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

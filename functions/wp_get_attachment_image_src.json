@@ -1,0 +1,87 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_attachment_image_src",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 912,
+    "startLine": 930,
+    "endLine": 964,
+    "calls": {
+        "wp-admin/async-upload.php:54": [
+            "wp-admin/async-upload.php",
+            54
+        ],
+        "wp-admin/includes/class-custom-background.php:524": [
+            "wp-admin/includes/class-custom-background.php",
+            524
+        ],
+        "wp-admin/includes/class-custom-background.php:610": [
+            "wp-admin/includes/class-custom-background.php",
+            610
+        ],
+        "wp-admin/includes/class-custom-background.php:611": [
+            "wp-admin/includes/class-custom-background.php",
+            611
+        ],
+        "wp-admin/includes/class-custom-image-header.php:784": [
+            "wp-admin/includes/class-custom-image-header.php",
+            784
+        ],
+        "wp-admin/includes/image-edit.php:960": [
+            "wp-admin/includes/image-edit.php",
+            960
+        ],
+        "wp-admin/includes/media.php:1544": [
+            "wp-admin/includes/media.php",
+            1544
+        ],
+        "wp-admin/includes/media.php:3063": [
+            "wp-admin/includes/media.php",
+            3063
+        ],
+        "wp-includes/embed.php:672": [
+            "wp-includes/embed.php",
+            672
+        ],
+        "wp-includes/media.php:985": [
+            "wp-includes/media.php",
+            985
+        ],
+        "wp-includes/media.php:1055": [
+            "wp-includes/media.php",
+            1055
+        ],
+        "wp-includes/media.php:1128": [
+            "wp-includes/media.php",
+            1128
+        ],
+        "wp-includes/media.php:1349": [
+            "wp-includes/media.php",
+            1349
+        ],
+        "wp-includes/media.php:2291": [
+            "wp-includes/media.php",
+            2291
+        ],
+        "wp-includes/media.php:2293": [
+            "wp-includes/media.php",
+            2293
+        ],
+        "wp-includes/media.php:3559": [
+            "wp-includes/media.php",
+            3559
+        ],
+        "wp-includes/media.php:3561": [
+            "wp-includes/media.php",
+            3561
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:444": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
+            444
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:452": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
+            452
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

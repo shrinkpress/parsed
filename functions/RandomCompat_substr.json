@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "RandomCompat_substr",
+    "filename": "wp-includes/random_compat/byte_safe_strings.php",
+    "docCommentLine": 141,
+    "startLine": 154,
+    "endLine": 179,
+    "calls": {
+        "wp-includes/random_compat/random_bytes_com_dotnet.php:76": [
+            "wp-includes/random_compat/random_bytes_com_dotnet.php",
+            76
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

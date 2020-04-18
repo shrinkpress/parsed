@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:364": [
+            "wp-includes/default-filters.php",
+            364,
+            "wp_privacy_personal_data_exporters",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_register_comment_personal_data_exporter",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 3390,
+    "startLine": 3398,
+    "endLine": 3405,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

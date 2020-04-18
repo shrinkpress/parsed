@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_cache_init",
+    "filename": "wp-includes/cache.php",
+    "docCommentLine": 145,
+    "startLine": 152,
+    "endLine": 154,
+    "calls": {
+        "wp-includes/load.php:579": [
+            "wp-includes/load.php",
+            579
+        ],
+        "wp-includes/ms-blogs.php:534": [
+            "wp-includes/ms-blogs.php",
+            534
+        ],
+        "wp-includes/ms-blogs.php:601": [
+            "wp-includes/ms-blogs.php",
+            601
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

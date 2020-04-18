@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "sanitize_file_name",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 1988,
+    "startLine": 2003,
+    "endLine": 2074,
+    "calls": {
+        "wp-admin/includes/class-file-upload-upgrader.php:107": [
+            "wp-admin/includes/class-file-upload-upgrader.php",
+            107
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:6297": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            6297
+        ],
+        "wp-includes/functions.php:2412": [
+            "wp-includes/functions.php",
+            2412
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

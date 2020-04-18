@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "update_object_term_cache",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 3358,
+    "startLine": 3374,
+    "endLine": 3432,
+    "calls": {
+        "wp-includes/post.php:6640": [
+            "wp-includes/post.php",
+            6640
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

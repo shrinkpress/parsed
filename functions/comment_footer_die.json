@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "comment_footer_die",
+    "filename": "wp-admin/includes/comment.php",
+    "docCommentLine": 204,
+    "startLine": 209,
+    "endLine": 213,
+    "calls": {
+        "wp-admin/comment.php:67": [
+            "wp-admin/comment.php",
+            67
+        ],
+        "wp-admin/comment.php:71": [
+            "wp-admin/comment.php",
+            71
+        ],
+        "wp-admin/comment.php:75": [
+            "wp-admin/comment.php",
+            75
+        ],
+        "wp-admin/comment.php:268": [
+            "wp-admin/comment.php",
+            268
+        ],
+        "wp-admin/comment.php:271": [
+            "wp-admin/comment.php",
+            271
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

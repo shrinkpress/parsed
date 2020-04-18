@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_iso_descrambler",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 3466,
+    "startLine": 3474,
+    "endLine": 3482,
+    "calls": {
+        "wp-mail.php:116": [
+            "wp-mail.php",
+            116
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

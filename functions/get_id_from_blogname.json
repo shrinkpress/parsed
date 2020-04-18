@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_id_from_blogname",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 77,
+    "startLine": 86,
+    "endLine": 113,
+    "calls": {
+        "wp-admin/includes/ms.php:740": [
+            "wp-admin/includes/ms.php",
+            740
+        ],
+        "wp-includes/ms-blogs.php:177": [
+            "wp-includes/ms-blogs.php",
+            177
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_create_term",
+    "filename": "wp-admin/includes/taxonomy.php",
+    "docCommentLine": 298,
+    "startLine": 307,
+    "endLine": 314,
+    "calls": {
+        "wp-admin/includes/taxonomy.php:233": [
+            "wp-admin/includes/taxonomy.php",
+            233
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

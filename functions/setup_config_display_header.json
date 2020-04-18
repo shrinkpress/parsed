@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "setup_config_display_header",
+    "filename": "wp-admin/setup-config.php",
+    "docCommentLine": 84,
+    "startLine": 95,
+    "endLine": 118,
+    "calls": {
+        "wp-admin/setup-config.php:132": [
+            "wp-admin/setup-config.php",
+            132
+        ],
+        "wp-admin/setup-config.php:152": [
+            "wp-admin/setup-config.php",
+            152
+        ],
+        "wp-admin/setup-config.php:206": [
+            "wp-admin/setup-config.php",
+            206
+        ],
+        "wp-admin/setup-config.php:394": [
+            "wp-admin/setup-config.php",
+            394
+        ],
+        "wp-admin/setup-config.php:444": [
+            "wp-admin/setup-config.php",
+            444
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

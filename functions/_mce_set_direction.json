@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:243": [
+            "wp-includes/default-filters.php",
+            243,
+            "tiny_mce_before_init",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:244": [
+            "wp-includes/default-filters.php",
+            244,
+            "teeny_mce_before_init",
+            "add_filter"
+        ]
+    },
+    "functionName": "_mce_set_direction",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 4117,
+    "startLine": 4134,
+    "endLine": 4149,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

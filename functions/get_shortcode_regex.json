@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_shortcode_regex",
+    "filename": "wp-includes/shortcodes.php",
+    "docCommentLine": 207,
+    "startLine": 230,
+    "endLine": 272,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:3609": [
+            "wp-admin/includes/ajax-actions.php",
+            3609
+        ],
+        "wp-includes/media.php:4097": [
+            "wp-includes/media.php",
+            4097
+        ],
+        "wp-includes/shortcodes.php:146": [
+            "wp-includes/shortcodes.php",
+            146
+        ],
+        "wp-includes/shortcodes.php:198": [
+            "wp-includes/shortcodes.php",
+            198
+        ],
+        "wp-includes/shortcodes.php:367": [
+            "wp-includes/shortcodes.php",
+            367
+        ],
+        "wp-includes/shortcodes.php:626": [
+            "wp-includes/shortcodes.php",
+            626
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

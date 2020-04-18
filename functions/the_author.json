@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "the_author",
+    "filename": "wp-includes/author-template.php",
+    "docCommentLine": 40,
+    "startLine": 59,
+    "endLine": 81,
+    "calls": {
+        "wp-includes/feed-atom.php:52": [
+            "wp-includes/feed-atom.php",
+            52
+        ],
+        "wp-includes/feed-rdf.php:78": [
+            "wp-includes/feed-rdf.php",
+            78
+        ],
+        "wp-includes/feed-rss2.php:95": [
+            "wp-includes/feed-rss2.php",
+            95
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

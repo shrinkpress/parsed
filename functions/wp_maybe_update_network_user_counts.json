@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:87": [
+            "wp-includes/ms-default-filters.php",
+            87,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"action\",\"attributes\":{\"startLine\":87,\"endLine\":87}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":87,\"endLine\":87}}",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_maybe_update_network_user_counts",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2359,
+    "startLine": 2370,
+    "endLine": 2379,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

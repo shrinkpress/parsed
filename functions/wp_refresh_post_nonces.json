@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:68": [
+            "wp-admin/includes/admin-filters.php",
+            68,
+            "wp_refresh_nonces",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_refresh_post_nonces",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 1092,
+    "startLine": 1102,
+    "endLine": 1128,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

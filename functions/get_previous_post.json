@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_previous_post",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 1654,
+    "startLine": 1665,
+    "endLine": 1667,
+    "calls": {
+        "wp-includes/deprecated.php:144": [
+            "wp-includes/deprecated.php",
+            144
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

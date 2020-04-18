@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "upgrade_230_old_tables",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 1481,
+    "startLine": 1489,
+    "endLine": 1494,
+    "calls": {
+        "wp-admin/includes/upgrade.php:733": [
+            "wp-admin/includes/upgrade.php",
+            733
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_blog_list",
+    "filename": "wp-includes/ms-deprecated.php",
+    "docCommentLine": 175,
+    "startLine": 186,
+    "endLine": 207,
+    "calls": {
+        "wp-includes/ms-deprecated.php:222": [
+            "wp-includes/ms-deprecated.php",
+            222
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

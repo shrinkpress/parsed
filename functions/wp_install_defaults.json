@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_install_defaults",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 124,
+    "startLine": 138,
+    "endLine": 491,
+    "calls": {
+        "wp-admin/includes/upgrade.php:95": [
+            "wp-admin/includes/upgrade.php",
+            95
+        ],
+        "wp-includes/ms-deprecated.php:684": [
+            "wp-includes/ms-deprecated.php",
+            684
+        ],
+        "wp-includes/ms-site.php:768": [
+            "wp-includes/ms-site.php",
+            768
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

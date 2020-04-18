@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "calendar_week_mod",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 2029,
+    "startLine": 2037,
+    "endLine": 2040,
+    "calls": {
+        "wp-includes/general-template.php:2214": [
+            "wp-includes/general-template.php",
+            2214
+        ],
+        "wp-includes/general-template.php:2252": [
+            "wp-includes/general-template.php",
+            2252
+        ],
+        "wp-includes/general-template.php:2257": [
+            "wp-includes/general-template.php",
+            2257
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

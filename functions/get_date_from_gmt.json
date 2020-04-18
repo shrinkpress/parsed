@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_date_from_gmt",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 3519,
+    "startLine": 3531,
+    "endLine": 3539,
+    "calls": {
+        "wp-includes/class-wp-customize-manager.php:2911": [
+            "wp-includes/class-wp-customize-manager.php",
+            2911
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:3765": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            3765
+        ],
+        "wp-includes/post.php:3712": [
+            "wp-includes/post.php",
+            3712
+        ],
+        "wp-includes/rest-api.php:1003": [
+            "wp-includes/rest-api.php",
+            1003
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

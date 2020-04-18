@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:111": [
+            "wp-admin/includes/admin-filters.php",
+            111,
+            "load-plugins.php",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_plugin_update_rows",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 364,
+    "startLine": 367,
+    "endLine": 379,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

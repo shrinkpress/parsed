@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_count_sites",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 857,
+    "startLine": 866,
+    "endLine": 894,
+    "calls": {
+        "wp-admin/includes/class-wp-ms-sites-list-table.php:219": [
+            "wp-admin/includes/class-wp-ms-sites-list-table.php",
+            219
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

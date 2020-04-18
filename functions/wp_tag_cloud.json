@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_tag_cloud",
+    "filename": "wp-includes/category-template.php",
+    "docCommentLine": 655,
+    "startLine": 677,
+    "endLine": 742,
+    "calls": {
+        "wp-includes/blocks/tag-cloud.php:30": [
+            "wp-includes/blocks/tag-cloud.php",
+            30
+        ],
+        "wp-includes/widgets/class-wp-widget-tag-cloud.php:69": [
+            "wp-includes/widgets/class-wp-widget-tag-cloud.php",
+            69
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

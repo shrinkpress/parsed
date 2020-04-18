@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_image_add_srcset_and_sizes",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 1472,
+    "startLine": 1485,
+    "endLine": 1559,
+    "calls": {
+        "wp-includes/media.php:1466": [
+            "wp-includes/media.php",
+            1466
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

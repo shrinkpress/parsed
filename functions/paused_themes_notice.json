@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:116": [
+            "wp-admin/includes/admin-filters.php",
+            116,
+            "admin_notices",
+            "add_action"
+        ]
+    },
+    "functionName": "paused_themes_notice",
+    "filename": "wp-admin/includes/theme.php",
+    "docCommentLine": 911,
+    "startLine": 916,
+    "endLine": 936,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

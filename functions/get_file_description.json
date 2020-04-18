@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_file_description",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 67,
+    "startLine": 79,
+    "endLine": 96,
+    "calls": {
+        "wp-admin/includes/misc.php:403": [
+            "wp-admin/includes/misc.php",
+            403
+        ],
+        "wp-admin/theme-editor.php:178": [
+            "wp-admin/theme-editor.php",
+            178
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

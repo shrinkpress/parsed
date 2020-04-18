@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_reset_postdata",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 118,
+    "startLine": 126,
+    "endLine": 132,
+    "calls": {
+        "wp-admin/includes/dashboard.php:968": [
+            "wp-admin/includes/dashboard.php",
+            968
+        ],
+        "wp-includes/query.php:115": [
+            "wp-includes/query.php",
+            115
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

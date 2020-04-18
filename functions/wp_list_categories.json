@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_list_categories",
+    "filename": "wp-includes/category-template.php",
+    "docCommentLine": 467,
+    "startLine": 510,
+    "endLine": 653,
+    "calls": {
+        "wp-includes/blocks/categories.php:40": [
+            "wp-includes/blocks/categories.php",
+            40
+        ],
+        "wp-includes/deprecated.php:655": [
+            "wp-includes/deprecated.php",
+            655
+        ],
+        "wp-includes/theme-compat/sidebar.php:126": [
+            "wp-includes/theme-compat/sidebar.php",
+            126
+        ],
+        "wp-includes/widgets/class-wp-widget-categories.php:126": [
+            "wp-includes/widgets/class-wp-widget-categories.php",
+            126
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

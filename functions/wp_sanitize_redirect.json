@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_sanitize_redirect",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 1275,
+    "startLine": 1283,
+    "endLine": 1306,
+    "calls": {
+        "wp-includes/pluggable.php:1246": [
+            "wp-includes/pluggable.php",
+            1246
+        ],
+        "wp-includes/pluggable.php:1361": [
+            "wp-includes/pluggable.php",
+            1361
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

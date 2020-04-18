@@ -1,0 +1,63 @@
+{
+    "callbacks": [],
+    "functionName": "wp_dropdown_categories",
+    "filename": "wp-includes/category-template.php",
+    "docCommentLine": 279,
+    "startLine": 326,
+    "endLine": 465,
+    "calls": {
+        "wp-admin/edit-tag-form.php:178": [
+            "wp-admin/edit-tag-form.php",
+            178
+        ],
+        "wp-admin/edit-tags.php:485": [
+            "wp-admin/edit-tags.php",
+            485
+        ],
+        "wp-admin/export.php:187": [
+            "wp-admin/export.php",
+            187
+        ],
+        "wp-admin/includes/ajax-actions.php:665": [
+            "wp-admin/includes/ajax-actions.php",
+            665
+        ],
+        "wp-admin/includes/class-wp-links-list-table.php:118": [
+            "wp-admin/includes/class-wp-links-list-table.php",
+            118
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:462": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            462
+        ],
+        "wp-admin/includes/meta-boxes.php:658": [
+            "wp-admin/includes/meta-boxes.php",
+            658
+        ],
+        "wp-admin/options-writing.php:81": [
+            "wp-admin/options-writing.php",
+            81
+        ],
+        "wp-admin/options-writing.php:115": [
+            "wp-admin/options-writing.php",
+            115
+        ],
+        "wp-admin/options-writing.php:175": [
+            "wp-admin/options-writing.php",
+            175
+        ],
+        "wp-includes/blocks/categories.php:32": [
+            "wp-includes/blocks/categories.php",
+            32
+        ],
+        "wp-includes/deprecated.php:693": [
+            "wp-includes/deprecated.php",
+            693
+        ],
+        "wp-includes/widgets/class-wp-widget-categories.php:89": [
+            "wp-includes/widgets/class-wp-widget-categories.php",
+            89
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

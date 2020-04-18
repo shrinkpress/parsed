@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "wp_suspend_cache_addition",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5200,
+    "startLine": 5217,
+    "endLine": 5225,
+    "calls": {
+        "wp-includes/cache.php:402": [
+            "wp-includes/cache.php",
+            402
+        ],
+        "wp-includes/class-wp-widget.php:374": [
+            "wp-includes/class-wp-widget.php",
+            374
+        ],
+        "wp-includes/class-wp-widget.php:376": [
+            "wp-includes/class-wp-widget.php",
+            376
+        ],
+        "wp-includes/class-wp-widget.php:382": [
+            "wp-includes/class-wp-widget.php",
+            382
+        ],
+        "wp-includes/class-wp-widget.php:437": [
+            "wp-includes/class-wp-widget.php",
+            437
+        ],
+        "wp-includes/class-wp-widget.php:439": [
+            "wp-includes/class-wp-widget.php",
+            439
+        ],
+        "wp-includes/class-wp-widget.php:445": [
+            "wp-includes/class-wp-widget.php",
+            445
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wpmu_signup_blog",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 738,
+    "startLine": 752,
+    "endLine": 802,
+    "calls": {
+        "wp-signup.php:804": [
+            "wp-signup.php",
+            804
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

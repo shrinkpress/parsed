@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_ssl_constants",
+    "filename": "wp-includes/default-constants.php",
+    "docCommentLine": 319,
+    "startLine": 324,
+    "endLine": 344,
+    "calls": {
+        "wp-settings.php:337": [
+            "wp-settings.php",
+            337
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_prime_comment_caches",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 3058,
+    "startLine": 3070,
+    "endLine": 3079,
+    "calls": {
+        "wp-includes/class-wp-comment-query.php:452": [
+            "wp-includes/class-wp-comment-query.php",
+            452
+        ],
+        "wp-includes/class-wp-comment-query.php:1033": [
+            "wp-includes/class-wp-comment-query.php",
+            1033
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

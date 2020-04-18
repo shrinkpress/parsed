@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_queue_posts_for_term_meta_lazyload",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6947,
+    "startLine": 6954,
+    "endLine": 6983,
+    "calls": {
+        "wp-includes/class-wp-query.php:3181": [
+            "wp-includes/class-wp-query.php",
+            3181
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

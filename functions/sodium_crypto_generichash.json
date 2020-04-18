@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_generichash",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 539,
+    "startLine": 548,
+    "endLine": 551,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:1415": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            1415
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

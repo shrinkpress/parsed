@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:80": [
+            "wp-includes/ms-default-filters.php",
+            80,
+            "transition_post_status",
+            "add_action"
+        ]
+    },
+    "functionName": "_update_blog_date_on_post_publish",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 766,
+    "startLine": 776,
+    "endLine": 789,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

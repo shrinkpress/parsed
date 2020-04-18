@@ -1,0 +1,63 @@
+{
+    "callbacks": [],
+    "functionName": "__get_option",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 2466,
+    "startLine": 2478,
+    "endLine": 2500,
+    "calls": {
+        "wp-admin/includes/schema.php:590": [
+            "wp-admin/includes/schema.php",
+            590
+        ],
+        "wp-admin/includes/upgrade.php:633": [
+            "wp-admin/includes/upgrade.php",
+            633
+        ],
+        "wp-admin/includes/upgrade.php:685": [
+            "wp-admin/includes/upgrade.php",
+            685
+        ],
+        "wp-admin/includes/upgrade.php:697": [
+            "wp-admin/includes/upgrade.php",
+            697
+        ],
+        "wp-admin/includes/upgrade.php:1028": [
+            "wp-admin/includes/upgrade.php",
+            1028
+        ],
+        "wp-admin/includes/upgrade.php:2492": [
+            "wp-admin/includes/upgrade.php",
+            2492
+        ],
+        "wp-admin/includes/upgrade.php:3026": [
+            "wp-admin/includes/upgrade.php",
+            3026
+        ],
+        "wp-admin/includes/upgrade.php:3082": [
+            "wp-admin/includes/upgrade.php",
+            3082
+        ],
+        "wp-admin/includes/upgrade.php:3128": [
+            "wp-admin/includes/upgrade.php",
+            3128
+        ],
+        "wp-admin/includes/upgrade.php:3160": [
+            "wp-admin/includes/upgrade.php",
+            3160
+        ],
+        "wp-admin/includes/upgrade.php:3219": [
+            "wp-admin/includes/upgrade.php",
+            3219
+        ],
+        "wp-admin/upgrade.php:147": [
+            "wp-admin/upgrade.php",
+            147
+        ],
+        "wp-admin/upgrade.php:149": [
+            "wp-admin/upgrade.php",
+            149
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

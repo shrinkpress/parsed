@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "get_attachment_taxonomies",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 3004,
+    "startLine": 3016,
+    "endLine": 3063,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:3100": [
+            "wp-admin/includes/ajax-actions.php",
+            3100
+        ],
+        "wp-admin/includes/media.php:787": [
+            "wp-admin/includes/media.php",
+            787
+        ],
+        "wp-admin/includes/media.php:1392": [
+            "wp-admin/includes/media.php",
+            1392
+        ],
+        "wp-admin/includes/media.php:1844": [
+            "wp-admin/includes/media.php",
+            1844
+        ],
+        "wp-includes/taxonomy.php:227": [
+            "wp-includes/taxonomy.php",
+            227
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

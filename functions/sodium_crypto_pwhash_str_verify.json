@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_pwhash_str_verify",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 774,
+    "startLine": 782,
+    "endLine": 785,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:2020": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            2020
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

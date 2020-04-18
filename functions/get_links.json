@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_links",
+    "filename": "wp-includes/deprecated.php",
+    "docCommentLine": 900,
+    "startLine": 924,
+    "endLine": 1003,
+    "calls": {
+        "wp-includes/deprecated.php:405": [
+            "wp-includes/deprecated.php",
+            405
+        ],
+        "wp-includes/deprecated.php:571": [
+            "wp-includes/deprecated.php",
+            571
+        ],
+        "wp-includes/deprecated.php:1042": [
+            "wp-includes/deprecated.php",
+            1042
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

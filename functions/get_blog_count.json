@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_blog_count",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 113,
+    "startLine": 125,
+    "endLine": 127,
+    "calls": {
+        "wp-admin/admin.php:69": [
+            "wp-admin/admin.php",
+            69
+        ],
+        "wp-admin/includes/class-wp-debug-data.php:369": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            369
+        ],
+        "wp-admin/includes/dashboard.php:413": [
+            "wp-admin/includes/dashboard.php",
+            413
+        ],
+        "wp-includes/ms-functions.php:19": [
+            "wp-includes/ms-functions.php",
+            19
+        ],
+        "wp-includes/ms-functions.php:2570": [
+            "wp-includes/ms-functions.php",
+            2570
+        ],
+        "wp-includes/update.php:80": [
+            "wp-includes/update.php",
+            80
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

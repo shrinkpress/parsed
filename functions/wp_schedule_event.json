@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "wp_schedule_event",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 158,
+    "startLine": 188,
+    "endLine": 232,
+    "calls": {
+        "wp-admin/admin.php:98": [
+            "wp-admin/admin.php",
+            98
+        ],
+        "wp-admin/admin.php:103": [
+            "wp-admin/admin.php",
+            103
+        ],
+        "wp-admin/includes/post.php:681": [
+            "wp-admin/includes/post.php",
+            681
+        ],
+        "wp-includes/class-wp-recovery-mode.php:99": [
+            "wp-includes/class-wp-recovery-mode.php",
+            99
+        ],
+        "wp-includes/cron.php:323": [
+            "wp-includes/cron.php",
+            323
+        ],
+        "wp-includes/functions.php:7050": [
+            "wp-includes/functions.php",
+            7050
+        ],
+        "wp-includes/ms-functions.php:2311": [
+            "wp-includes/ms-functions.php",
+            2311
+        ],
+        "wp-includes/update.php:785": [
+            "wp-includes/update.php",
+            785
+        ],
+        "wp-includes/update.php:789": [
+            "wp-includes/update.php",
+            789
+        ],
+        "wp-includes/update.php:793": [
+            "wp-includes/update.php",
+            793
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

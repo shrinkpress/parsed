@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "wp_delete_post_revision",
+    "filename": "wp-includes/revision.php",
+    "docCommentLine": 423,
+    "startLine": 433,
+    "endLine": 453,
+    "calls": {
+        "wp-admin/edit-form-advanced.php:259": [
+            "wp-admin/edit-form-advanced.php",
+            259
+        ],
+        "wp-admin/edit-form-blocks.php:309": [
+            "wp-admin/edit-form-blocks.php",
+            309
+        ],
+        "wp-admin/includes/post.php:1825": [
+            "wp-admin/includes/post.php",
+            1825
+        ],
+        "wp-includes/post.php:2998": [
+            "wp-includes/post.php",
+            2998
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:359": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
+            359
+        ],
+        "wp-includes/revision.php:215": [
+            "wp-includes/revision.php",
+            215
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

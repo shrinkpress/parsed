@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/class-wp-post-type.php:604": [
+            "wp-includes/class-wp-post-type.php",
+            604,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_BinaryOp_Concat\",\"left\":{\"nodeType\":\"Scalar_String\",\"value\":\"future_\",\"attributes\":{\"startLine\":604,\"endLine\":604,\"kind\":1}},\"right\":{\"nodeType\":\"Expr_PropertyFetch\",\"var\":{\"nodeType\":\"Expr_Variable\",\"name\":\"this\",\"attributes\":{\"startLine\":604,\"endLine\":604}},\"name\":{\"nodeType\":\"Identifier\",\"name\":\"name\",\"attributes\":{\"startLine\":604,\"endLine\":604}},\"attributes\":{\"startLine\":604,\"endLine\":604}},\"attributes\":{\"startLine\":604,\"endLine\":604}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":604,\"endLine\":604}}",
+            "add_action"
+        ],
+        "wp-includes/class-wp-post-type.php:693": [
+            "wp-includes/class-wp-post-type.php",
+            693,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_BinaryOp_Concat\",\"left\":{\"nodeType\":\"Scalar_String\",\"value\":\"future_\",\"attributes\":{\"startLine\":693,\"endLine\":693,\"kind\":1}},\"right\":{\"nodeType\":\"Expr_PropertyFetch\",\"var\":{\"nodeType\":\"Expr_Variable\",\"name\":\"this\",\"attributes\":{\"startLine\":693,\"endLine\":693}},\"name\":{\"nodeType\":\"Identifier\",\"name\":\"name\",\"attributes\":{\"startLine\":693,\"endLine\":693}},\"attributes\":{\"startLine\":693,\"endLine\":693}},\"attributes\":{\"startLine\":693,\"endLine\":693}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":693,\"endLine\":693}}",
+            "remove_action"
+        ]
+    },
+    "functionName": "_future_post_hook",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6762,
+    "startLine": 6775,
+    "endLine": 6778,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

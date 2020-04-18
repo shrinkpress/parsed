@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/options-discussion.php:18": [
+            "wp-admin/options-discussion.php",
+            18,
+            "admin_print_footer_scripts",
+            "add_action"
+        ]
+    },
+    "functionName": "options_discussion_add_js",
+    "filename": "wp-admin/includes/options.php",
+    "docCommentLine": 10,
+    "startLine": 15,
+    "endLine": 27,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

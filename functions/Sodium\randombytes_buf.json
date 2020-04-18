@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "Sodium\\randombytes_buf",
+    "filename": null,
+    "docCommentLine": null,
+    "startLine": null,
+    "endLine": null,
+    "calls": {
+        "wp-includes/random_compat/random_bytes_libsodium.php:69": [
+            "wp-includes/random_compat/random_bytes_libsodium.php",
+            69
+        ],
+        "wp-includes/random_compat/random_bytes_libsodium.php:72": [
+            "wp-includes/random_compat/random_bytes_libsodium.php",
+            72
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

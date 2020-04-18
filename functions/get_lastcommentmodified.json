@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_lastcommentmodified",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 311,
+    "startLine": 323,
+    "endLine": 355,
+    "calls": {
+        "wp-includes/class-wp.php:440": [
+            "wp-includes/class-wp.php",
+            440
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

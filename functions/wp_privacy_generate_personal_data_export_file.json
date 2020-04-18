@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:134": [
+            "wp-admin/includes/admin-filters.php",
+            134,
+            "wp_privacy_personal_data_export_file",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_privacy_generate_personal_data_export_file",
+    "filename": "wp-admin/includes/privacy-tools.php",
+    "docCommentLine": 279,
+    "startLine": 286,
+    "endLine": 465,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

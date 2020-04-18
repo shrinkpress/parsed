@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "delete_theme",
+    "filename": "wp-admin/includes/theme.php",
+    "docCommentLine": 9,
+    "startLine": 21,
+    "endLine": 112,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:4248": [
+            "wp-admin/includes/ajax-actions.php",
+            4248
+        ],
+        "wp-admin/network/themes.php:183": [
+            "wp-admin/network/themes.php",
+            183
+        ],
+        "wp-admin/themes.php:80": [
+            "wp-admin/themes.php",
+            80
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

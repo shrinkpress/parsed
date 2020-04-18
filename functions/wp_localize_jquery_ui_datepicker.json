@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:495": [
+            "wp-includes/default-filters.php",
+            495,
+            "wp_enqueue_scripts",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:496": [
+            "wp-includes/default-filters.php",
+            496,
+            "admin_enqueue_scripts",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_localize_jquery_ui_datepicker",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 2297,
+    "startLine": 2306,
+    "endLine": 2360,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

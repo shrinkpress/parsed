@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_save_nav_menu_items",
+    "filename": "wp-admin/includes/nav-menu.php",
+    "docCommentLine": 899,
+    "startLine": 908,
+    "endLine": 965,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:1488": [
+            "wp-admin/includes/ajax-actions.php",
+            1488
+        ],
+        "wp-admin/nav-menus.php:66": [
+            "wp-admin/nav-menus.php",
+            66
+        ],
+        "wp-admin/nav-menus.php:325": [
+            "wp-admin/nav-menus.php",
+            325
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

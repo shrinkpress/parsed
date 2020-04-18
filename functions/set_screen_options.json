@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "set_screen_options",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 628,
+    "startLine": 633,
+    "endLine": 716,
+    "calls": {
+        "wp-admin/admin.php:106": [
+            "wp-admin/admin.php",
+            106
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_nocache_headers",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 1398,
+    "startLine": 1408,
+    "endLine": 1433,
+    "calls": {
+        "wp-includes/class-wp.php:405": [
+            "wp-includes/class-wp.php",
+            405
+        ],
+        "wp-includes/class-wp.php:411": [
+            "wp-includes/class-wp.php",
+            411
+        ],
+        "wp-includes/functions.php:1451": [
+            "wp-includes/functions.php",
+            1451
+        ],
+        "wp-includes/rest-api/class-wp-rest-server.php:250": [
+            "wp-includes/rest-api/class-wp-rest-server.php",
+            250
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_attachment_image_url",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 1043,
+    "startLine": 1054,
+    "endLine": 1057,
+    "calls": {
+        "wp-includes/general-template.php:871": [
+            "wp-includes/general-template.php",
+            871
+        ],
+        "wp-includes/post-thumbnail-template.php:218": [
+            "wp-includes/post-thumbnail-template.php",
+            218
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

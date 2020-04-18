@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_get_cron_lock",
+    "filename": "wp-cron.php",
+    "docCommentLine": 47,
+    "startLine": 59,
+    "endLine": 77,
+    "calls": {
+        "wp-cron.php:141": [
+            "wp-cron.php",
+            141
+        ],
+        "wp-cron.php:148": [
+            "wp-cron.php",
+            148
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

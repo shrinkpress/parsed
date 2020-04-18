@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_http_validate_url",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 510,
+    "startLine": 518,
+    "endLine": 595,
+    "calls": {
+        "wp-includes/class-http.php:265": [
+            "wp-includes/class-http.php",
+            265
+        ],
+        "wp-includes/class-http.php:501": [
+            "wp-includes/class-http.php",
+            501
+        ],
+        "wp-includes/comment.php:2980": [
+            "wp-includes/comment.php",
+            2980
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_format_slugs",
+    "filename": "wp-includes/post-formats.php",
+    "docCommentLine": 111,
+    "startLine": 118,
+    "endLine": 121,
+    "calls": {
+        "wp-includes/post-formats.php:78": [
+            "wp-includes/post-formats.php",
+            78
+        ],
+        "wp-includes/post-formats.php:169": [
+            "wp-includes/post-formats.php",
+            169
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2201": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            2201
+        ],
+        "wp-includes/theme.php:2410": [
+            "wp-includes/theme.php",
+            2410
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

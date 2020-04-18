@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "register_block_type",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 10,
+    "startLine": 26,
+    "endLine": 28,
+    "calls": {
+        "wp-includes/blocks/archives.php:119": [
+            "wp-includes/blocks/archives.php",
+            119
+        ],
+        "wp-includes/blocks/block.php:36": [
+            "wp-includes/blocks/block.php",
+            36
+        ],
+        "wp-includes/blocks/calendar.php:55": [
+            "wp-includes/blocks/calendar.php",
+            55
+        ],
+        "wp-includes/blocks/categories.php:92": [
+            "wp-includes/blocks/categories.php",
+            92
+        ],
+        "wp-includes/blocks/latest-comments.php:155": [
+            "wp-includes/blocks/latest-comments.php",
+            155
+        ],
+        "wp-includes/blocks/latest-posts.php:122": [
+            "wp-includes/blocks/latest-posts.php",
+            122
+        ],
+        "wp-includes/blocks/rss.php:112": [
+            "wp-includes/blocks/rss.php",
+            112
+        ],
+        "wp-includes/blocks/search.php:65": [
+            "wp-includes/blocks/search.php",
+            65
+        ],
+        "wp-includes/blocks/shortcode.php:24": [
+            "wp-includes/blocks/shortcode.php",
+            24
+        ],
+        "wp-includes/blocks/tag-cloud.php:54": [
+            "wp-includes/blocks/tag-cloud.php",
+            54
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

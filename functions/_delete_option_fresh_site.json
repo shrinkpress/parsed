@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:234": [
+            "wp-includes/default-filters.php",
+            234,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"action\",\"attributes\":{\"startLine\":234,\"endLine\":234}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":234,\"endLine\":234}}",
+            "add_action"
+        ]
+    },
+    "functionName": "_delete_option_fresh_site",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 4107,
+    "startLine": 4113,
+    "endLine": 4115,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

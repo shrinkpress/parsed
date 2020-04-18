@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_terms_checklist",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 54,
+    "startLine": 80,
+    "endLine": 189,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:609": [
+            "wp-admin/includes/ajax-actions.php",
+            609
+        ],
+        "wp-admin/includes/ajax-actions.php:643": [
+            "wp-admin/includes/ajax-actions.php",
+            643
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1634": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1634
+        ],
+        "wp-admin/includes/meta-boxes.php:598": [
+            "wp-admin/includes/meta-boxes.php",
+            598
+        ],
+        "wp-admin/includes/template.php:41": [
+            "wp-admin/includes/template.php",
+            41
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

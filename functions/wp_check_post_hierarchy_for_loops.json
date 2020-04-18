@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:164": [
+            "wp-includes/default-filters.php",
+            164,
+            "wp_insert_post_parent",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_check_post_hierarchy_for_loops",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6837,
+    "startLine": 6851,
+    "endLine": 6889,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

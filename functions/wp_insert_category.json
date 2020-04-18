@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_insert_category",
+    "filename": "wp-admin/includes/taxonomy.php",
+    "docCommentLine": 99,
+    "startLine": 121,
+    "endLine": 175,
+    "calls": {
+        "wp-admin/includes/taxonomy.php:61": [
+            "wp-admin/includes/taxonomy.php",
+            61
+        ],
+        "wp-admin/includes/taxonomy.php:205": [
+            "wp-admin/includes/taxonomy.php",
+            205
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:3374": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            3374
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

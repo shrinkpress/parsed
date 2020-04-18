@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_unregister_sidebar_widget",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 460,
+    "startLine": 467,
+    "endLine": 480,
+    "calls": {
+        "wp-includes/deprecated.php:2148": [
+            "wp-includes/deprecated.php",
+            2148
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

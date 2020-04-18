@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:238": [
+            "wp-includes/default-filters.php",
+            238,
+            "option_ping_sites",
+            "add_filter"
+        ]
+    },
+    "functionName": "privacy_ping_filter",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 2888,
+    "startLine": 2896,
+    "endLine": 2902,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

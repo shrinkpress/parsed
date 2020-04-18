@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_edit_attachments_query_vars",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1192,
+    "startLine": 1201,
+    "endLine": 1257,
+    "calls": {
+        "wp-admin/includes/post.php:1269": [
+            "wp-admin/includes/post.php",
+            1269
+        ],
+        "wp-admin/upload.php:34": [
+            "wp-admin/upload.php",
+            34
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

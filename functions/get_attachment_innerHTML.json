@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_attachment_innerHTML",
+    "filename": "wp-includes/deprecated.php",
+    "docCommentLine": 1960,
+    "startLine": 1972,
+    "endLine": 1984,
+    "calls": {
+        "wp-includes/deprecated.php:1859": [
+            "wp-includes/deprecated.php",
+            1859
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

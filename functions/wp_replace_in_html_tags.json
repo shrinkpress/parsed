@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_replace_in_html_tags",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 762,
+    "startLine": 771,
+    "endLine": 811,
+    "calls": {
+        "wp-includes/class-wp-embed.php:406": [
+            "wp-includes/class-wp-embed.php",
+            406
+        ],
+        "wp-includes/formatting.php:511": [
+            "wp-includes/formatting.php",
+            511
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

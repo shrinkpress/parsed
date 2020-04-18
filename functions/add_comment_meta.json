@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "add_comment_meta",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 444,
+    "startLine": 456,
+    "endLine": 458,
+    "calls": {
+        "wp-includes/comment.php:1479": [
+            "wp-includes/comment.php",
+            1479
+        ],
+        "wp-includes/comment.php:1480": [
+            "wp-includes/comment.php",
+            1480
+        ],
+        "wp-includes/comment.php:1575": [
+            "wp-includes/comment.php",
+            1575
+        ],
+        "wp-includes/comment.php:1576": [
+            "wp-includes/comment.php",
+            1576
+        ],
+        "wp-includes/comment.php:1925": [
+            "wp-includes/comment.php",
+            1925
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

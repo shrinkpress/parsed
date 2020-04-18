@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "file_is_displayable_image",
+    "filename": "wp-admin/includes/image.php",
+    "docCommentLine": 870,
+    "startLine": 878,
+    "endLine": 899,
+    "calls": {
+        "wp-admin/includes/image.php:474": [
+            "wp-admin/includes/image.php",
+            474
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

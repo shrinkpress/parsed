@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_prime_site_caches",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 330,
+    "startLine": 343,
+    "endLine": 352,
+    "calls": {
+        "wp-includes/class-wp-site-query.php:364": [
+            "wp-includes/class-wp-site-query.php",
+            364
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

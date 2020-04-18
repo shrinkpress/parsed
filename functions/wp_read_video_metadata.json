@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_read_video_metadata",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 3430,
+    "startLine": 3438,
+    "endLine": 3539,
+    "calls": {
+        "wp-admin/includes/image.php:478": [
+            "wp-admin/includes/image.php",
+            478
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

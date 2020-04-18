@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_new_user_notification",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 1909,
+    "startLine": 1924,
+    "endLine": 2043,
+    "calls": {
+        "wp-includes/user.php:2594": [
+            "wp-includes/user.php",
+            2594
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

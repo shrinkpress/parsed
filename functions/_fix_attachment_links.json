@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_fix_attachment_links",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1023,
+    "startLine": 1032,
+    "endLine": 1078,
+    "calls": {
+        "wp-admin/includes/post.php:422": [
+            "wp-admin/includes/post.php",
+            422
+        ],
+        "wp-admin/includes/post.php:861": [
+            "wp-admin/includes/post.php",
+            861
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

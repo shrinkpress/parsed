@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_registered_image_subsizes",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 857,
+    "startLine": 866,
+    "endLine": 910,
+    "calls": {
+        "wp-admin/includes/image.php:85": [
+            "wp-admin/includes/image.php",
+            85
+        ],
+        "wp-admin/includes/image.php:347": [
+            "wp-admin/includes/image.php",
+            347
+        ],
+        "wp-admin/includes/image.php:558": [
+            "wp-admin/includes/image.php",
+            558
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

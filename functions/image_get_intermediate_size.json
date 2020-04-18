@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "image_get_intermediate_size",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 702,
+    "startLine": 738,
+    "endLine": 829,
+    "calls": {
+        "wp-admin/includes/image-edit.php:21": [
+            "wp-admin/includes/image-edit.php",
+            21
+        ],
+        "wp-admin/includes/image.php:968": [
+            "wp-admin/includes/image.php",
+            968
+        ],
+        "wp-includes/media.php:228": [
+            "wp-includes/media.php",
+            228
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

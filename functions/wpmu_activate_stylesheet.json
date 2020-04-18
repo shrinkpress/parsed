@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-activate.php:116": [
+            "wp-activate.php",
+            116,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wpmu_activate_stylesheet",
+    "filename": "wp-activate.php",
+    "docCommentLine": 100,
+    "startLine": 105,
+    "endLine": 115,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

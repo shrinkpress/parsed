@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "remove_all_shortcodes",
+    "filename": "wp-includes/shortcodes.php",
+    "docCommentLine": 97,
+    "startLine": 108,
+    "endLine": 112,
+    "calls": {
+        "wp-includes/class-wp-embed.php:64": [
+            "wp-includes/class-wp-embed.php",
+            64
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

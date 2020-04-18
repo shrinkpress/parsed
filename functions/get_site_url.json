@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_site_url",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 3226,
+    "startLine": 3243,
+    "endLine": 3270,
+    "calls": {
+        "wp-admin/includes/class-wp-site-health.php:87": [
+            "wp-admin/includes/class-wp-site-health.php",
+            87
+        ],
+        "wp-admin/network/site-new.php:163": [
+            "wp-admin/network/site-new.php",
+            163
+        ],
+        "wp-includes/link-template.php:3223": [
+            "wp-includes/link-template.php",
+            3223
+        ],
+        "wp-includes/link-template.php:3299": [
+            "wp-includes/link-template.php",
+            3299
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

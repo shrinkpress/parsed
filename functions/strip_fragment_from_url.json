@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "strip_fragment_from_url",
+    "filename": "wp-includes/canonical.php",
+    "docCommentLine": 646,
+    "startLine": 654,
+    "endLine": 673,
+    "calls": {
+        "wp-includes/canonical.php:600": [
+            "wp-includes/canonical.php",
+            600
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

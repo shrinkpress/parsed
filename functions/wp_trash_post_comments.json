@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_trash_post_comments",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 3242,
+    "startLine": 3252,
+    "endLine": 3299,
+    "calls": {
+        "wp-includes/class-wp-customize-manager.php:3061": [
+            "wp-includes/class-wp-customize-manager.php",
+            3061
+        ],
+        "wp-includes/post.php:3157": [
+            "wp-includes/post.php",
+            3157
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

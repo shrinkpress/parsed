@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "the_comment",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 958,
+    "startLine": 967,
+    "endLine": 970,
+    "calls": {
+        "wp-includes/feed-atom-comments.php:72": [
+            "wp-includes/feed-atom-comments.php",
+            72
+        ],
+        "wp-includes/feed-rss2-comments.php:75": [
+            "wp-includes/feed-rss2-comments.php",
+            75
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

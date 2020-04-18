@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:77": [
+            "wp-admin/includes/admin-filters.php",
+            77,
+            "whitelist_options",
+            "add_filter"
+        ]
+    },
+    "functionName": "option_update_filter",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 2094,
+    "startLine": 2106,
+    "endLine": 2114,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

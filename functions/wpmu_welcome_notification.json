@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:40": [
+            "wp-includes/ms-default-filters.php",
+            40,
+            "wpmu_activate_blog",
+            "add_action"
+        ]
+    },
+    "functionName": "wpmu_welcome_notification",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1516,
+    "startLine": 1533,
+    "endLine": 1634,
+    "calls": {
+        "wp-admin/network/site-new.php:172": [
+            "wp-admin/network/site-new.php",
+            172
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

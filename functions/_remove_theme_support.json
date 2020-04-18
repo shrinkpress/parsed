@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_remove_theme_support",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 2741,
+    "startLine": 2753,
+    "endLine": 2799,
+    "calls": {
+        "wp-includes/nav-menu.php:120": [
+            "wp-includes/nav-menu.php",
+            120
+        ],
+        "wp-includes/theme.php:1968": [
+            "wp-includes/theme.php",
+            1968
+        ],
+        "wp-includes/theme.php:2738": [
+            "wp-includes/theme.php",
+            2738
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

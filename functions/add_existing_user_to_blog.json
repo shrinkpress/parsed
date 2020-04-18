@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "add_existing_user_to_blog",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2111,
+    "startLine": 2119,
+    "endLine": 2137,
+    "calls": {
+        "wp-admin/user-new.php:70": [
+            "wp-admin/user-new.php",
+            70
+        ],
+        "wp-includes/ms-functions.php:2089": [
+            "wp-includes/ms-functions.php",
+            2089
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "saveDomDocument",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 866,
+    "startLine": 874,
+    "endLine": 880,
+    "calls": {
+        "wp-admin/includes/misc.php:778": [
+            "wp-admin/includes/misc.php",
+            778
+        ],
+        "wp-admin/includes/misc.php:861": [
+            "wp-admin/includes/misc.php",
+            861
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

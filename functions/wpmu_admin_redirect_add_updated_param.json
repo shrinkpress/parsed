@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wpmu_admin_redirect_add_updated_param",
+    "filename": "wp-includes/ms-deprecated.php",
+    "docCommentLine": 305,
+    "startLine": 315,
+    "endLine": 325,
+    "calls": {
+        "wp-includes/ms-deprecated.php:283": [
+            "wp-includes/ms-deprecated.php",
+            283
+        ],
+        "wp-includes/ms-deprecated.php:292": [
+            "wp-includes/ms-deprecated.php",
+            292
+        ],
+        "wp-includes/ms-deprecated.php:299": [
+            "wp-includes/ms-deprecated.php",
+            299
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

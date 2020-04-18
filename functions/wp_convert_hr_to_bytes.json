@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "wp_convert_hr_to_bytes",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 1276,
+    "startLine": 1288,
+    "endLine": 1302,
+    "calls": {
+        "wp-includes/default-constants.php:38": [
+            "wp-includes/default-constants.php",
+            38
+        ],
+        "wp-includes/default-constants.php:62": [
+            "wp-includes/default-constants.php",
+            62
+        ],
+        "wp-includes/functions.php:6600": [
+            "wp-includes/functions.php",
+            6600
+        ],
+        "wp-includes/functions.php:6607": [
+            "wp-includes/functions.php",
+            6607
+        ],
+        "wp-includes/functions.php:6668": [
+            "wp-includes/functions.php",
+            6668
+        ],
+        "wp-includes/media.php:3146": [
+            "wp-includes/media.php",
+            3146
+        ],
+        "wp-includes/media.php:3147": [
+            "wp-includes/media.php",
+            3147
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

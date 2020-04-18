@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "current_datetime",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 87,
+    "startLine": 94,
+    "endLine": 96,
+    "calls": {
+        "wp-admin/includes/dashboard.php:927": [
+            "wp-admin/includes/dashboard.php",
+            927
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

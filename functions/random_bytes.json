@@ -1,0 +1,87 @@
+{
+    "callbacks": [],
+    "functionName": "random_bytes",
+    "filename": "wp-includes/random_compat/random_bytes_mcrypt.php",
+    "docCommentLine": 30,
+    "startLine": 42,
+    "endLine": 76,
+    "calls": {
+        "wp-includes/random_compat/random_int.php:156": [
+            "wp-includes/random_compat/random_int.php",
+            156
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:449": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            449
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:697": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            697
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:783": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            783
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:934": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            934
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:984": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            984
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:1603": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            1603
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:1662": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            1662
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:2334": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            2334
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:2489": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            2489
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:2550": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            2550
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:3048": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3048
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:3408": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3408
+        ],
+        "wp-includes/sodium_compat/src/Core/Ed25519.php:25": [
+            "wp-includes/sodium_compat/src/Core/Ed25519.php",
+            25
+        ],
+        "wp-includes/sodium_compat/src/Core32/Ed25519.php:25": [
+            "wp-includes/sodium_compat/src/Core32/Ed25519.php",
+            25
+        ],
+        "wp-includes/sodium_compat/src/Crypto.php:562": [
+            "wp-includes/sodium_compat/src/Crypto.php",
+            562
+        ],
+        "wp-includes/sodium_compat/src/Crypto.php:1244": [
+            "wp-includes/sodium_compat/src/Crypto.php",
+            1244
+        ],
+        "wp-includes/sodium_compat/src/Crypto32.php:561": [
+            "wp-includes/sodium_compat/src/Crypto32.php",
+            561
+        ],
+        "wp-includes/sodium_compat/src/Crypto32.php:1243": [
+            "wp-includes/sodium_compat/src/Crypto32.php",
+            1243
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

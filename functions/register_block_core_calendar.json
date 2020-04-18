@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/blocks/calendar.php:78": [
+            "wp-includes/blocks/calendar.php",
+            78,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "register_block_core_calendar",
+    "filename": "wp-includes/blocks/calendar.php",
+    "docCommentLine": 51,
+    "startLine": 54,
+    "endLine": 76,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

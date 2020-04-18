@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:11": [
+            "wp-admin/includes/admin-filters.php",
+            11,
+            "admin_page_access_denied",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_link_manager_disabled_message",
+    "filename": "wp-admin/includes/bookmark.php",
+    "docCommentLine": 302,
+    "startLine": 310,
+    "endLine": 327,
+    "calls": {
+        "wp-admin/link.php:18": [
+            "wp-admin/link.php",
+            18
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

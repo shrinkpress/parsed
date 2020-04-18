@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_reschedule_event",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 234,
+    "startLine": 253,
+    "endLine": 324,
+    "calls": {
+        "wp-cron.php:124": [
+            "wp-cron.php",
+            124
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

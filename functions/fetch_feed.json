@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "fetch_feed",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 742,
+    "startLine": 753,
+    "endLine": 793,
+    "calls": {
+        "wp-admin/includes/dashboard.php:1162": [
+            "wp-admin/includes/dashboard.php",
+            1162
+        ],
+        "wp-admin/includes/deprecated.php:1323": [
+            "wp-admin/includes/deprecated.php",
+            1323
+        ],
+        "wp-includes/blocks/rss.php:16": [
+            "wp-includes/blocks/rss.php",
+            16
+        ],
+        "wp-includes/widgets/class-wp-widget-rss.php:64": [
+            "wp-includes/widgets/class-wp-widget-rss.php",
+            64
+        ],
+        "wp-includes/widgets.php:1489": [
+            "wp-includes/widgets.php",
+            1489
+        ],
+        "wp-includes/widgets.php:1492": [
+            "wp-includes/widgets.php",
+            1492
+        ],
+        "wp-includes/widgets.php:1691": [
+            "wp-includes/widgets.php",
+            1691
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

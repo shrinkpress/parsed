@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "post_comments_feed_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 742,
+    "startLine": 756,
+    "endLine": 774,
+    "calls": {
+        "wp-includes/deprecated.php:1121": [
+            "wp-includes/deprecated.php",
+            1121
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

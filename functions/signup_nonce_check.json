@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:24": [
+            "wp-includes/ms-default-filters.php",
+            24,
+            "wpmu_validate_user_signup",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:39": [
+            "wp-includes/ms-default-filters.php",
+            39,
+            "wpmu_validate_blog_signup",
+            "add_filter"
+        ]
+    },
+    "functionName": "signup_nonce_check",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2016,
+    "startLine": 2024,
+    "endLine": 2034,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

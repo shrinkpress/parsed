@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "set_query_var",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 63,
+    "startLine": 73,
+    "endLine": 76,
+    "calls": {
+        "wp-includes/comment-template.php:1490": [
+            "wp-includes/comment-template.php",
+            1490
+        ],
+        "wp-includes/comment-template.php:2156": [
+            "wp-includes/comment-template.php",
+            2156
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

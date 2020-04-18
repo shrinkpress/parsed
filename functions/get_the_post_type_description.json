@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_post_type_description",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 1668,
+    "startLine": 1675,
+    "endLine": 1700,
+    "calls": {
+        "wp-includes/general-template.php:1653": [
+            "wp-includes/general-template.php",
+            1653
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

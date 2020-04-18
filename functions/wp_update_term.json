@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_term",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 2781,
+    "startLine": 2811,
+    "endLine": 3054,
+    "calls": {
+        "wp-admin/edit-tags.php:183": [
+            "wp-admin/edit-tags.php",
+            183
+        ],
+        "wp-admin/includes/ajax-actions.php:2115": [
+            "wp-admin/includes/ajax-actions.php",
+            2115
+        ],
+        "wp-admin/includes/taxonomy.php:162": [
+            "wp-admin/includes/taxonomy.php",
+            162
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:2193": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            2193
+        ],
+        "wp-includes/nav-menu.php:385": [
+            "wp-includes/nav-menu.php",
+            385
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:546": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php",
+            546
+        ],
+        "wp-includes/taxonomy.php:2184": [
+            "wp-includes/taxonomy.php",
+            2184
+        ],
+        "wp-includes/taxonomy.php:2887": [
+            "wp-includes/taxonomy.php",
+            2887
+        ],
+        "wp-includes/taxonomy.php:4595": [
+            "wp-includes/taxonomy.php",
+            4595
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

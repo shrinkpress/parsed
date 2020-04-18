@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_pages_count",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 971,
+    "startLine": 985,
+    "endLine": 1026,
+    "calls": {
+        "wp-includes/comment-template.php:1490": [
+            "wp-includes/comment-template.php",
+            1490
+        ],
+        "wp-includes/comment-template.php:2155": [
+            "wp-includes/comment-template.php",
+            2155
+        ],
+        "wp-includes/link-template.php:2883": [
+            "wp-includes/link-template.php",
+            2883
+        ],
+        "wp-includes/link-template.php:2984": [
+            "wp-includes/link-template.php",
+            2984
+        ],
+        "wp-includes/link-template.php:3030": [
+            "wp-includes/link-template.php",
+            3030
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

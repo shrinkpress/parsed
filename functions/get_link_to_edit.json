@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_link_to_edit",
+    "filename": "wp-admin/includes/bookmark.php",
+    "docCommentLine": 132,
+    "startLine": 140,
+    "endLine": 142,
+    "calls": {
+        "wp-admin/link.php:115": [
+            "wp-admin/link.php",
+            115
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

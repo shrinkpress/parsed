@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_theme_updates",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 542,
+    "startLine": 545,
+    "endLine": 559,
+    "calls": {
+        "wp-admin/includes/class-wp-automatic-updater.php:774": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            774
+        ],
+        "wp-admin/includes/class-wp-debug-data.php:880": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            880
+        ],
+        "wp-admin/includes/class-wp-site-health.php:461": [
+            "wp-admin/includes/class-wp-site-health.php",
+            461
+        ],
+        "wp-admin/update-core.php:444": [
+            "wp-admin/update-core.php",
+            444
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

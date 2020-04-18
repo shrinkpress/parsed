@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_save_image_file",
+    "filename": "wp-admin/includes/image-edit.php",
+    "docCommentLine": 313,
+    "startLine": 324,
+    "endLine": 391,
+    "calls": {
+        "wp-admin/includes/image-edit.php:851": [
+            "wp-admin/includes/image-edit.php",
+            851
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

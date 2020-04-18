@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:448": [
+            "wp-includes/default-filters.php",
+            448,
+            "rest_api_init",
+            "add_action"
+        ]
+    },
+    "functionName": "register_initial_settings",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 1896,
+    "startLine": 1904,
+    "endLine": 2087,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

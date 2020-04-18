@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:126": [
+            "wp-includes/default-filters.php",
+            126,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":126,\"endLine\":126}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":126,\"endLine\":126}}",
+            "add_filter"
+        ]
+    },
+    "functionName": "convert_invalid_entities",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 2372,
+    "startLine": 2380,
+    "endLine": 2421,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

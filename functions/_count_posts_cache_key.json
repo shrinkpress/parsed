@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_count_posts_cache_key",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 2568,
+    "startLine": 2578,
+    "endLine": 2587,
+    "calls": {
+        "wp-includes/post.php:2615": [
+            "wp-includes/post.php",
+            2615
+        ],
+        "wp-includes/post.php:6754": [
+            "wp-includes/post.php",
+            6754
+        ],
+        "wp-includes/post.php:6755": [
+            "wp-includes/post.php",
+            6755
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

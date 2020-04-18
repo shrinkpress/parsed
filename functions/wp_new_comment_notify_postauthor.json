@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/comment.php:2257": [
+            "wp-includes/comment.php",
+            2257,
+            "wp_set_comment_status",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:440": [
+            "wp-includes/default-filters.php",
+            440,
+            "comment_post",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_new_comment_notify_postauthor",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 2188,
+    "startLine": 2199,
+    "endLine": 2229,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

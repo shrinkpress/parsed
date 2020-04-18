@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "signup_get_available_languages",
+    "filename": "wp-signup.php",
+    "docCommentLine": 857,
+    "startLine": 866,
+    "endLine": 888,
+    "calls": {
+        "wp-signup.php:157": [
+            "wp-signup.php",
+            157
+        ],
+        "wp-signup.php:439": [
+            "wp-signup.php",
+            439
+        ],
+        "wp-signup.php:790": [
+            "wp-signup.php",
+            790
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

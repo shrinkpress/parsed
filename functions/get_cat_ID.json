@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_cat_ID",
+    "filename": "wp-includes/category.php",
+    "docCommentLine": 190,
+    "startLine": 198,
+    "endLine": 204,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:5497": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5497
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:5813": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5813
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,72 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:69": [
+            "wp-includes/default-filters.php",
+            69,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":69,\"endLine\":69}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":69,\"endLine\":69}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:77": [
+            "wp-includes/default-filters.php",
+            77,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":77,\"endLine\":77}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":77,\"endLine\":77}}",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_strip_all_tags",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5201,
+    "startLine": 5214,
+    "endLine": 5223,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:3022": [
+            "wp-admin/includes/ajax-actions.php",
+            3022
+        ],
+        "wp-admin/includes/class-wp-list-table.php:1338": [
+            "wp-admin/includes/class-wp-list-table.php",
+            1338
+        ],
+        "wp-admin/includes/class-wp-screen.php:1137": [
+            "wp-admin/includes/class-wp-screen.php",
+            1137
+        ],
+        "wp-admin/includes/class-wp-users-list-table.php:525": [
+            "wp-admin/includes/class-wp-users-list-table.php",
+            525
+        ],
+        "wp-admin/includes/media.php:771": [
+            "wp-admin/includes/media.php",
+            771
+        ],
+        "wp-admin/includes/post.php:380": [
+            "wp-admin/includes/post.php",
+            380
+        ],
+        "wp-includes/class-wp-recovery-mode-email-service.php:121": [
+            "wp-includes/class-wp-recovery-mode-email-service.php",
+            121
+        ],
+        "wp-includes/comment.php:1279": [
+            "wp-includes/comment.php",
+            1279
+        ],
+        "wp-includes/formatting.php:2092": [
+            "wp-includes/formatting.php",
+            2092
+        ],
+        "wp-includes/formatting.php:3859": [
+            "wp-includes/formatting.php",
+            3859
+        ],
+        "wp-includes/formatting.php:5090": [
+            "wp-includes/formatting.php",
+            5090
+        ],
+        "wp-includes/formatting.php:5307": [
+            "wp-includes/formatting.php",
+            5307
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

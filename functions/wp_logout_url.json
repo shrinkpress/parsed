@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_logout_url",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 344,
+    "startLine": 354,
+    "endLine": 372,
+    "calls": {
+        "wp-includes/admin-bar.php:314": [
+            "wp-includes/admin-bar.php",
+            314
+        ],
+        "wp-includes/class-wp-admin-bar.php:453": [
+            "wp-includes/class-wp-admin-bar.php",
+            453
+        ],
+        "wp-includes/comment-template.php:2389": [
+            "wp-includes/comment-template.php",
+            2389
+        ],
+        "wp-includes/functions.php:3158": [
+            "wp-includes/functions.php",
+            3158
+        ],
+        "wp-includes/general-template.php:326": [
+            "wp-includes/general-template.php",
+            326
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

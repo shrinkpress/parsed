@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:290": [
+            "wp-includes/default-filters.php",
+            290,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "noindex",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3069,
+    "startLine": 3084,
+    "endLine": 3089,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

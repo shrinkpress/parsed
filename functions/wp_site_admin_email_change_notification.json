@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:59": [
+            "wp-admin/includes/admin-filters.php",
+            59,
+            "update_option_admin_email",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_site_admin_email_change_notification",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6777,
+    "startLine": 6786,
+    "endLine": 6872,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

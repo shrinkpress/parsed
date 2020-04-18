@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "media_upload_header",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 2014,
+    "startLine": 2019,
+    "endLine": 2029,
+    "calls": {
+        "wp-admin/includes/media.php:2261": [
+            "wp-admin/includes/media.php",
+            2261
+        ],
+        "wp-admin/includes/media.php:2338": [
+            "wp-admin/includes/media.php",
+            2338
+        ],
+        "wp-admin/includes/media.php:2486": [
+            "wp-admin/includes/media.php",
+            2486
+        ],
+        "wp-admin/includes/media.php:2649": [
+            "wp-admin/includes/media.php",
+            2649
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

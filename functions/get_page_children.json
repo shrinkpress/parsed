@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_page_children",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 5021,
+    "startLine": 5032,
+    "endLine": 5059,
+    "calls": {
+        "wp-includes/post.php:5430": [
+            "wp-includes/post.php",
+            5430
+        ],
+        "wp-includes/post.php:5436": [
+            "wp-includes/post.php",
+            5436
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

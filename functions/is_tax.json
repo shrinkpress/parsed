@@ -1,0 +1,91 @@
+{
+    "callbacks": [],
+    "functionName": "is_tax",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 298,
+    "startLine": 320,
+    "endLine": 329,
+    "calls": {
+        "wp-includes/canonical.php:239": [
+            "wp-includes/canonical.php",
+            239
+        ],
+        "wp-includes/category-template.php:619": [
+            "wp-includes/category-template.php",
+            619
+        ],
+        "wp-includes/category-template.php:1210": [
+            "wp-includes/category-template.php",
+            1210
+        ],
+        "wp-includes/class-wp.php:698": [
+            "wp-includes/class-wp.php",
+            698
+        ],
+        "wp-includes/general-template.php:1069": [
+            "wp-includes/general-template.php",
+            1069
+        ],
+        "wp-includes/general-template.php:1222": [
+            "wp-includes/general-template.php",
+            1222
+        ],
+        "wp-includes/general-template.php:1466": [
+            "wp-includes/general-template.php",
+            1466
+        ],
+        "wp-includes/general-template.php:1579": [
+            "wp-includes/general-template.php",
+            1579
+        ],
+        "wp-includes/general-template.php:1580": [
+            "wp-includes/general-template.php",
+            1580
+        ],
+        "wp-includes/general-template.php:1582": [
+            "wp-includes/general-template.php",
+            1582
+        ],
+        "wp-includes/general-template.php:1584": [
+            "wp-includes/general-template.php",
+            1584
+        ],
+        "wp-includes/general-template.php:1586": [
+            "wp-includes/general-template.php",
+            1586
+        ],
+        "wp-includes/general-template.php:1588": [
+            "wp-includes/general-template.php",
+            1588
+        ],
+        "wp-includes/general-template.php:1590": [
+            "wp-includes/general-template.php",
+            1590
+        ],
+        "wp-includes/general-template.php:1592": [
+            "wp-includes/general-template.php",
+            1592
+        ],
+        "wp-includes/general-template.php:1594": [
+            "wp-includes/general-template.php",
+            1594
+        ],
+        "wp-includes/general-template.php:1596": [
+            "wp-includes/general-template.php",
+            1596
+        ],
+        "wp-includes/general-template.php:1602": [
+            "wp-includes/general-template.php",
+            1602
+        ],
+        "wp-includes/general-template.php:3020": [
+            "wp-includes/general-template.php",
+            3020
+        ],
+        "wp-includes/post-template.php:747": [
+            "wp-includes/post-template.php",
+            747
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

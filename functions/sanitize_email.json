@@ -1,0 +1,56 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:48": [
+            "wp-includes/default-filters.php",
+            48,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":48,\"endLine\":48}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":48,\"endLine\":48}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:54": [
+            "wp-includes/default-filters.php",
+            54,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":54,\"endLine\":54}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":54,\"endLine\":54}}",
+            "add_filter"
+        ]
+    },
+    "functionName": "sanitize_email",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 3591,
+    "startLine": 3599,
+    "endLine": 3691,
+    "calls": {
+        "wp-admin/network/site-new.php:94": [
+            "wp-admin/network/site-new.php",
+            94
+        ],
+        "wp-admin/network/user-new.php:51": [
+            "wp-admin/network/user-new.php",
+            51
+        ],
+        "wp-admin/network.php:100": [
+            "wp-admin/network.php",
+            100
+        ],
+        "wp-includes/formatting.php:4578": [
+            "wp-includes/formatting.php",
+            4578
+        ],
+        "wp-includes/ms-functions.php:461": [
+            "wp-includes/ms-functions.php",
+            461
+        ],
+        "wp-includes/ms-functions.php:823": [
+            "wp-includes/ms-functions.php",
+            823
+        ],
+        "wp-includes/user.php:3385": [
+            "wp-includes/user.php",
+            3385
+        ],
+        "wp-mail.php:132": [
+            "wp-mail.php",
+            132
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

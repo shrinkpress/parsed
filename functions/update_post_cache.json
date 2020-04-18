@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "update_post_cache",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6521,
+    "startLine": 6528,
+    "endLine": 6536,
+    "calls": {
+        "wp-includes/deprecated.php:3100": [
+            "wp-includes/deprecated.php",
+            3100
+        ],
+        "wp-includes/post.php:671": [
+            "wp-includes/post.php",
+            671
+        ],
+        "wp-includes/post.php:5427": [
+            "wp-includes/post.php",
+            5427
+        ],
+        "wp-includes/post.php:6614": [
+            "wp-includes/post.php",
+            6614
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

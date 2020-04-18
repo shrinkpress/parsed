@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "PclZipUtilPathInclusion",
+    "filename": "wp-admin/includes/class-pclzip.php",
+    "docCommentLine": 0,
+    "startLine": 5485,
+    "endLine": 5548,
+    "calls": {
+        "wp-admin/includes/class-pclzip.php:2985": [
+            "wp-admin/includes/class-pclzip.php",
+            2985
+        ],
+        "wp-admin/includes/class-pclzip.php:3652": [
+            "wp-admin/includes/class-pclzip.php",
+            3652
+        ],
+        "wp-admin/includes/class-pclzip.php:3680": [
+            "wp-admin/includes/class-pclzip.php",
+            3680
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

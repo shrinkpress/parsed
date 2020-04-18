@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "random_int",
+    "filename": "wp-includes/random_compat/random_int.php",
+    "docCommentLine": 31,
+    "startLine": 41,
+    "endLine": 189,
+    "calls": {
+        "wp-admin/setup-config.php:329": [
+            "wp-admin/setup-config.php",
+            329
+        ],
+        "wp-includes/pluggable.php:2454": [
+            "wp-includes/pluggable.php",
+            2454
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:3435": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3435
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:3451": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3451
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:3477": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3477
+        ],
+        "wp-includes/sodium_compat/src/Compat.php:3480": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3480
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

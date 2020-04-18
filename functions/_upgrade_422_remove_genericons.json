@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_upgrade_422_remove_genericons",
+    "filename": "wp-admin/includes/update-core.php",
+    "docCommentLine": 1431,
+    "startLine": 1439,
+    "endLine": 1472,
+    "calls": {
+        "wp-admin/includes/update-core.php:1257": [
+            "wp-admin/includes/update-core.php",
+            1257
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

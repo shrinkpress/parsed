@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "map_meta_cap",
+    "filename": "wp-includes/capabilities.php",
+    "docCommentLine": 9,
+    "startLine": 38,
+    "endLine": 619,
+    "calls": {
+        "wp-includes/capabilities.php:135": [
+            "wp-includes/capabilities.php",
+            135
+        ],
+        "wp-includes/capabilities.php:206": [
+            "wp-includes/capabilities.php",
+            206
+        ],
+        "wp-includes/capabilities.php:254": [
+            "wp-includes/capabilities.php",
+            254
+        ],
+        "wp-includes/capabilities.php:296": [
+            "wp-includes/capabilities.php",
+            296
+        ],
+        "wp-includes/capabilities.php:389": [
+            "wp-includes/capabilities.php",
+            389
+        ],
+        "wp-includes/capabilities.php:391": [
+            "wp-includes/capabilities.php",
+            391
+        ],
+        "wp-includes/capabilities.php:536": [
+            "wp-includes/capabilities.php",
+            536
+        ],
+        "wp-includes/capabilities.php:584": [
+            "wp-includes/capabilities.php",
+            584
+        ],
+        "wp-includes/class-wp-customize-manager.php:3164": [
+            "wp-includes/class-wp-customize-manager.php",
+            3164
+        ],
+        "wp-includes/class-wp-user.php:749": [
+            "wp-includes/class-wp-user.php",
+            749
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

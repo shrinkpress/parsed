@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_page_of_comment",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 1028,
+    "startLine": 1048,
+    "endLine": 1157,
+    "calls": {
+        "wp-includes/comment-template.php:750": [
+            "wp-includes/comment-template.php",
+            750
+        ],
+        "wp-includes/comment.php:1098": [
+            "wp-includes/comment.php",
+            1098
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

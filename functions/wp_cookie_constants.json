@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_cookie_constants",
+    "filename": "wp-includes/default-constants.php",
+    "docCommentLine": 212,
+    "startLine": 219,
+    "endLine": 317,
+    "calls": {
+        "wp-settings.php:334": [
+            "wp-settings.php",
+            334
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,41 @@
+{
+    "callbacks": {
+        "wp-includes/class-wp-roles.php:359": [
+            "wp-includes/class-wp-roles.php",
+            359,
+            "switch_blog",
+            "remove_action"
+        ],
+        "wp-includes/class-wp-roles.php:363": [
+            "wp-includes/class-wp-roles.php",
+            363,
+            "switch_blog",
+            "add_action"
+        ],
+        "wp-includes/ms-default-filters.php:36": [
+            "wp-includes/ms-default-filters.php",
+            36,
+            "switch_blog",
+            "add_action"
+        ],
+        "wp-includes/ms-site.php:946": [
+            "wp-includes/ms-site.php",
+            946,
+            "switch_blog",
+            "remove_action"
+        ],
+        "wp-includes/ms-site.php:956": [
+            "wp-includes/ms-site.php",
+            956,
+            "switch_blog",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_switch_roles_and_user",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 622,
+    "startLine": 630,
+    "endLine": 641,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_unregister_GLOBALS",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 23,
+    "startLine": 29,
+    "endLine": 47,
+    "calls": {
+        "wp-settings.php:61": [
+            "wp-settings.php",
+            61
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

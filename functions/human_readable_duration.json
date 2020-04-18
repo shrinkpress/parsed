@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "human_readable_duration",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 457,
+    "startLine": 466,
+    "endLine": 525,
+    "calls": {
+        "wp-includes/media.php:3545": [
+            "wp-includes/media.php",
+            3545
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

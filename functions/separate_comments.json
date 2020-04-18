@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "separate_comments",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 941,
+    "startLine": 949,
+    "endLine": 969,
+    "calls": {
+        "wp-includes/comment-template.php:1482": [
+            "wp-includes/comment-template.php",
+            1482
+        ],
+        "wp-includes/comment-template.php:2042": [
+            "wp-includes/comment-template.php",
+            2042
+        ],
+        "wp-includes/comment-template.php:2083": [
+            "wp-includes/comment-template.php",
+            2083
+        ],
+        "wp-includes/comment-template.php:2101": [
+            "wp-includes/comment-template.php",
+            2101
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

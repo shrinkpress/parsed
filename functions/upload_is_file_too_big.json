@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:95": [
+            "wp-includes/ms-default-filters.php",
+            95,
+            "wp_upload_bits",
+            "add_filter"
+        ]
+    },
+    "functionName": "upload_is_file_too_big",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1982,
+    "startLine": 1992,
+    "endLine": 2003,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

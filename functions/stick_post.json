@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "stick_post",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 2493,
+    "startLine": 2502,
+    "endLine": 2525,
+    "calls": {
+        "wp-admin/includes/post.php:428": [
+            "wp-admin/includes/post.php",
+            428
+        ],
+        "wp-admin/includes/post.php:627": [
+            "wp-admin/includes/post.php",
+            627
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:1343": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1343
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:569": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            569
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:716": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            716
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

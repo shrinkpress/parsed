@@ -1,0 +1,79 @@
+{
+    "callbacks": [],
+    "functionName": "get_role",
+    "filename": "wp-includes/capabilities.php",
+    "docCommentLine": 793,
+    "startLine": 801,
+    "endLine": 803,
+    "calls": {
+        "wp-admin/includes/schema.php:715": [
+            "wp-admin/includes/schema.php",
+            715
+        ],
+        "wp-admin/includes/schema.php:748": [
+            "wp-admin/includes/schema.php",
+            748
+        ],
+        "wp-admin/includes/schema.php:770": [
+            "wp-admin/includes/schema.php",
+            770
+        ],
+        "wp-admin/includes/schema.php:781": [
+            "wp-admin/includes/schema.php",
+            781
+        ],
+        "wp-admin/includes/schema.php:788": [
+            "wp-admin/includes/schema.php",
+            788
+        ],
+        "wp-admin/includes/schema.php:801": [
+            "wp-admin/includes/schema.php",
+            801
+        ],
+        "wp-admin/includes/schema.php:823": [
+            "wp-admin/includes/schema.php",
+            823
+        ],
+        "wp-admin/includes/schema.php:829": [
+            "wp-admin/includes/schema.php",
+            829
+        ],
+        "wp-admin/includes/schema.php:835": [
+            "wp-admin/includes/schema.php",
+            835
+        ],
+        "wp-admin/includes/schema.php:847": [
+            "wp-admin/includes/schema.php",
+            847
+        ],
+        "wp-admin/includes/schema.php:860": [
+            "wp-admin/includes/schema.php",
+            860
+        ],
+        "wp-admin/includes/schema.php:873": [
+            "wp-admin/includes/schema.php",
+            873
+        ],
+        "wp-admin/includes/schema.php:887": [
+            "wp-admin/includes/schema.php",
+            887
+        ],
+        "wp-admin/includes/schema.php:901": [
+            "wp-admin/includes/schema.php",
+            901
+        ],
+        "wp-admin/includes/schema.php:914": [
+            "wp-admin/includes/schema.php",
+            914
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:2724": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            2724
+        ],
+        "wp-includes/formatting.php:4787": [
+            "wp-includes/formatting.php",
+            4787
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

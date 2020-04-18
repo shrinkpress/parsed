@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "remove_meta_box",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 1357,
+    "startLine": 1375,
+    "endLine": 1407,
+    "calls": {
+        "wp-admin/includes/template.php:1384": [
+            "wp-admin/includes/template.php",
+            1384
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

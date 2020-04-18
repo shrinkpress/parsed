@@ -1,0 +1,88 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ajax-actions.php:1293": [
+            "wp-admin/includes/ajax-actions.php",
+            1293,
+            "pre_comment_content",
+            "remove_filter"
+        ],
+        "wp-includes/class-wp-customize-manager.php:2932": [
+            "wp-includes/class-wp-customize-manager.php",
+            2932,
+            "content_save_pre",
+            "has_filter"
+        ],
+        "wp-includes/class-wp-embed.php:283": [
+            "wp-includes/class-wp-embed.php",
+            283,
+            "content_save_pre",
+            "has_filter"
+        ],
+        "wp-includes/comment.php:3329": [
+            "wp-includes/comment.php",
+            3329,
+            "pre_comment_content",
+            "remove_filter"
+        ],
+        "wp-includes/kses.php:1990": [
+            "wp-includes/kses.php",
+            1990,
+            "pre_comment_content",
+            "add_filter"
+        ],
+        "wp-includes/kses.php:1996": [
+            "wp-includes/kses.php",
+            1996,
+            "content_save_pre",
+            "add_filter"
+        ],
+        "wp-includes/kses.php:1997": [
+            "wp-includes/kses.php",
+            1997,
+            "excerpt_save_pre",
+            "add_filter"
+        ],
+        "wp-includes/kses.php:1998": [
+            "wp-includes/kses.php",
+            1998,
+            "content_filtered_save_pre",
+            "add_filter"
+        ],
+        "wp-includes/kses.php:2018": [
+            "wp-includes/kses.php",
+            2018,
+            "pre_comment_content",
+            "remove_filter"
+        ],
+        "wp-includes/kses.php:2022": [
+            "wp-includes/kses.php",
+            2022,
+            "content_save_pre",
+            "remove_filter"
+        ],
+        "wp-includes/kses.php:2023": [
+            "wp-includes/kses.php",
+            2023,
+            "excerpt_save_pre",
+            "remove_filter"
+        ],
+        "wp-includes/kses.php:2024": [
+            "wp-includes/kses.php",
+            2024,
+            "content_filtered_save_pre",
+            "remove_filter"
+        ]
+    },
+    "functionName": "wp_filter_post_kses",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 1910,
+    "startLine": 1923,
+    "endLine": 1925,
+    "calls": {
+        "wp-admin/includes/post.php:320": [
+            "wp-admin/includes/post.php",
+            320
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

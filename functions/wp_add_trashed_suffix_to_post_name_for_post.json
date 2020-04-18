@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_add_trashed_suffix_to_post_name_for_post",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 7063,
+    "startLine": 7077,
+    "endLine": 7090,
+    "calls": {
+        "wp-includes/post.php:3841": [
+            "wp-includes/post.php",
+            3841
+        ],
+        "wp-includes/post.php:7058": [
+            "wp-includes/post.php",
+            7058
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,55 @@
+{
+    "callbacks": [],
+    "functionName": "human_time_diff",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 3693,
+    "startLine": 3706,
+    "endLine": 3775,
+    "calls": {
+        "wp-admin/includes/class-wp-media-list-table.php:460": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            460
+        ],
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:734": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            734
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1075": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1075
+        ],
+        "wp-admin/includes/class-wp-privacy-requests-table.php:382": [
+            "wp-admin/includes/class-wp-privacy-requests-table.php",
+            382
+        ],
+        "wp-admin/includes/plugin-install.php:655": [
+            "wp-admin/includes/plugin-install.php",
+            655
+        ],
+        "wp-admin/includes/revision.php:245": [
+            "wp-admin/includes/revision.php",
+            245
+        ],
+        "wp-admin/includes/revision.php:288": [
+            "wp-admin/includes/revision.php",
+            288
+        ],
+        "wp-includes/class-wp-recovery-mode-email-service.php:78": [
+            "wp-includes/class-wp-recovery-mode-email-service.php",
+            78
+        ],
+        "wp-includes/class-wp-recovery-mode-email-service.php:79": [
+            "wp-includes/class-wp-recovery-mode-email-service.php",
+            79
+        ],
+        "wp-includes/class-wp-recovery-mode-email-service.php:184": [
+            "wp-includes/class-wp-recovery-mode-email-service.php",
+            184
+        ],
+        "wp-includes/post-template.php:1871": [
+            "wp-includes/post-template.php",
+            1871
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

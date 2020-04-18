@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_category_checklist",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 21,
+    "startLine": 40,
+    "endLine": 52,
+    "calls": {
+        "wp-admin/includes/deprecated.php:85": [
+            "wp-admin/includes/deprecated.php",
+            85
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

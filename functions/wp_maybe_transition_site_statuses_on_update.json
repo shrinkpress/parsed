@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:47": [
+            "wp-includes/ms-default-filters.php",
+            47,
+            "wp_insert_site",
+            "add_action"
+        ],
+        "wp-includes/ms-default-filters.php:48": [
+            "wp-includes/ms-default-filters.php",
+            48,
+            "wp_update_site",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_maybe_transition_site_statuses_on_update",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 1142,
+    "startLine": 1151,
+    "endLine": 1267,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

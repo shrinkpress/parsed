@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:260": [
+            "wp-includes/default-filters.php",
+            260,
+            "pingback_ping_source_uri",
+            "add_filter"
+        ]
+    },
+    "functionName": "pingback_ping_source_uri",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 2970,
+    "startLine": 2979,
+    "endLine": 2981,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

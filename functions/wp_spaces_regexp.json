@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_spaces_regexp",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5519,
+    "startLine": 5532,
+    "endLine": 5552,
+    "calls": {
+        "wp-includes/formatting.php:166": [
+            "wp-includes/formatting.php",
+            166
+        ],
+        "wp-includes/formatting.php:333": [
+            "wp-includes/formatting.php",
+            333
+        ],
+        "wp-includes/formatting.php:846": [
+            "wp-includes/formatting.php",
+            846
+        ],
+        "wp-includes/functions.php:4255": [
+            "wp-includes/functions.php",
+            4255
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

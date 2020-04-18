@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "mysql_to_rfc3339",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6562,
+    "startLine": 6576,
+    "endLine": 6578,
+    "calls": {
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:929": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            929
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:933": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            933
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:937": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            937
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:946": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            946
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:609": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php",
+            609
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:612": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php",
+            612
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

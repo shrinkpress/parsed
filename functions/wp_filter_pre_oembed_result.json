@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:580": [
+            "wp-includes/default-filters.php",
+            580,
+            "pre_oembed_result",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_filter_pre_oembed_result",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 1193,
+    "startLine": 1207,
+    "endLine": 1215,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_term_count_now",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 3127,
+    "startLine": 3136,
+    "endLine": 3162,
+    "calls": {
+        "wp-includes/taxonomy.php:3103": [
+            "wp-includes/taxonomy.php",
+            3103
+        ],
+        "wp-includes/taxonomy.php:3124": [
+            "wp-includes/taxonomy.php",
+            3124
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

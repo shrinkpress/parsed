@@ -1,0 +1,75 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_nav_menu_object",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 10,
+    "startLine": 18,
+    "endLine": 50,
+    "calls": {
+        "wp-admin/includes/nav-menu.php:1019": [
+            "wp-admin/includes/nav-menu.php",
+            1019
+        ],
+        "wp-admin/nav-menus.php:321": [
+            "wp-admin/nav-menus.php",
+            321
+        ],
+        "wp-admin/nav-menus.php:358": [
+            "wp-admin/nav-menus.php",
+            358
+        ],
+        "wp-admin/nav-menus.php:372": [
+            "wp-admin/nav-menus.php",
+            372
+        ],
+        "wp-admin/nav-menus.php:485": [
+            "wp-admin/nav-menus.php",
+            485
+        ],
+        "wp-admin/nav-menus.php:985": [
+            "wp-admin/nav-menus.php",
+            985
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-setting.php:173": [
+            "wp-includes/customize/class-wp-customize-nav-menu-setting.php",
+            173
+        ],
+        "wp-includes/nav-menu-template.php:116": [
+            "wp-includes/nav-menu-template.php",
+            116
+        ],
+        "wp-includes/nav-menu-template.php:121": [
+            "wp-includes/nav-menu-template.php",
+            121
+        ],
+        "wp-includes/nav-menu.php:67": [
+            "wp-includes/nav-menu.php",
+            67
+        ],
+        "wp-includes/nav-menu.php:211": [
+            "wp-includes/nav-menu.php",
+            211
+        ],
+        "wp-includes/nav-menu.php:265": [
+            "wp-includes/nav-menu.php",
+            265
+        ],
+        "wp-includes/nav-menu.php:318": [
+            "wp-includes/nav-menu.php",
+            318
+        ],
+        "wp-includes/nav-menu.php:427": [
+            "wp-includes/nav-menu.php",
+            427
+        ],
+        "wp-includes/nav-menu.php:673": [
+            "wp-includes/nav-menu.php",
+            673
+        ],
+        "wp-includes/widgets/class-wp-nav-menu-widget.php:43": [
+            "wp-includes/widgets/class-wp-nav-menu-widget.php",
+            43
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

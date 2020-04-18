@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "has_meta",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 978,
+    "startLine": 988,
+    "endLine": 1000,
+    "calls": {
+        "wp-admin/includes/meta-boxes.php:744": [
+            "wp-admin/includes/meta-boxes.php",
+            744
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:351": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            351
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

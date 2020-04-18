@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_kses_attr_parse",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 1362,
+    "startLine": 1374,
+    "endLine": 1410,
+    "calls": {
+        "wp-includes/shortcodes.php:392": [
+            "wp-includes/shortcodes.php",
+            392
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

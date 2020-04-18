@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "display_setup_form",
+    "filename": "wp-admin/install.php",
+    "docCommentLine": 82,
+    "startLine": 91,
+    "endLine": 212,
+    "calls": {
+        "wp-admin/install.php:341": [
+            "wp-admin/install.php",
+            341
+        ],
+        "wp-admin/install.php:370": [
+            "wp-admin/install.php",
+            370
+        ],
+        "wp-admin/install.php:373": [
+            "wp-admin/install.php",
+            373
+        ],
+        "wp-admin/install.php:377": [
+            "wp-admin/install.php",
+            377
+        ],
+        "wp-admin/install.php:381": [
+            "wp-admin/install.php",
+            381
+        ],
+        "wp-admin/install.php:385": [
+            "wp-admin/install.php",
+            385
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

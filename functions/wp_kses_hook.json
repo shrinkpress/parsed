@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_kses_hook",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 891,
+    "startLine": 904,
+    "endLine": 915,
+    "calls": {
+        "wp-includes/kses.php:737": [
+            "wp-includes/kses.php",
+            737
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

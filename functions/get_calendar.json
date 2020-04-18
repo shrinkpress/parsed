@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_calendar",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 2042,
+    "startLine": 2061,
+    "endLine": 2279,
+    "calls": {
+        "wp-includes/blocks/calendar.php:40": [
+            "wp-includes/blocks/calendar.php",
+            40
+        ],
+        "wp-includes/widgets/class-wp-widget-calendar.php:64": [
+            "wp-includes/widgets/class-wp-widget-calendar.php",
+            64
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

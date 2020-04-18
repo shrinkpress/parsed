@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_list_bookmarks",
+    "filename": "wp-includes/bookmark-template.php",
+    "docCommentLine": 155,
+    "startLine": 207,
+    "endLine": 323,
+    "calls": {
+        "wp-includes/deprecated.php:435": [
+            "wp-includes/deprecated.php",
+            435
+        ],
+        "wp-includes/deprecated.php:897": [
+            "wp-includes/deprecated.php",
+            897
+        ],
+        "wp-includes/theme-compat/sidebar.php:136": [
+            "wp-includes/theme-compat/sidebar.php",
+            136
+        ],
+        "wp-includes/widgets/class-wp-widget-links.php:80": [
+            "wp-includes/widgets/class-wp-widget-links.php",
+            80
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

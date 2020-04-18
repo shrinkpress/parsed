@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "is_main_network",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5297,
+    "startLine": 5305,
+    "endLine": 5317,
+    "calls": {
+        "wp-admin/includes/class-wp-automatic-updater.php:404": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            404
+        ],
+        "wp-admin/includes/upgrade.php:3364": [
+            "wp-admin/includes/upgrade.php",
+            3364
+        ],
+        "wp-includes/functions.php:2321": [
+            "wp-includes/functions.php",
+            2321
+        ],
+        "wp-includes/option.php:897": [
+            "wp-includes/option.php",
+            897
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_attached_media",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 3984,
+    "startLine": 3993,
+    "endLine": 4032,
+    "calls": {
+        "wp-includes/media.php:2519": [
+            "wp-includes/media.php",
+            2519
+        ],
+        "wp-includes/media.php:2771": [
+            "wp-includes/media.php",
+            2771
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

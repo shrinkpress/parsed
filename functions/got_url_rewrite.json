@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "got_url_rewrite",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 34,
+    "startLine": 45,
+    "endLine": 56,
+    "calls": {
+        "wp-admin/options-permalink.php:71": [
+            "wp-admin/options-permalink.php",
+            71
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,59 @@
+{
+    "callbacks": [],
+    "functionName": "is_post_type_viewable",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 1955,
+    "startLine": 1968,
+    "endLine": 1977,
+    "calls": {
+        "wp-admin/edit-form-advanced.php:121": [
+            "wp-admin/edit-form-advanced.php",
+            121
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1383": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1383
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1546": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1546
+        ],
+        "wp-admin/includes/meta-boxes.php:54": [
+            "wp-admin/includes/meta-boxes.php",
+            54
+        ],
+        "wp-includes/class-wp-post-type.php:551": [
+            "wp-includes/class-wp-post-type.php",
+            551
+        ],
+        "wp-includes/class-wp.php:290": [
+            "wp-includes/class-wp.php",
+            290
+        ],
+        "wp-includes/general-template.php:1833": [
+            "wp-includes/general-template.php",
+            1833
+        ],
+        "wp-includes/link-template.php:1325": [
+            "wp-includes/link-template.php",
+            1325
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:178": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php",
+            178
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:475": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            475
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1636": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1636
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1991": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1991
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_associated_nav_menu_items",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 979,
+    "startLine": 989,
+    "endLine": 1022,
+    "calls": {
+        "wp-includes/nav-menu.php:1035": [
+            "wp-includes/nav-menu.php",
+            1035
+        ],
+        "wp-includes/nav-menu.php:1055": [
+            "wp-includes/nav-menu.php",
+            1055
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

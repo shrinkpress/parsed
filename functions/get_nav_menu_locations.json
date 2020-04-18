@@ -1,0 +1,55 @@
+{
+    "callbacks": [],
+    "functionName": "get_nav_menu_locations",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 155,
+    "startLine": 164,
+    "endLine": 167,
+    "calls": {
+        "wp-admin/nav-menus.php:48": [
+            "wp-admin/nav-menus.php",
+            48
+        ],
+        "wp-admin/nav-menus.php:331": [
+            "wp-admin/nav-menus.php",
+            331
+        ],
+        "wp-admin/nav-menus.php:340": [
+            "wp-admin/nav-menus.php",
+            340
+        ],
+        "wp-admin/nav-menus.php:497": [
+            "wp-admin/nav-menus.php",
+            497
+        ],
+        "wp-includes/class-wp-customize-nav-menus.php:46": [
+            "wp-includes/class-wp-customize-nav-menus.php",
+            46
+        ],
+        "wp-includes/nav-menu-template.php:119": [
+            "wp-includes/nav-menu-template.php",
+            119
+        ],
+        "wp-includes/nav-menu.php:182": [
+            "wp-includes/nav-menu.php",
+            182
+        ],
+        "wp-includes/nav-menu.php:208": [
+            "wp-includes/nav-menu.php",
+            208
+        ],
+        "wp-includes/nav-menu.php:280": [
+            "wp-includes/nav-menu.php",
+            280
+        ],
+        "wp-includes/nav-menu.php:1151": [
+            "wp-includes/nav-menu.php",
+            1151
+        ],
+        "wp-includes/taxonomy.php:4094": [
+            "wp-includes/taxonomy.php",
+            4094
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

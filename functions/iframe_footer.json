@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "iframe_footer",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 2029,
+    "startLine": 2034,
+    "endLine": 2062,
+    "calls": {
+        "wp-admin/includes/plugin-install.php:886": [
+            "wp-admin/includes/plugin-install.php",
+            886
+        ],
+        "wp-admin/includes/theme-install.php:250": [
+            "wp-admin/includes/theme-install.php",
+            250
+        ],
+        "wp-admin/update.php:49": [
+            "wp-admin/update.php",
+            49
+        ],
+        "wp-admin/update.php:98": [
+            "wp-admin/update.php",
+            98
+        ],
+        "wp-admin/update.php:220": [
+            "wp-admin/update.php",
+            220
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

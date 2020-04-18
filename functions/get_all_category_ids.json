@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_all_category_ids",
+    "filename": "wp-includes/deprecated.php",
+    "docCommentLine": 1275,
+    "startLine": 1286,
+    "endLine": 1301,
+    "calls": {
+        "wp-includes/deprecated.php:1258": [
+            "wp-includes/deprecated.php",
+            1258
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

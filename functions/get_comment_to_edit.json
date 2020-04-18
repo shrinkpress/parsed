@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_to_edit",
+    "filename": "wp-admin/includes/comment.php",
+    "docCommentLine": 98,
+    "startLine": 106,
+    "endLine": 131,
+    "calls": {
+        "wp-admin/comment.php:78": [
+            "wp-admin/comment.php",
+            78
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

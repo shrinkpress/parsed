@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "attachment_url_to_postid",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 4229,
+    "startLine": 4239,
+    "endLine": 4273,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2700": [
+            "wp-admin/includes/ajax-actions.php",
+            2700
+        ],
+        "wp-includes/customize/class-wp-customize-upload-control.php:38": [
+            "wp-includes/customize/class-wp-customize-upload-control.php",
+            38
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

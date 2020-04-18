@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_site",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 139,
+    "startLine": 150,
+    "endLine": 191,
+    "calls": {
+        "wp-includes/ms-blogs.php:304": [
+            "wp-includes/ms-blogs.php",
+            304
+        ],
+        "wp-includes/ms-blogs.php:707": [
+            "wp-includes/ms-blogs.php",
+            707
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,43 @@
+{
+    "callbacks": [],
+    "functionName": "get_plugin_page_hook",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 1954,
+    "startLine": 1962,
+    "endLine": 1969,
+    "calls": {
+        "wp-admin/admin.php:179": [
+            "wp-admin/admin.php",
+            179
+        ],
+        "wp-admin/admin.php:181": [
+            "wp-admin/admin.php",
+            181
+        ],
+        "wp-admin/admin.php:184": [
+            "wp-admin/admin.php",
+            184
+        ],
+        "wp-admin/includes/plugin.php:1888": [
+            "wp-admin/includes/plugin.php",
+            1888
+        ],
+        "wp-admin/menu-header.php:154": [
+            "wp-admin/menu-header.php",
+            154
+        ],
+        "wp-admin/menu-header.php:167": [
+            "wp-admin/menu-header.php",
+            167
+        ],
+        "wp-admin/menu-header.php:231": [
+            "wp-admin/menu-header.php",
+            231
+        ],
+        "wp-admin/themes.php:259": [
+            "wp-admin/themes.php",
+            259
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

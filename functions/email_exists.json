@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "email_exists",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 1416,
+    "startLine": 1428,
+    "endLine": 1434,
+    "calls": {
+        "wp-admin/includes/user.php:206": [
+            "wp-admin/includes/user.php",
+            206
+        ],
+        "wp-admin/network/site-new.php:108": [
+            "wp-admin/network/site-new.php",
+            108
+        ],
+        "wp-includes/ms-functions.php:517": [
+            "wp-includes/ms-functions.php",
+            517
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:645": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            645
+        ],
+        "wp-includes/user.php:1642": [
+            "wp-includes/user.php",
+            1642
+        ],
+        "wp-includes/user.php:2512": [
+            "wp-includes/user.php",
+            2512
+        ],
+        "wp-includes/user.php:2802": [
+            "wp-includes/user.php",
+            2802
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

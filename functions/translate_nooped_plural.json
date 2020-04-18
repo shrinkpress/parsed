@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "translate_nooped_plural",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 562,
+    "startLine": 582,
+    "endLine": 592,
+    "calls": {
+        "wp-admin/includes/class-wp-comments-list-table.php:306": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            306
+        ],
+        "wp-admin/includes/class-wp-ms-sites-list-table.php:270": [
+            "wp-admin/includes/class-wp-ms-sites-list-table.php",
+            270
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:363": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            363
+        ],
+        "wp-admin/includes/class-wp-privacy-requests-table.php:181": [
+            "wp-admin/includes/class-wp-privacy-requests-table.php",
+            181
+        ],
+        "wp-admin/includes/media.php:2740": [
+            "wp-admin/includes/media.php",
+            2740
+        ],
+        "wp-includes/category-template.php:929": [
+            "wp-includes/category-template.php",
+            929
+        ],
+        "wp-includes/widgets/class-wp-widget-media.php:371": [
+            "wp-includes/widgets/class-wp-widget-media.php",
+            371
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

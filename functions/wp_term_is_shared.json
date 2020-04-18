@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_term_is_shared",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 4144,
+    "startLine": 4156,
+    "endLine": 4166,
+    "calls": {
+        "wp-includes/taxonomy.php:1218": [
+            "wp-includes/taxonomy.php",
+            1218
+        ],
+        "wp-includes/taxonomy.php:1271": [
+            "wp-includes/taxonomy.php",
+            1271
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

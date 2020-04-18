@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_set_auth_cookie",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 803,
+    "startLine": 819,
+    "endLine": 938,
+    "calls": {
+        "wp-includes/pluggable-deprecated.php:107": [
+            "wp-includes/pluggable-deprecated.php",
+            107
+        ],
+        "wp-includes/user.php:101": [
+            "wp-includes/user.php",
+            101
+        ],
+        "wp-includes/user.php:2133": [
+            "wp-includes/user.php",
+            2133
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

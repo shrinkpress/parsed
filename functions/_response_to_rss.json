@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_response_to_rss",
+    "filename": "wp-includes/rss.php",
+    "docCommentLine": 583,
+    "startLine": 593,
+    "endLine": 631,
+    "calls": {
+        "wp-includes/rss.php:426": [
+            "wp-includes/rss.php",
+            426
+        ],
+        "wp-includes/rss.php:493": [
+            "wp-includes/rss.php",
+            493
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

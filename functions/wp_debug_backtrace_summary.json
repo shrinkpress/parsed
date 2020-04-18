@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_debug_backtrace_summary",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6072,
+    "startLine": 6091,
+    "endLine": 6131,
+    "calls": {
+        "wp-includes/wp-db.php:3607": [
+            "wp-includes/wp-db.php",
+            3607
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

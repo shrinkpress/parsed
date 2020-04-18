@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_db_schema",
+    "filename": "wp-admin/includes/schema.php",
+    "docCommentLine": 25,
+    "startLine": 36,
+    "endLine": 344,
+    "calls": {
+        "wp-admin/includes/schema.php:347": [
+            "wp-admin/includes/schema.php",
+            347
+        ],
+        "wp-admin/includes/schema.php:938": [
+            "wp-admin/includes/schema.php",
+            938
+        ],
+        "wp-admin/includes/upgrade.php:2551": [
+            "wp-admin/includes/upgrade.php",
+            2551
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_add_id3_tag_data",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 3385,
+    "startLine": 3393,
+    "endLine": 3428,
+    "calls": {
+        "wp-admin/includes/media.php:3521": [
+            "wp-admin/includes/media.php",
+            3521
+        ],
+        "wp-admin/includes/media.php:3600": [
+            "wp-admin/includes/media.php",
+            3600
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:548": [
+            "wp-includes/default-filters.php",
+            548,
+            "rest_api_init",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_oembed_register_route",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 307,
+    "startLine": 312,
+    "endLine": 315,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

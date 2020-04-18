@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_theme_roots",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 362,
+    "startLine": 371,
+    "endLine": 384,
+    "calls": {
+        "wp-includes/theme.php:687": [
+            "wp-includes/theme.php",
+            687
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

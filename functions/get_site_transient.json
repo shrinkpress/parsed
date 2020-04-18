@@ -1,0 +1,195 @@
+{
+    "callbacks": [],
+    "functionName": "get_site_transient",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 1731,
+    "startLine": 1744,
+    "endLine": 1801,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:4134": [
+            "wp-admin/includes/ajax-actions.php",
+            4134
+        ],
+        "wp-admin/includes/class-plugin-upgrader.php:157": [
+            "wp-admin/includes/class-plugin-upgrader.php",
+            157
+        ],
+        "wp-admin/includes/class-plugin-upgrader.php:231": [
+            "wp-admin/includes/class-plugin-upgrader.php",
+            231
+        ],
+        "wp-admin/includes/class-theme-upgrader.php:271": [
+            "wp-admin/includes/class-theme-upgrader.php",
+            271
+        ],
+        "wp-admin/includes/class-theme-upgrader.php:344": [
+            "wp-admin/includes/class-theme-upgrader.php",
+            344
+        ],
+        "wp-admin/includes/class-wp-automatic-updater.php:420": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            420
+        ],
+        "wp-admin/includes/class-wp-automatic-updater.php:431": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            431
+        ],
+        "wp-admin/includes/class-wp-community-events.php:348": [
+            "wp-admin/includes/class-wp-community-events.php",
+            348
+        ],
+        "wp-admin/includes/class-wp-ms-themes-list-table.php:118": [
+            "wp-admin/includes/class-wp-ms-themes-list-table.php",
+            118
+        ],
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:47": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            47
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:134": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            134
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:182": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            182
+        ],
+        "wp-admin/includes/credits.php:23": [
+            "wp-admin/includes/credits.php",
+            23
+        ],
+        "wp-admin/includes/dashboard.php:1643": [
+            "wp-admin/includes/dashboard.php",
+            1643
+        ],
+        "wp-admin/includes/import.php:137": [
+            "wp-admin/includes/import.php",
+            137
+        ],
+        "wp-admin/includes/misc.php:1396": [
+            "wp-admin/includes/misc.php",
+            1396
+        ],
+        "wp-admin/includes/plugin-install.php:244": [
+            "wp-admin/includes/plugin-install.php",
+            244
+        ],
+        "wp-admin/includes/plugin-install.php:450": [
+            "wp-admin/includes/plugin-install.php",
+            450
+        ],
+        "wp-admin/includes/plugin.php:998": [
+            "wp-admin/includes/plugin.php",
+            998
+        ],
+        "wp-admin/includes/theme.php:176": [
+            "wp-admin/includes/theme.php",
+            176
+        ],
+        "wp-admin/includes/theme.php:310": [
+            "wp-admin/includes/theme.php",
+            310
+        ],
+        "wp-admin/includes/theme.php:622": [
+            "wp-admin/includes/theme.php",
+            622
+        ],
+        "wp-admin/includes/translation-install.php:123": [
+            "wp-admin/includes/translation-install.php",
+            123
+        ],
+        "wp-admin/includes/update.php:46": [
+            "wp-admin/includes/update.php",
+            46
+        ],
+        "wp-admin/includes/update.php:84": [
+            "wp-admin/includes/update.php",
+            84
+        ],
+        "wp-admin/includes/update.php:191": [
+            "wp-admin/includes/update.php",
+            191
+        ],
+        "wp-admin/includes/update.php:353": [
+            "wp-admin/includes/update.php",
+            353
+        ],
+        "wp-admin/includes/update.php:372": [
+            "wp-admin/includes/update.php",
+            372
+        ],
+        "wp-admin/includes/update.php:389": [
+            "wp-admin/includes/update.php",
+            389
+        ],
+        "wp-admin/includes/update.php:546": [
+            "wp-admin/includes/update.php",
+            546
+        ],
+        "wp-admin/includes/update.php:569": [
+            "wp-admin/includes/update.php",
+            569
+        ],
+        "wp-admin/includes/update.php:587": [
+            "wp-admin/includes/update.php",
+            587
+        ],
+        "wp-admin/update-core.php:751": [
+            "wp-admin/update-core.php",
+            751
+        ],
+        "wp-includes/theme.php:378": [
+            "wp-includes/theme.php",
+            378
+        ],
+        "wp-includes/theme.php:381": [
+            "wp-includes/theme.php",
+            381
+        ],
+        "wp-includes/theme.php:469": [
+            "wp-includes/theme.php",
+            469
+        ],
+        "wp-includes/theme.php:553": [
+            "wp-includes/theme.php",
+            553
+        ],
+        "wp-includes/update.php:34": [
+            "wp-includes/update.php",
+            34
+        ],
+        "wp-includes/update.php:275": [
+            "wp-includes/update.php",
+            275
+        ],
+        "wp-includes/update.php:449": [
+            "wp-includes/update.php",
+            449
+        ],
+        "wp-includes/update.php:628": [
+            "wp-includes/update.php",
+            628
+        ],
+        "wp-includes/update.php:657": [
+            "wp-includes/update.php",
+            657
+        ],
+        "wp-includes/update.php:665": [
+            "wp-includes/update.php",
+            665
+        ],
+        "wp-includes/update.php:734": [
+            "wp-includes/update.php",
+            734
+        ],
+        "wp-includes/update.php:754": [
+            "wp-includes/update.php",
+            754
+        ],
+        "wp-includes/update.php:771": [
+            "wp-includes/update.php",
+            771
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

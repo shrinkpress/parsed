@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_post_revision_fields",
+    "filename": "wp-includes/revision.php",
+    "docCommentLine": 9,
+    "startLine": 24,
+    "endLine": 64,
+    "calls": {
+        "wp-admin/edit-form-advanced.php:247": [
+            "wp-admin/edit-form-advanced.php",
+            247
+        ],
+        "wp-admin/includes/post.php:1817": [
+            "wp-admin/includes/post.php",
+            1817
+        ],
+        "wp-admin/includes/revision.php:68": [
+            "wp-admin/includes/revision.php",
+            68
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:351": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
+            351
+        ],
+        "wp-includes/revision.php:82": [
+            "wp-includes/revision.php",
+            82
+        ],
+        "wp-includes/revision.php:162": [
+            "wp-includes/revision.php",
+            162
+        ],
+        "wp-includes/revision.php:386": [
+            "wp-includes/revision.php",
+            386
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

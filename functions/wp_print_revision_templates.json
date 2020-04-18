@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_print_revision_templates",
+    "filename": "wp-admin/includes/revision.php",
+    "docCommentLine": 348,
+    "startLine": 355,
+    "endLine": 464,
+    "calls": {
+        "wp-admin/revision.php:159": [
+            "wp-admin/revision.php",
+            159
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

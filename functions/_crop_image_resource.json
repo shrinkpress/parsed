@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_crop_image_resource",
+    "filename": "wp-admin/includes/image-edit.php",
+    "docCommentLine": 464,
+    "startLine": 477,
+    "endLine": 486,
+    "calls": {
+        "wp-admin/includes/image-edit.php:608": [
+            "wp-admin/includes/image-edit.php",
+            608
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

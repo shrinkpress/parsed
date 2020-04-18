@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "before_last_bar",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 190,
+    "startLine": 201,
+    "endLine": 208,
+    "calls": {
+        "wp-includes/deprecated.php:1753": [
+            "wp-includes/deprecated.php",
+            1753
+        ],
+        "wp-includes/deprecated.php:1770": [
+            "wp-includes/deprecated.php",
+            1770
+        ],
+        "wp-includes/deprecated.php:1791": [
+            "wp-includes/deprecated.php",
+            1791
+        ],
+        "wp-includes/l10n.php:1272": [
+            "wp-includes/l10n.php",
+            1272
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

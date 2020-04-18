@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "validate_username",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 1436,
+    "startLine": 1445,
+    "endLine": 1458,
+    "calls": {
+        "wp-admin/includes/user.php:185": [
+            "wp-admin/includes/user.php",
+            185
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1133": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            1133
+        ],
+        "wp-includes/user.php:2492": [
+            "wp-includes/user.php",
+            2492
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

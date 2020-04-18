@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_sample_permalink_html",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1395,
+    "startLine": 1405,
+    "endLine": 1477,
+    "calls": {
+        "wp-admin/edit-form-advanced.php:531": [
+            "wp-admin/edit-form-advanced.php",
+            531
+        ],
+        "wp-admin/includes/ajax-actions.php:1963": [
+            "wp-admin/includes/ajax-actions.php",
+            1963
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

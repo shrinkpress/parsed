@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_importers",
+    "filename": "wp-admin/includes/import.php",
+    "docCommentLine": 9,
+    "startLine": 17,
+    "endLine": 23,
+    "calls": {
+        "wp-admin/import.php:76": [
+            "wp-admin/import.php",
+            76
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

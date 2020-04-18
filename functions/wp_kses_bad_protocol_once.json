@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_kses_bad_protocol_once",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 1654,
+    "startLine": 1666,
+    "endLine": 1685,
+    "calls": {
+        "wp-includes/kses.php:1566": [
+            "wp-includes/kses.php",
+            1566
+        ],
+        "wp-includes/kses.php:1676": [
+            "wp-includes/kses.php",
+            1676
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

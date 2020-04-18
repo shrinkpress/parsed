@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "post_preview",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1848,
+    "startLine": 1855,
+    "endLine": 1903,
+    "calls": {
+        "wp-admin/post.php:321": [
+            "wp-admin/post.php",
+            321
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

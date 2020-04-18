@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:240": [
+            "wp-includes/default-filters.php",
+            240,
+            "option_blog_charset",
+            "add_filter"
+        ]
+    },
+    "functionName": "_canonical_charset",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6361,
+    "startLine": 6373,
+    "endLine": 6385,
+    "calls": {
+        "wp-includes/functions.php:3801": [
+            "wp-includes/functions.php",
+            3801
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

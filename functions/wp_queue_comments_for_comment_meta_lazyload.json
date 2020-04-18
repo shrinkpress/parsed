@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_queue_comments_for_comment_meta_lazyload",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 516,
+    "startLine": 523,
+    "endLine": 538,
+    "calls": {
+        "wp-includes/class-wp-query.php:3147": [
+            "wp-includes/class-wp-query.php",
+            3147
+        ],
+        "wp-includes/comment-template.php:2169": [
+            "wp-includes/comment-template.php",
+            2169
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

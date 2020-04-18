@@ -1,0 +1,79 @@
+{
+    "callbacks": [],
+    "functionName": "form_option",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 177,
+    "startLine": 184,
+    "endLine": 186,
+    "calls": {
+        "wp-admin/options-general.php:65": [
+            "wp-admin/options-general.php",
+            65
+        ],
+        "wp-admin/options-general.php:70": [
+            "wp-admin/options-general.php",
+            70
+        ],
+        "wp-admin/options-general.php:88": [
+            "wp-admin/options-general.php",
+            88
+        ],
+        "wp-admin/options-general.php:93": [
+            "wp-admin/options-general.php",
+            93
+        ],
+        "wp-admin/options-general.php:112": [
+            "wp-admin/options-general.php",
+            112
+        ],
+        "wp-admin/options-media.php:59": [
+            "wp-admin/options-media.php",
+            59
+        ],
+        "wp-admin/options-media.php:62": [
+            "wp-admin/options-media.php",
+            62
+        ],
+        "wp-admin/options-media.php:73": [
+            "wp-admin/options-media.php",
+            73
+        ],
+        "wp-admin/options-media.php:76": [
+            "wp-admin/options-media.php",
+            76
+        ],
+        "wp-admin/options-media.php:84": [
+            "wp-admin/options-media.php",
+            84
+        ],
+        "wp-admin/options-media.php:87": [
+            "wp-admin/options-media.php",
+            87
+        ],
+        "wp-admin/options-reading.php:151": [
+            "wp-admin/options-reading.php",
+            151
+        ],
+        "wp-admin/options-reading.php:156": [
+            "wp-admin/options-reading.php",
+            156
+        ],
+        "wp-admin/options-writing.php:156": [
+            "wp-admin/options-writing.php",
+            156
+        ],
+        "wp-admin/options-writing.php:158": [
+            "wp-admin/options-writing.php",
+            158
+        ],
+        "wp-admin/options-writing.php:163": [
+            "wp-admin/options-writing.php",
+            163
+        ],
+        "wp-admin/options-writing.php:168": [
+            "wp-admin/options-writing.php",
+            168
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

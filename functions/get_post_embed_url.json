@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_embed_url",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 352,
+    "startLine": 360,
+    "endLine": 383,
+    "calls": {
+        "wp-includes/embed.php:438": [
+            "wp-includes/embed.php",
+            438
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "network_step2",
+    "filename": "wp-admin/includes/network.php",
+    "docCommentLine": 376,
+    "startLine": 385,
+    "endLine": 668,
+    "calls": {
+        "wp-admin/network.php:103": [
+            "wp-admin/network.php",
+            103
+        ],
+        "wp-admin/network.php:108": [
+            "wp-admin/network.php",
+            108
+        ],
+        "wp-admin/network.php:111": [
+            "wp-admin/network.php",
+            111
+        ],
+        "wp-admin/network.php:114": [
+            "wp-admin/network.php",
+            114
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

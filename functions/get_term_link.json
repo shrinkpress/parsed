@@ -1,0 +1,79 @@
+{
+    "callbacks": [],
+    "functionName": "get_term_link",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 4168,
+    "startLine": 4179,
+    "endLine": 4277,
+    "calls": {
+        "wp-admin/includes/class-wp-terms-list-table.php:494": [
+            "wp-admin/includes/class-wp-terms-list-table.php",
+            494
+        ],
+        "wp-includes/admin-bar.php:742": [
+            "wp-includes/admin-bar.php",
+            742
+        ],
+        "wp-includes/canonical.php:248": [
+            "wp-includes/canonical.php",
+            248
+        ],
+        "wp-includes/category-template.php:24": [
+            "wp-includes/category-template.php",
+            24
+        ],
+        "wp-includes/category-template.php:715": [
+            "wp-includes/category-template.php",
+            715
+        ],
+        "wp-includes/category-template.php:1289": [
+            "wp-includes/category-template.php",
+            1289
+        ],
+        "wp-includes/category-template.php:1367": [
+            "wp-includes/category-template.php",
+            1367
+        ],
+        "wp-includes/class-walker-category.php:108": [
+            "wp-includes/class-walker-category.php",
+            108
+        ],
+        "wp-includes/class-wp-customize-nav-menus.php:239": [
+            "wp-includes/class-wp-customize-nav-menus.php",
+            239
+        ],
+        "wp-includes/class-wp-customize-nav-menus.php:386": [
+            "wp-includes/class-wp-customize-nav-menus.php",
+            386
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:624": [
+            "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php",
+            624
+        ],
+        "wp-includes/link-template.php:879": [
+            "wp-includes/link-template.php",
+            879
+        ],
+        "wp-includes/nav-menu.php:875": [
+            "wp-includes/nav-menu.php",
+            875
+        ],
+        "wp-includes/nav-menu.php:960": [
+            "wp-includes/nav-menu.php",
+            960
+        ],
+        "wp-includes/post-formats.php:153": [
+            "wp-includes/post-formats.php",
+            153
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:743": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php",
+            743
+        ],
+        "wp-includes/taxonomy.php:4370": [
+            "wp-includes/taxonomy.php",
+            4370
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

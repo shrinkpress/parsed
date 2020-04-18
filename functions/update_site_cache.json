@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "update_site_cache",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 354,
+    "startLine": 363,
+    "endLine": 377,
+    "calls": {
+        "wp-admin/includes/class-wp-ms-sites-list-table.php:180": [
+            "wp-admin/includes/class-wp-ms-sites-list-table.php",
+            180
+        ],
+        "wp-includes/ms-site.php:350": [
+            "wp-includes/ms-site.php",
+            350
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

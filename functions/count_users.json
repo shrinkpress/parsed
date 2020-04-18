@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "count_users",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 851,
+    "startLine": 870,
+    "endLine": 979,
+    "calls": {
+        "wp-admin/includes/class-wp-debug-data.php:387": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            387
+        ],
+        "wp-admin/includes/class-wp-users-list-table.php:183": [
+            "wp-admin/includes/class-wp-users-list-table.php",
+            183
+        ],
+        "wp-admin/includes/class-wp-users-list-table.php:187": [
+            "wp-admin/includes/class-wp-users-list-table.php",
+            187
+        ],
+        "wp-includes/update.php:84": [
+            "wp-includes/update.php",
+            84
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

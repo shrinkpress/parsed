@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "translate_level_to_role",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 3168,
+    "startLine": 3176,
+    "endLine": 3196,
+    "calls": {
+        "wp-admin/includes/upgrade.php:1139": [
+            "wp-admin/includes/upgrade.php",
+            1139
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

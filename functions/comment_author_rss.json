@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "comment_author_rss",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 337,
+    "startLine": 342,
+    "endLine": 344,
+    "calls": {
+        "wp-includes/feed-atom-comments.php:94": [
+            "wp-includes/feed-atom-comments.php",
+            94
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wpmu_update_blogs_date",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 14,
+    "startLine": 19,
+    "endLine": 31,
+    "calls": {
+        "wp-includes/ms-blogs.php:788": [
+            "wp-includes/ms-blogs.php",
+            788
+        ],
+        "wp-includes/ms-blogs.php:811": [
+            "wp-includes/ms-blogs.php",
+            811
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/revision.php:576": [
+            "wp-includes/revision.php",
+            576,
+            "get_the_terms",
+            "add_filter"
+        ]
+    },
+    "functionName": "_wp_preview_terms_filter",
+    "filename": "wp-includes/revision.php",
+    "docCommentLine": 600,
+    "startLine": 611,
+    "endLine": 631,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

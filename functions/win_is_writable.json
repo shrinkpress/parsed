@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "win_is_writable",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 2133,
+    "startLine": 2149,
+    "endLine": 2167,
+    "calls": {
+        "wp-admin/includes/misc.php:293": [
+            "wp-admin/includes/misc.php",
+            293
+        ],
+        "wp-admin/options-permalink.php:90": [
+            "wp-admin/options-permalink.php",
+            90
+        ],
+        "wp-includes/functions.php:2127": [
+            "wp-includes/functions.php",
+            2127
+        ],
+        "wp-includes/functions.php:2152": [
+            "wp-includes/functions.php",
+            2152
+        ],
+        "wp-includes/functions.php:2154": [
+            "wp-includes/functions.php",
+            2154
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

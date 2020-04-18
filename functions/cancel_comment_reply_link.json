@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "cancel_comment_reply_link",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 1864,
+    "startLine": 1871,
+    "endLine": 1873,
+    "calls": {
+        "wp-includes/comment-template.php:2459": [
+            "wp-includes/comment-template.php",
+            2459
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

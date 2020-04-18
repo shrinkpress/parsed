@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:44": [
+            "wp-includes/ms-default-filters.php",
+            44,
+            "wp_insert_site",
+            "add_action"
+        ],
+        "wp-includes/ms-default-filters.php:45": [
+            "wp-includes/ms-default-filters.php",
+            45,
+            "wp_update_site",
+            "add_action"
+        ],
+        "wp-includes/ms-default-filters.php:46": [
+            "wp-includes/ms-default-filters.php",
+            46,
+            "wp_delete_site",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_maybe_update_network_site_counts_on_update",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 1121,
+    "startLine": 1130,
+    "endLine": 1140,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

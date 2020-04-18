@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_all_post_type_supports",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 1871,
+    "startLine": 1881,
+    "endLine": 1889,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:969": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            969
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:160": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php",
+            160
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

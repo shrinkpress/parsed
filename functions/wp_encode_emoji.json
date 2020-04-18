@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_encode_emoji",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5695,
+    "startLine": 5705,
+    "endLine": 5716,
+    "calls": {
+        "wp-includes/formatting.php:4633": [
+            "wp-includes/formatting.php",
+            4633
+        ],
+        "wp-includes/formatting.php:5732": [
+            "wp-includes/formatting.php",
+            5732
+        ],
+        "wp-includes/post.php:3858": [
+            "wp-includes/post.php",
+            3858
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

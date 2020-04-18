@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:43": [
+            "wp-includes/ms-default-filters.php",
+            43,
+            "wp_validate_site_data",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_validate_site_data",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 576,
+    "startLine": 588,
+    "endLine": 639,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

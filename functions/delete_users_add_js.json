@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/users.php:263": [
+            "wp-admin/users.php",
+            263,
+            "admin_head",
+            "add_action"
+        ]
+    },
+    "functionName": "delete_users_add_js",
+    "filename": "wp-admin/includes/user.php",
+    "docCommentLine": 527,
+    "startLine": 531,
+    "endLine": 545,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

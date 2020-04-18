@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_privacy_anonymize_ip",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6874,
+    "startLine": 6884,
+    "endLine": 6942,
+    "calls": {
+        "wp-admin/includes/class-wp-community-events.php:267": [
+            "wp-admin/includes/class-wp-community-events.php",
+            267
+        ],
+        "wp-includes/functions.php:6963": [
+            "wp-includes/functions.php",
+            6963
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "unregister_meta_key",
+    "filename": "wp-includes/meta.php",
+    "docCommentLine": 1263,
+    "startLine": 1274,
+    "endLine": 1310,
+    "calls": {
+        "wp-includes/post.php:2184": [
+            "wp-includes/post.php",
+            2184
+        ],
+        "wp-includes/taxonomy.php:1344": [
+            "wp-includes/taxonomy.php",
+            1344
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

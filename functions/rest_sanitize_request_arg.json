@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "rest_sanitize_request_arg",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 1040,
+    "startLine": 1050,
+    "endLine": 1058,
+    "calls": {
+        "wp-includes/rest-api.php:1080": [
+            "wp-includes/rest-api.php",
+            1080
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

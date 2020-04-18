@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_prepare_revisions_for_js",
+    "filename": "wp-admin/includes/revision.php",
+    "docCommentLine": 156,
+    "startLine": 167,
+    "endLine": 346,
+    "calls": {
+        "wp-admin/revision.php:125": [
+            "wp-admin/revision.php",
+            125
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:549": [
+            "wp-includes/default-filters.php",
+            549,
+            "rest_pre_serve_request",
+            "add_filter"
+        ]
+    },
+    "functionName": "_oembed_rest_pre_serve_request",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 697,
+    "startLine": 712,
+    "endLine": 746,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

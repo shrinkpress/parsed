@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "iis7_supports_permalinks",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5049,
+    "startLine": 5058,
+    "endLine": 5083,
+    "calls": {
+        "wp-admin/includes/misc.php:46": [
+            "wp-admin/includes/misc.php",
+            46
+        ],
+        "wp-admin/includes/misc.php:293": [
+            "wp-admin/includes/misc.php",
+            293
+        ],
+        "wp-admin/includes/network.php:549": [
+            "wp-admin/includes/network.php",
+            549
+        ],
+        "wp-admin/options-permalink.php:66": [
+            "wp-admin/options-permalink.php",
+            66
+        ],
+        "wp-includes/canonical.php:59": [
+            "wp-includes/canonical.php",
+            59
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

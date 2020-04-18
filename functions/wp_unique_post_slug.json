@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_unique_post_slug",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 4279,
+    "startLine": 4294,
+    "endLine": 4445,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2058": [
+            "wp-admin/includes/ajax-actions.php",
+            2058
+        ],
+        "wp-admin/includes/post.php:1348": [
+            "wp-admin/includes/post.php",
+            1348
+        ],
+        "wp-includes/post.php:3844": [
+            "wp-includes/post.php",
+            3844
+        ],
+        "wp-includes/post.php:3926": [
+            "wp-includes/post.php",
+            3926
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

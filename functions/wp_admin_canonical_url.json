@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:43": [
+            "wp-admin/includes/admin-filters.php",
+            43,
+            "admin_head",
+            "add_action"
+        ],
+        "wp-admin/upload.php:29": [
+            "wp-admin/upload.php",
+            29,
+            "admin_head",
+            "remove_action"
+        ]
+    },
+    "functionName": "wp_admin_canonical_url",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 1204,
+    "startLine": 1212,
+    "endLine": 1230,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

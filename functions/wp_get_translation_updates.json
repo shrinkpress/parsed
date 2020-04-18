@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_translation_updates",
+    "filename": "wp-includes/update.php",
+    "docCommentLine": 613,
+    "startLine": 620,
+    "endLine": 638,
+    "calls": {
+        "wp-admin/includes/class-language-pack-upgrader.php:56": [
+            "wp-admin/includes/class-language-pack-upgrader.php",
+            56
+        ],
+        "wp-admin/includes/class-language-pack-upgrader.php:179": [
+            "wp-admin/includes/class-language-pack-upgrader.php",
+            179
+        ],
+        "wp-admin/includes/class-wp-automatic-updater.php:467": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            467
+        ],
+        "wp-admin/update-core.php:526": [
+            "wp-admin/update-core.php",
+            526
+        ],
+        "wp-includes/update.php:679": [
+            "wp-includes/update.php",
+            679
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

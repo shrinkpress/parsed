@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_delete_file_from_directory",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6491,
+    "startLine": 6500,
+    "endLine": 6524,
+    "calls": {
+        "wp-includes/post.php:5667": [
+            "wp-includes/post.php",
+            5667
+        ],
+        "wp-includes/post.php:5684": [
+            "wp-includes/post.php",
+            5684
+        ],
+        "wp-includes/post.php:5701": [
+            "wp-includes/post.php",
+            5701
+        ],
+        "wp-includes/post.php:5716": [
+            "wp-includes/post.php",
+            5716
+        ],
+        "wp-includes/post.php:5723": [
+            "wp-includes/post.php",
+            5723
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

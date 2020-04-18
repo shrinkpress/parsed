@@ -1,0 +1,32 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:292": [
+            "wp-includes/default-filters.php",
+            292,
+            "wp_head",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:558": [
+            "wp-includes/default-filters.php",
+            558,
+            "embed_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_print_styles",
+    "filename": "wp-includes/functions.wp-styles.php",
+    "docCommentLine": 28,
+    "startLine": 42,
+    "endLine": 65,
+    "calls": {
+        "wp-includes/class-wp-editor.php:208": [
+            "wp-includes/class-wp-editor.php",
+            208
+        ],
+        "wp-includes/general-template.php:4460": [
+            "wp-includes/general-template.php",
+            4460
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

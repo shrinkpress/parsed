@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "determine_locale",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 112,
+    "startLine": 121,
+    "endLine": 158,
+    "calls": {
+        "wp-includes/class-wp-locale-switcher.php:48": [
+            "wp-includes/class-wp-locale-switcher.php",
+            48
+        ],
+        "wp-includes/class-wp-locale-switcher.php:72": [
+            "wp-includes/class-wp-locale-switcher.php",
+            72
+        ],
+        "wp-includes/general-template.php:783": [
+            "wp-includes/general-template.php",
+            783
+        ],
+        "wp-includes/l10n.php:741": [
+            "wp-includes/l10n.php",
+            741
+        ],
+        "wp-includes/l10n.php:791": [
+            "wp-includes/l10n.php",
+            791
+        ],
+        "wp-includes/l10n.php:825": [
+            "wp-includes/l10n.php",
+            825
+        ],
+        "wp-includes/l10n.php:864": [
+            "wp-includes/l10n.php",
+            864
+        ],
+        "wp-includes/l10n.php:926": [
+            "wp-includes/l10n.php",
+            926
+        ],
+        "wp-includes/l10n.php:1193": [
+            "wp-includes/l10n.php",
+            1193
+        ],
+        "wp-includes/script-loader.php:1308": [
+            "wp-includes/script-loader.php",
+            1308
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

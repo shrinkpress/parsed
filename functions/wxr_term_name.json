@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wxr_term_name",
+    "filename": "wp-admin/includes/export.php",
+    "docCommentLine": 285,
+    "startLine": 292,
+    "endLine": 298,
+    "calls": {
+        "wp-admin/includes/export.php:401": [
+            "wp-admin/includes/export.php",
+            401
+        ],
+        "wp-admin/includes/export.php:509": [
+            "wp-admin/includes/export.php",
+            509
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

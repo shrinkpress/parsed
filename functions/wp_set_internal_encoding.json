@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_set_internal_encoding",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 896,
+    "startLine": 905,
+    "endLine": 913,
+    "calls": {
+        "wp-settings.php:378": [
+            "wp-settings.php",
+            378
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

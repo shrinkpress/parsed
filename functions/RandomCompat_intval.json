@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "RandomCompat_intval",
+    "filename": "wp-includes/random_compat/cast_to_int.php",
+    "docCommentLine": 31,
+    "startLine": 48,
+    "endLine": 74,
+    "calls": {
+        "wp-includes/random_compat/random_bytes_com_dotnet.php:44": [
+            "wp-includes/random_compat/random_bytes_com_dotnet.php",
+            44
+        ],
+        "wp-includes/random_compat/random_bytes_dev_urandom.php:86": [
+            "wp-includes/random_compat/random_bytes_dev_urandom.php",
+            86
+        ],
+        "wp-includes/random_compat/random_bytes_libsodium.php:46": [
+            "wp-includes/random_compat/random_bytes_libsodium.php",
+            46
+        ],
+        "wp-includes/random_compat/random_bytes_libsodium_legacy.php:46": [
+            "wp-includes/random_compat/random_bytes_libsodium_legacy.php",
+            46
+        ],
+        "wp-includes/random_compat/random_bytes_mcrypt.php:45": [
+            "wp-includes/random_compat/random_bytes_mcrypt.php",
+            45
+        ],
+        "wp-includes/random_compat/random_int.php:54": [
+            "wp-includes/random_compat/random_int.php",
+            54
+        ],
+        "wp-includes/random_compat/random_int.php:62": [
+            "wp-includes/random_compat/random_int.php",
+            62
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

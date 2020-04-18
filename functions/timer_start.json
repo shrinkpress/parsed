@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "timer_start",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 234,
+    "startLine": 245,
+    "endLine": 249,
+    "calls": {
+        "wp-settings.php:73": [
+            "wp-settings.php",
+            73
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

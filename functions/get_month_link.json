@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_month_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 497,
+    "startLine": 508,
+    "endLine": 535,
+    "calls": {
+        "wp-includes/canonical.php:143": [
+            "wp-includes/canonical.php",
+            143
+        ],
+        "wp-includes/canonical.php:206": [
+            "wp-includes/canonical.php",
+            206
+        ],
+        "wp-includes/canonical.php:222": [
+            "wp-includes/canonical.php",
+            222
+        ],
+        "wp-includes/general-template.php:1895": [
+            "wp-includes/general-template.php",
+            1895
+        ],
+        "wp-includes/general-template.php:2173": [
+            "wp-includes/general-template.php",
+            2173
+        ],
+        "wp-includes/general-template.php:2183": [
+            "wp-includes/general-template.php",
+            2183
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

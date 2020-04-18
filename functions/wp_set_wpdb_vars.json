@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_set_wpdb_vars",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 428,
+    "startLine": 440,
+    "endLine": 497,
+    "calls": {
+        "wp-settings.php:120": [
+            "wp-settings.php",
+            120
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

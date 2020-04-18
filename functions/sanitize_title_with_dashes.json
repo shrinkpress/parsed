@@ -1,0 +1,38 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:247": [
+            "wp-includes/default-filters.php",
+            247,
+            "sanitize_title",
+            "add_filter"
+        ]
+    },
+    "functionName": "sanitize_title_with_dashes",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 2198,
+    "startLine": 2211,
+    "endLine": 2292,
+    "calls": {
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:159": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            159
+        ],
+        "wp-admin/includes/plugin-install.php:296": [
+            "wp-admin/includes/plugin-install.php",
+            296
+        ],
+        "wp-includes/class-wp-post-type.php:482": [
+            "wp-includes/class-wp-post-type.php",
+            482
+        ],
+        "wp-includes/class-wp-taxonomy.php:290": [
+            "wp-includes/class-wp-taxonomy.php",
+            290
+        ],
+        "wp-includes/class-wp-taxonomy.php:308": [
+            "wp-includes/class-wp-taxonomy.php",
+            308
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

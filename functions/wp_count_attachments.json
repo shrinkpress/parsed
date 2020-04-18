@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_count_attachments",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 2659,
+    "startLine": 2675,
+    "endLine": 2698,
+    "calls": {
+        "wp-admin/includes/media.php:2692": [
+            "wp-admin/includes/media.php",
+            2692
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

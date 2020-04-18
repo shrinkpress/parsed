@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_box",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 393,
+    "startLine": 402,
+    "endLine": 405,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:1059": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            1059
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

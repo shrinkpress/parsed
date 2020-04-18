@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:25": [
+            "wp-includes/ms-default-filters.php",
+            25,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "maybe_add_existing_user_to_blog",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2063,
+    "startLine": 2072,
+    "endLine": 2109,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

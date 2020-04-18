@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_imagecreatetruecolor",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 3096,
+    "startLine": 3107,
+    "endLine": 3114,
+    "calls": {
+        "wp-admin/includes/image-edit.php:449": [
+            "wp-admin/includes/image-edit.php",
+            449
+        ],
+        "wp-admin/includes/image-edit.php:478": [
+            "wp-admin/includes/image-edit.php",
+            478
+        ],
+        "wp-includes/class-wp-image-editor-gd.php:188": [
+            "wp-includes/class-wp-image-editor-gd.php",
+            188
+        ],
+        "wp-includes/class-wp-image-editor-gd.php:312": [
+            "wp-includes/class-wp-image-editor-gd.php",
+            312
+        ],
+        "wp-includes/class-wp-image-editor-gd.php:373": [
+            "wp-includes/class-wp-image-editor-gd.php",
+            373
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

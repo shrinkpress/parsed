@@ -1,0 +1,75 @@
+{
+    "callbacks": [],
+    "functionName": "comments_open",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 1202,
+    "startLine": 1214,
+    "endLine": 1230,
+    "calls": {
+        "wp-admin/includes/meta-boxes.php:1515": [
+            "wp-admin/includes/meta-boxes.php",
+            1515
+        ],
+        "wp-admin/includes/meta-boxes.php:1528": [
+            "wp-admin/includes/meta-boxes.php",
+            1528
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:1061": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1061
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:3868": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            3868
+        ],
+        "wp-includes/comment-template.php:1553": [
+            "wp-includes/comment-template.php",
+            1553
+        ],
+        "wp-includes/comment-template.php:1659": [
+            "wp-includes/comment-template.php",
+            1659
+        ],
+        "wp-includes/comment-template.php:1781": [
+            "wp-includes/comment-template.php",
+            1781
+        ],
+        "wp-includes/comment-template.php:2258": [
+            "wp-includes/comment-template.php",
+            2258
+        ],
+        "wp-includes/comment.php:3245": [
+            "wp-includes/comment.php",
+            3245
+        ],
+        "wp-includes/embed.php:1081": [
+            "wp-includes/embed.php",
+            1081
+        ],
+        "wp-includes/feed-atom.php:85": [
+            "wp-includes/feed-atom.php",
+            85
+        ],
+        "wp-includes/feed-rss2.php:91": [
+            "wp-includes/feed-rss2.php",
+            91
+        ],
+        "wp-includes/feed-rss2.php:110": [
+            "wp-includes/feed-rss2.php",
+            110
+        ],
+        "wp-includes/general-template.php:2993": [
+            "wp-includes/general-template.php",
+            2993
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:480": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            480
+        ],
+        "wp-includes/theme-compat/comments.php:67": [
+            "wp-includes/theme-compat/comments.php",
+            67
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

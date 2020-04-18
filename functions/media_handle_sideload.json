@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "media_handle_sideload",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 425,
+    "startLine": 437,
+    "endLine": 501,
+    "calls": {
+        "wp-admin/includes/media.php:999": [
+            "wp-admin/includes/media.php",
+            999
+        ],
+        "wp-includes/class-wp-customize-manager.php:1379": [
+            "wp-includes/class-wp-customize-manager.php",
+            1379
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

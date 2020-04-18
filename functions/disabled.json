@@ -1,0 +1,79 @@
+{
+    "callbacks": [],
+    "functionName": "disabled",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 4666,
+    "startLine": 4678,
+    "endLine": 4680,
+    "calls": {
+        "wp-admin/includes/class-walker-category-checklist.php:107": [
+            "wp-admin/includes/class-walker-category-checklist.php",
+            107
+        ],
+        "wp-admin/includes/file.php:2139": [
+            "wp-admin/includes/file.php",
+            2139
+        ],
+        "wp-admin/includes/file.php:2144": [
+            "wp-admin/includes/file.php",
+            2144
+        ],
+        "wp-admin/includes/file.php:2150": [
+            "wp-admin/includes/file.php",
+            2150
+        ],
+        "wp-admin/includes/file.php:2162": [
+            "wp-admin/includes/file.php",
+            2162
+        ],
+        "wp-admin/includes/file.php:2184": [
+            "wp-admin/includes/file.php",
+            2184
+        ],
+        "wp-admin/includes/file.php:2188": [
+            "wp-admin/includes/file.php",
+            2188
+        ],
+        "wp-admin/includes/media.php:1174": [
+            "wp-admin/includes/media.php",
+            1174
+        ],
+        "wp-admin/includes/meta-boxes.php:526": [
+            "wp-admin/includes/meta-boxes.php",
+            526
+        ],
+        "wp-admin/includes/nav-menu.php:276": [
+            "wp-admin/includes/nav-menu.php",
+            276
+        ],
+        "wp-admin/includes/template.php:240": [
+            "wp-admin/includes/template.php",
+            240
+        ],
+        "wp-admin/network/site-info.php:197": [
+            "wp-admin/network/site-info.php",
+            197
+        ],
+        "wp-admin/network/site-settings.php:145": [
+            "wp-admin/network/site-settings.php",
+            145
+        ],
+        "wp-admin/network/site-settings.php:155": [
+            "wp-admin/network/site-settings.php",
+            155
+        ],
+        "wp-admin/options-general.php:88": [
+            "wp-admin/options-general.php",
+            88
+        ],
+        "wp-admin/options-general.php:93": [
+            "wp-admin/options-general.php",
+            93
+        ],
+        "wp-admin/options.php:363": [
+            "wp-admin/options.php",
+            363
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:339": [
+            "wp-includes/default-filters.php",
+            339,
+            "do_pings",
+            "add_action"
+        ]
+    },
+    "functionName": "do_all_pings",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 2645,
+    "startLine": 2652,
+    "endLine": 2705,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

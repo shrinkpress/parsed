@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "clean_network_cache",
+    "filename": "wp-includes/ms-network.php",
+    "docCommentLine": 69,
+    "startLine": 78,
+    "endLine": 99,
+    "calls": {
+        "wp-admin/includes/schema.php:1156": [
+            "wp-admin/includes/schema.php",
+            1156
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

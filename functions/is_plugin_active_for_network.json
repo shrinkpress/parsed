@@ -1,0 +1,55 @@
+{
+    "callbacks": [],
+    "functionName": "is_plugin_active_for_network",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 540,
+    "startLine": 557,
+    "endLine": 568,
+    "calls": {
+        "wp-admin/includes/class-plugin-upgrader-skin.php:38": [
+            "wp-admin/includes/class-plugin-upgrader-skin.php",
+            38
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:211": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            211
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:220": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            220
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:667": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            667
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:670": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            670
+        ],
+        "wp-admin/includes/plugin.php:518": [
+            "wp-admin/includes/plugin.php",
+            518
+        ],
+        "wp-admin/includes/plugin.php:748": [
+            "wp-admin/includes/plugin.php",
+            748
+        ],
+        "wp-admin/includes/plugin.php:767": [
+            "wp-admin/includes/plugin.php",
+            767
+        ],
+        "wp-admin/includes/update.php:416": [
+            "wp-admin/includes/update.php",
+            416
+        ],
+        "wp-admin/plugins.php:86": [
+            "wp-admin/plugins.php",
+            86
+        ],
+        "wp-admin/plugins.php:187": [
+            "wp-admin/plugins.php",
+            187
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

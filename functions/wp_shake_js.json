@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-login.php:59": [
+            "wp-login.php",
+            59,
+            "login_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_shake_js",
+    "filename": "wp-login.php",
+    "docCommentLine": 321,
+    "startLine": 326,
+    "endLine": 336,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_archive_description",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 1638,
+    "startLine": 1649,
+    "endLine": 1666,
+    "calls": {
+        "wp-includes/general-template.php:1632": [
+            "wp-includes/general-template.php",
+            1632
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

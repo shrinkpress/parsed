@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "get_page_templates",
+    "filename": "wp-admin/includes/theme.php",
+    "docCommentLine": 114,
+    "startLine": 124,
+    "endLine": 126,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:1701": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1701
+        ],
+        "wp-admin/includes/meta-boxes.php:947": [
+            "wp-admin/includes/meta-boxes.php",
+            947
+        ],
+        "wp-admin/includes/meta-boxes.php:1472": [
+            "wp-admin/includes/meta-boxes.php",
+            1472
+        ],
+        "wp-admin/includes/template.php:868": [
+            "wp-admin/includes/template.php",
+            868
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:4127": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            4127
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

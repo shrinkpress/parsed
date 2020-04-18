@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "rss_enclosure",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 455,
+    "startLine": 469,
+    "endLine": 494,
+    "calls": {
+        "wp-includes/feed-rss2.php:114": [
+            "wp-includes/feed-rss2.php",
+            114
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

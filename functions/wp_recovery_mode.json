@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "wp_recovery_mode",
+    "filename": "wp-includes/error-protection.php",
+    "docCommentLine": 122,
+    "startLine": 129,
+    "endLine": 137,
+    "calls": {
+        "wp-includes/class-wp-fatal-error-handler.php:46": [
+            "wp-includes/class-wp-fatal-error-handler.php",
+            46
+        ],
+        "wp-includes/class-wp-fatal-error-handler.php:47": [
+            "wp-includes/class-wp-fatal-error-handler.php",
+            47
+        ],
+        "wp-includes/class-wp-paused-extensions-storage.php:212": [
+            "wp-includes/class-wp-paused-extensions-storage.php",
+            212
+        ],
+        "wp-includes/class-wp-paused-extensions-storage.php:216": [
+            "wp-includes/class-wp-paused-extensions-storage.php",
+            216
+        ],
+        "wp-includes/load.php:811": [
+            "wp-includes/load.php",
+            811
+        ],
+        "wp-settings.php:354": [
+            "wp-settings.php",
+            354
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

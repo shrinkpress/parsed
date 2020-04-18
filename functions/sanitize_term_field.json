@@ -1,0 +1,59 @@
+{
+    "callbacks": [],
+    "functionName": "sanitize_term_field",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 1501,
+    "startLine": 1524,
+    "endLine": 1674,
+    "calls": {
+        "wp-admin/includes/class-wp-media-list-table.php:588": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            588
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1201": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1201
+        ],
+        "wp-includes/category.php:264": [
+            "wp-includes/category.php",
+            264
+        ],
+        "wp-includes/class-wp-query.php:1231": [
+            "wp-includes/class-wp-query.php",
+            1231
+        ],
+        "wp-includes/class-wp-query.php:1237": [
+            "wp-includes/class-wp-query.php",
+            1237
+        ],
+        "wp-includes/class-wp-query.php:1241": [
+            "wp-includes/class-wp-query.php",
+            1241
+        ],
+        "wp-includes/class-wp-term-query.php:488": [
+            "wp-includes/class-wp-term-query.php",
+            488
+        ],
+        "wp-includes/feed.php:392": [
+            "wp-includes/feed.php",
+            392
+        ],
+        "wp-includes/feed.php:398": [
+            "wp-includes/feed.php",
+            398
+        ],
+        "wp-includes/taxonomy.php:1060": [
+            "wp-includes/taxonomy.php",
+            1060
+        ],
+        "wp-includes/taxonomy.php:1483": [
+            "wp-includes/taxonomy.php",
+            1483
+        ],
+        "wp-includes/taxonomy.php:1487": [
+            "wp-includes/taxonomy.php",
+            1487
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

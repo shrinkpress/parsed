@@ -1,0 +1,30 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:351": [
+            "wp-includes/default-filters.php",
+            351,
+            "shutdown",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_ob_end_flush_all",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 4542,
+    "startLine": 4549,
+    "endLine": 4554,
+    "calls": {
+        "wp-admin/includes/class-bulk-upgrader-skin.php:174": [
+            "wp-admin/includes/class-bulk-upgrader-skin.php",
+            174
+        ],
+        "wp-admin/includes/misc.php:565": [
+            "wp-admin/includes/misc.php",
+            565
+        ],
+        "wp-includes/cron.php:680": [
+            "wp-includes/cron.php",
+            680
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

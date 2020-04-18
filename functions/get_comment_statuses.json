@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_statuses",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 246,
+    "startLine": 256,
+    "endLine": 265,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:3751": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            3751
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:3976": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            3976
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

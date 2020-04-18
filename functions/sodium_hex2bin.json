@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_hex2bin",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 1208,
+    "startLine": 1215,
+    "endLine": 1218,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:3068": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3068
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

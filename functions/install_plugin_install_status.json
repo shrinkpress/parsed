@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "install_plugin_install_status",
+    "filename": "wp-admin/includes/plugin-install.php",
+    "docCommentLine": 418,
+    "startLine": 434,
+    "endLine": 503,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:4346": [
+            "wp-admin/includes/ajax-actions.php",
+            4346
+        ],
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:520": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            520
+        ],
+        "wp-admin/includes/plugin-install.php:486": [
+            "wp-admin/includes/plugin-install.php",
+            486
+        ],
+        "wp-admin/includes/plugin-install.php:849": [
+            "wp-admin/includes/plugin-install.php",
+            849
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

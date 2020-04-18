@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "url_shorten",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5907,
+    "startLine": 5917,
+    "endLine": 5925,
+    "calls": {
+        "wp-admin/includes/class-wp-links-list-table.php:208": [
+            "wp-admin/includes/class-wp-links-list-table.php",
+            208
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

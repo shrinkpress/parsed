@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_category_feed_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 823,
+    "startLine": 836,
+    "endLine": 838,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:6260": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            6260
+        ],
+        "wp-includes/deprecated.php:1138": [
+            "wp-includes/deprecated.php",
+            1138
+        ],
+        "wp-includes/general-template.php:3011": [
+            "wp-includes/general-template.php",
+            3011
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

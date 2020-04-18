@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/edit-form-advanced.php:99": [
+            "wp-admin/edit-form-advanced.php",
+            99,
+            "admin_footer",
+            "add_action"
+        ]
+    },
+    "functionName": "_local_storage_notice",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 2484,
+    "startLine": 2490,
+    "endLine": 2502,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

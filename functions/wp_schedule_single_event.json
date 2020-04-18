@@ -1,0 +1,59 @@
+{
+    "callbacks": [],
+    "functionName": "wp_schedule_single_event",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 8,
+    "startLine": 34,
+    "endLine": 156,
+    "calls": {
+        "wp-admin/includes/class-file-upload-upgrader.php:88": [
+            "wp-admin/includes/class-file-upload-upgrader.php",
+            88
+        ],
+        "wp-admin/includes/class-wp-automatic-updater.php:581": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            581
+        ],
+        "wp-admin/includes/import.php:117": [
+            "wp-admin/includes/import.php",
+            117
+        ],
+        "wp-admin/includes/upgrade.php:1230": [
+            "wp-admin/includes/upgrade.php",
+            1230
+        ],
+        "wp-admin/includes/upgrade.php:1932": [
+            "wp-admin/includes/upgrade.php",
+            1932
+        ],
+        "wp-includes/post.php:4271": [
+            "wp-includes/post.php",
+            4271
+        ],
+        "wp-includes/post.php:6777": [
+            "wp-includes/post.php",
+            6777
+        ],
+        "wp-includes/post.php:6817": [
+            "wp-includes/post.php",
+            6817
+        ],
+        "wp-includes/taxonomy.php:3929": [
+            "wp-includes/taxonomy.php",
+            3929
+        ],
+        "wp-includes/taxonomy.php:3954": [
+            "wp-includes/taxonomy.php",
+            3954
+        ],
+        "wp-includes/taxonomy.php:4014": [
+            "wp-includes/taxonomy.php",
+            4014
+        ],
+        "wp-includes/update.php:231": [
+            "wp-includes/update.php",
+            231
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:193": [
+            "wp-includes/default-filters.php",
+            193,
+            "comment_text",
+            "add_filter"
+        ]
+    },
+    "functionName": "make_clickable",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 2914,
+    "startLine": 2925,
+    "endLine": 2983,
+    "calls": {
+        "wp-includes/formatting.php:2949": [
+            "wp-includes/formatting.php",
+            2949
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

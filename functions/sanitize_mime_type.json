@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:95": [
+            "wp-includes/default-filters.php",
+            95,
+            "pre_post_mime_type",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:96": [
+            "wp-includes/default-filters.php",
+            96,
+            "post_mime_type",
+            "add_filter"
+        ]
+    },
+    "functionName": "sanitize_mime_type",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5378,
+    "startLine": 5386,
+    "endLine": 5397,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

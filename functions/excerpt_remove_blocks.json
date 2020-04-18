@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "excerpt_remove_blocks",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 340,
+    "startLine": 351,
+    "endLine": 408,
+    "calls": {
+        "wp-includes/formatting.php:3799": [
+            "wp-includes/formatting.php",
+            3799
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

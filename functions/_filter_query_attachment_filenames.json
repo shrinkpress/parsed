@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ajax-actions.php:2949": [
+            "wp-admin/includes/ajax-actions.php",
+            2949,
+            "posts_clauses",
+            "add_filter"
+        ],
+        "wp-admin/includes/post.php:1253": [
+            "wp-admin/includes/post.php",
+            1253,
+            "posts_clauses",
+            "add_filter"
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:75": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
+            75,
+            "posts_clauses",
+            "add_filter"
+        ]
+    },
+    "functionName": "_filter_query_attachment_filenames",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 7092,
+    "startLine": 7104,
+    "endLine": 7120,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

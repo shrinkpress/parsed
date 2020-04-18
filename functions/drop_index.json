@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "drop_index",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 2326,
+    "startLine": 2337,
+    "endLine": 2347,
+    "calls": {
+        "wp-admin/includes/upgrade.php:2362": [
+            "wp-admin/includes/upgrade.php",
+            2362
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

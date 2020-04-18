@@ -1,0 +1,28 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:217": [
+            "wp-includes/default-filters.php",
+            217,
+            "the_content_feed",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:224": [
+            "wp-includes/default-filters.php",
+            224,
+            "comment_text_rss",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_staticize_emoji",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5718,
+    "startLine": 5726,
+    "endLine": 5811,
+    "calls": {
+        "wp-includes/formatting.php:5874": [
+            "wp-includes/formatting.php",
+            5874
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

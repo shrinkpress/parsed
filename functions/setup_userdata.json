@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "setup_userdata",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 985,
+    "startLine": 1002,
+    "endLine": 1028,
+    "calls": {
+        "wp-includes/pluggable.php:40": [
+            "wp-includes/pluggable.php",
+            40
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

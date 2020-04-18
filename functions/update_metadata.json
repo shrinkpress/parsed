@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "update_metadata",
+    "filename": "wp-includes/meta.php",
+    "docCommentLine": 139,
+    "startLine": 156,
+    "endLine": 308,
+    "calls": {
+        "wp-includes/comment.php:513": [
+            "wp-includes/comment.php",
+            513
+        ],
+        "wp-includes/ms-site.php:1106": [
+            "wp-includes/ms-site.php",
+            1106
+        ],
+        "wp-includes/post.php:2139": [
+            "wp-includes/post.php",
+            2139
+        ],
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:368": [
+            "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
+            368
+        ],
+        "wp-includes/taxonomy.php:1275": [
+            "wp-includes/taxonomy.php",
+            1275
+        ],
+        "wp-includes/user.php:848": [
+            "wp-includes/user.php",
+            848
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

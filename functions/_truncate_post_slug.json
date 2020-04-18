@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "_truncate_post_slug",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 4447,
+    "startLine": 4459,
+    "endLine": 4470,
+    "calls": {
+        "wp-includes/post.php:4344": [
+            "wp-includes/post.php",
+            4344
+        ],
+        "wp-includes/post.php:4375": [
+            "wp-includes/post.php",
+            4375
+        ],
+        "wp-includes/post.php:4424": [
+            "wp-includes/post.php",
+            4424
+        ],
+        "wp-includes/post.php:7086": [
+            "wp-includes/post.php",
+            7086
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

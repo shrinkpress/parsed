@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_is_json_request",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 1476,
+    "startLine": 1483,
+    "endLine": 1495,
+    "calls": {
+        "wp-includes/admin-bar.php:1180": [
+            "wp-includes/admin-bar.php",
+            1180
+        ],
+        "wp-includes/functions.php:3240": [
+            "wp-includes/functions.php",
+            3240
+        ],
+        "wp-includes/l10n.php:142": [
+            "wp-includes/l10n.php",
+            142
+        ],
+        "wp-includes/load.php:351": [
+            "wp-includes/load.php",
+            351
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

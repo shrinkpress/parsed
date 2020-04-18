@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:285": [
+            "wp-includes/default-filters.php",
+            285,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "rsd_link",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3049,
+    "startLine": 3055,
+    "endLine": 3057,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

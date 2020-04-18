@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "comment_ID",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 673,
+    "startLine": 678,
+    "endLine": 680,
+    "calls": {
+        "wp-includes/class-walker-comment.php:240": [
+            "wp-includes/class-walker-comment.php",
+            240
+        ],
+        "wp-includes/class-walker-comment.php:275": [
+            "wp-includes/class-walker-comment.php",
+            275
+        ],
+        "wp-includes/class-walker-comment.php:277": [
+            "wp-includes/class-walker-comment.php",
+            277
+        ],
+        "wp-includes/class-walker-comment.php:365": [
+            "wp-includes/class-walker-comment.php",
+            365
+        ],
+        "wp-includes/class-walker-comment.php:366": [
+            "wp-includes/class-walker-comment.php",
+            366
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

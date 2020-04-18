@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_download_language_pack",
+    "filename": "wp-admin/includes/translation-install.php",
+    "docCommentLine": 199,
+    "startLine": 210,
+    "endLine": 248,
+    "calls": {
+        "wp-admin/install.php:323": [
+            "wp-admin/install.php",
+            323
+        ],
+        "wp-admin/network/settings.php:113": [
+            "wp-admin/network/settings.php",
+            113
+        ],
+        "wp-admin/network/site-new.php:79": [
+            "wp-admin/network/site-new.php",
+            79
+        ],
+        "wp-admin/options.php:252": [
+            "wp-admin/options.php",
+            252
+        ],
+        "wp-admin/setup-config.php:145": [
+            "wp-admin/setup-config.php",
+            145
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

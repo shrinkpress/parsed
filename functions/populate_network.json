@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "populate_network",
+    "filename": "wp-admin/includes/schema.php",
+    "docCommentLine": 942,
+    "startLine": 961,
+    "endLine": 1104,
+    "calls": {
+        "wp-admin/network.php:100": [
+            "wp-admin/network.php",
+            100
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

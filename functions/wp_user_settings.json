@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_user_settings",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 914,
+    "startLine": 923,
+    "endLine": 964,
+    "calls": {
+        "wp-admin/admin-header.php:70": [
+            "wp-admin/admin-header.php",
+            70
+        ],
+        "wp-admin/customize.php:128": [
+            "wp-admin/customize.php",
+            128
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

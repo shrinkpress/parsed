@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_install_language_form",
+    "filename": "wp-admin/includes/translation-install.php",
+    "docCommentLine": 150,
+    "startLine": 159,
+    "endLine": 197,
+    "calls": {
+        "wp-admin/install.php:313": [
+            "wp-admin/install.php",
+            313
+        ],
+        "wp-admin/setup-config.php:135": [
+            "wp-admin/setup-config.php",
+            135
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

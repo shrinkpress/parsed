@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_guid",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 206,
+    "startLine": 218,
+    "endLine": 233,
+    "calls": {
+        "wp-includes/feed.php:293": [
+            "wp-includes/feed.php",
+            293
+        ],
+        "wp-includes/post-template.php:190": [
+            "wp-includes/post-template.php",
+            190
+        ],
+        "wp-includes/post.php:5843": [
+            "wp-includes/post.php",
+            5843
+        ],
+        "wp-includes/post.php:6729": [
+            "wp-includes/post.php",
+            6729
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

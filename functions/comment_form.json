@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "comment_form",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 2188,
+    "startLine": 2252,
+    "endLine": 2652,
+    "calls": {
+        "wp-includes/theme-compat/comments.php:77": [
+            "wp-includes/theme-compat/comments.php",
+            77
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

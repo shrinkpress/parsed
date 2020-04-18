@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_load_press_this",
+    "filename": "wp-admin/press-this.php",
+    "docCommentLine": 0,
+    "startLine": 14,
+    "endLine": 85,
+    "calls": {
+        "wp-admin/press-this.php:87": [
+            "wp-admin/press-this.php",
+            87
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

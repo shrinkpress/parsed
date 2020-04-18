@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_next_posts_page_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 2298,
+    "startLine": 2310,
+    "endLine": 2322,
+    "calls": {
+        "wp-includes/link-template.php:2334": [
+            "wp-includes/link-template.php",
+            2334
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

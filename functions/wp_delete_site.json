@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_delete_site",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 193,
+    "startLine": 203,
+    "endLine": 288,
+    "calls": {
+        "wp-admin/includes/ms.php:97": [
+            "wp-admin/includes/ms.php",
+            97
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

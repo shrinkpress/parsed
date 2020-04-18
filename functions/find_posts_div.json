@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "find_posts_div",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 1859,
+    "startLine": 1866,
+    "endLine": 1894,
+    "calls": {
+        "wp-admin/upload.php:374": [
+            "wp-admin/upload.php",
+            374
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

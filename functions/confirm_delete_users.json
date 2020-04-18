@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "confirm_delete_users",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 848,
+    "startLine": 851,
+    "endLine": 986,
+    "calls": {
+        "wp-admin/network/users.php:36": [
+            "wp-admin/network/users.php",
+            36
+        ],
+        "wp-admin/network/users.php:66": [
+            "wp-admin/network/users.php",
+            66
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

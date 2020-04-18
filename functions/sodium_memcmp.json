@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_memcmp",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 1264,
+    "startLine": 1272,
+    "endLine": 1275,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:3170": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3170
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

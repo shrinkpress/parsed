@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_edit_comment_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 1489,
+    "startLine": 1497,
+    "endLine": 1514,
+    "calls": {
+        "wp-includes/link-template.php:1536": [
+            "wp-includes/link-template.php",
+            1536
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

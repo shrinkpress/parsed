@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "__checked_selected_helper",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 4698,
+    "startLine": 4712,
+    "endLine": 4724,
+    "calls": {
+        "wp-includes/general-template.php:4647": [
+            "wp-includes/general-template.php",
+            4647
+        ],
+        "wp-includes/general-template.php:4663": [
+            "wp-includes/general-template.php",
+            4663
+        ],
+        "wp-includes/general-template.php:4679": [
+            "wp-includes/general-template.php",
+            4679
+        ],
+        "wp-includes/general-template.php:4695": [
+            "wp-includes/general-template.php",
+            4695
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

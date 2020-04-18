@@ -1,0 +1,71 @@
+{
+    "callbacks": [],
+    "functionName": "_draft_or_post_title",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 1910,
+    "startLine": 1921,
+    "endLine": 1927,
+    "calls": {
+        "wp-admin/edit-comments.php:153": [
+            "wp-admin/edit-comments.php",
+            153
+        ],
+        "wp-admin/edit-comments.php:234": [
+            "wp-admin/edit-comments.php",
+            234
+        ],
+        "wp-admin/includes/class-wp-media-list-table.php:361": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            361
+        ],
+        "wp-admin/includes/class-wp-media-list-table.php:379": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            379
+        ],
+        "wp-admin/includes/class-wp-media-list-table.php:486": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            486
+        ],
+        "wp-admin/includes/class-wp-media-list-table.php:524": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            524
+        ],
+        "wp-admin/includes/class-wp-media-list-table.php:791": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            791
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:925": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            925
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:936": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            936
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1015": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1015
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1333": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1333
+        ],
+        "wp-admin/includes/dashboard.php:600": [
+            "wp-admin/includes/dashboard.php",
+            600
+        ],
+        "wp-admin/includes/dashboard.php:636": [
+            "wp-admin/includes/dashboard.php",
+            636
+        ],
+        "wp-admin/includes/dashboard.php:949": [
+            "wp-admin/includes/dashboard.php",
+            949
+        ],
+        "wp-admin/revision.php:96": [
+            "wp-admin/revision.php",
+            96
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

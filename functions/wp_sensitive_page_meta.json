@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-activate.php:117": [
+            "wp-activate.php",
+            117,
+            "wp_head",
+            "add_action"
+        ],
+        "wp-login.php:39": [
+            "wp-login.php",
+            39,
+            "login_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_sensitive_page_meta",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3109,
+    "startLine": 3120,
+    "endLine": 3125,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

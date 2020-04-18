@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/menu.php:213": [
+            "wp-admin/menu.php",
+            213,
+            "admin_menu",
+            "add_action"
+        ]
+    },
+    "functionName": "_add_themes_utility_last",
+    "filename": "wp-admin/menu.php",
+    "docCommentLine": 215,
+    "startLine": 221,
+    "endLine": 224,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,110 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:135": [
+            "wp-includes/default-filters.php",
+            135,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":135,\"endLine\":135}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":135,\"endLine\":135}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:148": [
+            "wp-includes/default-filters.php",
+            148,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":148,\"endLine\":148}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":148,\"endLine\":148}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:154": [
+            "wp-includes/default-filters.php",
+            154,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":154,\"endLine\":154}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":154,\"endLine\":154}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:168": [
+            "wp-includes/default-filters.php",
+            168,
+            "the_title",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:173": [
+            "wp-includes/default-filters.php",
+            173,
+            "the_content",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:180": [
+            "wp-includes/default-filters.php",
+            180,
+            "the_excerpt",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:187": [
+            "wp-includes/default-filters.php",
+            187,
+            "the_post_thumbnail_caption",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:191": [
+            "wp-includes/default-filters.php",
+            191,
+            "comment_text",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:200": [
+            "wp-includes/default-filters.php",
+            200,
+            "list_cats",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:206": [
+            "wp-includes/default-filters.php",
+            206,
+            "widget_text_content",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:571": [
+            "wp-includes/default-filters.php",
+            571,
+            "the_excerpt_embed",
+            "add_filter"
+        ]
+    },
+    "functionName": "wptexturize",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 10,
+    "startLine": 51,
+    "endLine": 316,
+    "calls": {
+        "wp-admin/includes/plugin.php:209": [
+            "wp-admin/includes/plugin.php",
+            209
+        ],
+        "wp-admin/menu-header.php:141": [
+            "wp-admin/menu-header.php",
+            141
+        ],
+        "wp-admin/menu-header.php:238": [
+            "wp-admin/menu-header.php",
+            238
+        ],
+        "wp-includes/class-wp-theme.php:880": [
+            "wp-includes/class-wp-theme.php",
+            880
+        ],
+        "wp-includes/comment-template.php:1197": [
+            "wp-includes/comment-template.php",
+            1197
+        ],
+        "wp-includes/general-template.php:1138": [
+            "wp-includes/general-template.php",
+            1138
+        ],
+        "wp-includes/general-template.php:1738": [
+            "wp-includes/general-template.php",
+            1738
+        ],
+        "wp-includes/media.php:2010": [
+            "wp-includes/media.php",
+            2010
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

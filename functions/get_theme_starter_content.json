@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_theme_starter_content",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 2031,
+    "startLine": 2038,
+    "endLine": 2345,
+    "calls": {
+        "wp-includes/class-wp-customize-manager.php:1185": [
+            "wp-includes/class-wp-customize-manager.php",
+            1185
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

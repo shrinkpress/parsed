@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_theme_update_available",
+    "filename": "wp-admin/includes/theme.php",
+    "docCommentLine": 156,
+    "startLine": 168,
+    "endLine": 252,
+    "calls": {
+        "wp-admin/includes/theme.php:153": [
+            "wp-admin/includes/theme.php",
+            153
+        ],
+        "wp-admin/includes/theme.php:668": [
+            "wp-admin/includes/theme.php",
+            668
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/export.php:436": [
+            "wp-admin/includes/export.php",
+            436,
+            "wxr_export_skip_postmeta",
+            "add_filter"
+        ]
+    },
+    "functionName": "wxr_filter_postmeta",
+    "filename": "wp-admin/includes/export.php",
+    "docCommentLine": 425,
+    "startLine": 430,
+    "endLine": 435,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

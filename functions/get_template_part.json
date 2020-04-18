@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_template_part",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 114,
+    "startLine": 135,
+    "endLine": 169,
+    "calls": {
+        "wp-includes/theme-compat/embed.php:18": [
+            "wp-includes/theme-compat/embed.php",
+            18
+        ],
+        "wp-includes/theme-compat/embed.php:21": [
+            "wp-includes/theme-compat/embed.php",
+            21
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

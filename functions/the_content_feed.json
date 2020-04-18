@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "the_content_feed",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 205,
+    "startLine": 212,
+    "endLine": 214,
+    "calls": {
+        "wp-includes/feed-atom.php:74": [
+            "wp-includes/feed-atom.php",
+            74
+        ],
+        "wp-includes/feed-rdf.php:84": [
+            "wp-includes/feed-rdf.php",
+            84
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

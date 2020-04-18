@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_admin_css_uri",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 4404,
+    "startLine": 4414,
+    "endLine": 4431,
+    "calls": {
+        "wp-includes/general-template.php:4470": [
+            "wp-includes/general-template.php",
+            4470
+        ],
+        "wp-includes/general-template.php:4489": [
+            "wp-includes/general-template.php",
+            4489
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

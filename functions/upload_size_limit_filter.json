@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:98": [
+            "wp-includes/ms-default-filters.php",
+            98,
+            "upload_size_limit",
+            "add_filter"
+        ]
+    },
+    "functionName": "upload_size_limit_filter",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2518,
+    "startLine": 2526,
+    "endLine": 2533,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

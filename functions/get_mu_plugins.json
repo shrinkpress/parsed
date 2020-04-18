@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_mu_plugins",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 351,
+    "startLine": 359,
+    "endLine": 405,
+    "calls": {
+        "wp-admin/includes/class-wp-debug-data.php:791": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            791
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:125": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            125
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "doing_action",
+    "filename": "wp-includes/plugin.php",
+    "docCommentLine": 370,
+    "startLine": 379,
+    "endLine": 381,
+    "calls": {
+        "wp-admin/includes/plugin.php:2258": [
+            "wp-admin/includes/plugin.php",
+            2258
+        ],
+        "wp-includes/update.php:236": [
+            "wp-includes/update.php",
+            236
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

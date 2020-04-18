@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_edit_attachments_query",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1259,
+    "startLine": 1268,
+    "endLine": 1275,
+    "calls": {
+        "wp-admin/includes/class-wp-media-list-table.php:72": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            72
+        ],
+        "wp-admin/includes/media.php:2673": [
+            "wp-admin/includes/media.php",
+            2673
+        ],
+        "wp-admin/includes/media.php:2706": [
+            "wp-admin/includes/media.php",
+            2706
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

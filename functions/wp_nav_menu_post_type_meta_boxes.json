@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_nav_menu_post_type_meta_boxes",
+    "filename": "wp-admin/includes/nav-menu.php",
+    "docCommentLine": 200,
+    "startLine": 205,
+    "endLine": 233,
+    "calls": {
+        "wp-admin/includes/nav-menu.php:142": [
+            "wp-admin/includes/nav-menu.php",
+            142
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

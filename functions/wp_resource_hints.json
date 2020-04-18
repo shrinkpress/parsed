@@ -1,0 +1,35 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:50": [
+            "wp-admin/includes/admin-filters.php",
+            50,
+            "admin_print_styles",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:282": [
+            "wp-includes/default-filters.php",
+            282,
+            "wp_head",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:312": [
+            "wp-includes/default-filters.php",
+            312,
+            "login_head",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:504": [
+            "wp-includes/default-filters.php",
+            504,
+            "customize_controls_print_styles",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_resource_hints",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3175,
+    "startLine": 3187,
+    "endLine": 3282,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

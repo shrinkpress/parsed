@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "remove_all_filters",
+    "filename": "wp-includes/plugin.php",
+    "docCommentLine": 290,
+    "startLine": 301,
+    "endLine": 312,
+    "calls": {
+        "wp-admin/includes/class-language-pack-upgrader.php:196": [
+            "wp-admin/includes/class-language-pack-upgrader.php",
+            196
+        ],
+        "wp-admin/includes/class-language-pack-upgrader.php:197": [
+            "wp-admin/includes/class-language-pack-upgrader.php",
+            197
+        ],
+        "wp-admin/includes/class-language-pack-upgrader.php:198": [
+            "wp-admin/includes/class-language-pack-upgrader.php",
+            198
+        ],
+        "wp-admin/includes/class-language-pack-upgrader.php:199": [
+            "wp-admin/includes/class-language-pack-upgrader.php",
+            199
+        ],
+        "wp-includes/plugin.php:597": [
+            "wp-includes/plugin.php",
+            597
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

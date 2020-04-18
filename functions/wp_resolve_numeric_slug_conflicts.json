@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_resolve_numeric_slug_conflicts",
+    "filename": "wp-includes/rewrite.php",
+    "docCommentLine": 339,
+    "startLine": 360,
+    "endLine": 453,
+    "calls": {
+        "wp-includes/class-wp.php:359": [
+            "wp-includes/class-wp.php",
+            359
+        ],
+        "wp-includes/rewrite.php:609": [
+            "wp-includes/rewrite.php",
+            609
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

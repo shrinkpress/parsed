@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_theme_file_editable_extensions",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 235,
+    "startLine": 241,
+    "endLine": 290,
+    "calls": {
+        "wp-admin/includes/file.php:439": [
+            "wp-admin/includes/file.php",
+            439
+        ],
+        "wp-admin/theme-editor.php:80": [
+            "wp-admin/theme-editor.php",
+            80
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

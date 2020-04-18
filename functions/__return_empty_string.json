@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/class-wp-customize-manager.php:1918": [
+            "wp-includes/class-wp-customize-manager.php",
+            1918,
+            "get_edit_post_link",
+            "add_filter"
+        ]
+    },
+    "functionName": "__return_empty_string",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5891,
+    "startLine": 5902,
+    "endLine": 5904,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

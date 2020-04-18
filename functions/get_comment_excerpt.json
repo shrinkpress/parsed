@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_excerpt",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 583,
+    "startLine": 595,
+    "endLine": 624,
+    "calls": {
+        "wp-includes/blocks/latest-comments.php:113": [
+            "wp-includes/blocks/latest-comments.php",
+            113
+        ],
+        "wp-includes/comment-template.php:637": [
+            "wp-includes/comment-template.php",
+            637
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

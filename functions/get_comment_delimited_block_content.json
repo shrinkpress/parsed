@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_delimited_block_content",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 181,
+    "startLine": 191,
+    "endLine": 210,
+    "calls": {
+        "wp-includes/blocks.php:238": [
+            "wp-includes/blocks.php",
+            238
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "populate_site_meta",
+    "filename": "wp-admin/includes/schema.php",
+    "docCommentLine": 1287,
+    "startLine": 1297,
+    "endLine": 1335,
+    "calls": {
+        "wp-includes/ms-site.php:760": [
+            "wp-includes/ms-site.php",
+            760
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

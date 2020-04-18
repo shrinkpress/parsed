@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_footer",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 44,
+    "startLine": 57,
+    "endLine": 77,
+    "calls": {
+        "wp-activate.php:214": [
+            "wp-activate.php",
+            214
+        ],
+        "wp-includes/theme-compat/embed.php:24": [
+            "wp-includes/theme-compat/embed.php",
+            24
+        ],
+        "wp-signup.php:1014": [
+            "wp-signup.php",
+            1014
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

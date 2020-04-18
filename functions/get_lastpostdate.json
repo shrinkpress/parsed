@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_lastpostdate",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6373,
+    "startLine": 6391,
+    "endLine": 6402,
+    "calls": {
+        "wp-includes/post.php:6439": [
+            "wp-includes/post.php",
+            6439
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

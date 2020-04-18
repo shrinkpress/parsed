@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_kx",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 638,
+    "startLine": 648,
+    "endLine": 656,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:1718": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            1718
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

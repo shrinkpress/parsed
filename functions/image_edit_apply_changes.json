@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "image_edit_apply_changes",
+    "filename": "wp-admin/includes/image-edit.php",
+    "docCommentLine": 488,
+    "startLine": 497,
+    "endLine": 615,
+    "calls": {
+        "wp-admin/includes/image-edit.php:640": [
+            "wp-admin/includes/image-edit.php",
+            640
+        ],
+        "wp-admin/includes/image-edit.php:800": [
+            "wp-admin/includes/image-edit.php",
+            800
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ms-admin-filters.php:43": [
+            "wp-admin/includes/ms-admin-filters.php",
+            43,
+            "add_site_option_new_admin_email",
+            "add_action"
+        ],
+        "wp-admin/includes/ms-admin-filters.php:44": [
+            "wp-admin/includes/ms-admin-filters.php",
+            44,
+            "update_site_option_new_admin_email",
+            "add_action"
+        ]
+    },
+    "functionName": "update_network_option_new_admin_email",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2608,
+    "startLine": 2618,
+    "endLine": 2694,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

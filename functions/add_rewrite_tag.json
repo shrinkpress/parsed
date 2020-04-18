@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "add_rewrite_tag",
+    "filename": "wp-includes/rewrite.php",
+    "docCommentLine": 143,
+    "startLine": 159,
+    "endLine": 174,
+    "calls": {
+        "wp-includes/class-wp-post-type.php:557": [
+            "wp-includes/class-wp-post-type.php",
+            557
+        ],
+        "wp-includes/class-wp-post-type.php:559": [
+            "wp-includes/class-wp-post-type.php",
+            559
+        ],
+        "wp-includes/class-wp-taxonomy.php:405": [
+            "wp-includes/class-wp-taxonomy.php",
+            405
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

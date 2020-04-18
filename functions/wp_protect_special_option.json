@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_protect_special_option",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 155,
+    "startLine": 165,
+    "endLine": 175,
+    "calls": {
+        "wp-includes/option.php:313": [
+            "wp-includes/option.php",
+            313
+        ],
+        "wp-includes/option.php:474": [
+            "wp-includes/option.php",
+            474
+        ],
+        "wp-includes/option.php:569": [
+            "wp-includes/option.php",
+            569
+        ],
+        "wp-includes/option.php:1367": [
+            "wp-includes/option.php",
+            1367
+        ],
+        "wp-includes/option.php:1582": [
+            "wp-includes/option.php",
+            1582
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:304": [
+            "wp-includes/default-filters.php",
+            304,
+            "after_switch_theme",
+            "add_action"
+        ],
+        "wp-includes/theme.php:2946": [
+            "wp-includes/theme.php",
+            2946,
+            "after_switch_theme",
+            "remove_action"
+        ]
+    },
+    "functionName": "_wp_sidebars_changed",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 1201,
+    "startLine": 1209,
+    "endLine": 1217,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

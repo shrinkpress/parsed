@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "install_themes_upload",
+    "filename": "wp-admin/includes/theme-install.php",
+    "docCommentLine": 177,
+    "startLine": 180,
+    "endLine": 190,
+    "calls": {
+        "wp-admin/theme-install.php:164": [
+            "wp-admin/theme-install.php",
+            164
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

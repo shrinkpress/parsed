@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "get_delete_post_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 1442,
+    "startLine": 1454,
+    "endLine": 1487,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:1366": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1366
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1375": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1375
+        ],
+        "wp-admin/includes/meta-boxes.php:320": [
+            "wp-admin/includes/meta-boxes.php",
+            320
+        ],
+        "wp-admin/includes/meta-boxes.php:419": [
+            "wp-admin/includes/meta-boxes.php",
+            419
+        ],
+        "wp-admin/includes/meta-boxes.php:422": [
+            "wp-admin/includes/meta-boxes.php",
+            422
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

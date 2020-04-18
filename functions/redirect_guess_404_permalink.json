@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "redirect_guess_404_permalink",
+    "filename": "wp-includes/canonical.php",
+    "docCommentLine": 675,
+    "startLine": 684,
+    "endLine": 721,
+    "calls": {
+        "wp-includes/canonical.php:152": [
+            "wp-includes/canonical.php",
+            152
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

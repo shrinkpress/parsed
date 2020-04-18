@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "doing_filter",
+    "filename": "wp-includes/plugin.php",
+    "docCommentLine": 339,
+    "startLine": 360,
+    "endLine": 368,
+    "calls": {
+        "wp-includes/blocks.php:542": [
+            "wp-includes/blocks.php",
+            542
+        ],
+        "wp-includes/plugin.php:380": [
+            "wp-includes/plugin.php",
+            380
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

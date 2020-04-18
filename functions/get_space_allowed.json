@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "get_space_allowed",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2450,
+    "startLine": 2457,
+    "endLine": 2476,
+    "calls": {
+        "wp-admin/includes/dashboard.php:1505": [
+            "wp-admin/includes/dashboard.php",
+            1505
+        ],
+        "wp-admin/includes/media.php:3041": [
+            "wp-admin/includes/media.php",
+            3041
+        ],
+        "wp-admin/includes/ms-deprecated.php:36": [
+            "wp-admin/includes/ms-deprecated.php",
+            36
+        ],
+        "wp-admin/includes/ms.php:221": [
+            "wp-admin/includes/ms.php",
+            221
+        ],
+        "wp-admin/includes/ms.php:247": [
+            "wp-admin/includes/ms.php",
+            247
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:6320": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            6320
+        ],
+        "wp-includes/ms-functions.php:2486": [
+            "wp-includes/ms-functions.php",
+            2486
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

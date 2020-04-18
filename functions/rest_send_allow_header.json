@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/rest-api.php:182": [
+            "wp-includes/rest-api.php",
+            182,
+            "rest_post_dispatch",
+            "add_filter"
+        ]
+    },
+    "functionName": "rest_send_allow_header",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 651,
+    "startLine": 661,
+    "endLine": 695,
+    "calls": {
+        "wp-includes/rest-api.php:1549": [
+            "wp-includes/rest-api.php",
+            1549
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

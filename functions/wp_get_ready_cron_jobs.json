@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_ready_cron_jobs",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 869,
+    "startLine": 879,
+    "endLine": 917,
+    "calls": {
+        "wp-cron.php:79": [
+            "wp-cron.php",
+            79
+        ],
+        "wp-includes/cron.php:657": [
+            "wp-includes/cron.php",
+            657
+        ],
+        "wp-includes/cron.php:751": [
+            "wp-includes/cron.php",
+            751
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

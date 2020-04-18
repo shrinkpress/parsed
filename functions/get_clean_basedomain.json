@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_clean_basedomain",
+    "filename": "wp-admin/includes/network.php",
+    "docCommentLine": 78,
+    "startLine": 84,
+    "endLine": 95,
+    "calls": {
+        "wp-admin/includes/network.php:136": [
+            "wp-admin/includes/network.php",
+            136
+        ],
+        "wp-admin/includes/network.php:388": [
+            "wp-admin/includes/network.php",
+            388
+        ],
+        "wp-admin/network.php:100": [
+            "wp-admin/network.php",
+            100
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

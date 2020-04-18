@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_image_meta_replace_original",
+    "filename": "wp-admin/includes/image.php",
+    "docCommentLine": 181,
+    "startLine": 193,
+    "endLine": 210,
+    "calls": {
+        "wp-admin/includes/image.php:299": [
+            "wp-admin/includes/image.php",
+            299
+        ],
+        "wp-admin/includes/image.php:329": [
+            "wp-admin/includes/image.php",
+            329
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

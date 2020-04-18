@@ -1,0 +1,26 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:194": [
+            "wp-includes/default-filters.php",
+            194,
+            "comment_text",
+            "add_filter"
+        ]
+    },
+    "functionName": "force_balance_tags",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 2440,
+    "startLine": 2459,
+    "endLine": 2602,
+    "calls": {
+        "wp-includes/formatting.php:2434": [
+            "wp-includes/formatting.php",
+            2434
+        ],
+        "wp-includes/post-template.php:367": [
+            "wp-includes/post-template.php",
+            367
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

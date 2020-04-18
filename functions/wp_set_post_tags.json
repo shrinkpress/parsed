@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_set_post_tags",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 4488,
+    "startLine": 4502,
+    "endLine": 4504,
+    "calls": {
+        "wp-includes/post.php:3936": [
+            "wp-includes/post.php",
+            3936
+        ],
+        "wp-includes/post.php:4485": [
+            "wp-includes/post.php",
+            4485
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

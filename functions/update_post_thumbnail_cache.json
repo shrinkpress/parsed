@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "update_post_thumbnail_cache",
+    "filename": "wp-includes/post-thumbnail-template.php",
+    "docCommentLine": 81,
+    "startLine": 90,
+    "endLine": 112,
+    "calls": {
+        "wp-includes/post-thumbnail-template.php:169": [
+            "wp-includes/post-thumbnail-template.php",
+            169
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

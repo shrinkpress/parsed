@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_get_dropins",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 468,
+    "startLine": 478,
+    "endLine": 498,
+    "calls": {
+        "wp-admin/includes/class-wp-debug-data.php:475": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            475
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:641": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            641
+        ],
+        "wp-admin/includes/plugin.php:432": [
+            "wp-admin/includes/plugin.php",
+            432
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

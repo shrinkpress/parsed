@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_trackback_url",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 1113,
+    "startLine": 1124,
+    "endLine": 1139,
+    "calls": {
+        "wp-includes/comment-template.php:1164": [
+            "wp-includes/comment-template.php",
+            1164
+        ],
+        "wp-includes/comment-template.php:1166": [
+            "wp-includes/comment-template.php",
+            1166
+        ],
+        "wp-includes/comment-template.php:1198": [
+            "wp-includes/comment-template.php",
+            1198
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

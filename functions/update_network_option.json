@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "update_network_option",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 1554,
+    "startLine": 1568,
+    "endLine": 1683,
+    "calls": {
+        "wp-includes/functions.php:5421": [
+            "wp-includes/functions.php",
+            5421
+        ],
+        "wp-includes/ms-functions.php:2406": [
+            "wp-includes/ms-functions.php",
+            2406
+        ],
+        "wp-includes/ms-functions.php:2423": [
+            "wp-includes/ms-functions.php",
+            2423
+        ],
+        "wp-includes/option.php:1203": [
+            "wp-includes/option.php",
+            1203
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

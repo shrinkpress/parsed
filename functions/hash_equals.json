@@ -1,0 +1,79 @@
+{
+    "callbacks": [],
+    "functionName": "hash_equals",
+    "filename": "wp-includes/compat.php",
+    "docCommentLine": 293,
+    "startLine": 313,
+    "endLine": 326,
+    "calls": {
+        "wp-admin/ms-delete-site.php:21": [
+            "wp-admin/ms-delete-site.php",
+            21
+        ],
+        "wp-admin/network/settings.php:27": [
+            "wp-admin/network/settings.php",
+            27
+        ],
+        "wp-admin/options.php:59": [
+            "wp-admin/options.php",
+            59
+        ],
+        "wp-admin/user-edit.php:99": [
+            "wp-admin/user-edit.php",
+            99
+        ],
+        "wp-includes/class-wp-customize-nav-menus.php:1512": [
+            "wp-includes/class-wp-customize-nav-menus.php",
+            1512
+        ],
+        "wp-includes/class-wp-customize-widgets.php:1331": [
+            "wp-includes/class-wp-customize-widgets.php",
+            1331
+        ],
+        "wp-includes/class-wp-recovery-mode-cookie-service.php:106": [
+            "wp-includes/class-wp-recovery-mode-cookie-service.php",
+            106
+        ],
+        "wp-includes/comment.php:1833": [
+            "wp-includes/comment.php",
+            1833
+        ],
+        "wp-includes/pluggable.php:665": [
+            "wp-includes/pluggable.php",
+            665
+        ],
+        "wp-includes/pluggable.php:2109": [
+            "wp-includes/pluggable.php",
+            2109
+        ],
+        "wp-includes/pluggable.php:2115": [
+            "wp-includes/pluggable.php",
+            2115
+        ],
+        "wp-includes/pluggable.php:2341": [
+            "wp-includes/pluggable.php",
+            2341
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:409": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            409
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:455": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            455
+        ],
+        "wp-includes/sodium_compat/src/Core/Util.php:271": [
+            "wp-includes/sodium_compat/src/Core/Util.php",
+            271
+        ],
+        "wp-includes/user.php:2413": [
+            "wp-includes/user.php",
+            2413
+        ],
+        "wp-login.php:902": [
+            "wp-login.php",
+            902
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

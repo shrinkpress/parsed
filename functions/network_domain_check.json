@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "network_domain_check",
+    "filename": "wp-admin/includes/network.php",
+    "docCommentLine": 10,
+    "startLine": 19,
+    "endLine": 27,
+    "calls": {
+        "wp-admin/includes/network.php:85": [
+            "wp-admin/includes/network.php",
+            85
+        ],
+        "wp-admin/network.php:40": [
+            "wp-admin/network.php",
+            40
+        ],
+        "wp-admin/network.php:99": [
+            "wp-admin/network.php",
+            99
+        ],
+        "wp-admin/network.php:113": [
+            "wp-admin/network.php",
+            113
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:80": [
+            "wp-admin/includes/admin-filters.php",
+            80,
+            "install_plugins_featured",
+            "add_action"
+        ]
+    },
+    "functionName": "install_dashboard",
+    "filename": "wp-admin/includes/plugin-install.php",
+    "docCommentLine": 260,
+    "startLine": 263,
+    "endLine": 312,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

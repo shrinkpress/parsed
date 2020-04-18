@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "dead_db",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 4556,
+    "startLine": 4574,
+    "endLine": 4592,
+    "calls": {
+        "wp-includes/functions.php:1724": [
+            "wp-includes/functions.php",
+            1724
+        ],
+        "wp-includes/load.php:443": [
+            "wp-includes/load.php",
+            443
+        ],
+        "wp-includes/ms-load.php:465": [
+            "wp-includes/ms-load.php",
+            465
+        ],
+        "wp-includes/wp-db.php:1864": [
+            "wp-includes/wp-db.php",
+            1864
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

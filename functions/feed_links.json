@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:283": [
+            "wp-includes/default-filters.php",
+            283,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "feed_links",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 2914,
+    "startLine": 2921,
+    "endLine": 2958,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

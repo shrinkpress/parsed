@@ -1,0 +1,34 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:142": [
+            "wp-includes/default-filters.php",
+            142,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":142,\"endLine\":142}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":142,\"endLine\":142}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:144": [
+            "wp-includes/default-filters.php",
+            144,
+            "comment_text",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:205": [
+            "wp-includes/default-filters.php",
+            205,
+            "widget_text_content",
+            "add_filter"
+        ]
+    },
+    "functionName": "capital_P_dangit",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5347,
+    "startLine": 5359,
+    "endLine": 5375,
+    "calls": {
+        "wp-includes/general-template.php:1141": [
+            "wp-includes/general-template.php",
+            1141
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

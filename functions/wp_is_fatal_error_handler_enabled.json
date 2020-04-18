@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_is_fatal_error_handler_enabled",
+    "filename": "wp-includes/error-protection.php",
+    "docCommentLine": 99,
+    "startLine": 109,
+    "endLine": 120,
+    "calls": {
+        "wp-includes/error-protection.php:83": [
+            "wp-includes/error-protection.php",
+            83
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

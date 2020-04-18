@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "delete_site_transient",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 1685,
+    "startLine": 1693,
+    "endLine": 1729,
+    "calls": {
+        "wp-admin/includes/class-core-upgrader.php:223": [
+            "wp-admin/includes/class-core-upgrader.php",
+            223
+        ],
+        "wp-admin/includes/plugin-install.php:484": [
+            "wp-admin/includes/plugin-install.php",
+            484
+        ],
+        "wp-admin/includes/plugin.php:2205": [
+            "wp-admin/includes/plugin.php",
+            2205
+        ],
+        "wp-admin/includes/theme.php:109": [
+            "wp-admin/includes/theme.php",
+            109
+        ],
+        "wp-admin/includes/update-core.php:1278": [
+            "wp-admin/includes/update-core.php",
+            1278
+        ],
+        "wp-admin/upgrade.php:24": [
+            "wp-admin/upgrade.php",
+            24
+        ],
+        "wp-includes/theme.php:137": [
+            "wp-includes/theme.php",
+            137
+        ],
+        "wp-includes/update.php:806": [
+            "wp-includes/update.php",
+            806
+        ],
+        "wp-includes/update.php:809": [
+            "wp-includes/update.php",
+            809
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

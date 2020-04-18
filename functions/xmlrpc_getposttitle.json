@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "xmlrpc_getposttitle",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 705,
+    "startLine": 718,
+    "endLine": 726,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:5040": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5040
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:5126": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5126
+        ],
+        "wp-mail.php:213": [
+            "wp-mail.php",
+            213
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

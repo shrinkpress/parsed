@@ -1,0 +1,34 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:57": [
+            "wp-includes/ms-default-filters.php",
+            57,
+            "added_blog_meta",
+            "add_action"
+        ],
+        "wp-includes/ms-default-filters.php:58": [
+            "wp-includes/ms-default-filters.php",
+            58,
+            "updated_blog_meta",
+            "add_action"
+        ],
+        "wp-includes/ms-default-filters.php:59": [
+            "wp-includes/ms-default-filters.php",
+            59,
+            "deleted_blog_meta",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_cache_set_sites_last_changed",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 1301,
+    "startLine": 1306,
+    "endLine": 1308,
+    "calls": {
+        "wp-admin/includes/schema.php:1334": [
+            "wp-admin/includes/schema.php",
+            1334
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

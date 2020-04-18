@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_check_php_mysql_versions",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 117,
+    "startLine": 129,
+    "endLine": 155,
+    "calls": {
+        "wp-load.php:71": [
+            "wp-load.php",
+            71
+        ],
+        "wp-settings.php:28": [
+            "wp-settings.php",
+            28
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

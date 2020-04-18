@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_comment_trashnotice",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 525,
+    "startLine": 530,
+    "endLine": 551,
+    "calls": {
+        "wp-admin/edit-comments.php:366": [
+            "wp-admin/edit-comments.php",
+            366
+        ],
+        "wp-admin/includes/dashboard.php:1026": [
+            "wp-admin/includes/dashboard.php",
+            1026
+        ],
+        "wp-admin/includes/meta-boxes.php:852": [
+            "wp-admin/includes/meta-boxes.php",
+            852
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

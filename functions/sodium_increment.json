@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_increment",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 1221,
+    "startLine": 1228,
+    "endLine": 1231,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:3093": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3093
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

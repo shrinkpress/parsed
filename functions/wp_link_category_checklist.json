@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_link_category_checklist",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 253,
+    "startLine": 260,
+    "endLine": 295,
+    "calls": {
+        "wp-admin/includes/deprecated.php:100": [
+            "wp-admin/includes/deprecated.php",
+            100
+        ],
+        "wp-admin/includes/meta-boxes.php:1098": [
+            "wp-admin/includes/meta-boxes.php",
+            1098
+        ],
+        "wp-admin/includes/meta-boxes.php:1100": [
+            "wp-admin/includes/meta-boxes.php",
+            1100
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

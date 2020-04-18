@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_kses_check_attr_val",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 1467,
+    "startLine": 1481,
+    "endLine": 1544,
+    "calls": {
+        "wp-includes/kses.php:1200": [
+            "wp-includes/kses.php",
+            1200
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

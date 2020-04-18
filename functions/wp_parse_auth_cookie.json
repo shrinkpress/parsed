@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_parse_auth_cookie",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 754,
+    "startLine": 763,
+    "endLine": 799,
+    "calls": {
+        "wp-includes/pluggable.php:604": [
+            "wp-includes/pluggable.php",
+            604
+        ],
+        "wp-includes/user.php:2125": [
+            "wp-includes/user.php",
+            2125
+        ],
+        "wp-includes/user.php:2605": [
+            "wp-includes/user.php",
+            2605
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_box_seal_open",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 493,
+    "startLine": 500,
+    "endLine": 510,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:1141": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            1141
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "verify_file_md5",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 1141,
+    "startLine": 1152,
+    "endLine": 1176,
+    "calls": {
+        "wp-admin/includes/file.php:1054": [
+            "wp-admin/includes/file.php",
+            1054
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

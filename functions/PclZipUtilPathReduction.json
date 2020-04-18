@@ -1,0 +1,43 @@
+{
+    "callbacks": [],
+    "functionName": "PclZipUtilPathReduction",
+    "filename": "wp-admin/includes/class-pclzip.php",
+    "docCommentLine": 0,
+    "startLine": 5404,
+    "endLine": 5467,
+    "calls": {
+        "wp-admin/includes/class-pclzip.php:1899": [
+            "wp-admin/includes/class-pclzip.php",
+            1899
+        ],
+        "wp-admin/includes/class-pclzip.php:1914": [
+            "wp-admin/includes/class-pclzip.php",
+            1914
+        ],
+        "wp-admin/includes/class-pclzip.php:1928": [
+            "wp-admin/includes/class-pclzip.php",
+            1928
+        ],
+        "wp-admin/includes/class-pclzip.php:2019": [
+            "wp-admin/includes/class-pclzip.php",
+            2019
+        ],
+        "wp-admin/includes/class-pclzip.php:2637": [
+            "wp-admin/includes/class-pclzip.php",
+            2637
+        ],
+        "wp-admin/includes/class-pclzip.php:3011": [
+            "wp-admin/includes/class-pclzip.php",
+            3011
+        ],
+        "wp-admin/includes/class-pclzip.php:3244": [
+            "wp-admin/includes/class-pclzip.php",
+            3244
+        ],
+        "wp-admin/includes/class-pclzip.php:3246": [
+            "wp-admin/includes/class-pclzip.php",
+            3246
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

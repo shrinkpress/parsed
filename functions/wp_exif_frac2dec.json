@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_exif_frac2dec",
+    "filename": "wp-admin/includes/image.php",
+    "docCommentLine": 620,
+    "startLine": 628,
+    "endLine": 638,
+    "calls": {
+        "wp-admin/includes/image.php:803": [
+            "wp-admin/includes/image.php",
+            803
+        ],
+        "wp-admin/includes/image.php:812": [
+            "wp-admin/includes/image.php",
+            812
+        ],
+        "wp-admin/includes/image.php:819": [
+            "wp-admin/includes/image.php",
+            819
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

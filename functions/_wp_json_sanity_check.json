@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_json_sanity_check",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 3836,
+    "startLine": 3849,
+    "endLine": 3897,
+    "calls": {
+        "wp-includes/functions.php:3828": [
+            "wp-includes/functions.php",
+            3828
+        ],
+        "wp-includes/functions.php:3866": [
+            "wp-includes/functions.php",
+            3866
+        ],
+        "wp-includes/functions.php:3883": [
+            "wp-includes/functions.php",
+            3883
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

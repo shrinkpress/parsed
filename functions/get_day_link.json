@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_day_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 537,
+    "startLine": 549,
+    "endLine": 582,
+    "calls": {
+        "wp-includes/canonical.php:209": [
+            "wp-includes/canonical.php",
+            209
+        ],
+        "wp-includes/canonical.php:217": [
+            "wp-includes/canonical.php",
+            217
+        ],
+        "wp-includes/general-template.php:1944": [
+            "wp-includes/general-template.php",
+            1944
+        ],
+        "wp-includes/general-template.php:2243": [
+            "wp-includes/general-template.php",
+            2243
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "sanitize_hex_color_no_hash",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5949,
+    "startLine": 5963,
+    "endLine": 5971,
+    "calls": {
+        "wp-includes/class-wp-customize-manager.php:5893": [
+            "wp-includes/class-wp-customize-manager.php",
+            5893
+        ],
+        "wp-includes/formatting.php:5985": [
+            "wp-includes/formatting.php",
+            5985
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

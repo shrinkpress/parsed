@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-includes/blocks.php:544": [
+            "wp-includes/blocks.php",
+            544,
+            "the_content",
+            "add_filter"
+        ],
+        "wp-includes/blocks.php:562": [
+            "wp-includes/blocks.php",
+            562,
+            "the_content",
+            "has_filter"
+        ],
+        "wp-includes/blocks.php:565": [
+            "wp-includes/blocks.php",
+            565,
+            "the_content",
+            "remove_filter"
+        ]
+    },
+    "functionName": "_restore_wpautop_hook",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 550,
+    "startLine": 561,
+    "endLine": 568,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

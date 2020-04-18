@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_category_list",
+    "filename": "wp-includes/category-template.php",
+    "docCommentLine": 119,
+    "startLine": 132,
+    "endLine": 221,
+    "calls": {
+        "wp-includes/category-template.php:264": [
+            "wp-includes/category-template.php",
+            264
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

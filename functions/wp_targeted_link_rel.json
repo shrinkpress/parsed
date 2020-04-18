@@ -1,0 +1,42 @@
+{
+    "callbacks": {
+        "wp-includes/class-wp-customize-manager.php:2936": [
+            "wp-includes/class-wp-customize-manager.php",
+            2936,
+            "content_save_pre",
+            "has_filter"
+        ],
+        "wp-includes/formatting.php:3247": [
+            "wp-includes/formatting.php",
+            3247,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":3247,\"endLine\":3247}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":3247,\"endLine\":3247}}",
+            "add_filter"
+        ],
+        "wp-includes/formatting.php:3270": [
+            "wp-includes/formatting.php",
+            3270,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":3270,\"endLine\":3270}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":3270,\"endLine\":3270}}",
+            "remove_filter"
+        ]
+    },
+    "functionName": "wp_targeted_link_rel",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 3139,
+    "startLine": 3147,
+    "endLine": 3172,
+    "calls": {
+        "wp-includes/widgets/class-wp-widget-custom-html.php:148": [
+            "wp-includes/widgets/class-wp-widget-custom-html.php",
+            148
+        ],
+        "wp-includes/widgets/class-wp-widget-media-image.php:270": [
+            "wp-includes/widgets/class-wp-widget-media-image.php",
+            270
+        ],
+        "wp-includes/widgets/class-wp-widget-text.php:333": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            333
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

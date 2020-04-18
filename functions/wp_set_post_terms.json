@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_set_post_terms",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 4506,
+    "startLine": 4523,
+    "endLine": 4551,
+    "calls": {
+        "wp-includes/post-formats.php:85": [
+            "wp-includes/post-formats.php",
+            85
+        ],
+        "wp-includes/post.php:3954": [
+            "wp-includes/post.php",
+            3954
+        ],
+        "wp-includes/post.php:4503": [
+            "wp-includes/post.php",
+            4503
+        ],
+        "wp-includes/post.php:4586": [
+            "wp-includes/post.php",
+            4586
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

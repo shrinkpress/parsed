@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "image_constrain_size_for_editor",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 28,
+    "startLine": 59,
+    "endLine": 130,
+    "calls": {
+        "wp-includes/media.php:260": [
+            "wp-includes/media.php",
+            260
+        ],
+        "wp-includes/media.php:797": [
+            "wp-includes/media.php",
+            797
+        ],
+        "wp-includes/media.php:3500": [
+            "wp-includes/media.php",
+            3500
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "remove_user_from_blog",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 218,
+    "startLine": 236,
+    "endLine": 304,
+    "calls": {
+        "wp-admin/includes/ms.php:112": [
+            "wp-admin/includes/ms.php",
+            112
+        ],
+        "wp-admin/includes/ms.php:173": [
+            "wp-admin/includes/ms.php",
+            173
+        ],
+        "wp-admin/includes/user.php:423": [
+            "wp-admin/includes/user.php",
+            423
+        ],
+        "wp-admin/network/site-users.php:130": [
+            "wp-admin/network/site-users.php",
+            130
+        ],
+        "wp-admin/network/site-users.php:133": [
+            "wp-admin/network/site-users.php",
+            133
+        ],
+        "wp-admin/network/users.php:161": [
+            "wp-admin/network/users.php",
+            161
+        ],
+        "wp-admin/network/users.php:163": [
+            "wp-admin/network/users.php",
+            163
+        ],
+        "wp-admin/users.php:379": [
+            "wp-admin/users.php",
+            379
+        ],
+        "wp-includes/ms-functions.php:2156": [
+            "wp-includes/ms-functions.php",
+            2156
+        ],
+        "wp-includes/ms-site.php:823": [
+            "wp-includes/ms-site.php",
+            823
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

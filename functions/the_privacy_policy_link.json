@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "the_privacy_policy_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 4412,
+    "startLine": 4420,
+    "endLine": 4422,
+    "calls": {
+        "wp-login.php:290": [
+            "wp-login.php",
+            290
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

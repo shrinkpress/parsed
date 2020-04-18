@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:251": [
+            "wp-includes/default-filters.php",
+            251,
+            "comment_email",
+            "add_filter"
+        ]
+    },
+    "functionName": "antispambot",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 2779,
+    "startLine": 2788,
+    "endLine": 2802,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

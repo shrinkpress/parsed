@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "add_menu_page",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 1241,
+    "startLine": 1273,
+    "endLine": 1311,
+    "calls": {
+        "wp-admin/includes/deprecated.php:1436": [
+            "wp-admin/includes/deprecated.php",
+            1436
+        ],
+        "wp-admin/includes/deprecated.php:1469": [
+            "wp-admin/includes/deprecated.php",
+            1469
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

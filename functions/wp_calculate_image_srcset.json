@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_calculate_image_srcset",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 1147,
+    "startLine": 1158,
+    "endLine": 1332,
+    "calls": {
+        "wp-includes/media.php:1008": [
+            "wp-includes/media.php",
+            1008
+        ],
+        "wp-includes/media.php:1144": [
+            "wp-includes/media.php",
+            1144
+        ],
+        "wp-includes/media.php:1535": [
+            "wp-includes/media.php",
+            1535
+        ],
+        "wp-includes/theme.php:1126": [
+            "wp-includes/theme.php",
+            1126
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

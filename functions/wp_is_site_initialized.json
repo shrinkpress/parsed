@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_is_site_initialized",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 907,
+    "startLine": 919,
+    "endLine": 960,
+    "calls": {
+        "wp-includes/ms-site.php:678": [
+            "wp-includes/ms-site.php",
+            678
+        ],
+        "wp-includes/ms-site.php:809": [
+            "wp-includes/ms-site.php",
+            809
+        ],
+        "wp-includes/ms-site.php:1294": [
+            "wp-includes/ms-site.php",
+            1294
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

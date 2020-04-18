@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "update_post_caches",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6598,
+    "startLine": 6608,
+    "endLine": 6647,
+    "calls": {
+        "wp-includes/class-wp-query.php:3171": [
+            "wp-includes/class-wp-query.php",
+            3171
+        ],
+        "wp-includes/post.php:7027": [
+            "wp-includes/post.php",
+            7027
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

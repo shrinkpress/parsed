@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:367": [
+            "wp-includes/default-filters.php",
+            367,
+            "wp_privacy_personal_data_erasers",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_register_comment_personal_data_eraser",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 3500,
+    "startLine": 3508,
+    "endLine": 3515,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

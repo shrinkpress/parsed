@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_archive_title",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 1551,
+    "startLine": 1558,
+    "endLine": 1619,
+    "calls": {
+        "wp-includes/general-template.php:1544": [
+            "wp-includes/general-template.php",
+            1544
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

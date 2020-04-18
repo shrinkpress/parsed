@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_oembed_create_xml",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 748,
+    "startLine": 758,
+    "endLine": 781,
+    "calls": {
+        "wp-includes/embed.php:731": [
+            "wp-includes/embed.php",
+            731
+        ],
+        "wp-includes/embed.php:774": [
+            "wp-includes/embed.php",
+            774
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

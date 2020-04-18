@@ -1,0 +1,63 @@
+{
+    "callbacks": [],
+    "functionName": "rest_validate_value_from_schema",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 1203,
+    "startLine": 1213,
+    "endLine": 1381,
+    "calls": {
+        "wp-includes/class-wp-block-type.php:153": [
+            "wp-includes/class-wp-block-type.php",
+            153
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:131": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php",
+            131
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:192": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php",
+            192
+        ],
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:151": [
+            "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
+            151
+        ],
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:179": [
+            "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
+            179
+        ],
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:508": [
+            "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
+            508
+        ],
+        "wp-includes/rest-api.php:1037": [
+            "wp-includes/rest-api.php",
+            1037
+        ],
+        "wp-includes/rest-api.php:1219": [
+            "wp-includes/rest-api.php",
+            1219
+        ],
+        "wp-includes/rest-api.php:1237": [
+            "wp-includes/rest-api.php",
+            1237
+        ],
+        "wp-includes/rest-api.php:1260": [
+            "wp-includes/rest-api.php",
+            1260
+        ],
+        "wp-includes/rest-api.php:1271": [
+            "wp-includes/rest-api.php",
+            1271
+        ],
+        "wp-includes/rest-api.php:1401": [
+            "wp-includes/rest-api.php",
+            1401
+        ],
+        "wp-includes/widgets/class-wp-widget-media.php:281": [
+            "wp-includes/widgets/class-wp-widget-media.php",
+            281
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

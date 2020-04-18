@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_register_tinymce_scripts",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 37,
+    "startLine": 44,
+    "endLine": 64,
+    "calls": {
+        "wp-includes/class-wp-editor.php:1433": [
+            "wp-includes/class-wp-editor.php",
+            1433
+        ],
+        "wp-includes/script-loader.php:896": [
+            "wp-includes/script-loader.php",
+            896
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

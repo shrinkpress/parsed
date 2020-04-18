@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_image_tag",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 345,
+    "startLine": 368,
+    "endLine": 406,
+    "calls": {
+        "wp-admin/includes/media.php:135": [
+            "wp-admin/includes/media.php",
+            135
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

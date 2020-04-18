@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_core_checksums",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 109,
+    "startLine": 118,
+    "endLine": 156,
+    "calls": {
+        "wp-admin/includes/class-core-upgrader.php:393": [
+            "wp-admin/includes/class-core-upgrader.php",
+            393
+        ],
+        "wp-admin/includes/class-wp-site-health-auto-updates.php:354": [
+            "wp-admin/includes/class-wp-site-health-auto-updates.php",
+            354
+        ],
+        "wp-admin/includes/class-wp-site-health-auto-updates.php:358": [
+            "wp-admin/includes/class-wp-site-health-auto-updates.php",
+            358
+        ],
+        "wp-admin/includes/update-core.php:1030": [
+            "wp-admin/includes/update-core.php",
+            1030
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

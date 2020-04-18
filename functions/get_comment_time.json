@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_time",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 1006,
+    "startLine": 1017,
+    "endLine": 1039,
+    "calls": {
+        "wp-includes/class-walker-comment.php:300": [
+            "wp-includes/class-walker-comment.php",
+            300
+        ],
+        "wp-includes/class-walker-comment.php:388": [
+            "wp-includes/class-walker-comment.php",
+            388
+        ],
+        "wp-includes/comment-template.php:1049": [
+            "wp-includes/comment-template.php",
+            1049
+        ],
+        "wp-includes/feed-atom-comments.php:103": [
+            "wp-includes/feed-atom-comments.php",
+            103
+        ],
+        "wp-includes/feed-atom-comments.php:104": [
+            "wp-includes/feed-atom-comments.php",
+            104
+        ],
+        "wp-includes/feed-rss2-comments.php:96": [
+            "wp-includes/feed-rss2-comments.php",
+            96
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

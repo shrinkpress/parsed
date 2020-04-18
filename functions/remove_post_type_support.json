@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "remove_post_type_support",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 1855,
+    "startLine": 1865,
+    "endLine": 1869,
+    "calls": {
+        "wp-admin/edit-form-advanced.php:81": [
+            "wp-admin/edit-form-advanced.php",
+            81
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

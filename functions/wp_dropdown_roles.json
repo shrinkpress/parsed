@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "wp_dropdown_roles",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 914,
+    "startLine": 921,
+    "endLine": 937,
+    "calls": {
+        "wp-admin/includes/class-wp-users-list-table.php:297": [
+            "wp-admin/includes/class-wp-users-list-table.php",
+            297
+        ],
+        "wp-admin/network/site-users.php:313": [
+            "wp-admin/network/site-users.php",
+            313
+        ],
+        "wp-admin/network/site-users.php:351": [
+            "wp-admin/network/site-users.php",
+            351
+        ],
+        "wp-admin/options-general.php:151": [
+            "wp-admin/options-general.php",
+            151
+        ],
+        "wp-admin/user-edit.php:419": [
+            "wp-admin/user-edit.php",
+            419
+        ],
+        "wp-admin/user-new.php:418": [
+            "wp-admin/user-new.php",
+            418
+        ],
+        "wp-admin/user-new.php:558": [
+            "wp-admin/user-new.php",
+            558
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

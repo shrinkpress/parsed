@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_add_trashed_suffix_to_post_name_for_trashed_posts",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 7031,
+    "startLine": 7045,
+    "endLine": 7061,
+    "calls": {
+        "wp-includes/post.php:3836": [
+            "wp-includes/post.php",
+            3836
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

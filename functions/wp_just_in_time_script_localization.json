@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:502": [
+            "wp-includes/default-filters.php",
+            502,
+            "wp_print_scripts",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_just_in_time_script_localization",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 2256,
+    "startLine": 2263,
+    "endLine": 2295,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

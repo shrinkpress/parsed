@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_ajax_upload_attachment",
+    "filename": "wp-admin/includes/ajax-actions.php",
+    "docCommentLine": 2470,
+    "startLine": 2475,
+    "endLine": 2581,
+    "calls": {
+        "wp-admin/async-upload.php:33": [
+            "wp-admin/async-upload.php",
+            33
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

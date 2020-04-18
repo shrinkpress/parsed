@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:246": [
+            "wp-includes/default-filters.php",
+            246,
+            "pre_kses",
+            "add_filter"
+        ],
+        "wp-includes/formatting.php:4923": [
+            "wp-includes/formatting.php",
+            4923,
+            "pre_kses",
+            "remove_filter"
+        ],
+        "wp-includes/formatting.php:4925": [
+            "wp-includes/formatting.php",
+            4925,
+            "pre_kses",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_pre_kses_block_attributes",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 4905,
+    "startLine": 4918,
+    "endLine": 4928,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

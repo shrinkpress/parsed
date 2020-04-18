@@ -1,0 +1,26 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:321": [
+            "wp-includes/default-filters.php",
+            321,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"action\",\"attributes\":{\"startLine\":321,\"endLine\":321}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":321,\"endLine\":321}}",
+            "add_action"
+        ]
+    },
+    "functionName": "the_generator",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 4533,
+    "startLine": 4543,
+    "endLine": 4554,
+    "calls": {
+        "wp-admin/includes/export.php:458": [
+            "wp-admin/includes/export.php",
+            458
+        ],
+        "wp-includes/general-template.php:4530": [
+            "wp-includes/general-template.php",
+            4530
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

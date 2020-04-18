@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_objects_in_term",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 686,
+    "startLine": 711,
+    "endLine": 752,
+    "calls": {
+        "wp-includes/nav-menu.php:270": [
+            "wp-includes/nav-menu.php",
+            270
+        ],
+        "wp-includes/nav-menu.php:681": [
+            "wp-includes/nav-menu.php",
+            681
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

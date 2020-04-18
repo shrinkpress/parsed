@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "esc_html__",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 274,
+    "startLine": 287,
+    "endLine": 289,
+    "calls": {
+        "wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:125": [
+            "wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php",
+            125
+        ],
+        "wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:132": [
+            "wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php",
+            132
+        ],
+        "wp-admin/includes/privacy-tools.php:363": [
+            "wp-admin/includes/privacy-tools.php",
+            363
+        ],
+        "wp-admin/nav-menus.php:693": [
+            "wp-admin/nav-menus.php",
+            693
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

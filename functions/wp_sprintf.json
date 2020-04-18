@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_sprintf",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 4930,
+    "startLine": 4943,
+    "endLine": 5004,
+    "calls": {
+        "wp-admin/includes/credits.php:130": [
+            "wp-admin/includes/credits.php",
+            130
+        ],
+        "wp-admin/includes/credits.php:134": [
+            "wp-admin/includes/credits.php",
+            134
+        ],
+        "wp-includes/taxonomy.php:4370": [
+            "wp-includes/taxonomy.php",
+            4370
+        ],
+        "wp-includes/taxonomy.php:4373": [
+            "wp-includes/taxonomy.php",
+            4373
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

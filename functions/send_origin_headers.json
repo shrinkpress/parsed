@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "send_origin_headers",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 477,
+    "startLine": 490,
+    "endLine": 508,
+    "calls": {
+        "wp-admin/admin-ajax.php:25": [
+            "wp-admin/admin-ajax.php",
+            25
+        ],
+        "wp-admin/admin-post.php:23": [
+            "wp-admin/admin-post.php",
+            23
+        ],
+        "wp-includes/class-wp-customize-manager.php:556": [
+            "wp-includes/class-wp-customize-manager.php",
+            556
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

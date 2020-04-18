@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_nav_menu_object",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 303,
+    "startLine": 314,
+    "endLine": 403,
+    "calls": {
+        "wp-admin/nav-menus.php:316": [
+            "wp-admin/nav-menus.php",
+            316
+        ],
+        "wp-admin/nav-menus.php:367": [
+            "wp-admin/nav-menus.php",
+            367
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-setting.php:515": [
+            "wp-includes/customize/class-wp-customize-nav-menu-setting.php",
+            515
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-setting.php:522": [
+            "wp-includes/customize/class-wp-customize-nav-menu-setting.php",
+            522
+        ],
+        "wp-includes/nav-menu.php:253": [
+            "wp-includes/nav-menu.php",
+            253
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

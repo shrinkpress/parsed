@@ -1,0 +1,55 @@
+{
+    "callbacks": [],
+    "functionName": "user_can",
+    "filename": "wp-includes/capabilities.php",
+    "docCommentLine": 741,
+    "startLine": 763,
+    "endLine": 773,
+    "calls": {
+        "wp-admin/user-edit.php:272": [
+            "wp-admin/user-edit.php",
+            272
+        ],
+        "wp-admin/user-edit.php:275": [
+            "wp-admin/user-edit.php",
+            275
+        ],
+        "wp-admin/user-edit.php:278": [
+            "wp-admin/user-edit.php",
+            278
+        ],
+        "wp-includes/capabilities.php:62": [
+            "wp-includes/capabilities.php",
+            62
+        ],
+        "wp-includes/functions.php:3116": [
+            "wp-includes/functions.php",
+            3116
+        ],
+        "wp-includes/link-template.php:3685": [
+            "wp-includes/link-template.php",
+            3685
+        ],
+        "wp-includes/link-template.php:3691": [
+            "wp-includes/link-template.php",
+            3691
+        ],
+        "wp-includes/ms-site.php:772": [
+            "wp-includes/ms-site.php",
+            772
+        ],
+        "wp-includes/pluggable.php:1534": [
+            "wp-includes/pluggable.php",
+            1534
+        ],
+        "wp-includes/pluggable.php:1604": [
+            "wp-includes/pluggable.php",
+            1604
+        ],
+        "wp-includes/pluggable.php:1717": [
+            "wp-includes/pluggable.php",
+            1717
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

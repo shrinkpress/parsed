@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_custom_keys",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 2207,
+    "startLine": 2217,
+    "endLine": 2228,
+    "calls": {
+        "wp-includes/class-wp-embed.php:352": [
+            "wp-includes/class-wp-embed.php",
+            352
+        ],
+        "wp-includes/post-template.php:1087": [
+            "wp-includes/post-template.php",
+            1087
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

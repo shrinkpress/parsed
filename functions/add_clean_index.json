@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "add_clean_index",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 2349,
+    "startLine": 2360,
+    "endLine": 2365,
+    "calls": {
+        "wp-admin/includes/upgrade.php:905": [
+            "wp-admin/includes/upgrade.php",
+            905
+        ],
+        "wp-admin/includes/upgrade.php:906": [
+            "wp-admin/includes/upgrade.php",
+            906
+        ],
+        "wp-admin/includes/upgrade.php:907": [
+            "wp-admin/includes/upgrade.php",
+            907
+        ],
+        "wp-admin/includes/upgrade.php:908": [
+            "wp-admin/includes/upgrade.php",
+            908
+        ],
+        "wp-admin/includes/upgrade.php:909": [
+            "wp-admin/includes/upgrade.php",
+            909
+        ],
+        "wp-admin/includes/upgrade.php:910": [
+            "wp-admin/includes/upgrade.php",
+            910
+        ],
+        "wp-admin/includes/upgrade.php:911": [
+            "wp-admin/includes/upgrade.php",
+            911
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

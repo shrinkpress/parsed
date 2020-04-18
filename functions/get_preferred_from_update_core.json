@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_preferred_from_update_core",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 9,
+    "startLine": 14,
+    "endLine": 23,
+    "calls": {
+        "wp-admin/includes/class-wp-automatic-updater.php:628": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            628
+        ],
+        "wp-admin/includes/update.php:216": [
+            "wp-admin/includes/update.php",
+            216
+        ],
+        "wp-admin/includes/update.php:272": [
+            "wp-admin/includes/update.php",
+            272
+        ],
+        "wp-admin/includes/update.php:314": [
+            "wp-admin/includes/update.php",
+            314
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

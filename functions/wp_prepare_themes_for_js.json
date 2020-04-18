@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_prepare_themes_for_js",
+    "filename": "wp-admin/includes/theme.php",
+    "docCommentLine": 579,
+    "startLine": 589,
+    "endLine": 694,
+    "calls": {
+        "wp-admin/themes.php:153": [
+            "wp-admin/themes.php",
+            153
+        ],
+        "wp-admin/themes.php:155": [
+            "wp-admin/themes.php",
+            155
+        ],
+        "wp-includes/class-wp-customize-manager.php:5754": [
+            "wp-includes/class-wp-customize-manager.php",
+            5754
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

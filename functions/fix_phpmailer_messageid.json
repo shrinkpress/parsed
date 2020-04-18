@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:102": [
+            "wp-includes/ms-default-filters.php",
+            102,
+            "phpmailer_init",
+            "add_action"
+        ]
+    },
+    "functionName": "fix_phpmailer_messageid",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2166,
+    "startLine": 2173,
+    "endLine": 2175,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

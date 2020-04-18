@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_favicon_request",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 157,
+    "startLine": 164,
+    "endLine": 169,
+    "calls": {
+        "wp-settings.php:67": [
+            "wp-settings.php",
+            67
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

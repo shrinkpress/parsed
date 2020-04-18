@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "sanitize_title_for_query",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 2184,
+    "startLine": 2194,
+    "endLine": 2196,
+    "calls": {
+        "wp-includes/class-wp-query.php:2004": [
+            "wp-includes/class-wp-query.php",
+            2004
+        ],
+        "wp-includes/class-wp-query.php:2035": [
+            "wp-includes/class-wp-query.php",
+            2035
+        ],
+        "wp-includes/class-wp-query.php:2048": [
+            "wp-includes/class-wp-query.php",
+            2048
+        ],
+        "wp-includes/class-wp-query.php:2231": [
+            "wp-includes/class-wp-query.php",
+            2231
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

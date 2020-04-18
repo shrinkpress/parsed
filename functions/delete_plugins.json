@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "delete_plugins",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 867,
+    "startLine": 879,
+    "endLine": 1023,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:4541": [
+            "wp-admin/includes/ajax-actions.php",
+            4541
+        ],
+        "wp-admin/plugins.php:380": [
+            "wp-admin/plugins.php",
+            380
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_archives",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 1771,
+    "startLine": 1811,
+    "endLine": 2027,
+    "calls": {
+        "wp-includes/blocks/archives.php:49": [
+            "wp-includes/blocks/archives.php",
+            49
+        ],
+        "wp-includes/blocks/archives.php:95": [
+            "wp-includes/blocks/archives.php",
+            95
+        ],
+        "wp-includes/deprecated.php:770": [
+            "wp-includes/deprecated.php",
+            770
+        ],
+        "wp-includes/theme-compat/sidebar.php:121": [
+            "wp-includes/theme-compat/sidebar.php",
+            121
+        ],
+        "wp-includes/widgets/class-wp-widget-archives.php:106": [
+            "wp-includes/widgets/class-wp-widget-archives.php",
+            106
+        ],
+        "wp-includes/widgets/class-wp-widget-archives.php:138": [
+            "wp-includes/widgets/class-wp-widget-archives.php",
+            138
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

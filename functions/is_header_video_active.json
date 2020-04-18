@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "is_header_video_active",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 1522,
+    "startLine": 1529,
+    "endLine": 1552,
+    "calls": {
+        "wp-includes/theme.php:1515": [
+            "wp-includes/theme.php",
+            1515
+        ],
+        "wp-includes/theme.php:1589": [
+            "wp-includes/theme.php",
+            1589
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

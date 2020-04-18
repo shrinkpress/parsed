@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:77": [
+            "wp-includes/ms-default-filters.php",
+            77,
+            "term_id_filter",
+            "add_filter"
+        ]
+    },
+    "functionName": "global_terms",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1877,
+    "startLine": 1891,
+    "endLine": 1967,
+    "calls": {
+        "wp-includes/ms-functions.php:1944": [
+            "wp-includes/ms-functions.php",
+            1944
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

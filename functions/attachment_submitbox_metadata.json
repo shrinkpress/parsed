@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:17": [
+            "wp-admin/includes/admin-filters.php",
+            17,
+            "attachment_submitbox_misc_actions",
+            "add_action"
+        ]
+    },
+    "functionName": "attachment_submitbox_metadata",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 3225,
+    "startLine": 3230,
+    "endLine": 3383,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

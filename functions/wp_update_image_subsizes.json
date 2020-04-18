@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_image_subsizes",
+    "filename": "wp-admin/includes/image.php",
+    "docCommentLine": 139,
+    "startLine": 149,
+    "endLine": 179,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2452": [
+            "wp-admin/includes/ajax-actions.php",
+            2452
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:328": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
+            328
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

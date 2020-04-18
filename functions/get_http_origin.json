@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_http_origin",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 386,
+    "startLine": 393,
+    "endLine": 407,
+    "calls": {
+        "wp-includes/http.php:459": [
+            "wp-includes/http.php",
+            459
+        ],
+        "wp-includes/http.php:491": [
+            "wp-includes/http.php",
+            491
+        ],
+        "wp-includes/rest-api.php:581": [
+            "wp-includes/rest-api.php",
+            581
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

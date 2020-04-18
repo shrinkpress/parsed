@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_kses_split",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 928,
+    "startLine": 943,
+    "endLine": 948,
+    "calls": {
+        "wp-includes/kses.php:738": [
+            "wp-includes/kses.php",
+            738
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

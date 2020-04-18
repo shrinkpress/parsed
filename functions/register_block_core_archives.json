@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/blocks/archives.php:143": [
+            "wp-includes/blocks/archives.php",
+            143,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "register_block_core_archives",
+    "filename": "wp-includes/blocks/archives.php",
+    "docCommentLine": 115,
+    "startLine": 118,
+    "endLine": 142,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

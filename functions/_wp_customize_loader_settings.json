@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:460": [
+            "wp-includes/default-filters.php",
+            460,
+            "admin_enqueue_scripts",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_customize_loader_settings",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 3159,
+    "startLine": 3164,
+    "endLine": 3193,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

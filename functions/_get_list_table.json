@@ -1,0 +1,151 @@
+{
+    "callbacks": [],
+    "functionName": "_get_list_table",
+    "filename": "wp-admin/includes/list-table.php",
+    "docCommentLine": 10,
+    "startLine": 22,
+    "endLine": 64,
+    "calls": {
+        "wp-admin/edit-comments.php:19": [
+            "wp-admin/edit-comments.php",
+            19
+        ],
+        "wp-admin/edit-tags.php:41": [
+            "wp-admin/edit-tags.php",
+            41
+        ],
+        "wp-admin/edit.php:47": [
+            "wp-admin/edit.php",
+            47
+        ],
+        "wp-admin/erase-personal-data.php:37": [
+            "wp-admin/erase-personal-data.php",
+            37
+        ],
+        "wp-admin/export-personal-data.php:37": [
+            "wp-admin/export-personal-data.php",
+            37
+        ],
+        "wp-admin/includes/ajax-actions.php:88": [
+            "wp-admin/includes/ajax-actions.php",
+            88
+        ],
+        "wp-admin/includes/ajax-actions.php:1087": [
+            "wp-admin/includes/ajax-actions.php",
+            1087
+        ],
+        "wp-admin/includes/ajax-actions.php:1210": [
+            "wp-admin/includes/ajax-actions.php",
+            1210
+        ],
+        "wp-admin/includes/ajax-actions.php:1349": [
+            "wp-admin/includes/ajax-actions.php",
+            1349
+        ],
+        "wp-admin/includes/ajax-actions.php:1351": [
+            "wp-admin/includes/ajax-actions.php",
+            1351
+        ],
+        "wp-admin/includes/ajax-actions.php:1414": [
+            "wp-admin/includes/ajax-actions.php",
+            1414
+        ],
+        "wp-admin/includes/ajax-actions.php:1683": [
+            "wp-admin/includes/ajax-actions.php",
+            1683
+        ],
+        "wp-admin/includes/ajax-actions.php:2064": [
+            "wp-admin/includes/ajax-actions.php",
+            2064
+        ],
+        "wp-admin/includes/ajax-actions.php:2110": [
+            "wp-admin/includes/ajax-actions.php",
+            2110
+        ],
+        "wp-admin/includes/ajax-actions.php:4570": [
+            "wp-admin/includes/ajax-actions.php",
+            4570
+        ],
+        "wp-admin/includes/ajax-actions.php:4622": [
+            "wp-admin/includes/ajax-actions.php",
+            4622
+        ],
+        "wp-admin/includes/dashboard.php:1022": [
+            "wp-admin/includes/dashboard.php",
+            1022
+        ],
+        "wp-admin/includes/meta-boxes.php:834": [
+            "wp-admin/includes/meta-boxes.php",
+            834
+        ],
+        "wp-admin/includes/template.php:434": [
+            "wp-admin/includes/template.php",
+            434
+        ],
+        "wp-admin/includes/template.php:436": [
+            "wp-admin/includes/template.php",
+            436
+        ],
+        "wp-admin/includes/theme-install.php:205": [
+            "wp-admin/includes/theme-install.php",
+            205
+        ],
+        "wp-admin/includes/theme-install.php:222": [
+            "wp-admin/includes/theme-install.php",
+            222
+        ],
+        "wp-admin/includes/theme-install.php:247": [
+            "wp-admin/includes/theme-install.php",
+            247
+        ],
+        "wp-admin/includes/update.php:412": [
+            "wp-admin/includes/update.php",
+            412
+        ],
+        "wp-admin/includes/update.php:605": [
+            "wp-admin/includes/update.php",
+            605
+        ],
+        "wp-admin/link-manager.php:15": [
+            "wp-admin/link-manager.php",
+            15
+        ],
+        "wp-admin/network/site-themes.php:28": [
+            "wp-admin/network/site-themes.php",
+            28
+        ],
+        "wp-admin/network/site-users.php:17": [
+            "wp-admin/network/site-users.php",
+            17
+        ],
+        "wp-admin/network/sites.php:17": [
+            "wp-admin/network/sites.php",
+            17
+        ],
+        "wp-admin/network/themes.php:17": [
+            "wp-admin/network/themes.php",
+            17
+        ],
+        "wp-admin/network/users.php:198": [
+            "wp-admin/network/users.php",
+            198
+        ],
+        "wp-admin/plugin-install.php:27": [
+            "wp-admin/plugin-install.php",
+            27
+        ],
+        "wp-admin/plugins.php:16": [
+            "wp-admin/plugins.php",
+            16
+        ],
+        "wp-admin/upload.php:114": [
+            "wp-admin/upload.php",
+            114
+        ],
+        "wp-admin/users.php:21": [
+            "wp-admin/users.php",
+            21
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_auth",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 353,
+    "startLine": 361,
+    "endLine": 364,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:966": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            966
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

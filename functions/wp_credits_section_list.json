@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "wp_credits_section_list",
+    "filename": "wp-admin/includes/credits.php",
+    "docCommentLine": 108,
+    "startLine": 116,
+    "endLine": 157,
+    "calls": {
+        "wp-admin/credits.php:95": [
+            "wp-admin/credits.php",
+            95
+        ],
+        "wp-admin/credits.php:96": [
+            "wp-admin/credits.php",
+            96
+        ],
+        "wp-admin/credits.php:105": [
+            "wp-admin/credits.php",
+            105
+        ],
+        "wp-admin/credits.php:115": [
+            "wp-admin/credits.php",
+            115
+        ],
+        "wp-admin/credits.php:116": [
+            "wp-admin/credits.php",
+            116
+        ],
+        "wp-admin/credits.php:126": [
+            "wp-admin/credits.php",
+            126
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

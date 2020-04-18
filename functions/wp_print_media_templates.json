@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-includes/media.php:3972": [
+            "wp-includes/media.php",
+            3972,
+            "admin_footer",
+            "add_action"
+        ],
+        "wp-includes/media.php:3973": [
+            "wp-includes/media.php",
+            3973,
+            "wp_footer",
+            "add_action"
+        ],
+        "wp-includes/media.php:3974": [
+            "wp-includes/media.php",
+            3974,
+            "customize_controls_print_footer_scripts",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_print_media_templates",
+    "filename": "wp-includes/media-template.php",
+    "docCommentLine": 151,
+    "startLine": 158,
+    "endLine": 1456,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

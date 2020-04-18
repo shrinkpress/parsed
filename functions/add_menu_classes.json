@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "add_menu_classes",
+    "filename": "wp-admin/includes/menu.php",
+    "docCommentLine": 199,
+    "startLine": 203,
+    "endLine": 246,
+    "calls": {
+        "wp-admin/includes/menu.php:353": [
+            "wp-admin/includes/menu.php",
+            353
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

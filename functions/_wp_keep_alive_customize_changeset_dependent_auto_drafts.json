@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:462": [
+            "wp-includes/default-filters.php",
+            462,
+            "transition_post_status",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_keep_alive_customize_changeset_dependent_auto_drafts",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 3274,
+    "startLine": 3302,
+    "endLine": 3364,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

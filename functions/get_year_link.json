@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_year_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 463,
+    "startLine": 473,
+    "endLine": 495,
+    "calls": {
+        "wp-includes/canonical.php:147": [
+            "wp-includes/canonical.php",
+            147
+        ],
+        "wp-includes/canonical.php:203": [
+            "wp-includes/canonical.php",
+            203
+        ],
+        "wp-includes/canonical.php:227": [
+            "wp-includes/canonical.php",
+            227
+        ],
+        "wp-includes/general-template.php:1920": [
+            "wp-includes/general-template.php",
+            1920
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

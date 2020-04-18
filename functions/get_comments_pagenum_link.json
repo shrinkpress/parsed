@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_comments_pagenum_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 2806,
+    "startLine": 2817,
+    "endLine": 2850,
+    "calls": {
+        "wp-includes/link-template.php:2901": [
+            "wp-includes/link-template.php",
+            2901
+        ],
+        "wp-includes/link-template.php:2948": [
+            "wp-includes/link-template.php",
+            2948
+        ],
+        "wp-includes/link-template.php:3789": [
+            "wp-includes/link-template.php",
+            3789
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

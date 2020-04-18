@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "next_comments_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 2904,
+    "startLine": 2912,
+    "endLine": 2914,
+    "calls": {
+        "wp-includes/theme-compat/comments.php:54": [
+            "wp-includes/theme-compat/comments.php",
+            54
+        ],
+        "wp-includes/theme-compat/comments.php:63": [
+            "wp-includes/theme-compat/comments.php",
+            63
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_comment_fields_max_lengths",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 1159,
+    "startLine": 1168,
+    "endLine": 1212,
+    "calls": {
+        "wp-includes/comment.php:1224": [
+            "wp-includes/comment.php",
+            1224
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

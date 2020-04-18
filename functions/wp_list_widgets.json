@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_list_widgets",
+    "filename": "wp-admin/includes/widgets.php",
+    "docCommentLine": 9,
+    "startLine": 17,
+    "endLine": 62,
+    "calls": {
+        "wp-admin/widgets.php:448": [
+            "wp-admin/widgets.php",
+            448
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

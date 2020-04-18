@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_missing_image_subsizes",
+    "filename": "wp-admin/includes/image.php",
+    "docCommentLine": 69,
+    "startLine": 80,
+    "endLine": 137,
+    "calls": {
+        "wp-admin/includes/image.php:162": [
+            "wp-admin/includes/image.php",
+            162
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:478": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
+            478
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

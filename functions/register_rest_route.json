@@ -1,0 +1,115 @@
+{
+    "callbacks": [],
+    "functionName": "register_rest_route",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 17,
+    "startLine": 33,
+    "endLine": 89,
+    "calls": {
+        "wp-includes/class-wp-oembed-controller.php:34": [
+            "wp-includes/class-wp-oembed-controller.php",
+            34
+        ],
+        "wp-includes/class-wp-oembed-controller.php:59": [
+            "wp-includes/class-wp-oembed-controller.php",
+            59
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:21": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
+            21
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:83": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
+            83
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:109": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
+            109
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:42": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php",
+            42
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:46": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            46
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:66": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            66
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:38": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php",
+            38
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:52": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php",
+            52
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:38": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php",
+            38
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:52": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php",
+            52
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:59": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            59
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:89": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            89
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:72": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php",
+            72
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:92": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php",
+            92
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:89": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php",
+            89
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:38": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php",
+            38
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:38": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php",
+            38
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:52": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php",
+            52
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:76": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php",
+            76
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:96": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php",
+            96
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:37": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php",
+            37
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:48": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            48
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:68": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            68
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:114": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            114
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "add_theme_page",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 1485,
+    "startLine": 1505,
+    "endLine": 1507,
+    "calls": {
+        "wp-admin/includes/class-custom-background.php:65": [
+            "wp-admin/includes/class-custom-background.php",
+            65
+        ],
+        "wp-admin/includes/class-custom-image-header.php:73": [
+            "wp-admin/includes/class-custom-image-header.php",
+            73
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

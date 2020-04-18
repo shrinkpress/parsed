@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "links_add_base_url",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5100,
+    "startLine": 5115,
+    "endLine": 5120,
+    "calls": {
+        "wp-admin/includes/plugin-install.php:833": [
+            "wp-admin/includes/plugin-install.php",
+            833
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

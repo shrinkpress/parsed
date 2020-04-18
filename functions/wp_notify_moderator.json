@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_notify_moderator",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 1680,
+    "startLine": 1693,
+    "endLine": 1851,
+    "calls": {
+        "wp-includes/comment.php:2185": [
+            "wp-includes/comment.php",
+            2185
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

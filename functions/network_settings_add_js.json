@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/network/settings.php:43": [
+            "wp-admin/network/settings.php",
+            43,
+            "admin_head",
+            "add_action"
+        ]
+    },
+    "functionName": "network_settings_add_js",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 988,
+    "startLine": 993,
+    "endLine": 1008,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

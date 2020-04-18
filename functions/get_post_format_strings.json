@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_format_strings",
+    "filename": "wp-includes/post-formats.php",
+    "docCommentLine": 88,
+    "startLine": 95,
+    "endLine": 109,
+    "calls": {
+        "wp-admin/options-writing.php:94": [
+            "wp-admin/options-writing.php",
+            94
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:4397": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            4397
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:5320": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5320
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:5675": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5675
+        ],
+        "wp-includes/post-formats.php:119": [
+            "wp-includes/post-formats.php",
+            119
+        ],
+        "wp-includes/post-formats.php:132": [
+            "wp-includes/post-formats.php",
+            132
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

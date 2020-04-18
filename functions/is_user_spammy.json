@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "is_user_spammy",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2177,
+    "startLine": 2186,
+    "endLine": 2196,
+    "calls": {
+        "wp-includes/user.php:318": [
+            "wp-includes/user.php",
+            318
+        ],
+        "wp-includes/user.php:2287": [
+            "wp-includes/user.php",
+            2287
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

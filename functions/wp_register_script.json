@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_register_script",
+    "filename": "wp-includes/functions.wp-scripts.php",
+    "docCommentLine": 131,
+    "startLine": 154,
+    "endLine": 164,
+    "calls": {
+        "wp-includes/script-loader.php:2942": [
+            "wp-includes/script-loader.php",
+            2942
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

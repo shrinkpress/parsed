@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_untrash_post",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 3171,
+    "startLine": 3179,
+    "endLine": 3240,
+    "calls": {
+        "wp-admin/edit.php:142": [
+            "wp-admin/edit.php",
+            142
+        ],
+        "wp-admin/includes/ajax-actions.php:886": [
+            "wp-admin/includes/ajax-actions.php",
+            886
+        ],
+        "wp-admin/post.php:282": [
+            "wp-admin/post.php",
+            282
+        ],
+        "wp-admin/upload.php:179": [
+            "wp-admin/upload.php",
+            179
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

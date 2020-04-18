@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:42": [
+            "wp-includes/ms-default-filters.php",
+            42,
+            "wp_normalize_site_data",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_normalize_site_data",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 524,
+    "startLine": 533,
+    "endLine": 574,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

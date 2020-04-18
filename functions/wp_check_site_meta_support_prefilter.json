@@ -1,0 +1,71 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:60": [
+            "wp-includes/ms-default-filters.php",
+            60,
+            "get_blog_metadata",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:61": [
+            "wp-includes/ms-default-filters.php",
+            61,
+            "add_blog_metadata",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:62": [
+            "wp-includes/ms-default-filters.php",
+            62,
+            "update_blog_metadata",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:63": [
+            "wp-includes/ms-default-filters.php",
+            63,
+            "delete_blog_metadata",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:64": [
+            "wp-includes/ms-default-filters.php",
+            64,
+            "get_blog_metadata_by_mid",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:65": [
+            "wp-includes/ms-default-filters.php",
+            65,
+            "update_blog_metadata_by_mid",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:66": [
+            "wp-includes/ms-default-filters.php",
+            66,
+            "delete_blog_metadata_by_mid",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:67": [
+            "wp-includes/ms-default-filters.php",
+            67,
+            "update_blog_metadata_cache",
+            "add_filter"
+        ],
+        "wp-includes/ms-site.php:392": [
+            "wp-includes/ms-site.php",
+            392,
+            "update_blog_metadata_cache",
+            "has_filter"
+        ],
+        "wp-includes/ms-site.php:393": [
+            "wp-includes/ms-site.php",
+            393,
+            "update_blog_metadata_cache",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_check_site_meta_support_prefilter",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 1310,
+    "startLine": 1320,
+    "endLine": 1328,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_can_use_pcre_u",
+    "filename": "wp-includes/compat.php",
+    "docCommentLine": 16,
+    "startLine": 30,
+    "endLine": 43,
+    "calls": {
+        "wp-includes/compat.php:96": [
+            "wp-includes/compat.php",
+            96
+        ],
+        "wp-includes/compat.php:180": [
+            "wp-includes/compat.php",
+            180
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

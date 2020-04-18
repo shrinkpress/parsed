@@ -1,0 +1,87 @@
+{
+    "callbacks": [],
+    "functionName": "translate",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 160,
+    "startLine": 174,
+    "endLine": 188,
+    "calls": {
+        "wp-admin/includes/credits.php:98": [
+            "wp-admin/includes/credits.php",
+            98
+        ],
+        "wp-admin/includes/credits.php:101": [
+            "wp-admin/includes/credits.php",
+            101
+        ],
+        "wp-admin/includes/credits.php:150": [
+            "wp-admin/includes/credits.php",
+            150
+        ],
+        "wp-admin/includes/import.php:171": [
+            "wp-admin/includes/import.php",
+            171
+        ],
+        "wp-admin/includes/import.php:174": [
+            "wp-admin/includes/import.php",
+            174
+        ],
+        "wp-admin/includes/plugin.php:165": [
+            "wp-admin/includes/plugin.php",
+            165
+        ],
+        "wp-includes/class-wp-theme.php:925": [
+            "wp-includes/class-wp-theme.php",
+            925
+        ],
+        "wp-includes/class-wp-theme.php:977": [
+            "wp-includes/class-wp-theme.php",
+            977
+        ],
+        "wp-includes/deprecated.php:1753": [
+            "wp-includes/deprecated.php",
+            1753
+        ],
+        "wp-includes/deprecated.php:1770": [
+            "wp-includes/deprecated.php",
+            1770
+        ],
+        "wp-includes/functions.php:5547": [
+            "wp-includes/functions.php",
+            5547
+        ],
+        "wp-includes/functions.php:5548": [
+            "wp-includes/functions.php",
+            5548
+        ],
+        "wp-includes/functions.php:5549": [
+            "wp-includes/functions.php",
+            5549
+        ],
+        "wp-includes/l10n.php:255": [
+            "wp-includes/l10n.php",
+            255
+        ],
+        "wp-includes/l10n.php:271": [
+            "wp-includes/l10n.php",
+            271
+        ],
+        "wp-includes/l10n.php:288": [
+            "wp-includes/l10n.php",
+            288
+        ],
+        "wp-includes/l10n.php:301": [
+            "wp-includes/l10n.php",
+            301
+        ],
+        "wp-includes/l10n.php:314": [
+            "wp-includes/l10n.php",
+            314
+        ],
+        "wp-includes/l10n.php:327": [
+            "wp-includes/l10n.php",
+            327
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

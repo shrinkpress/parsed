@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_weekstartend",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 527,
+    "startLine": 536,
+    "endLine": 566,
+    "calls": {
+        "wp-includes/general-template.php:1974": [
+            "wp-includes/general-template.php",
+            1974
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

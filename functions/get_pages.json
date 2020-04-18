@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_pages",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 5153,
+    "startLine": 5195,
+    "endLine": 5469,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:758": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            758
+        ],
+        "wp-admin/options-reading.php:70": [
+            "wp-admin/options-reading.php",
+            70
+        ],
+        "wp-includes/class-wp-customize-manager.php:5696": [
+            "wp-includes/class-wp-customize-manager.php",
+            5696
+        ],
+        "wp-includes/post-template.php:694": [
+            "wp-includes/post-template.php",
+            694
+        ],
+        "wp-includes/post-template.php:1175": [
+            "wp-includes/post-template.php",
+            1175
+        ],
+        "wp-includes/post-template.php:1302": [
+            "wp-includes/post-template.php",
+            1302
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

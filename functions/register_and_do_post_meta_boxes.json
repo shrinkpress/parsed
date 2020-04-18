@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "register_and_do_post_meta_boxes",
+    "filename": "wp-admin/includes/meta-boxes.php",
+    "docCommentLine": 1390,
+    "startLine": 1397,
+    "endLine": 1580,
+    "calls": {
+        "wp-admin/edit-form-advanced.php:269": [
+            "wp-admin/edit-form-advanced.php",
+            269
+        ],
+        "wp-admin/edit-form-blocks.php:365": [
+            "wp-admin/edit-form-blocks.php",
+            365
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

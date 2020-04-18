@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_privacy_account_request_confirmed_message",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 3333,
+    "startLine": 3342,
+    "endLine": 3369,
+    "calls": {
+        "wp-login.php:1143": [
+            "wp-login.php",
+            1143
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

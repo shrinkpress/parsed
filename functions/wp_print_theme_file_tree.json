@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_print_theme_file_tree",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 349,
+    "startLine": 364,
+    "endLine": 418,
+    "calls": {
+        "wp-admin/includes/misc.php:373": [
+            "wp-admin/includes/misc.php",
+            373
+        ],
+        "wp-admin/includes/misc.php:382": [
+            "wp-admin/includes/misc.php",
+            382
+        ],
+        "wp-admin/theme-editor.php:268": [
+            "wp-admin/theme-editor.php",
+            268
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

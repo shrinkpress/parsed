@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "unstick_post",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 2527,
+    "startLine": 2536,
+    "endLine": 2566,
+    "calls": {
+        "wp-admin/includes/post.php:430": [
+            "wp-admin/includes/post.php",
+            430
+        ],
+        "wp-admin/includes/post.php:629": [
+            "wp-admin/includes/post.php",
+            629
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:1334": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1334
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:1345": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1345
+        ],
+        "wp-includes/post.php:3090": [
+            "wp-includes/post.php",
+            3090
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:571": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            571
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:718": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            718
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

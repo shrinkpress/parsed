@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:81": [
+            "wp-includes/ms-default-filters.php",
+            81,
+            "transition_post_status",
+            "add_action"
+        ]
+    },
+    "functionName": "_update_posts_count_on_transition_post_status",
+    "filename": "wp-includes/ms-blogs.php",
+    "docCommentLine": 831,
+    "startLine": 841,
+    "endLine": 855,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

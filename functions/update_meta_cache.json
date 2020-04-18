@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "update_meta_cache",
+    "filename": "wp-includes/meta.php",
+    "docCommentLine": 873,
+    "startLine": 884,
+    "endLine": 970,
+    "calls": {
+        "wp-includes/class-wp-metadata-lazyloader.php:162": [
+            "wp-includes/class-wp-metadata-lazyloader.php",
+            162
+        ],
+        "wp-includes/comment.php:3054": [
+            "wp-includes/comment.php",
+            3054
+        ],
+        "wp-includes/deprecated.php:2608": [
+            "wp-includes/deprecated.php",
+            2608
+        ],
+        "wp-includes/meta.php:525": [
+            "wp-includes/meta.php",
+            525
+        ],
+        "wp-includes/meta.php:581": [
+            "wp-includes/meta.php",
+            581
+        ],
+        "wp-includes/ms-site.php:395": [
+            "wp-includes/ms-site.php",
+            395
+        ],
+        "wp-includes/pluggable.php:140": [
+            "wp-includes/pluggable.php",
+            140
+        ],
+        "wp-includes/post.php:6663": [
+            "wp-includes/post.php",
+            6663
+        ],
+        "wp-includes/taxonomy.php:1290": [
+            "wp-includes/taxonomy.php",
+            1290
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

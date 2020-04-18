@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_split_terms",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 4103,
+    "startLine": 4111,
+    "endLine": 4120,
+    "calls": {
+        "wp-includes/taxonomy.php:4134": [
+            "wp-includes/taxonomy.php",
+            4134
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

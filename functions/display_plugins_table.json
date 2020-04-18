@@ -1,0 +1,52 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:82": [
+            "wp-admin/includes/admin-filters.php",
+            82,
+            "install_plugins_search",
+            "add_action"
+        ],
+        "wp-admin/includes/admin-filters.php:83": [
+            "wp-admin/includes/admin-filters.php",
+            83,
+            "install_plugins_popular",
+            "add_action"
+        ],
+        "wp-admin/includes/admin-filters.php:84": [
+            "wp-admin/includes/admin-filters.php",
+            84,
+            "install_plugins_recommended",
+            "add_action"
+        ],
+        "wp-admin/includes/admin-filters.php:85": [
+            "wp-admin/includes/admin-filters.php",
+            85,
+            "install_plugins_new",
+            "add_action"
+        ],
+        "wp-admin/includes/admin-filters.php:86": [
+            "wp-admin/includes/admin-filters.php",
+            86,
+            "install_plugins_beta",
+            "add_action"
+        ],
+        "wp-admin/includes/admin-filters.php:87": [
+            "wp-admin/includes/admin-filters.php",
+            87,
+            "install_plugins_favorites",
+            "add_action"
+        ]
+    },
+    "functionName": "display_plugins_table",
+    "filename": "wp-admin/includes/plugin-install.php",
+    "docCommentLine": 383,
+    "startLine": 390,
+    "endLine": 416,
+    "calls": {
+        "wp-admin/includes/plugin-install.php:275": [
+            "wp-admin/includes/plugin-install.php",
+            275
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:485": [
+            "wp-includes/default-filters.php",
+            485,
+            "wp_get_object_terms",
+            "add_filter"
+        ]
+    },
+    "functionName": "_post_format_wp_get_object_terms",
+    "filename": "wp-includes/post-formats.php",
+    "docCommentLine": 250,
+    "startLine": 259,
+    "endLine": 266,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

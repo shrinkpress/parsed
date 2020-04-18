@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "can_edit_network",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 804,
+    "startLine": 815,
+    "endLine": 831,
+    "calls": {
+        "wp-admin/includes/class-wp-ms-users-list-table.php:370": [
+            "wp-admin/includes/class-wp-ms-users-list-table.php",
+            370
+        ],
+        "wp-admin/network/site-info.php:31": [
+            "wp-admin/network/site-info.php",
+            31
+        ],
+        "wp-admin/network/site-settings.php:31": [
+            "wp-admin/network/site-settings.php",
+            31
+        ],
+        "wp-admin/network/site-themes.php:56": [
+            "wp-admin/network/site-themes.php",
+            56
+        ],
+        "wp-admin/network/site-users.php:49": [
+            "wp-admin/network/site-users.php",
+            49
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

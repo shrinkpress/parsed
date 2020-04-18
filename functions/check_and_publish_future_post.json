@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:289": [
+            "wp-includes/default-filters.php",
+            289,
+            "publish_future_post",
+            "add_action"
+        ]
+    },
+    "functionName": "check_and_publish_future_post",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 4245,
+    "startLine": 4255,
+    "endLine": 4277,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

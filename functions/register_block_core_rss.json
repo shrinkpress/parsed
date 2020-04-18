@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/blocks/rss.php:160": [
+            "wp-includes/blocks/rss.php",
+            160,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "register_block_core_rss",
+    "filename": "wp-includes/blocks/rss.php",
+    "docCommentLine": 108,
+    "startLine": 111,
+    "endLine": 159,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

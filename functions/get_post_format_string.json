@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_format_string",
+    "filename": "wp-includes/post-formats.php",
+    "docCommentLine": 123,
+    "startLine": 131,
+    "endLine": 138,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:512": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            512
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1839": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1839
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1844": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1844
+        ],
+        "wp-admin/includes/meta-boxes.php:473": [
+            "wp-admin/includes/meta-boxes.php",
+            473
+        ],
+        "wp-admin/includes/meta-boxes.php:475": [
+            "wp-admin/includes/meta-boxes.php",
+            475
+        ],
+        "wp-admin/options-writing.php:101": [
+            "wp-admin/options-writing.php",
+            101
+        ],
+        "wp-includes/post-formats.php:217": [
+            "wp-includes/post-formats.php",
+            217
+        ],
+        "wp-includes/post-formats.php:237": [
+            "wp-includes/post-formats.php",
+            237
+        ],
+        "wp-includes/post-formats.php:242": [
+            "wp-includes/post-formats.php",
+            242
+        ],
+        "wp-includes/post-formats.php:262": [
+            "wp-includes/post-formats.php",
+            262
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

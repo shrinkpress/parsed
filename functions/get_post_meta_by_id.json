@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_meta_by_id",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 966,
+    "startLine": 974,
+    "endLine": 976,
+    "calls": {
+        "wp-admin/includes/post.php:342": [
+            "wp-admin/includes/post.php",
+            342
+        ],
+        "wp-admin/includes/post.php:361": [
+            "wp-admin/includes/post.php",
+            361
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

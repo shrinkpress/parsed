@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:99": [
+            "wp-includes/default-filters.php",
+            99,
+            "register_meta_args",
+            "add_filter"
+        ]
+    },
+    "functionName": "_wp_register_meta_args_whitelist",
+    "filename": "wp-includes/meta.php",
+    "docCommentLine": 1380,
+    "startLine": 1393,
+    "endLine": 1395,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

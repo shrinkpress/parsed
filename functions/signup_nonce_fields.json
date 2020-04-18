@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:70": [
+            "wp-includes/ms-default-filters.php",
+            70,
+            "signup_hidden_fields",
+            "add_action"
+        ]
+    },
+    "functionName": "signup_nonce_fields",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2005,
+    "startLine": 2010,
+    "endLine": 2014,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

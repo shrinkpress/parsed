@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_load_core_site_options",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 245,
+    "startLine": 254,
+    "endLine": 277,
+    "calls": {
+        "wp-includes/ms-settings.php:94": [
+            "wp-includes/ms-settings.php",
+            94
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

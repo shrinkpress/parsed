@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "remove_theme_mod",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 977,
+    "startLine": 987,
+    "endLine": 1002,
+    "calls": {
+        "wp-admin/includes/class-custom-background.php:120": [
+            "wp-admin/includes/class-custom-background.php",
+            120
+        ],
+        "wp-admin/includes/class-custom-background.php:121": [
+            "wp-admin/includes/class-custom-background.php",
+            121
+        ],
+        "wp-admin/includes/class-custom-image-header.php:1102": [
+            "wp-admin/includes/class-custom-image-header.php",
+            1102
+        ],
+        "wp-includes/customize/class-wp-customize-background-image-setting.php:26": [
+            "wp-includes/customize/class-wp-customize-background-image-setting.php",
+            26
+        ],
+        "wp-includes/theme.php:799": [
+            "wp-includes/theme.php",
+            799
+        ],
+        "wp-includes/theme.php:2917": [
+            "wp-includes/theme.php",
+            2917
+        ],
+        "wp-includes/theme.php:2918": [
+            "wp-includes/theme.php",
+            2918
+        ],
+        "wp-includes/theme.php:2922": [
+            "wp-includes/theme.php",
+            2922
+        ],
+        "wp-includes/theme.php:2923": [
+            "wp-includes/theme.php",
+            2923
+        ],
+        "wp-includes/theme.php:2927": [
+            "wp-includes/theme.php",
+            2927
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

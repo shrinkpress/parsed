@@ -1,0 +1,55 @@
+{
+    "callbacks": [],
+    "functionName": "add_thickbox",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 4497,
+    "startLine": 4506,
+    "endLine": 4513,
+    "calls": {
+        "wp-admin/edit-form-advanced.php:94": [
+            "wp-admin/edit-form-advanced.php",
+            94
+        ],
+        "wp-admin/import.php:52": [
+            "wp-admin/import.php",
+            52
+        ],
+        "wp-admin/index.php:26": [
+            "wp-admin/index.php",
+            26
+        ],
+        "wp-admin/network/index.php:63": [
+            "wp-admin/network/index.php",
+            63
+        ],
+        "wp-admin/network/site-themes.php:166": [
+            "wp-admin/network/site-themes.php",
+            166
+        ],
+        "wp-admin/network/themes.php:229": [
+            "wp-admin/network/themes.php",
+            229
+        ],
+        "wp-admin/plugin-install.php:55": [
+            "wp-admin/plugin-install.php",
+            55
+        ],
+        "wp-admin/plugins.php:432": [
+            "wp-admin/plugins.php",
+            432
+        ],
+        "wp-admin/themes.php:181": [
+            "wp-admin/themes.php",
+            181
+        ],
+        "wp-admin/update-core.php:15": [
+            "wp-admin/update-core.php",
+            15
+        ],
+        "wp-includes/class-wp-editor.php:797": [
+            "wp-includes/class-wp-editor.php",
+            797
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

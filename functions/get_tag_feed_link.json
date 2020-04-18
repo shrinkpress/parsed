@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_tag_feed_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 925,
+    "startLine": 935,
+    "endLine": 937,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:3306": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            3306
+        ],
+        "wp-includes/general-template.php:3018": [
+            "wp-includes/general-template.php",
+            3018
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

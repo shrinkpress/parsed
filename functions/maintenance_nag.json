@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:117": [
+            "wp-admin/includes/admin-filters.php",
+            117,
+            "admin_notices",
+            "add_action"
+        ],
+        "wp-admin/includes/ms-admin-filters.php:40": [
+            "wp-admin/includes/ms-admin-filters.php",
+            40,
+            "network_admin_notices",
+            "add_action"
+        ]
+    },
+    "functionName": "maintenance_nag",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 689,
+    "startLine": 693,
+    "endLine": 730,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

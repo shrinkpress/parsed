@@ -1,0 +1,26 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:376": [
+            "wp-includes/default-filters.php",
+            376,
+            "delete_expired_transients",
+            "add_action"
+        ]
+    },
+    "functionName": "delete_expired_transients",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 853,
+    "startLine": 863,
+    "endLine": 912,
+    "calls": {
+        "wp-admin/includes/schema.php:681": [
+            "wp-admin/includes/schema.php",
+            681
+        ],
+        "wp-admin/includes/upgrade.php:2148": [
+            "wp-admin/includes/upgrade.php",
+            2148
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

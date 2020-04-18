@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "register_meta",
+    "filename": "wp-includes/meta.php",
+    "docCommentLine": 1103,
+    "startLine": 1146,
+    "endLine": 1242,
+    "calls": {
+        "wp-includes/post.php:2169": [
+            "wp-includes/post.php",
+            2169
+        ],
+        "wp-includes/taxonomy.php:1329": [
+            "wp-includes/taxonomy.php",
+            1329
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

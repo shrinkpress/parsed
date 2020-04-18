@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_datetime",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 2605,
+    "startLine": 2624,
+    "endLine": 2652,
+    "calls": {
+        "wp-includes/general-template.php:2569": [
+            "wp-includes/general-template.php",
+            2569
+        ],
+        "wp-includes/general-template.php:2668": [
+            "wp-includes/general-template.php",
+            2668
+        ],
+        "wp-includes/general-template.php:2757": [
+            "wp-includes/general-template.php",
+            2757
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

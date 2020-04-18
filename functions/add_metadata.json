@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "add_metadata",
+    "filename": "wp-includes/meta.php",
+    "docCommentLine": 13,
+    "startLine": 30,
+    "endLine": 137,
+    "calls": {
+        "wp-includes/comment.php:457": [
+            "wp-includes/comment.php",
+            457
+        ],
+        "wp-includes/meta.php:219": [
+            "wp-includes/meta.php",
+            219
+        ],
+        "wp-includes/ms-site.php:1049": [
+            "wp-includes/ms-site.php",
+            1049
+        ],
+        "wp-includes/post.php:2068": [
+            "wp-includes/post.php",
+            2068
+        ],
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:309": [
+            "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
+            309
+        ],
+        "wp-includes/taxonomy.php:1222": [
+            "wp-includes/taxonomy.php",
+            1222
+        ],
+        "wp-includes/user.php:793": [
+            "wp-includes/user.php",
+            793
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

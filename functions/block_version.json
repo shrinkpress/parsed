@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "block_version",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 570,
+    "startLine": 580,
+    "endLine": 582,
+    "calls": {
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1556": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1556
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

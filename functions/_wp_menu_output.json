@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_menu_output",
+    "filename": "wp-admin/menu-header.php",
+    "docCommentLine": 52,
+    "startLine": 68,
+    "endLine": 264,
+    "calls": {
+        "wp-admin/menu-header.php:277": [
+            "wp-admin/menu-header.php",
+            277
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

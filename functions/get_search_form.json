@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_search_form",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 171,
+    "startLine": 201,
+    "endLine": 308,
+    "calls": {
+        "wp-includes/theme-compat/sidebar.php:25": [
+            "wp-includes/theme-compat/sidebar.php",
+            25
+        ],
+        "wp-includes/widgets/class-wp-widget-search.php:54": [
+            "wp-includes/widgets/class-wp-widget-search.php",
+            54
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

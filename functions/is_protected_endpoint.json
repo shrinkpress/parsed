@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "is_protected_endpoint",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 814,
+    "startLine": 821,
+    "endLine": 849,
+    "calls": {
+        "wp-includes/class-wp-fatal-error-handler.php:180": [
+            "wp-includes/class-wp-fatal-error-handler.php",
+            180
+        ],
+        "wp-includes/class-wp-recovery-mode.php:176": [
+            "wp-includes/class-wp-recovery-mode.php",
+            176
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

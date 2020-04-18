@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_post_revision_data",
+    "filename": "wp-includes/revision.php",
+    "docCommentLine": 66,
+    "startLine": 77,
+    "endLine": 98,
+    "calls": {
+        "wp-admin/includes/post.php:1810": [
+            "wp-admin/includes/post.php",
+            1810
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:344": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
+            344
+        ],
+        "wp-includes/revision.php:313": [
+            "wp-includes/revision.php",
+            313
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

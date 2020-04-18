@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:373": [
+            "wp-includes/default-filters.php",
+            373,
+            "wp_scheduled_auto_draft_delete",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_delete_auto_drafts",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6929,
+    "startLine": 6936,
+    "endLine": 6945,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

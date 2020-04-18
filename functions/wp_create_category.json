@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_create_category",
+    "filename": "wp-admin/includes/taxonomy.php",
+    "docCommentLine": 46,
+    "startLine": 55,
+    "endLine": 67,
+    "calls": {
+        "wp-admin/includes/taxonomy.php:85": [
+            "wp-admin/includes/taxonomy.php",
+            85
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

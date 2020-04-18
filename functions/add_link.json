@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "add_link",
+    "filename": "wp-admin/includes/bookmark.php",
+    "docCommentLine": 9,
+    "startLine": 16,
+    "endLine": 18,
+    "calls": {
+        "wp-admin/link.php:76": [
+            "wp-admin/link.php",
+            76
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "force_ssl_admin",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5129,
+    "startLine": 5139,
+    "endLine": 5149,
+    "calls": {
+        "wp-includes/default-constants.php:335": [
+            "wp-includes/default-constants.php",
+            335
+        ],
+        "wp-includes/default-constants.php:342": [
+            "wp-includes/default-constants.php",
+            342
+        ],
+        "wp-includes/deprecated.php:3703": [
+            "wp-includes/deprecated.php",
+            3703
+        ],
+        "wp-includes/link-template.php:3633": [
+            "wp-includes/link-template.php",
+            3633
+        ],
+        "wp-includes/pluggable.php:1022": [
+            "wp-includes/pluggable.php",
+            1022
+        ],
+        "wp-includes/rest-api.php:379": [
+            "wp-includes/rest-api.php",
+            379
+        ],
+        "wp-login.php:15": [
+            "wp-login.php",
+            15
+        ],
+        "wp-login.php:1159": [
+            "wp-login.php",
+            1159
+        ],
+        "wp-login.php:1170": [
+            "wp-login.php",
+            1170
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_tags",
+    "filename": "wp-includes/category.php",
+    "docCommentLine": 269,
+    "startLine": 278,
+    "endLine": 299,
+    "calls": {
+        "wp-admin/includes/export.php:159": [
+            "wp-admin/includes/export.php",
+            159
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:3297": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            3297
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

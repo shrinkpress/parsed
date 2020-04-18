@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "get_background_color",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 1615,
+    "startLine": 1622,
+    "endLine": 1624,
+    "calls": {
+        "wp-admin/includes/class-custom-background.php:265": [
+            "wp-admin/includes/class-custom-background.php",
+            265
+        ],
+        "wp-admin/includes/class-custom-background.php:462": [
+            "wp-admin/includes/class-custom-background.php",
+            462
+        ],
+        "wp-includes/post-template.php:772": [
+            "wp-includes/post-template.php",
+            772
+        ],
+        "wp-includes/theme.php:1632": [
+            "wp-includes/theme.php",
+            1632
+        ],
+        "wp-includes/theme.php:1646": [
+            "wp-includes/theme.php",
+            1646
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

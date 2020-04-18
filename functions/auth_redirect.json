@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "auth_redirect",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 1009,
+    "startLine": 1019,
+    "endLine": 1087,
+    "calls": {
+        "wp-admin/admin.php:94": [
+            "wp-admin/admin.php",
+            94
+        ],
+        "wp-includes/class-wp-customize-manager.php:512": [
+            "wp-includes/class-wp-customize-manager.php",
+            512
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,28 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:474": [
+            "wp-includes/default-filters.php",
+            474,
+            "init",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:478": [
+            "wp-includes/default-filters.php",
+            478,
+            "change_locale",
+            "add_action"
+        ]
+    },
+    "functionName": "create_initial_post_types",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 13,
+    "startLine": 20,
+    "endLine": 475,
+    "calls": {
+        "wp-settings.php:345": [
+            "wp-settings.php",
+            345
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

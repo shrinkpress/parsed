@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:296": [
+            "wp-includes/default-filters.php",
+            296,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_shortlink_wp_head",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 3905,
+    "startLine": 3912,
+    "endLine": 3920,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

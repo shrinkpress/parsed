@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_user_request_action_description",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 3434,
+    "startLine": 3442,
+    "endLine": 3465,
+    "calls": {
+        "wp-includes/user.php:3067": [
+            "wp-includes/user.php",
+            3067
+        ],
+        "wp-includes/user.php:3497": [
+            "wp-includes/user.php",
+            3497
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

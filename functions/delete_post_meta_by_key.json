@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "delete_post_meta_by_key",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 2142,
+    "startLine": 2150,
+    "endLine": 2152,
+    "calls": {
+        "wp-admin/includes/upgrade.php:2080": [
+            "wp-admin/includes/upgrade.php",
+            2080
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

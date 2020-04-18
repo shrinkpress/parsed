@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:230": [
+            "wp-includes/default-filters.php",
+            230,
+            "wp_mail",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_staticize_emoji_for_email",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5813,
+    "startLine": 5821,
+    "endLine": 5878,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

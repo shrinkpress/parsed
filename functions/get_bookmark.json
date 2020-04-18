@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "get_bookmark",
+    "filename": "wp-includes/bookmark.php",
+    "docCommentLine": 9,
+    "startLine": 22,
+    "endLine": 64,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:792": [
+            "wp-admin/includes/ajax-actions.php",
+            792
+        ],
+        "wp-admin/includes/bookmark.php:141": [
+            "wp-admin/includes/bookmark.php",
+            141
+        ],
+        "wp-admin/includes/bookmark.php:283": [
+            "wp-admin/includes/bookmark.php",
+            283
+        ],
+        "wp-includes/bookmark.php:78": [
+            "wp-includes/bookmark.php",
+            78
+        ],
+        "wp-includes/deprecated.php:2002": [
+            "wp-includes/deprecated.php",
+            2002
+        ],
+        "wp-includes/link-template.php:1559": [
+            "wp-includes/link-template.php",
+            1559
+        ],
+        "wp-includes/link-template.php:1589": [
+            "wp-includes/link-template.php",
+            1589
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

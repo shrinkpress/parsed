@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_editable_user_ids",
+    "filename": "wp-admin/includes/deprecated.php",
+    "docCommentLine": 268,
+    "startLine": 279,
+    "endLine": 305,
+    "calls": {
+        "wp-admin/includes/deprecated.php:256": [
+            "wp-admin/includes/deprecated.php",
+            256
+        ],
+        "wp-admin/includes/deprecated.php:689": [
+            "wp-admin/includes/deprecated.php",
+            689
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

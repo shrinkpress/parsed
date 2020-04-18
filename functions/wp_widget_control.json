@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_widget_control",
+    "filename": "wp-admin/includes/widgets.php",
+    "docCommentLine": 176,
+    "startLine": 190,
+    "endLine": 322,
+    "calls": {
+        "wp-admin/includes/widgets.php:60": [
+            "wp-admin/includes/widgets.php",
+            60
+        ],
+        "wp-includes/class-wp-customize-widgets.php:1053": [
+            "wp-includes/class-wp-customize-widgets.php",
+            1053
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

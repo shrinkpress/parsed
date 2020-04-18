@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "serialize_block",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 212,
+    "startLine": 226,
+    "endLine": 243,
+    "calls": {
+        "wp-includes/blocks.php:231": [
+            "wp-includes/blocks.php",
+            231
+        ],
+        "wp-includes/blocks.php:277": [
+            "wp-includes/blocks.php",
+            277
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

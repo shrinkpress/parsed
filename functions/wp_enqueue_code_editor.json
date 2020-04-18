@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_enqueue_code_editor",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3431,
+    "startLine": 3454,
+    "endLine": 3522,
+    "calls": {
+        "wp-admin/plugin-editor.php:147": [
+            "wp-admin/plugin-editor.php",
+            147
+        ],
+        "wp-admin/theme-editor.php:143": [
+            "wp-admin/theme-editor.php",
+            143
+        ],
+        "wp-includes/customize/class-wp-customize-code-editor-control.php:50": [
+            "wp-includes/customize/class-wp-customize-code-editor-control.php",
+            50
+        ],
+        "wp-includes/widgets/class-wp-widget-custom-html.php:205": [
+            "wp-includes/widgets/class-wp-widget-custom-html.php",
+            205
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

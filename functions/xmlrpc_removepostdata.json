@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "xmlrpc_removepostdata",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 753,
+    "startLine": 761,
+    "endLine": 766,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:5042": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5042
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:5125": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5125
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

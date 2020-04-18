@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_upgrade_cron_array",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 962,
+    "startLine": 973,
+    "endLine": 990,
+    "calls": {
+        "wp-includes/cron.php:938": [
+            "wp-includes/cron.php",
+            938
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

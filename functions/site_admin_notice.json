@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ms-admin-filters.php:35": [
+            "wp-admin/includes/ms-admin-filters.php",
+            35,
+            "admin_notices",
+            "add_action"
+        ],
+        "wp-admin/includes/ms-admin-filters.php:36": [
+            "wp-admin/includes/ms-admin-filters.php",
+            36,
+            "network_admin_notices",
+            "add_action"
+        ]
+    },
+    "functionName": "site_admin_notice",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 682,
+    "startLine": 692,
+    "endLine": 710,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

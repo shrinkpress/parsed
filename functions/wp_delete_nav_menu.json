@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_delete_nav_menu",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 256,
+    "startLine": 264,
+    "endLine": 301,
+    "calls": {
+        "wp-admin/nav-menus.php:255": [
+            "wp-admin/nav-menus.php",
+            255
+        ],
+        "wp-admin/nav-menus.php:280": [
+            "wp-admin/nav-menus.php",
+            280
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-setting.php:499": [
+            "wp-includes/customize/class-wp-customize-nav-menu-setting.php",
+            499
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

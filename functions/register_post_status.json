@@ -1,0 +1,59 @@
+{
+    "callbacks": [],
+    "functionName": "register_post_status",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 984,
+    "startLine": 1029,
+    "endLine": 1110,
+    "calls": {
+        "wp-includes/post.php:309": [
+            "wp-includes/post.php",
+            309
+        ],
+        "wp-includes/post.php:323": [
+            "wp-includes/post.php",
+            323
+        ],
+        "wp-includes/post.php:337": [
+            "wp-includes/post.php",
+            337
+        ],
+        "wp-includes/post.php:352": [
+            "wp-includes/post.php",
+            352
+        ],
+        "wp-includes/post.php:367": [
+            "wp-includes/post.php",
+            367
+        ],
+        "wp-includes/post.php:381": [
+            "wp-includes/post.php",
+            381
+        ],
+        "wp-includes/post.php:396": [
+            "wp-includes/post.php",
+            396
+        ],
+        "wp-includes/post.php:406": [
+            "wp-includes/post.php",
+            406
+        ],
+        "wp-includes/post.php:416": [
+            "wp-includes/post.php",
+            416
+        ],
+        "wp-includes/post.php:431": [
+            "wp-includes/post.php",
+            431
+        ],
+        "wp-includes/post.php:446": [
+            "wp-includes/post.php",
+            446
+        ],
+        "wp-includes/post.php:461": [
+            "wp-includes/post.php",
+            461
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

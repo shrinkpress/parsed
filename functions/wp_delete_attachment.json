@@ -1,0 +1,52 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:374": [
+            "wp-includes/default-filters.php",
+            374,
+            "importer_scheduled_cleanup",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:375": [
+            "wp-includes/default-filters.php",
+            375,
+            "upgrader_scheduled_cleanup",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_delete_attachment",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 5547,
+    "startLine": 5566,
+    "endLine": 5639,
+    "calls": {
+        "wp-admin/edit.php:160": [
+            "wp-admin/edit.php",
+            160
+        ],
+        "wp-admin/includes/ajax-actions.php:2438": [
+            "wp-admin/includes/ajax-actions.php",
+            2438
+        ],
+        "wp-admin/includes/class-file-upload-upgrader.php:125": [
+            "wp-admin/includes/class-file-upload-upgrader.php",
+            125
+        ],
+        "wp-admin/includes/import.php:72": [
+            "wp-admin/includes/import.php",
+            72
+        ],
+        "wp-admin/post.php:306": [
+            "wp-admin/post.php",
+            306
+        ],
+        "wp-admin/upload.php:194": [
+            "wp-admin/upload.php",
+            194
+        ],
+        "wp-includes/post.php:2949": [
+            "wp-includes/post.php",
+            2949
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

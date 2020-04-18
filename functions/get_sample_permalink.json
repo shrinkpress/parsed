@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_sample_permalink",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1314,
+    "startLine": 1324,
+    "endLine": 1393,
+    "calls": {
+        "wp-admin/includes/post.php:1411": [
+            "wp-admin/includes/post.php",
+            1411
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1645": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1645
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

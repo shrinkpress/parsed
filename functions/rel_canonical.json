@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:295": [
+            "wp-includes/default-filters.php",
+            295,
+            "wp_head",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:560": [
+            "wp-includes/default-filters.php",
+            560,
+            "embed_head",
+            "add_action"
+        ]
+    },
+    "functionName": "rel_canonical",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 3804,
+    "startLine": 3810,
+    "endLine": 3826,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

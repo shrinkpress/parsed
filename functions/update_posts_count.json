@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "update_posts_count",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1822,
+    "startLine": 1836,
+    "endLine": 1839,
+    "calls": {
+        "wp-includes/ms-blogs.php:828": [
+            "wp-includes/ms-blogs.php",
+            828
+        ],
+        "wp-includes/ms-blogs.php:854": [
+            "wp-includes/ms-blogs.php",
+            854
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

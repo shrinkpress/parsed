@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "add_site_option",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 1157,
+    "startLine": 1171,
+    "endLine": 1173,
+    "calls": {
+        "wp-admin/includes/upgrade.php:1649": [
+            "wp-admin/includes/upgrade.php",
+            1649
+        ],
+        "wp-includes/ms-functions.php:470": [
+            "wp-includes/ms-functions.php",
+            470
+        ],
+        "wp-includes/ms-functions.php:609": [
+            "wp-includes/ms-functions.php",
+            609
+        ],
+        "wp-includes/option.php:1856": [
+            "wp-includes/option.php",
+            1856
+        ],
+        "wp-includes/option.php:1858": [
+            "wp-includes/option.php",
+            1858
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

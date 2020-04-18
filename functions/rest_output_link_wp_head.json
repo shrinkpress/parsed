@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:270": [
+            "wp-includes/default-filters.php",
+            270,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "rest_output_link_wp_head",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 827,
+    "startLine": 834,
+    "endLine": 842,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

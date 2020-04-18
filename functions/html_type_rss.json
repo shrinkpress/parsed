@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "html_type_rss",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 438,
+    "startLine": 445,
+    "endLine": 453,
+    "calls": {
+        "wp-includes/feed-atom.php:66": [
+            "wp-includes/feed-atom.php",
+            66
+        ],
+        "wp-includes/feed-atom.php:72": [
+            "wp-includes/feed-atom.php",
+            72
+        ],
+        "wp-includes/feed-atom.php:74": [
+            "wp-includes/feed-atom.php",
+            74
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

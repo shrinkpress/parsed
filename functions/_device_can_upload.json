@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "_device_can_upload",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6155,
+    "startLine": 6163,
+    "endLine": 6177,
+    "calls": {
+        "wp-admin/includes/media.php:2046": [
+            "wp-admin/includes/media.php",
+            2046
+        ],
+        "wp-includes/media-template.php:236": [
+            "wp-includes/media-template.php",
+            236
+        ],
+        "wp-includes/media.php:3332": [
+            "wp-includes/media.php",
+            3332
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

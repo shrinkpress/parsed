@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "self_link",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 630,
+    "startLine": 637,
+    "endLine": 649,
+    "calls": {
+        "wp-includes/feed-atom.php:37": [
+            "wp-includes/feed-atom.php",
+            37
+        ],
+        "wp-includes/feed-rss2-comments.php:49": [
+            "wp-includes/feed-rss2-comments.php",
+            49
+        ],
+        "wp-includes/feed-rss2.php:42": [
+            "wp-includes/feed-rss2.php",
+            42
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

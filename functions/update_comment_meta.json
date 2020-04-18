@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "update_comment_meta",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 495,
+    "startLine": 512,
+    "endLine": 514,
+    "calls": {
+        "wp-includes/comment.php:2385": [
+            "wp-includes/comment.php",
+            2385
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

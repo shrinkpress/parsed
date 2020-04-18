@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "update_comment_cache",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 3030,
+    "startLine": 3043,
+    "endLine": 3056,
+    "calls": {
+        "wp-admin/includes/class-wp-comments-list-table.php:149": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            149
+        ],
+        "wp-includes/comment.php:3077": [
+            "wp-includes/comment.php",
+            3077
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

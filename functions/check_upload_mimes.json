@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:97": [
+            "wp-includes/ms-default-filters.php",
+            97,
+            "upload_mimes",
+            "add_filter"
+        ]
+    },
+    "functionName": "check_upload_mimes",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1795,
+    "startLine": 1809,
+    "endLine": 1820,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

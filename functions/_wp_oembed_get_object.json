@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_oembed_get_object",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 103,
+    "startLine": 113,
+    "endLine": 120,
+    "calls": {
+        "wp-includes/class-wp-oembed-controller.php:191": [
+            "wp-includes/class-wp-oembed-controller.php",
+            191
+        ],
+        "wp-includes/class-wp-oembed-controller.php:198": [
+            "wp-includes/class-wp-oembed-controller.php",
+            198
+        ],
+        "wp-includes/embed.php:99": [
+            "wp-includes/embed.php",
+            99
+        ],
+        "wp-includes/embed.php:136": [
+            "wp-includes/embed.php",
+            136
+        ],
+        "wp-includes/embed.php:155": [
+            "wp-includes/embed.php",
+            155
+        ],
+        "wp-includes/embed.php:852": [
+            "wp-includes/embed.php",
+            852
+        ],
+        "wp-includes/embed.php:1211": [
+            "wp-includes/embed.php",
+            1211
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

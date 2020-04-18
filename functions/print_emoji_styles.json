@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:305": [
+            "wp-includes/default-filters.php",
+            305,
+            "wp_print_styles",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:346": [
+            "wp-includes/default-filters.php",
+            346,
+            "admin_print_styles",
+            "add_action"
+        ]
+    },
+    "functionName": "print_emoji_styles",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5554,
+    "startLine": 5561,
+    "endLine": 5587,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

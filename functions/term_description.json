@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "term_description",
+    "filename": "wp-includes/category-template.php",
+    "docCommentLine": 1199,
+    "startLine": 1209,
+    "endLine": 1218,
+    "calls": {
+        "wp-includes/category-template.php:276": [
+            "wp-includes/category-template.php",
+            276
+        ],
+        "wp-includes/category-template.php:1196": [
+            "wp-includes/category-template.php",
+            1196
+        ],
+        "wp-includes/general-template.php:1655": [
+            "wp-includes/general-template.php",
+            1655
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

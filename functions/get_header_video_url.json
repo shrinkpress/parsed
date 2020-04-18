@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_header_video_url",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 1417,
+    "startLine": 1426,
+    "endLine": 1449,
+    "calls": {
+        "wp-includes/theme.php:1414": [
+            "wp-includes/theme.php",
+            1414
+        ],
+        "wp-includes/theme.php:1457": [
+            "wp-includes/theme.php",
+            1457
+        ],
+        "wp-includes/theme.php:1472": [
+            "wp-includes/theme.php",
+            1472
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

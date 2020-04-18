@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:14": [
+            "wp-admin/includes/admin-filters.php",
+            14,
+            "activity_box_end",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_dashboard_quota",
+    "filename": "wp-admin/includes/dashboard.php",
+    "docCommentLine": 1491,
+    "startLine": 1500,
+    "endLine": 1554,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wpmu_delete_blog",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 55,
+    "startLine": 66,
+    "endLine": 125,
+    "calls": {
+        "wp-admin/ms-delete-site.php:22": [
+            "wp-admin/ms-delete-site.php",
+            22
+        ],
+        "wp-admin/network/sites.php:145": [
+            "wp-admin/network/sites.php",
+            145
+        ],
+        "wp-admin/network/sites.php:175": [
+            "wp-admin/network/sites.php",
+            175
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

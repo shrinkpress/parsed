@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_sidebars_widgets",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 953,
+    "startLine": 968,
+    "endLine": 999,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2299": [
+            "wp-admin/includes/ajax-actions.php",
+            2299
+        ],
+        "wp-admin/includes/ajax-actions.php:2396": [
+            "wp-admin/includes/ajax-actions.php",
+            2396
+        ],
+        "wp-admin/widgets.php:92": [
+            "wp-admin/widgets.php",
+            92
+        ],
+        "wp-includes/class-wp-customize-widgets.php:275": [
+            "wp-includes/class-wp-customize-widgets.php",
+            275
+        ],
+        "wp-includes/class-wp-customize-widgets.php:378": [
+            "wp-includes/class-wp-customize-widgets.php",
+            378
+        ],
+        "wp-includes/widgets.php:684": [
+            "wp-includes/widgets.php",
+            684
+        ],
+        "wp-includes/widgets.php:869": [
+            "wp-includes/widgets.php",
+            869
+        ],
+        "wp-includes/widgets.php:934": [
+            "wp-includes/widgets.php",
+            934
+        ],
+        "wp-includes/widgets.php:1213": [
+            "wp-includes/widgets.php",
+            1213
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

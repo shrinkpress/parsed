@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "clean_object_term_cache",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 3168,
+    "startLine": 3184,
+    "endLine": 3212,
+    "calls": {
+        "wp-includes/bookmark.php:461": [
+            "wp-includes/bookmark.php",
+            461
+        ],
+        "wp-includes/post.php:6568": [
+            "wp-includes/post.php",
+            6568
+        ],
+        "wp-includes/post.php:6694": [
+            "wp-includes/post.php",
+            6694
+        ],
+        "wp-includes/taxonomy.php:1871": [
+            "wp-includes/taxonomy.php",
+            1871
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

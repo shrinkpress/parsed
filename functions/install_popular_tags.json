@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "install_popular_tags",
+    "filename": "wp-admin/includes/plugin-install.php",
+    "docCommentLine": 234,
+    "startLine": 242,
+    "endLine": 258,
+    "calls": {
+        "wp-admin/includes/plugin-install.php:282": [
+            "wp-admin/includes/plugin-install.php",
+            282
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

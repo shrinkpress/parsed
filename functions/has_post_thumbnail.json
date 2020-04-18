@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "has_post_thumbnail",
+    "filename": "wp-includes/post-thumbnail-template.php",
+    "docCommentLine": 12,
+    "startLine": 25,
+    "endLine": 39,
+    "calls": {
+        "wp-includes/embed.php:658": [
+            "wp-includes/embed.php",
+            658
+        ],
+        "wp-includes/post-template.php:526": [
+            "wp-includes/post-template.php",
+            526
+        ],
+        "wp-includes/post-template.php:1663": [
+            "wp-includes/post-template.php",
+            1663
+        ],
+        "wp-includes/theme-compat/embed-content.php:17": [
+            "wp-includes/theme-compat/embed-content.php",
+            17
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

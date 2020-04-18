@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_update_php_annotation",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 7170,
+    "startLine": 7180,
+    "endLine": 7195,
+    "calls": {
+        "wp-admin/includes/update-core.php:960": [
+            "wp-admin/includes/update-core.php",
+            960
+        ],
+        "wp-admin/install.php:246": [
+            "wp-admin/install.php",
+            246
+        ],
+        "wp-admin/update-core.php:88": [
+            "wp-admin/update-core.php",
+            88
+        ],
+        "wp-admin/update-core.php:369": [
+            "wp-admin/update-core.php",
+            369
+        ],
+        "wp-admin/upgrade.php:90": [
+            "wp-admin/upgrade.php",
+            90
+        ],
+        "wp-includes/functions.php:7163": [
+            "wp-includes/functions.php",
+            7163
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

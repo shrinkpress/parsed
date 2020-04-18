@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "edit_comment",
+    "filename": "wp-admin/includes/comment.php",
+    "docCommentLine": 45,
+    "startLine": 50,
+    "endLine": 96,
+    "calls": {
+        "wp-admin/comment.php:338": [
+            "wp-admin/comment.php",
+            338
+        ],
+        "wp-admin/includes/ajax-actions.php:1410": [
+            "wp-admin/includes/ajax-actions.php",
+            1410
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

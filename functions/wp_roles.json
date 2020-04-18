@@ -1,0 +1,75 @@
+{
+    "callbacks": [],
+    "functionName": "wp_roles",
+    "filename": "wp-includes/capabilities.php",
+    "docCommentLine": 775,
+    "startLine": 784,
+    "endLine": 791,
+    "calls": {
+        "wp-admin/includes/class-wp-users-list-table.php:178": [
+            "wp-admin/includes/class-wp-users-list-table.php",
+            178
+        ],
+        "wp-admin/includes/class-wp-users-list-table.php:617": [
+            "wp-admin/includes/class-wp-users-list-table.php",
+            617
+        ],
+        "wp-admin/includes/upgrade.php:2034": [
+            "wp-admin/includes/upgrade.php",
+            2034
+        ],
+        "wp-admin/includes/user.php:31": [
+            "wp-admin/includes/user.php",
+            31
+        ],
+        "wp-admin/includes/user.php:264": [
+            "wp-admin/includes/user.php",
+            264
+        ],
+        "wp-includes/capabilities.php:802": [
+            "wp-includes/capabilities.php",
+            802
+        ],
+        "wp-includes/capabilities.php:819": [
+            "wp-includes/capabilities.php",
+            819
+        ],
+        "wp-includes/capabilities.php:830": [
+            "wp-includes/capabilities.php",
+            830
+        ],
+        "wp-includes/class-wp-role.php:58": [
+            "wp-includes/class-wp-role.php",
+            58
+        ],
+        "wp-includes/class-wp-role.php:75": [
+            "wp-includes/class-wp-role.php",
+            75
+        ],
+        "wp-includes/class-wp-user.php:502": [
+            "wp-includes/class-wp-user.php",
+            502
+        ],
+        "wp-includes/ms-blogs.php:639": [
+            "wp-includes/ms-blogs.php",
+            639
+        ],
+        "wp-includes/user.php:901": [
+            "wp-includes/user.php",
+            901
+        ],
+        "wp-includes/user.php:904": [
+            "wp-includes/user.php",
+            904
+        ],
+        "wp-includes/user.php:2676": [
+            "wp-includes/user.php",
+            2676
+        ],
+        "wp-includes/user.php:2679": [
+            "wp-includes/user.php",
+            2679
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

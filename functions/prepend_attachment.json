@@ -1,0 +1,28 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:177": [
+            "wp-includes/default-filters.php",
+            177,
+            "the_content",
+            "add_filter"
+        ],
+        "wp-includes/template-loader.php:78": [
+            "wp-includes/template-loader.php",
+            78,
+            "the_content",
+            "remove_filter"
+        ]
+    },
+    "functionName": "prepend_attachment",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 1641,
+    "startLine": 1649,
+    "endLine": 1688,
+    "calls": {
+        "wp-includes/embed.php:970": [
+            "wp-includes/embed.php",
+            970
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "has_excerpt",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 428,
+    "startLine": 440,
+    "endLine": 443,
+    "calls": {
+        "wp-admin/includes/class-wp-media-list-table.php:441": [
+            "wp-admin/includes/class-wp-media-list-table.php",
+            441
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

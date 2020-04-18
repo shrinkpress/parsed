@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_time",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 2549,
+    "startLine": 2561,
+    "endLine": 2603,
+    "calls": {
+        "wp-admin/customize.php:42": [
+            "wp-admin/customize.php",
+            42
+        ],
+        "wp-admin/includes/export.php:570": [
+            "wp-admin/includes/export.php",
+            570
+        ],
+        "wp-includes/feed-atom.php:70": [
+            "wp-includes/feed-atom.php",
+            70
+        ],
+        "wp-includes/feed-rss2.php:94": [
+            "wp-includes/feed-rss2.php",
+            94
+        ],
+        "wp-includes/general-template.php:2402": [
+            "wp-includes/general-template.php",
+            2402
+        ],
+        "wp-includes/general-template.php:2404": [
+            "wp-includes/general-template.php",
+            2404
+        ],
+        "wp-includes/general-template.php:2530": [
+            "wp-includes/general-template.php",
+            2530
+        ],
+        "wp-includes/general-template.php:2532": [
+            "wp-includes/general-template.php",
+            2532
+        ],
+        "wp-includes/general-template.php:2809": [
+            "wp-includes/general-template.php",
+            2809
+        ],
+        "wp-includes/general-template.php:2849": [
+            "wp-includes/general-template.php",
+            2849
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

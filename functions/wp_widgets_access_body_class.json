@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/widgets.php:32": [
+            "wp-admin/widgets.php",
+            32,
+            "admin_body_class",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_widgets_access_body_class",
+    "filename": "wp-admin/includes/widgets.php",
+    "docCommentLine": 324,
+    "startLine": 328,
+    "endLine": 330,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

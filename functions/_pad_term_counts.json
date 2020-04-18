@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_pad_term_counts",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 3572,
+    "startLine": 3586,
+    "endLine": 3643,
+    "calls": {
+        "wp-includes/class-wp-term-query.php:746": [
+            "wp-includes/class-wp-term-query.php",
+            746
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

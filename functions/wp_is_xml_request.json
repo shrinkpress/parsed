@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_is_xml_request",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 1525,
+    "startLine": 1532,
+    "endLine": 1555,
+    "calls": {
+        "wp-includes/functions.php:3267": [
+            "wp-includes/functions.php",
+            3267
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

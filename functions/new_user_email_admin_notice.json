@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:104": [
+            "wp-admin/includes/admin-filters.php",
+            104,
+            "admin_notices",
+            "add_action"
+        ],
+        "wp-admin/includes/ms-admin-filters.php:14": [
+            "wp-admin/includes/ms-admin-filters.php",
+            14,
+            "user_admin_notices",
+            "add_action"
+        ],
+        "wp-admin/includes/ms-admin-filters.php:15": [
+            "wp-admin/includes/ms-admin-filters.php",
+            15,
+            "network_admin_notices",
+            "add_action"
+        ]
+    },
+    "functionName": "new_user_email_admin_notice",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 2879,
+    "startLine": 2888,
+    "endLine": 2898,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

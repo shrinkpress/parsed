@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_post_terms",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 3414,
+    "startLine": 3431,
+    "endLine": 3440,
+    "calls": {
+        "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:355": [
+            "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php",
+            355
+        ],
+        "wp-includes/post.php:3411": [
+            "wp-includes/post.php",
+            3411
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

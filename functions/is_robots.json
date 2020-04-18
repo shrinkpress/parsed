@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "is_robots",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 625,
+    "startLine": 634,
+    "endLine": 643,
+    "calls": {
+        "wp-includes/canonical.php:59": [
+            "wp-includes/canonical.php",
+            59
+        ],
+        "wp-includes/class-wp.php:658": [
+            "wp-includes/class-wp.php",
+            658
+        ],
+        "wp-includes/template-loader.php:31": [
+            "wp-includes/template-loader.php",
+            31
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

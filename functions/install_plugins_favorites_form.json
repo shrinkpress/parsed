@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:201": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            201,
+            "install_plugins_favorites",
+            "add_action"
+        ]
+    },
+    "functionName": "install_plugins_favorites_form",
+    "filename": "wp-admin/includes/plugin-install.php",
+    "docCommentLine": 361,
+    "startLine": 366,
+    "endLine": 381,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

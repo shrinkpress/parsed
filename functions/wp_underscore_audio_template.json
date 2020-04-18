@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_underscore_audio_template",
+    "filename": "wp-includes/media-template.php",
+    "docCommentLine": 10,
+    "startLine": 16,
+    "endLine": 48,
+    "calls": {
+        "wp-includes/media-template.php:1194": [
+            "wp-includes/media-template.php",
+            1194
+        ],
+        "wp-includes/widgets/class-wp-widget-media-audio.php:200": [
+            "wp-includes/widgets/class-wp-widget-media-audio.php",
+            200
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

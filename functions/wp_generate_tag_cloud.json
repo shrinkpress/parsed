@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_generate_tag_cloud",
+    "filename": "wp-includes/category-template.php",
+    "docCommentLine": 756,
+    "startLine": 802,
+    "endLine": 1015,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:1165": [
+            "wp-admin/includes/ajax-actions.php",
+            1165
+        ],
+        "wp-admin/includes/plugin-install.php:301": [
+            "wp-admin/includes/plugin-install.php",
+            301
+        ],
+        "wp-includes/category-template.php:725": [
+            "wp-includes/category-template.php",
+            725
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

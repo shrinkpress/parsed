@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "get_background_image",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 1595,
+    "startLine": 1602,
+    "endLine": 1604,
+    "calls": {
+        "wp-admin/includes/class-custom-background.php:270": [
+            "wp-admin/includes/class-custom-background.php",
+            270
+        ],
+        "wp-admin/includes/class-custom-background.php:297": [
+            "wp-admin/includes/class-custom-background.php",
+            297
+        ],
+        "wp-admin/includes/class-custom-background.php:311": [
+            "wp-admin/includes/class-custom-background.php",
+            311
+        ],
+        "wp-admin/includes/class-custom-background.php:352": [
+            "wp-admin/includes/class-custom-background.php",
+            352
+        ],
+        "wp-admin/includes/template.php:2213": [
+            "wp-admin/includes/template.php",
+            2213
+        ],
+        "wp-includes/post-template.php:772": [
+            "wp-includes/post-template.php",
+            772
+        ],
+        "wp-includes/theme.php:1612": [
+            "wp-includes/theme.php",
+            1612
+        ],
+        "wp-includes/theme.php:1642": [
+            "wp-includes/theme.php",
+            1642
+        ],
+        "wp-includes/theme.php:2913": [
+            "wp-includes/theme.php",
+            2913
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

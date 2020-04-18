@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:108": [
+            "wp-admin/includes/admin-filters.php",
+            108,
+            "personal_options_update",
+            "add_action"
+        ]
+    },
+    "functionName": "send_confirmation_on_profile_email",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 2769,
+    "startLine": 2777,
+    "endLine": 2877,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:38": [
+            "wp-admin/includes/admin-filters.php",
+            38,
+            "media_upload_tabs",
+            "add_filter"
+        ]
+    },
+    "functionName": "update_gallery_tab",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 34,
+    "startLine": 44,
+    "endLine": 67,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

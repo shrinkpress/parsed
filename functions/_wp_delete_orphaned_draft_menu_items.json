@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:74": [
+            "wp-admin/includes/admin-filters.php",
+            74,
+            "admin_head-nav-menus.php",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_delete_orphaned_draft_menu_items",
+    "filename": "wp-admin/includes/nav-menu.php",
+    "docCommentLine": 1104,
+    "startLine": 1112,
+    "endLine": 1122,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

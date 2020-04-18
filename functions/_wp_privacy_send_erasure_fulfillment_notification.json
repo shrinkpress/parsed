@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:135": [
+            "wp-admin/includes/admin-filters.php",
+            135,
+            "wp_privacy_personal_data_erased",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_privacy_send_erasure_fulfillment_notification",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 3183,
+    "startLine": 3192,
+    "endLine": 3331,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

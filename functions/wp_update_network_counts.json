@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:85": [
+            "wp-includes/ms-default-filters.php",
+            85,
+            "update_network_counts",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_update_network_counts",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2315,
+    "startLine": 2323,
+    "endLine": 2326,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

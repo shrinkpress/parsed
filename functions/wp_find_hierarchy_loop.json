@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_find_hierarchy_loop",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 5944,
+    "startLine": 5957,
+    "endLine": 5966,
+    "calls": {
+        "wp-includes/post.php:6868": [
+            "wp-includes/post.php",
+            6868
+        ],
+        "wp-includes/taxonomy.php:4583": [
+            "wp-includes/taxonomy.php",
+            4583
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

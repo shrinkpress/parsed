@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_site_by_path",
+    "filename": "wp-includes/ms-load.php",
+    "docCommentLine": 145,
+    "startLine": 165,
+    "endLine": 264,
+    "calls": {
+        "wp-includes/ms-load.php:312": [
+            "wp-includes/ms-load.php",
+            312
+        ],
+        "wp-includes/ms-load.php:316": [
+            "wp-includes/ms-load.php",
+            316
+        ],
+        "wp-includes/ms-load.php:319": [
+            "wp-includes/ms-load.php",
+            319
+        ],
+        "wp-includes/ms-load.php:360": [
+            "wp-includes/ms-load.php",
+            360
+        ],
+        "wp-includes/ms-load.php:363": [
+            "wp-includes/ms-load.php",
+            363
+        ],
+        "wp-includes/ms-load.php:367": [
+            "wp-includes/ms-load.php",
+            367
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

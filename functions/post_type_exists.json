@@ -1,0 +1,71 @@
+{
+    "callbacks": [],
+    "functionName": "post_type_exists",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 1180,
+    "startLine": 1194,
+    "endLine": 1196,
+    "calls": {
+        "wp-admin/admin.php:136": [
+            "wp-admin/admin.php",
+            136
+        ],
+        "wp-admin/includes/class-wp-screen.php:218": [
+            "wp-admin/includes/class-wp-screen.php",
+            218
+        ],
+        "wp-admin/includes/class-wp-screen.php:247": [
+            "wp-admin/includes/class-wp-screen.php",
+            247
+        ],
+        "wp-admin/includes/class-wp-screen.php:277": [
+            "wp-admin/includes/class-wp-screen.php",
+            277
+        ],
+        "wp-admin/includes/class-wp-screen.php:348": [
+            "wp-admin/includes/class-wp-screen.php",
+            348
+        ],
+        "wp-admin/includes/export.php:99": [
+            "wp-admin/includes/export.php",
+            99
+        ],
+        "wp-admin/includes/nav-menu.php:35": [
+            "wp-admin/includes/nav-menu.php",
+            35
+        ],
+        "wp-admin/includes/post.php:2114": [
+            "wp-admin/includes/post.php",
+            2114
+        ],
+        "wp-includes/class-wp-customize-nav-menus.php:952": [
+            "wp-includes/class-wp-customize-nav-menus.php",
+            952
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:4477": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            4477
+        ],
+        "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:387": [
+            "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php",
+            387
+        ],
+        "wp-includes/post.php:1172": [
+            "wp-includes/post.php",
+            1172
+        ],
+        "wp-includes/post.php:1459": [
+            "wp-includes/post.php",
+            1459
+        ],
+        "wp-includes/post.php:2611": [
+            "wp-includes/post.php",
+            2611
+        ],
+        "wp-includes/taxonomy.php:4511": [
+            "wp-includes/taxonomy.php",
+            4511
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

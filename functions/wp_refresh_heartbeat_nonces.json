@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:69": [
+            "wp-admin/includes/admin-filters.php",
+            69,
+            "wp_refresh_nonces",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_refresh_heartbeat_nonces",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 1130,
+    "startLine": 1138,
+    "endLine": 1145,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

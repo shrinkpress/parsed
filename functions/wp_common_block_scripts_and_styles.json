@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:497": [
+            "wp-includes/default-filters.php",
+            497,
+            "wp_enqueue_scripts",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:498": [
+            "wp-includes/default-filters.php",
+            498,
+            "admin_enqueue_scripts",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_common_block_scripts_and_styles",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 2825,
+    "startLine": 2833,
+    "endLine": 2857,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

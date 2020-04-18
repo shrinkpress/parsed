@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:264": [
+            "wp-includes/default-filters.php",
+            264,
+            "transition_comment_status",
+            "add_action"
+        ]
+    },
+    "functionName": "_clear_modified_cache_on_transition_comment_status",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 1751,
+    "startLine": 1763,
+    "endLine": 1769,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,87 @@
+{
+    "callbacks": [],
+    "functionName": "wp_reset_vars",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 524,
+    "startLine": 535,
+    "endLine": 547,
+    "calls": {
+        "wp-admin/comment.php:19": [
+            "wp-admin/comment.php",
+            19
+        ],
+        "wp-admin/customize.php:88": [
+            "wp-admin/customize.php",
+            88
+        ],
+        "wp-admin/edit-tag-form.php:50": [
+            "wp-admin/edit-tag-form.php",
+            50
+        ],
+        "wp-admin/includes/class-wp-links-list-table.php:54": [
+            "wp-admin/includes/class-wp-links-list-table.php",
+            54
+        ],
+        "wp-admin/includes/class-wp-ms-themes-list-table.php:91": [
+            "wp-admin/includes/class-wp-ms-themes-list-table.php",
+            91
+        ],
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:92": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            92
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:80": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            80
+        ],
+        "wp-admin/includes/class-wp-theme-install-list-table.php:40": [
+            "wp-admin/includes/class-wp-theme-install-list-table.php",
+            40
+        ],
+        "wp-admin/link-add.php:19": [
+            "wp-admin/link-add.php",
+            19
+        ],
+        "wp-admin/link.php:15": [
+            "wp-admin/link.php",
+            15
+        ],
+        "wp-admin/media.php:15": [
+            "wp-admin/media.php",
+            15
+        ],
+        "wp-admin/options-head.php:11": [
+            "wp-admin/options-head.php",
+            11
+        ],
+        "wp-admin/options.php:25": [
+            "wp-admin/options.php",
+            25
+        ],
+        "wp-admin/post.php:17": [
+            "wp-admin/post.php",
+            17
+        ],
+        "wp-admin/revision.php:24": [
+            "wp-admin/revision.php",
+            24
+        ],
+        "wp-admin/theme-editor.php:58": [
+            "wp-admin/theme-editor.php",
+            58
+        ],
+        "wp-admin/theme-install.php:13": [
+            "wp-admin/theme-install.php",
+            13
+        ],
+        "wp-admin/themes.php:157": [
+            "wp-admin/themes.php",
+            157
+        ],
+        "wp-admin/user-edit.php:12": [
+            "wp-admin/user-edit.php",
+            12
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "user_can_access_admin_page",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 2000,
+    "startLine": 2011,
+    "endLine": 2090,
+    "calls": {
+        "wp-admin/includes/menu.php:341": [
+            "wp-admin/includes/menu.php",
+            341
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

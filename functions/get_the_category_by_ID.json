@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_category_by_ID",
+    "filename": "wp-includes/category-template.php",
+    "docCommentLine": 100,
+    "startLine": 108,
+    "endLine": 117,
+    "calls": {
+        "wp-includes/deprecated.php:115": [
+            "wp-includes/deprecated.php",
+            115
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

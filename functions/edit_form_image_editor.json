@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/meta-boxes.php:1430": [
+            "wp-admin/includes/meta-boxes.php",
+            1430,
+            "edit_form_after_title",
+            "add_action"
+        ]
+    },
+    "functionName": "edit_form_image_editor",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 3045,
+    "startLine": 3052,
+    "endLine": 3223,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

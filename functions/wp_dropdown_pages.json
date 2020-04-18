@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "wp_dropdown_pages",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 1128,
+    "startLine": 1158,
+    "endLine": 1215,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:1681": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1681
+        ],
+        "wp-admin/includes/meta-boxes.php:938": [
+            "wp-admin/includes/meta-boxes.php",
+            938
+        ],
+        "wp-admin/options-privacy.php:215": [
+            "wp-admin/options-privacy.php",
+            215
+        ],
+        "wp-admin/options-reading.php:109": [
+            "wp-admin/options-reading.php",
+            109
+        ],
+        "wp-admin/options-reading.php:126": [
+            "wp-admin/options-reading.php",
+            126
+        ],
+        "wp-includes/class-wp-customize-control.php:586": [
+            "wp-includes/class-wp-customize-control.php",
+            586
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

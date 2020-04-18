@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_sign",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 1002,
+    "startLine": 1010,
+    "endLine": 1013,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:2580": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            2580
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

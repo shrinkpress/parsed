@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:71": [
+            "wp-admin/includes/admin-filters.php",
+            71,
+            "heartbeat_settings",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_heartbeat_set_suspension",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 1147,
+    "startLine": 1157,
+    "endLine": 1165,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

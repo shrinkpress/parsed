@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "signup_user",
+    "filename": "wp-signup.php",
+    "docCommentLine": 549,
+    "startLine": 558,
+    "endLine": 624,
+    "calls": {
+        "wp-signup.php:640": [
+            "wp-signup.php",
+            640
+        ],
+        "wp-signup.php:765": [
+            "wp-signup.php",
+            765
+        ],
+        "wp-signup.php:974": [
+            "wp-signup.php",
+            974
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

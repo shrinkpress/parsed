@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "compression_test",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 2252,
+    "startLine": 2262,
+    "endLine": 2314,
+    "calls": {
+        "wp-admin/admin-footer.php:110": [
+            "wp-admin/admin-footer.php",
+            110
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

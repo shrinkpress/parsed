@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_guid",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 278,
+    "startLine": 286,
+    "endLine": 294,
+    "calls": {
+        "wp-includes/feed.php:275": [
+            "wp-includes/feed.php",
+            275
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

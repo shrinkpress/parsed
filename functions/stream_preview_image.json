@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "stream_preview_image",
+    "filename": "wp-admin/includes/image-edit.php",
+    "docCommentLine": 618,
+    "startLine": 627,
+    "endLine": 657,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:239": [
+            "wp-admin/includes/ajax-actions.php",
+            239
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

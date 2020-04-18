@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:543": [
+            "wp-includes/default-filters.php",
+            543,
+            "media_buttons",
+            "add_action"
+        ]
+    },
+    "functionName": "media_buttons",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 613,
+    "startLine": 624,
+    "endLine": 666,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

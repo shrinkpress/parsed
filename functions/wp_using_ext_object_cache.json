@@ -1,0 +1,75 @@
+{
+    "callbacks": [],
+    "functionName": "wp_using_ext_object_cache",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 499,
+    "startLine": 510,
+    "endLine": 517,
+    "calls": {
+        "wp-cron.php:63": [
+            "wp-cron.php",
+            63
+        ],
+        "wp-includes/class-wp-network.php:355": [
+            "wp-includes/class-wp-network.php",
+            355
+        ],
+        "wp-includes/class-wp-query.php:1815": [
+            "wp-includes/class-wp-query.php",
+            1815
+        ],
+        "wp-includes/load.php:548": [
+            "wp-includes/load.php",
+            548
+        ],
+        "wp-includes/load.php:556": [
+            "wp-includes/load.php",
+            556
+        ],
+        "wp-includes/load.php:563": [
+            "wp-includes/load.php",
+            563
+        ],
+        "wp-includes/load.php:567": [
+            "wp-includes/load.php",
+            567
+        ],
+        "wp-includes/nav-menu.php:705": [
+            "wp-includes/nav-menu.php",
+            705
+        ],
+        "wp-includes/option.php:257": [
+            "wp-includes/option.php",
+            257
+        ],
+        "wp-includes/option.php:645": [
+            "wp-includes/option.php",
+            645
+        ],
+        "wp-includes/option.php:705": [
+            "wp-includes/option.php",
+            705
+        ],
+        "wp-includes/option.php:789": [
+            "wp-includes/option.php",
+            789
+        ],
+        "wp-includes/option.php:866": [
+            "wp-includes/option.php",
+            866
+        ],
+        "wp-includes/option.php:1706": [
+            "wp-includes/option.php",
+            1706
+        ],
+        "wp-includes/option.php:1768": [
+            "wp-includes/option.php",
+            1768
+        ],
+        "wp-includes/option.php:1849": [
+            "wp-includes/option.php",
+            1849
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

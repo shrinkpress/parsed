@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_ajax_trash_post",
+    "filename": "wp-admin/includes/ajax-actions.php",
+    "docCommentLine": 860,
+    "startLine": 867,
+    "endLine": 894,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:908": [
+            "wp-admin/includes/ajax-actions.php",
+            908
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "wp_registration_url",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 408,
+    "startLine": 415,
+    "endLine": 424,
+    "calls": {
+        "wp-activate.php:17": [
+            "wp-activate.php",
+            17
+        ],
+        "wp-includes/canonical.php:390": [
+            "wp-includes/canonical.php",
+            390
+        ],
+        "wp-includes/general-template.php:595": [
+            "wp-includes/general-template.php",
+            595
+        ],
+        "wp-login.php:869": [
+            "wp-login.php",
+            869
+        ],
+        "wp-login.php:1004": [
+            "wp-login.php",
+            1004
+        ],
+        "wp-login.php:1414": [
+            "wp-login.php",
+            1414
+        ],
+        "wp-signup.php:33": [
+            "wp-signup.php",
+            33
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wpmu_create_blog",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1278,
+    "startLine": 1304,
+    "endLine": 1349,
+    "calls": {
+        "wp-admin/network/site-new.php:140": [
+            "wp-admin/network/site-new.php",
+            140
+        ],
+        "wp-includes/ms-functions.php:1189": [
+            "wp-includes/ms-functions.php",
+            1189
+        ],
+        "wp-signup.php:476": [
+            "wp-signup.php",
+            476
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

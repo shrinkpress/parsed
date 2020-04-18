@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/dashboard.php:41": [
+            "wp-admin/includes/dashboard.php",
+            41,
+            "postbox_classes_dashboard_dashboard_php_nag",
+            "add_filter"
+        ]
+    },
+    "functionName": "dashboard_php_nag_class",
+    "filename": "wp-admin/includes/dashboard.php",
+    "docCommentLine": 1729,
+    "startLine": 1737,
+    "endLine": 1745,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

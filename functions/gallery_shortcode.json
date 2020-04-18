@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "gallery_shortcode",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 1768,
+    "startLine": 1802,
+    "endLine": 2030,
+    "calls": {
+        "wp-includes/widgets/class-wp-widget-media-gallery.php:129": [
+            "wp-includes/widgets/class-wp-widget-media-gallery.php",
+            129
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

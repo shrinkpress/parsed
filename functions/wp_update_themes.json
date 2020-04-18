@@ -1,0 +1,84 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:129": [
+            "wp-admin/includes/admin-filters.php",
+            129,
+            "upgrader_process_complete",
+            "add_action"
+        ],
+        "wp-admin/includes/class-language-pack-upgrader.php:277": [
+            "wp-admin/includes/class-language-pack-upgrader.php",
+            277,
+            "upgrader_process_complete",
+            "remove_action"
+        ],
+        "wp-admin/includes/class-language-pack-upgrader.php:295": [
+            "wp-admin/includes/class-language-pack-upgrader.php",
+            295,
+            "upgrader_process_complete",
+            "add_action"
+        ],
+        "wp-admin/includes/class-wp-automatic-updater.php:416": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            416,
+            "upgrader_process_complete",
+            "remove_action"
+        ],
+        "wp-includes/update.php:825": [
+            "wp-includes/update.php",
+            825,
+            "load-themes.php",
+            "add_action"
+        ],
+        "wp-includes/update.php:826": [
+            "wp-includes/update.php",
+            826,
+            "load-update.php",
+            "add_action"
+        ],
+        "wp-includes/update.php:827": [
+            "wp-includes/update.php",
+            827,
+            "load-update-core.php",
+            "add_action"
+        ],
+        "wp-includes/update.php:829": [
+            "wp-includes/update.php",
+            829,
+            "wp_update_themes",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_update_themes",
+    "filename": "wp-includes/update.php",
+    "docCommentLine": 427,
+    "startLine": 438,
+    "endLine": 598,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:4136": [
+            "wp-admin/includes/ajax-actions.php",
+            4136
+        ],
+        "wp-admin/includes/class-wp-automatic-updater.php:430": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            430
+        ],
+        "wp-admin/includes/class-wp-automatic-updater.php:456": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            456
+        ],
+        "wp-admin/includes/class-wp-automatic-updater.php:477": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            477
+        ],
+        "wp-admin/includes/class-wp-debug-data.php:19": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            19
+        ],
+        "wp-includes/update.php:775": [
+            "wp-includes/update.php",
+            775
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

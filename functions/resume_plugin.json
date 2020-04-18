@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "resume_plugin",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 2329,
+    "startLine": 2346,
+    "endLine": 2378,
+    "calls": {
+        "wp-admin/plugins.php:405": [
+            "wp-admin/plugins.php",
+            405
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_taxonomy_labels",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 491,
+    "startLine": 536,
+    "endLine": 596,
+    "calls": {
+        "wp-includes/blocks/tag-cloud.php:33": [
+            "wp-includes/blocks/tag-cloud.php",
+            33
+        ],
+        "wp-includes/class-wp-taxonomy.php:378": [
+            "wp-includes/class-wp-taxonomy.php",
+            378
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

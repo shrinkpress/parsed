@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "spawn_cron",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 620,
+    "startLine": 629,
+    "endLine": 729,
+    "calls": {
+        "wp-includes/cron.php:772": [
+            "wp-includes/cron.php",
+            772
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "remove_rewrite_tag",
+    "filename": "wp-includes/rewrite.php",
+    "docCommentLine": 176,
+    "startLine": 185,
+    "endLine": 188,
+    "calls": {
+        "wp-includes/class-wp-post-type.php:650": [
+            "wp-includes/class-wp-post-type.php",
+            650
+        ],
+        "wp-includes/class-wp-taxonomy.php:428": [
+            "wp-includes/class-wp-taxonomy.php",
+            428
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

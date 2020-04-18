@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "rest_get_avatar_urls",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 1159,
+    "startLine": 1170,
+    "endLine": 1179,
+    "calls": {
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:957": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            957
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:941": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            941
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

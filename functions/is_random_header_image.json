@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "is_random_header_image",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 1227,
+    "startLine": 1239,
+    "endLine": 1255,
+    "calls": {
+        "wp-admin/includes/class-custom-image-header.php:293": [
+            "wp-admin/includes/class-custom-image-header.php",
+            293
+        ],
+        "wp-admin/includes/template.php:2186": [
+            "wp-admin/includes/template.php",
+            2186
+        ],
+        "wp-includes/theme.php:1083": [
+            "wp-includes/theme.php",
+            1083
+        ],
+        "wp-includes/theme.php:1329": [
+            "wp-includes/theme.php",
+            1329
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

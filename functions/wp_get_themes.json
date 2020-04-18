@@ -1,0 +1,79 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_themes",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 9,
+    "startLine": 33,
+    "endLine": 96,
+    "calls": {
+        "wp-admin/includes/class-wp-debug-data.php:1007": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            1007
+        ],
+        "wp-admin/includes/class-wp-ms-themes-list-table.php:102": [
+            "wp-admin/includes/class-wp-ms-themes-list-table.php",
+            102
+        ],
+        "wp-admin/includes/class-wp-ms-themes-list-table.php:107": [
+            "wp-admin/includes/class-wp-ms-themes-list-table.php",
+            107
+        ],
+        "wp-admin/includes/class-wp-site-health.php:476": [
+            "wp-admin/includes/class-wp-site-health.php",
+            476
+        ],
+        "wp-admin/includes/class-wp-themes-list-table.php:52": [
+            "wp-admin/includes/class-wp-themes-list-table.php",
+            52
+        ],
+        "wp-admin/includes/dashboard.php:1769": [
+            "wp-admin/includes/dashboard.php",
+            1769
+        ],
+        "wp-admin/includes/deprecated.php:1009": [
+            "wp-admin/includes/deprecated.php",
+            1009
+        ],
+        "wp-admin/includes/deprecated.php:1031": [
+            "wp-admin/includes/deprecated.php",
+            1031
+        ],
+        "wp-admin/includes/theme.php:614": [
+            "wp-admin/includes/theme.php",
+            614
+        ],
+        "wp-admin/includes/upgrade.php:2204": [
+            "wp-admin/includes/upgrade.php",
+            2204
+        ],
+        "wp-admin/theme-editor.php:228": [
+            "wp-admin/theme-editor.php",
+            228
+        ],
+        "wp-admin/themes.php:382": [
+            "wp-admin/themes.php",
+            382
+        ],
+        "wp-includes/class-wp-customize-manager.php:5798": [
+            "wp-includes/class-wp-customize-manager.php",
+            5798
+        ],
+        "wp-includes/class-wp-theme.php:1535": [
+            "wp-includes/class-wp-theme.php",
+            1535
+        ],
+        "wp-includes/deprecated.php:2898": [
+            "wp-includes/deprecated.php",
+            2898
+        ],
+        "wp-includes/theme.php:140": [
+            "wp-includes/theme.php",
+            140
+        ],
+        "wp-includes/update.php:446": [
+            "wp-includes/update.php",
+            446
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

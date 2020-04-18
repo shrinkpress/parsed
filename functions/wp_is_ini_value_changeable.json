@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_is_ini_value_changeable",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 1304,
+    "startLine": 1316,
+    "endLine": 1338,
+    "calls": {
+        "wp-includes/default-constants.php:42": [
+            "wp-includes/default-constants.php",
+            42
+        ],
+        "wp-includes/default-constants.php:52": [
+            "wp-includes/default-constants.php",
+            52
+        ],
+        "wp-includes/functions.php:6595": [
+            "wp-includes/functions.php",
+            6595
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

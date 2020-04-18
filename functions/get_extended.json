@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_extended",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 696,
+    "startLine": 712,
+    "endLine": 733,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:1050": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1050
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:6009": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            6009
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:6161": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            6161
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

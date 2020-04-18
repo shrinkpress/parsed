@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "normalize_whitespace",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5186,
+    "startLine": 5194,
+    "endLine": 5199,
+    "calls": {
+        "wp-admin/edit-form-advanced.php:248": [
+            "wp-admin/edit-form-advanced.php",
+            248
+        ],
+        "wp-admin/includes/post.php:1818": [
+            "wp-admin/includes/post.php",
+            1818
+        ],
+        "wp-includes/pluggable.php:2730": [
+            "wp-includes/pluggable.php",
+            2730
+        ],
+        "wp-includes/pluggable.php:2731": [
+            "wp-includes/pluggable.php",
+            2731
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:352": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
+            352
+        ],
+        "wp-includes/revision.php:163": [
+            "wp-includes/revision.php",
+            163
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_unapproved_comment_author_email",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 1817,
+    "startLine": 1826,
+    "endLine": 1844,
+    "calls": {
+        "wp-includes/comment-template.php:1374": [
+            "wp-includes/comment-template.php",
+            1374
+        ],
+        "wp-includes/comment-template.php:2073": [
+            "wp-includes/comment-template.php",
+            2073
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,59 @@
+{
+    "callbacks": [],
+    "functionName": "the_permalink_rss",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 233,
+    "startLine": 238,
+    "endLine": 247,
+    "calls": {
+        "wp-admin/includes/export.php:569": [
+            "wp-admin/includes/export.php",
+            569
+        ],
+        "wp-includes/deprecated.php:858": [
+            "wp-includes/deprecated.php",
+            858
+        ],
+        "wp-includes/feed-atom-comments.php:114": [
+            "wp-includes/feed-atom-comments.php",
+            114
+        ],
+        "wp-includes/feed-atom.php:67": [
+            "wp-includes/feed-atom.php",
+            67
+        ],
+        "wp-includes/feed-atom.php:74": [
+            "wp-includes/feed-atom.php",
+            74
+        ],
+        "wp-includes/feed-atom.php:87": [
+            "wp-includes/feed-atom.php",
+            87
+        ],
+        "wp-includes/feed-rdf.php:64": [
+            "wp-includes/feed-rdf.php",
+            64
+        ],
+        "wp-includes/feed-rdf.php:74": [
+            "wp-includes/feed-rdf.php",
+            74
+        ],
+        "wp-includes/feed-rdf.php:76": [
+            "wp-includes/feed-rdf.php",
+            76
+        ],
+        "wp-includes/feed-rss.php:37": [
+            "wp-includes/feed-rss.php",
+            37
+        ],
+        "wp-includes/feed-rss2-comments.php:50": [
+            "wp-includes/feed-rss2-comments.php",
+            50
+        ],
+        "wp-includes/feed-rss2.php:90": [
+            "wp-includes/feed-rss2.php",
+            90
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

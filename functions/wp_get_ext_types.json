@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_ext_types",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 3067,
+    "startLine": 3074,
+    "endLine": 3100,
+    "calls": {
+        "wp-includes/functions.php:2684": [
+            "wp-includes/functions.php",
+            2684
+        ],
+        "wp-includes/post.php:2766": [
+            "wp-includes/post.php",
+            2766
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

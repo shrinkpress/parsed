@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "get_user_count",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 98,
+    "startLine": 109,
+    "endLine": 111,
+    "calls": {
+        "wp-admin/includes/class-wp-debug-data.php:374": [
+            "wp-admin/includes/class-wp-debug-data.php",
+            374
+        ],
+        "wp-admin/includes/class-wp-ms-users-list-table.php:136": [
+            "wp-admin/includes/class-wp-ms-users-list-table.php",
+            136
+        ],
+        "wp-admin/includes/dashboard.php:412": [
+            "wp-admin/includes/dashboard.php",
+            412
+        ],
+        "wp-includes/ms-functions.php:20": [
+            "wp-includes/ms-functions.php",
+            20
+        ],
+        "wp-includes/ms-functions.php:2555": [
+            "wp-includes/ms-functions.php",
+            2555
+        ],
+        "wp-includes/update.php:79": [
+            "wp-includes/update.php",
+            79
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

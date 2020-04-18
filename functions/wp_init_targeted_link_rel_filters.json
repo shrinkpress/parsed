@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:131": [
+            "wp-includes/default-filters.php",
+            131,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_init_targeted_link_rel_filters",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 3228,
+    "startLine": 3233,
+    "endLine": 3249,
+    "calls": {
+        "wp-includes/class-wp-customize-manager.php:2974": [
+            "wp-includes/class-wp-customize-manager.php",
+            2974
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

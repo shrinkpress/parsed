@@ -1,0 +1,28 @@
+{
+    "callbacks": {
+        "wp-includes/media.php:2093": [
+            "wp-includes/media.php",
+            2093,
+            "wp_footer",
+            "add_action"
+        ],
+        "wp-includes/media.php:2094": [
+            "wp-includes/media.php",
+            2094,
+            "admin_footer",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_underscore_playlist_templates",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 2032,
+    "startLine": 2037,
+    "endLine": 2078,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:3774": [
+            "wp-admin/includes/ajax-actions.php",
+            3774
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

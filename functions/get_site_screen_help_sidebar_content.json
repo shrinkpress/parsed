@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_site_screen_help_sidebar_content",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 1143,
+    "startLine": 1150,
+    "endLine": 1154,
+    "calls": {
+        "wp-admin/network/site-info.php:18": [
+            "wp-admin/network/site-info.php",
+            18
+        ],
+        "wp-admin/network/site-settings.php:18": [
+            "wp-admin/network/site-settings.php",
+            18
+        ],
+        "wp-admin/network/site-themes.php:18": [
+            "wp-admin/network/site-themes.php",
+            18
+        ],
+        "wp-admin/network/site-users.php:21": [
+            "wp-admin/network/site-users.php",
+            21
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

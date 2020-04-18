@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_get_current_user",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 2699,
+    "startLine": 2718,
+    "endLine": 2767,
+    "calls": {
+        "wp-includes/pluggable-deprecated.php:51": [
+            "wp-includes/pluggable-deprecated.php",
+            51
+        ],
+        "wp-includes/pluggable.php:69": [
+            "wp-includes/pluggable.php",
+            69
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:95": [
+            "wp-admin/includes/admin-filters.php",
+            95,
+            "customize_controls_print_footer_scripts",
+            "add_action"
+        ]
+    },
+    "functionName": "customize_themes_print_templates",
+    "filename": "wp-admin/includes/theme.php",
+    "docCommentLine": 696,
+    "startLine": 701,
+    "endLine": 799,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

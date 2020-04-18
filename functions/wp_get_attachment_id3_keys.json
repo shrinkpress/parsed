@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_attachment_id3_keys",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 2397,
+    "startLine": 2406,
+    "endLine": 2431,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:3036": [
+            "wp-admin/includes/ajax-actions.php",
+            3036
+        ],
+        "wp-admin/includes/meta-boxes.php:1376": [
+            "wp-admin/includes/meta-boxes.php",
+            1376
+        ],
+        "wp-admin/includes/post.php:331": [
+            "wp-admin/includes/post.php",
+            331
+        ],
+        "wp-includes/media.php:2262": [
+            "wp-includes/media.php",
+            2262
+        ],
+        "wp-includes/media.php:3549": [
+            "wp-includes/media.php",
+            3549
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

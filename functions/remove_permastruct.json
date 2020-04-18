@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "remove_permastruct",
+    "filename": "wp-includes/rewrite.php",
+    "docCommentLine": 217,
+    "startLine": 230,
+    "endLine": 234,
+    "calls": {
+        "wp-includes/class-wp-post-type.php:651": [
+            "wp-includes/class-wp-post-type.php",
+            651
+        ],
+        "wp-includes/class-wp-taxonomy.php:429": [
+            "wp-includes/class-wp-taxonomy.php",
+            429
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:531": [
+            "wp-includes/default-filters.php",
+            531,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_widgets_init",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 1710,
+    "startLine": 1717,
+    "endLine": 1766,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

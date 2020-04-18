@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/admin-bar.php:441": [
+            "wp-includes/admin-bar.php",
+            441,
+            "wp_before_admin_bar_render",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_customize_support_script",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 3212,
+    "startLine": 3228,
+    "endLine": 3257,
+    "calls": {
+        "wp-admin/admin-header.php:231": [
+            "wp-admin/admin-header.php",
+            231
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

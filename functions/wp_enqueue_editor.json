@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_enqueue_editor",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3414,
+    "startLine": 3423,
+    "endLine": 3429,
+    "calls": {
+        "wp-admin/edit-form-blocks.php:343": [
+            "wp-admin/edit-form-blocks.php",
+            343
+        ],
+        "wp-includes/widgets/class-wp-widget-text.php:432": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            432
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

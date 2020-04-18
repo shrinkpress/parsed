@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_get_custom_object_labels",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 1741,
+    "startLine": 1752,
+    "endLine": 1787,
+    "calls": {
+        "wp-includes/post.php:1715": [
+            "wp-includes/post.php",
+            1715
+        ],
+        "wp-includes/taxonomy.php:573": [
+            "wp-includes/taxonomy.php",
+            573
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

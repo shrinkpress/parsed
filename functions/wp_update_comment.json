@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_comment",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 2302,
+    "startLine": 2315,
+    "endLine": 2406,
+    "calls": {
+        "wp-admin/includes/comment.php:95": [
+            "wp-admin/includes/comment.php",
+            95
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:3785": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            3785
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:742": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            742
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

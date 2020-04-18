@@ -1,0 +1,64 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:110": [
+            "wp-includes/default-filters.php",
+            110,
+            "get_term_metadata",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:111": [
+            "wp-includes/default-filters.php",
+            111,
+            "add_term_metadata",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:112": [
+            "wp-includes/default-filters.php",
+            112,
+            "update_term_metadata",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:113": [
+            "wp-includes/default-filters.php",
+            113,
+            "delete_term_metadata",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:114": [
+            "wp-includes/default-filters.php",
+            114,
+            "get_term_metadata_by_mid",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:115": [
+            "wp-includes/default-filters.php",
+            115,
+            "update_term_metadata_by_mid",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:116": [
+            "wp-includes/default-filters.php",
+            116,
+            "delete_term_metadata_by_mid",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:117": [
+            "wp-includes/default-filters.php",
+            117,
+            "update_term_metadata_cache",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_check_term_meta_support_prefilter",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 4629,
+    "startLine": 4637,
+    "endLine": 4643,
+    "calls": {
+        "wp-includes/taxonomy.php:1304": [
+            "wp-includes/taxonomy.php",
+            1304
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

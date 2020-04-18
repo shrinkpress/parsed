@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:202": [
+            "wp-includes/default-filters.php",
+            202,
+            "wp_sprintf",
+            "add_filter"
+        ]
+    },
+    "functionName": "wp_sprintf_l",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5006,
+    "startLine": 5019,
+    "endLine": 5070,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

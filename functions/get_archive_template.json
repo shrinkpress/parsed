@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_archive_template",
+    "filename": "wp-includes/template.php",
+    "docCommentLine": 98,
+    "startLine": 110,
+    "endLine": 122,
+    "calls": {
+        "wp-includes/template.php:147": [
+            "wp-includes/template.php",
+            147
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

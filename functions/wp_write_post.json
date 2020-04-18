@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_write_post",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 790,
+    "startLine": 799,
+    "endLine": 866,
+    "calls": {
+        "wp-admin/includes/post.php:876": [
+            "wp-admin/includes/post.php",
+            876
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

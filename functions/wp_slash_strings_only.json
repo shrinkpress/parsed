@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_slash_strings_only",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5472,
+    "startLine": 5483,
+    "endLine": 5485,
+    "calls": {
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:368": [
+            "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
+            368
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

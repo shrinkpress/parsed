@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:356": [
+            "wp-includes/default-filters.php",
+            356,
+            "transition_post_status",
+            "add_action"
+        ]
+    },
+    "functionName": "_update_term_count_on_transition_post_status",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6985,
+    "startLine": 6998,
+    "endLine": 7004,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

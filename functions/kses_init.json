@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:488": [
+            "wp-includes/default-filters.php",
+            488,
+            "init",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:489": [
+            "wp-includes/default-filters.php",
+            489,
+            "set_current_user",
+            "add_action"
+        ]
+    },
+    "functionName": "kses_init",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 2027,
+    "startLine": 2036,
+    "endLine": 2042,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

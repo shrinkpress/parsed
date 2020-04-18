@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "list_plugin_updates",
+    "filename": "wp-admin/update-core.php",
+    "docCommentLine": 287,
+    "startLine": 292,
+    "endLine": 436,
+    "calls": {
+        "wp-admin/update-core.php:767": [
+            "wp-admin/update-core.php",
+            767
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

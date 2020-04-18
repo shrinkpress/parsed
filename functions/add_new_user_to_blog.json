@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:27": [
+            "wp-includes/ms-default-filters.php",
+            27,
+            "wpmu_activate_user",
+            "add_action"
+        ]
+    },
+    "functionName": "add_new_user_to_blog",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2139,
+    "startLine": 2152,
+    "endLine": 2164,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

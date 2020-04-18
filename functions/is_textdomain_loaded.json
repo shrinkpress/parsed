@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "is_textdomain_loaded",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 1236,
+    "startLine": 1246,
+    "endLine": 1249,
+    "calls": {
+        "wp-admin/includes/plugin.php:152": [
+            "wp-admin/includes/plugin.php",
+            152
+        ],
+        "wp-includes/class-wp-theme.php:1362": [
+            "wp-includes/class-wp-theme.php",
+            1362
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

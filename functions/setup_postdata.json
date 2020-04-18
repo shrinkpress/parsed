@@ -1,0 +1,43 @@
+{
+    "callbacks": [],
+    "functionName": "setup_postdata",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 1124,
+    "startLine": 1135,
+    "endLine": 1143,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:3602": [
+            "wp-admin/includes/ajax-actions.php",
+            3602
+        ],
+        "wp-admin/includes/ajax-actions.php:3744": [
+            "wp-admin/includes/ajax-actions.php",
+            3744
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:1281": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            1281
+        ],
+        "wp-admin/includes/export.php:542": [
+            "wp-admin/includes/export.php",
+            542
+        ],
+        "wp-includes/deprecated.php:69": [
+            "wp-includes/deprecated.php",
+            69
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:135": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php",
+            135
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1446": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1446
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:502": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php",
+            502
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

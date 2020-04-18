@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:50": [
+            "wp-includes/ms-default-filters.php",
+            50,
+            "wp_initialize_site",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_initialize_site",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 641,
+    "startLine": 666,
+    "endLine": 783,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

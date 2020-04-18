@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_admin_page_title",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 1871,
+    "startLine": 1881,
+    "endLine": 1952,
+    "calls": {
+        "wp-admin/admin-header.php:34": [
+            "wp-admin/admin-header.php",
+            34
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

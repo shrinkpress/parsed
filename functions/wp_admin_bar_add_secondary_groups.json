@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/class-wp-admin-bar.php:620": [
+            "wp-includes/class-wp-admin-bar.php",
+            620,
+            "admin_bar_menu",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_admin_bar_add_secondary_groups",
+    "filename": "wp-includes/admin-bar.php",
+    "docCommentLine": 1086,
+    "startLine": 1093,
+    "endLine": 1112,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

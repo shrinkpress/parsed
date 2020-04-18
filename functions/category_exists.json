@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "category_exists",
+    "filename": "wp-admin/includes/taxonomy.php",
+    "docCommentLine": 13,
+    "startLine": 24,
+    "endLine": 30,
+    "calls": {
+        "wp-admin/includes/taxonomy.php:56": [
+            "wp-admin/includes/taxonomy.php",
+            56
+        ],
+        "wp-admin/includes/taxonomy.php:81": [
+            "wp-admin/includes/taxonomy.php",
+            81
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

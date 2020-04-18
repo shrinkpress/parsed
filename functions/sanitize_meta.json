@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "sanitize_meta",
+    "filename": "wp-includes/meta.php",
+    "docCommentLine": 1054,
+    "startLine": 1067,
+    "endLine": 1101,
+    "calls": {
+        "wp-includes/meta.php:54": [
+            "wp-includes/meta.php",
+            54
+        ],
+        "wp-includes/meta.php:183": [
+            "wp-includes/meta.php",
+            183
+        ],
+        "wp-includes/meta.php:723": [
+            "wp-includes/meta.php",
+            723
+        ],
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:356": [
+            "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
+            356
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

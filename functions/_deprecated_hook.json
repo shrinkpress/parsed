@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_deprecated_hook",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 4880,
+    "startLine": 4899,
+    "endLine": 4930,
+    "calls": {
+        "wp-includes/plugin.php:631": [
+            "wp-includes/plugin.php",
+            631
+        ],
+        "wp-includes/plugin.php:658": [
+            "wp-includes/plugin.php",
+            658
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

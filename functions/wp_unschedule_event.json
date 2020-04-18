@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_unschedule_event",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 326,
+    "startLine": 343,
+    "endLine": 380,
+    "calls": {
+        "wp-cron.php:127": [
+            "wp-cron.php",
+            127
+        ],
+        "wp-includes/cron.php:441": [
+            "wp-includes/cron.php",
+            441
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "count_many_users_posts",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 391,
+    "startLine": 403,
+    "endLine": 426,
+    "calls": {
+        "wp-admin/includes/class-wp-users-list-table.php:395": [
+            "wp-admin/includes/class-wp-users-list-table.php",
+            395
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

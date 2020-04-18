@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "is_active_widget",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 839,
+    "startLine": 866,
+    "endLine": 889,
+    "calls": {
+        "wp-admin/includes/widgets.php:29": [
+            "wp-admin/includes/widgets.php",
+            29
+        ],
+        "wp-includes/class-wp-customize-widgets.php:963": [
+            "wp-includes/class-wp-customize-widgets.php",
+            963
+        ],
+        "wp-includes/widgets/class-wp-widget-recent-comments.php:33": [
+            "wp-includes/widgets/class-wp-widget-recent-comments.php",
+            33
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

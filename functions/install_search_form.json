@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "install_search_form",
+    "filename": "wp-admin/includes/plugin-install.php",
+    "docCommentLine": 314,
+    "startLine": 322,
+    "endLine": 340,
+    "calls": {
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:330": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            330
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_screen_icon",
+    "filename": "wp-admin/includes/deprecated.php",
+    "docCommentLine": 1232,
+    "startLine": 1240,
+    "endLine": 1243,
+    "calls": {
+        "wp-admin/includes/deprecated.php:1229": [
+            "wp-admin/includes/deprecated.php",
+            1229
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

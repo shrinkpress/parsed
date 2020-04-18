@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "utf8_uri_encode",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 1154,
+    "startLine": 1163,
+    "endLine": 1213,
+    "calls": {
+        "wp-includes/formatting.php:2224": [
+            "wp-includes/formatting.php",
+            2224
+        ],
+        "wp-includes/post.php:4465": [
+            "wp-includes/post.php",
+            4465
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

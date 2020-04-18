@@ -1,0 +1,71 @@
+{
+    "callbacks": [],
+    "functionName": "_nx",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 433,
+    "startLine": 456,
+    "endLine": 473,
+    "calls": {
+        "wp-admin/includes/class-wp-ms-themes-list-table.php:304": [
+            "wp-admin/includes/class-wp-ms-themes-list-table.php",
+            304
+        ],
+        "wp-admin/includes/class-wp-ms-themes-list-table.php:313": [
+            "wp-admin/includes/class-wp-ms-themes-list-table.php",
+            313
+        ],
+        "wp-admin/includes/class-wp-ms-themes-list-table.php:322": [
+            "wp-admin/includes/class-wp-ms-themes-list-table.php",
+            322
+        ],
+        "wp-admin/includes/class-wp-ms-themes-list-table.php:331": [
+            "wp-admin/includes/class-wp-ms-themes-list-table.php",
+            331
+        ],
+        "wp-admin/includes/class-wp-ms-themes-list-table.php:340": [
+            "wp-admin/includes/class-wp-ms-themes-list-table.php",
+            340
+        ],
+        "wp-admin/includes/class-wp-ms-users-list-table.php:148": [
+            "wp-admin/includes/class-wp-ms-users-list-table.php",
+            148
+        ],
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:743": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            743
+        ],
+        "wp-admin/includes/class-wp-plugins-list-table.php:433": [
+            "wp-admin/includes/class-wp-plugins-list-table.php",
+            433
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:309": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            309
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:330": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            330
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:380": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            380
+        ],
+        "wp-admin/includes/class-wp-privacy-requests-table.php:155": [
+            "wp-admin/includes/class-wp-privacy-requests-table.php",
+            155
+        ],
+        "wp-admin/includes/class-wp-users-list-table.php:203": [
+            "wp-admin/includes/class-wp-users-list-table.php",
+            203
+        ],
+        "wp-admin/includes/plugin-install.php:683": [
+            "wp-admin/includes/plugin-install.php",
+            683
+        ],
+        "wp-includes/l10n.php:588": [
+            "wp-includes/l10n.php",
+            588
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

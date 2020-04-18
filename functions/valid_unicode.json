@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "valid_unicode",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 1820,
+    "startLine": 1828,
+    "endLine": 1833,
+    "calls": {
+        "wp-includes/kses.php:1788": [
+            "wp-includes/kses.php",
+            1788
+        ],
+        "wp-includes/kses.php:1817": [
+            "wp-includes/kses.php",
+            1817
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

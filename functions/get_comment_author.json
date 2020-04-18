@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "get_comment_author",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 11,
+    "startLine": 24,
+    "endLine": 49,
+    "calls": {
+        "wp-admin/comment.php:193": [
+            "wp-admin/comment.php",
+            193
+        ],
+        "wp-admin/edit-form-comment.php:153": [
+            "wp-admin/edit-form-comment.php",
+            153
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:791": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            791
+        ],
+        "wp-includes/blocks/latest-comments.php:88": [
+            "wp-includes/blocks/latest-comments.php",
+            88
+        ],
+        "wp-includes/blocks/latest-comments.php:90": [
+            "wp-includes/blocks/latest-comments.php",
+            90
+        ],
+        "wp-includes/comment-template.php:62": [
+            "wp-includes/comment-template.php",
+            62
+        ],
+        "wp-includes/comment-template.php:222": [
+            "wp-includes/comment-template.php",
+            222
+        ],
+        "wp-includes/comment-template.php:1953": [
+            "wp-includes/comment-template.php",
+            1953
+        ],
+        "wp-includes/feed.php:334": [
+            "wp-includes/feed.php",
+            334
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "add_permastruct",
+    "filename": "wp-includes/rewrite.php",
+    "docCommentLine": 190,
+    "startLine": 203,
+    "endLine": 215,
+    "calls": {
+        "wp-includes/class-wp-post-type.php:583": [
+            "wp-includes/class-wp-post-type.php",
+            583
+        ],
+        "wp-includes/class-wp-taxonomy.php:406": [
+            "wp-includes/class-wp-taxonomy.php",
+            406
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "filter_block_content",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 258,
+    "startLine": 271,
+    "endLine": 281,
+    "calls": {
+        "wp-includes/formatting.php:4924": [
+            "wp-includes/formatting.php",
+            4924
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

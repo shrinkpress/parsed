@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_post_mime_type_where",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 2855,
+    "startLine": 2866,
+    "endLine": 2910,
+    "calls": {
+        "wp-includes/class-wp-query.php:2269": [
+            "wp-includes/class-wp-query.php",
+            2269
+        ],
+        "wp-includes/post.php:2678": [
+            "wp-includes/post.php",
+            2678
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

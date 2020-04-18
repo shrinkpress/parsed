@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "_get_non_cached_ids",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6133,
+    "startLine": 6143,
+    "endLine": 6153,
+    "calls": {
+        "wp-includes/comment.php:3073": [
+            "wp-includes/comment.php",
+            3073
+        ],
+        "wp-includes/ms-network.php:132": [
+            "wp-includes/ms-network.php",
+            132
+        ],
+        "wp-includes/ms-site.php:346": [
+            "wp-includes/ms-site.php",
+            346
+        ],
+        "wp-includes/pluggable.php:125": [
+            "wp-includes/pluggable.php",
+            125
+        ],
+        "wp-includes/post.php:7023": [
+            "wp-includes/post.php",
+            7023
+        ],
+        "wp-includes/taxonomy.php:3659": [
+            "wp-includes/taxonomy.php",
+            3659
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

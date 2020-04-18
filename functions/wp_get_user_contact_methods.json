@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_user_contact_methods",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 2181,
+    "startLine": 2191,
+    "endLine": 2210,
+    "calls": {
+        "wp-admin/includes/user.php:109": [
+            "wp-admin/includes/user.php",
+            109
+        ],
+        "wp-admin/user-edit.php:543": [
+            "wp-admin/user-edit.php",
+            543
+        ],
+        "wp-includes/user.php:1843": [
+            "wp-includes/user.php",
+            1843
+        ],
+        "wp-includes/user.php:2178": [
+            "wp-includes/user.php",
+            2178
+        ],
+        "wp-includes/user.php:2224": [
+            "wp-includes/user.php",
+            2224
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

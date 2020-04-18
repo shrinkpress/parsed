@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "update_user_caches",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 1329,
+    "startLine": 1337,
+    "endLine": 1350,
+    "calls": {
+        "wp-includes/class-wp-user.php:252": [
+            "wp-includes/class-wp-user.php",
+            252
+        ],
+        "wp-includes/pluggable.php:137": [
+            "wp-includes/pluggable.php",
+            137
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

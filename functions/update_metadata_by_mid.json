@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "update_metadata_by_mid",
+    "filename": "wp-includes/meta.php",
+    "docCommentLine": 652,
+    "startLine": 665,
+    "endLine": 766,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:1623": [
+            "wp-admin/includes/ajax-actions.php",
+            1623
+        ],
+        "wp-admin/includes/post.php:1016": [
+            "wp-admin/includes/post.php",
+            1016
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:394": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            394
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:456": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            456
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

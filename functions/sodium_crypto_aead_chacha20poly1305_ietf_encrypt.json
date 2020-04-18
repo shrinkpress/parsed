@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_crypto_aead_chacha20poly1305_ietf_encrypt",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 279,
+    "startLine": 289,
+    "endLine": 292,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:741": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            741
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

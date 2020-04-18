@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:150": [
+            "wp-admin/includes/admin-filters.php",
+            150,
+            "list_pages",
+            "add_filter"
+        ]
+    },
+    "functionName": "_wp_privacy_settings_filter_draft_page_titles",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 1363,
+    "startLine": 1375,
+    "endLine": 1382,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

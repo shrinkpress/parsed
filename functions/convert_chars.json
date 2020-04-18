@@ -1,0 +1,92 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:136": [
+            "wp-includes/default-filters.php",
+            136,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":136,\"endLine\":136}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":136,\"endLine\":136}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:155": [
+            "wp-includes/default-filters.php",
+            155,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":155,\"endLine\":155}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":155,\"endLine\":155}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:161": [
+            "wp-includes/default-filters.php",
+            161,
+            "term_name_rss",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:169": [
+            "wp-includes/default-filters.php",
+            169,
+            "the_title",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:182": [
+            "wp-includes/default-filters.php",
+            182,
+            "the_excerpt",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:189": [
+            "wp-includes/default-filters.php",
+            189,
+            "the_post_thumbnail_caption",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:192": [
+            "wp-includes/default-filters.php",
+            192,
+            "comment_text",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:198": [
+            "wp-includes/default-filters.php",
+            198,
+            "comment_excerpt",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:219": [
+            "wp-includes/default-filters.php",
+            219,
+            "the_excerpt_rss",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:572": [
+            "wp-includes/default-filters.php",
+            572,
+            "the_excerpt_embed",
+            "add_filter"
+        ]
+    },
+    "functionName": "convert_chars",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 2351,
+    "startLine": 2360,
+    "endLine": 2370,
+    "calls": {
+        "wp-includes/deprecated.php:3577": [
+            "wp-includes/deprecated.php",
+            3577
+        ],
+        "wp-includes/feed.php:39": [
+            "wp-includes/feed.php",
+            39
+        ],
+        "wp-includes/feed.php:590": [
+            "wp-includes/feed.php",
+            590
+        ],
+        "wp-includes/feed.php:609": [
+            "wp-includes/feed.php",
+            609
+        ],
+        "wp-includes/general-template.php:1139": [
+            "wp-includes/general-template.php",
+            1139
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

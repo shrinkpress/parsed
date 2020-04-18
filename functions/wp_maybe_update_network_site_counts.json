@@ -1,0 +1,30 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:90": [
+            "wp-includes/ms-default-filters.php",
+            90,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"action\",\"attributes\":{\"startLine\":90,\"endLine\":90}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":90,\"endLine\":90}}",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_maybe_update_network_site_counts",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2328,
+    "startLine": 2339,
+    "endLine": 2357,
+    "calls": {
+        "wp-includes/ms-site.php:1132": [
+            "wp-includes/ms-site.php",
+            1132
+        ],
+        "wp-includes/ms-site.php:1137": [
+            "wp-includes/ms-site.php",
+            1137
+        ],
+        "wp-includes/ms-site.php:1138": [
+            "wp-includes/ms-site.php",
+            1138
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

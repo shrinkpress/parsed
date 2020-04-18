@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "the_title",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 32,
+    "startLine": 42,
+    "endLine": 56,
+    "calls": {
+        "wp-includes/theme-compat/embed-content.php:89": [
+            "wp-includes/theme-compat/embed-content.php",
+            89
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

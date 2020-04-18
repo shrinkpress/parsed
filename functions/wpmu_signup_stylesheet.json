@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-signup.php:78": [
+            "wp-signup.php",
+            78,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wpmu_signup_stylesheet",
+    "filename": "wp-signup.php",
+    "docCommentLine": 52,
+    "startLine": 57,
+    "endLine": 76,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

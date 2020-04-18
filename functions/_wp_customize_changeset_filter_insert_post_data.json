@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:87": [
+            "wp-includes/default-filters.php",
+            87,
+            "wp_insert_post_data",
+            "add_filter"
+        ]
+    },
+    "functionName": "_wp_customize_changeset_filter_insert_post_data",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 3135,
+    "startLine": 3148,
+    "endLine": 3157,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

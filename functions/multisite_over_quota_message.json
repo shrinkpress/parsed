@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:99": [
+            "wp-includes/ms-default-filters.php",
+            99,
+            "upload_ui_over_quota",
+            "add_action"
+        ]
+    },
+    "functionName": "multisite_over_quota_message",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 3032,
+    "startLine": 3037,
+    "endLine": 3043,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

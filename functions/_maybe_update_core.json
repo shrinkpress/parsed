@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/class-wp-customize-manager.php:374": [
+            "wp-includes/class-wp-customize-manager.php",
+            374,
+            "admin_init",
+            "remove_action"
+        ],
+        "wp-includes/update.php:816": [
+            "wp-includes/update.php",
+            816,
+            "admin_init",
+            "add_action"
+        ]
+    },
+    "functionName": "_maybe_update_core",
+    "filename": "wp-includes/update.php",
+    "docCommentLine": 723,
+    "startLine": 730,
+    "endLine": 742,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

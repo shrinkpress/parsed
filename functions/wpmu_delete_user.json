@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wpmu_delete_user",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 127,
+    "startLine": 139,
+    "endLine": 206,
+    "calls": {
+        "wp-admin/network/users.php:174": [
+            "wp-admin/network/users.php",
+            174
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

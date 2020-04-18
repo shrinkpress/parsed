@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "_get_cron_array",
+    "filename": "wp-includes/cron.php",
+    "docCommentLine": 923,
+    "startLine": 931,
+    "endLine": 944,
+    "calls": {
+        "wp-admin/includes/class-wp-site-health.php:2029": [
+            "wp-admin/includes/class-wp-site-health.php",
+            2029
+        ],
+        "wp-admin/includes/upgrade.php:2010": [
+            "wp-admin/includes/upgrade.php",
+            2010
+        ],
+        "wp-includes/cron.php:95": [
+            "wp-includes/cron.php",
+            95
+        ],
+        "wp-includes/cron.php:224": [
+            "wp-includes/cron.php",
+            224
+        ],
+        "wp-includes/cron.php:370": [
+            "wp-includes/cron.php",
+            370
+        ],
+        "wp-includes/cron.php:432": [
+            "wp-includes/cron.php",
+            432
+        ],
+        "wp-includes/cron.php:488": [
+            "wp-includes/cron.php",
+            488
+        ],
+        "wp-includes/cron.php:561": [
+            "wp-includes/cron.php",
+            561
+        ],
+        "wp-includes/cron.php:896": [
+            "wp-includes/cron.php",
+            896
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

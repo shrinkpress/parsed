@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:286": [
+            "wp-includes/default-filters.php",
+            286,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wlwmanifest_link",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3059,
+    "startLine": 3065,
+    "endLine": 3067,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

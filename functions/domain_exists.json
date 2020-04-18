@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "domain_exists",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 1471,
+    "startLine": 1487,
+    "endLine": 1514,
+    "calls": {
+        "wp-includes/ms-deprecated.php:403": [
+            "wp-includes/ms-deprecated.php",
+            403
+        ],
+        "wp-includes/ms-functions.php:682": [
+            "wp-includes/ms-functions.php",
+            682
+        ],
+        "wp-includes/ms-functions.php:1314": [
+            "wp-includes/ms-functions.php",
+            1314
+        ],
+        "wp-includes/ms-site.php:635": [
+            "wp-includes/ms-site.php",
+            635
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

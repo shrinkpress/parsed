@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_privacy_exports_dir",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 6993,
+    "startLine": 7002,
+    "endLine": 7014,
+    "calls": {
+        "wp-admin/includes/privacy-tools.php:305": [
+            "wp-admin/includes/privacy-tools.php",
+            305
+        ],
+        "wp-includes/functions.php:7066": [
+            "wp-includes/functions.php",
+            7066
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

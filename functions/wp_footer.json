@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_footer",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 2882,
+    "startLine": 2889,
+    "endLine": 2896,
+    "calls": {
+        "wp-includes/theme-compat/footer.php:38": [
+            "wp-includes/theme-compat/footer.php",
+            38
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

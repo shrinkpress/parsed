@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "media_send_to_editor",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 261,
+    "startLine": 268,
+    "endLine": 276,
+    "calls": {
+        "wp-admin/includes/media.php:833": [
+            "wp-admin/includes/media.php",
+            833
+        ],
+        "wp-admin/includes/media.php:929": [
+            "wp-admin/includes/media.php",
+            929
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

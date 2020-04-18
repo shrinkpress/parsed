@@ -1,0 +1,43 @@
+{
+    "callbacks": [],
+    "functionName": "_nx_noop",
+    "filename": "wp-includes/l10n.php",
+    "docCommentLine": 515,
+    "startLine": 550,
+    "endLine": 560,
+    "calls": {
+        "wp-admin/includes/class-wp-comments-list-table.php:221": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            221
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:228": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            228
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:235": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            235
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:242": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            242
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:249": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            249
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:256": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            256
+        ],
+        "wp-admin/includes/class-wp-ms-sites-list-table.php:223": [
+            "wp-admin/includes/class-wp-ms-sites-list-table.php",
+            223
+        ],
+        "wp-admin/includes/class-wp-ms-sites-list-table.php:248": [
+            "wp-admin/includes/class-wp-ms-sites-list-table.php",
+            248
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

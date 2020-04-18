@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_remove_targeted_link_rel_filters",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 3251,
+    "startLine": 3256,
+    "endLine": 3272,
+    "calls": {
+        "wp-includes/class-wp-customize-manager.php:2938": [
+            "wp-includes/class-wp-customize-manager.php",
+            2938
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

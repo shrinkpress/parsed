@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_maintenance",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 171,
+    "startLine": 187,
+    "endLine": 232,
+    "calls": {
+        "wp-settings.php:70": [
+            "wp-settings.php",
+            70
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

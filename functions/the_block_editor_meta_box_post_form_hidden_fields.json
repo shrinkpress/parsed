@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "the_block_editor_meta_box_post_form_hidden_fields",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 2354,
+    "startLine": 2361,
+    "endLine": 2425,
+    "calls": {
+        "wp-admin/includes/post.php:2251": [
+            "wp-admin/includes/post.php",
+            2251
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

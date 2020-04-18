@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_lastpostmodified",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6404,
+    "startLine": 6420,
+    "endLine": 6455,
+    "calls": {
+        "wp-includes/class-wp.php:442": [
+            "wp-includes/class-wp.php",
+            442
+        ],
+        "wp-includes/feed.php:690": [
+            "wp-includes/feed.php",
+            690
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

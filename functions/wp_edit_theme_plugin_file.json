@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_edit_theme_plugin_file",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 342,
+    "startLine": 363,
+    "endLine": 622,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:4665": [
+            "wp-admin/includes/ajax-actions.php",
+            4665
+        ],
+        "wp-admin/plugin-editor.php:83": [
+            "wp-admin/plugin-editor.php",
+            83
+        ],
+        "wp-admin/theme-editor.php:121": [
+            "wp-admin/theme-editor.php",
+            121
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

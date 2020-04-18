@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:96": [
+            "wp-includes/ms-default-filters.php",
+            96,
+            "import_upload_size_limit",
+            "add_filter"
+        ]
+    },
+    "functionName": "fix_import_form_size",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 263,
+    "startLine": 271,
+    "endLine": 277,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

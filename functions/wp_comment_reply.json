@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_comment_reply",
+    "filename": "wp-admin/includes/template.php",
+    "docCommentLine": 388,
+    "startLine": 400,
+    "endLine": 523,
+    "calls": {
+        "wp-admin/edit-comments.php:365": [
+            "wp-admin/edit-comments.php",
+            365
+        ],
+        "wp-admin/edit-form-advanced.php:723": [
+            "wp-admin/edit-form-advanced.php",
+            723
+        ],
+        "wp-admin/includes/dashboard.php:1025": [
+            "wp-admin/includes/dashboard.php",
+            1025
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

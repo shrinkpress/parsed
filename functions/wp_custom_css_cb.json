@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:297": [
+            "wp-includes/default-filters.php",
+            297,
+            "wp_head",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_custom_css_cb",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 1716,
+    "startLine": 1721,
+    "endLine": 1731,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

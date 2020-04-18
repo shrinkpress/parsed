@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "extract_from_markers",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 58,
+    "startLine": 67,
+    "endLine": 93,
+    "calls": {
+        "wp-admin/options-permalink.php:102": [
+            "wp-admin/options-permalink.php",
+            102
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

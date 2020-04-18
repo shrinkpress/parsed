@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_image_send_to_editor",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 117,
+    "startLine": 133,
+    "endLine": 169,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:3224": [
+            "wp-admin/includes/ajax-actions.php",
+            3224
+        ],
+        "wp-admin/includes/media.php:1329": [
+            "wp-admin/includes/media.php",
+            1329
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

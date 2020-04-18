@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_start_object_cache",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 519,
+    "startLine": 530,
+    "endLine": 588,
+    "calls": {
+        "wp-includes/ms-settings.php:104": [
+            "wp-includes/ms-settings.php",
+            104
+        ],
+        "wp-settings.php:123": [
+            "wp-settings.php",
+            123
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_credits_section_title",
+    "filename": "wp-admin/includes/credits.php",
+    "docCommentLine": 80,
+    "startLine": 87,
+    "endLine": 106,
+    "calls": {
+        "wp-admin/credits.php:94": [
+            "wp-admin/credits.php",
+            94
+        ],
+        "wp-admin/credits.php:104": [
+            "wp-admin/credits.php",
+            104
+        ],
+        "wp-admin/credits.php:114": [
+            "wp-admin/credits.php",
+            114
+        ],
+        "wp-admin/credits.php:125": [
+            "wp-admin/credits.php",
+            125
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

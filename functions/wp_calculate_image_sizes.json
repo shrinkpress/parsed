@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_calculate_image_sizes",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 1368,
+    "startLine": 1382,
+    "endLine": 1420,
+    "calls": {
+        "wp-includes/media.php:1009": [
+            "wp-includes/media.php",
+            1009
+        ],
+        "wp-includes/media.php:1365": [
+            "wp-includes/media.php",
+            1365
+        ],
+        "wp-includes/media.php:1542": [
+            "wp-includes/media.php",
+            1542
+        ],
+        "wp-includes/theme.php:1127": [
+            "wp-includes/theme.php",
+            1127
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

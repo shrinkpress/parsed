@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:242": [
+            "wp-includes/default-filters.php",
+            242,
+            "option_siteurl",
+            "add_filter"
+        ],
+        "wp-includes/ms-default-filters.php:115": [
+            "wp-includes/ms-default-filters.php",
+            115,
+            "option_siteurl",
+            "remove_filter"
+        ]
+    },
+    "functionName": "_config_wp_siteurl",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 4085,
+    "startLine": 4100,
+    "endLine": 4105,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

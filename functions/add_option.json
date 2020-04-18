@@ -1,0 +1,59 @@
+{
+    "callbacks": [],
+    "functionName": "add_option",
+    "filename": "wp-includes/option.php",
+    "docCommentLine": 439,
+    "startLine": 462,
+    "endLine": 549,
+    "calls": {
+        "wp-admin/includes/upgrade.php:956": [
+            "wp-admin/includes/upgrade.php",
+            956
+        ],
+        "wp-admin/includes/upgrade.php:1796": [
+            "wp-admin/includes/upgrade.php",
+            1796
+        ],
+        "wp-admin/user-new.php:90": [
+            "wp-admin/user-new.php",
+            90
+        ],
+        "wp-includes/ms-blogs.php:402": [
+            "wp-includes/ms-blogs.php",
+            402
+        ],
+        "wp-includes/ms-blogs.php:406": [
+            "wp-includes/ms-blogs.php",
+            406
+        ],
+        "wp-includes/option.php:367": [
+            "wp-includes/option.php",
+            367
+        ],
+        "wp-includes/option.php:798": [
+            "wp-includes/option.php",
+            798
+        ],
+        "wp-includes/option.php:800": [
+            "wp-includes/option.php",
+            800
+        ],
+        "wp-includes/option.php:808": [
+            "wp-includes/option.php",
+            808
+        ],
+        "wp-includes/option.php:809": [
+            "wp-includes/option.php",
+            809
+        ],
+        "wp-includes/option.php:1388": [
+            "wp-includes/option.php",
+            1388
+        ],
+        "wp-includes/theme.php:791": [
+            "wp-includes/theme.php",
+            791
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

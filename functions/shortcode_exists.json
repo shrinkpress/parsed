@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "shortcode_exists",
+    "filename": "wp-includes/shortcodes.php",
+    "docCommentLine": 114,
+    "startLine": 124,
+    "endLine": 127,
+    "calls": {
+        "wp-includes/shortcodes.php:145": [
+            "wp-includes/shortcodes.php",
+            145
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_fetch_remote_file",
+    "filename": "wp-includes/rss.php",
+    "docCommentLine": 539,
+    "startLine": 550,
+    "endLine": 581,
+    "calls": {
+        "wp-includes/rss.php:424": [
+            "wp-includes/rss.php",
+            424
+        ],
+        "wp-includes/rss.php:480": [
+            "wp-includes/rss.php",
+            480
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

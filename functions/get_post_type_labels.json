@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_type_labels",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 1614,
+    "startLine": 1681,
+    "endLine": 1739,
+    "calls": {
+        "wp-includes/class-wp-post-type.php:515": [
+            "wp-includes/class-wp-post-type.php",
+            515
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

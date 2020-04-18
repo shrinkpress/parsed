@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_list_post_revisions",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 1899,
+    "startLine": 1910,
+    "endLine": 1946,
+    "calls": {
+        "wp-admin/includes/meta-boxes.php:903": [
+            "wp-admin/includes/meta-boxes.php",
+            903
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

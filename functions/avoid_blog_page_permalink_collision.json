@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ms-admin-filters.php:29": [
+            "wp-admin/includes/ms-admin-filters.php",
+            29,
+            "wp_insert_post_data",
+            "add_filter"
+        ]
+    },
+    "functionName": "avoid_blog_page_permalink_collision",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 712,
+    "startLine": 724,
+    "endLine": 748,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

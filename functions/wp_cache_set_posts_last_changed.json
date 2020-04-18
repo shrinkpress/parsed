@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:102": [
+            "wp-includes/default-filters.php",
+            102,
+            "added_post_meta",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:103": [
+            "wp-includes/default-filters.php",
+            103,
+            "updated_post_meta",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:104": [
+            "wp-includes/default-filters.php",
+            104,
+            "deleted_post_meta",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_cache_set_posts_last_changed",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 7122,
+    "startLine": 7127,
+    "endLine": 7129,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

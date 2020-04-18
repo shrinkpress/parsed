@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "find_core_auto_update",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 74,
+    "startLine": 83,
+    "endLine": 107,
+    "calls": {
+        "wp-admin/includes/class-wp-automatic-updater.php:442": [
+            "wp-admin/includes/class-wp-automatic-updater.php",
+            442
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

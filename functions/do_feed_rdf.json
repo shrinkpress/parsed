@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:335": [
+            "wp-includes/default-filters.php",
+            335,
+            "do_feed_rdf",
+            "add_action"
+        ]
+    },
+    "functionName": "do_feed_rdf",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 1546,
+    "startLine": 1553,
+    "endLine": 1555,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "has_term_meta",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 1293,
+    "startLine": 1303,
+    "endLine": 1312,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:418": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            418
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

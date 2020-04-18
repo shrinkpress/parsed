@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "get_category_parents",
+    "filename": "wp-includes/category-template.php",
+    "docCommentLine": 33,
+    "startLine": 46,
+    "endLine": 61,
+    "calls": {
+        "wp-includes/category-template.php:165": [
+            "wp-includes/category-template.php",
+            165
+        ],
+        "wp-includes/category-template.php:172": [
+            "wp-includes/category-template.php",
+            172
+        ],
+        "wp-includes/category-template.php:191": [
+            "wp-includes/category-template.php",
+            191
+        ],
+        "wp-includes/category-template.php:198": [
+            "wp-includes/category-template.php",
+            198
+        ],
+        "wp-includes/link-template.php:195": [
+            "wp-includes/link-template.php",
+            195
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

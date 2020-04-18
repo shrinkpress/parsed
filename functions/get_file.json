@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_file",
+    "filename": "wp-admin/includes/noop.php",
+    "docCommentLine": 0,
+    "startLine": 96,
+    "endLine": 105,
+    "calls": {
+        "wp-admin/load-scripts.php:59": [
+            "wp-admin/load-scripts.php",
+            59
+        ],
+        "wp-admin/load-styles.php:70": [
+            "wp-admin/load-styles.php",
+            70
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

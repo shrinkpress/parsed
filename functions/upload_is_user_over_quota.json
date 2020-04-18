@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "upload_is_user_over_quota",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 208,
+    "startLine": 216,
+    "endLine": 239,
+    "calls": {
+        "wp-admin/includes/class-wp-importer.php:240": [
+            "wp-admin/includes/class-wp-importer.php",
+            240
+        ],
+        "wp-admin/includes/ms.php:44": [
+            "wp-admin/includes/ms.php",
+            44
+        ],
+        "wp-admin/includes/ms.php:272": [
+            "wp-admin/includes/ms.php",
+            272
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:6314": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            6314
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:924": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
+            924
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:277": [
+            "wp-includes/default-filters.php",
+            277,
+            "rest_authentication_errors",
+            "add_filter"
+        ]
+    },
+    "functionName": "rest_cookie_check_errors",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 863,
+    "startLine": 879,
+    "endLine": 921,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

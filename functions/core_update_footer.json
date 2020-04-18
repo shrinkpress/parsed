@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:120": [
+            "wp-admin/includes/admin-filters.php",
+            120,
+            "update_footer",
+            "add_filter"
+        ]
+    },
+    "functionName": "core_update_footer",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 206,
+    "startLine": 210,
+    "endLine": 255,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

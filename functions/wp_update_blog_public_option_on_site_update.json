@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:54": [
+            "wp-includes/ms-default-filters.php",
+            54,
+            "update_blog_public",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_update_blog_public_option_on_site_update",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 1283,
+    "startLine": 1291,
+    "endLine": 1299,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,159 @@
+{
+    "callbacks": [],
+    "functionName": "wp_cache_add",
+    "filename": "wp-includes/cache.php",
+    "docCommentLine": 11,
+    "startLine": 27,
+    "endLine": 31,
+    "calls": {
+        "wp-admin/includes/taxonomy.php:267": [
+            "wp-admin/includes/taxonomy.php",
+            267
+        ],
+        "wp-admin/includes/template.php:348": [
+            "wp-admin/includes/template.php",
+            348
+        ],
+        "wp-includes/bookmark.php:32": [
+            "wp-includes/bookmark.php",
+            32
+        ],
+        "wp-includes/bookmark.php:43": [
+            "wp-includes/bookmark.php",
+            43
+        ],
+        "wp-includes/category-template.php:1241": [
+            "wp-includes/category-template.php",
+            1241
+        ],
+        "wp-includes/class-wp-comment-query.php:429": [
+            "wp-includes/class-wp-comment-query.php",
+            429
+        ],
+        "wp-includes/class-wp-comment.php:188": [
+            "wp-includes/class-wp-comment.php",
+            188
+        ],
+        "wp-includes/class-wp-network-query.php:247": [
+            "wp-includes/class-wp-network-query.php",
+            247
+        ],
+        "wp-includes/class-wp-network.php:111": [
+            "wp-includes/class-wp-network.php",
+            111
+        ],
+        "wp-includes/class-wp-network.php:272": [
+            "wp-includes/class-wp-network.php",
+            272
+        ],
+        "wp-includes/class-wp-network.php:365": [
+            "wp-includes/class-wp-network.php",
+            365
+        ],
+        "wp-includes/class-wp-post.php:249": [
+            "wp-includes/class-wp-post.php",
+            249
+        ],
+        "wp-includes/class-wp-site-query.php:338": [
+            "wp-includes/class-wp-site-query.php",
+            338
+        ],
+        "wp-includes/class-wp-site.php:172": [
+            "wp-includes/class-wp-site.php",
+            172
+        ],
+        "wp-includes/class-wp-term-query.php:730": [
+            "wp-includes/class-wp-term-query.php",
+            730
+        ],
+        "wp-includes/class-wp-term-query.php:835": [
+            "wp-includes/class-wp-term-query.php",
+            835
+        ],
+        "wp-includes/class-wp-term.php:179": [
+            "wp-includes/class-wp-term.php",
+            179
+        ],
+        "wp-includes/class-wp-theme.php:686": [
+            "wp-includes/class-wp-theme.php",
+            686
+        ],
+        "wp-includes/comment.php:3045": [
+            "wp-includes/comment.php",
+            3045
+        ],
+        "wp-includes/deprecated.php:1297": [
+            "wp-includes/deprecated.php",
+            1297
+        ],
+        "wp-includes/meta.php:966": [
+            "wp-includes/meta.php",
+            966
+        ],
+        "wp-includes/ms-load.php:333": [
+            "wp-includes/ms-load.php",
+            333
+        ],
+        "wp-includes/ms-network.php:114": [
+            "wp-includes/ms-network.php",
+            114
+        ],
+        "wp-includes/ms-site.php:370": [
+            "wp-includes/ms-site.php",
+            370
+        ],
+        "wp-includes/ms-site.php:371": [
+            "wp-includes/ms-site.php",
+            371
+        ],
+        "wp-includes/option.php:105": [
+            "wp-includes/option.php",
+            105
+        ],
+        "wp-includes/option.php:231": [
+            "wp-includes/option.php",
+            231
+        ],
+        "wp-includes/post.php:4846": [
+            "wp-includes/post.php",
+            4846
+        ],
+        "wp-includes/post.php:6141": [
+            "wp-includes/post.php",
+            6141
+        ],
+        "wp-includes/post.php:6167": [
+            "wp-includes/post.php",
+            6167
+        ],
+        "wp-includes/post.php:6534": [
+            "wp-includes/post.php",
+            6534
+        ],
+        "wp-includes/taxonomy.php:3429": [
+            "wp-includes/taxonomy.php",
+            3429
+        ],
+        "wp-includes/taxonomy.php:3450": [
+            "wp-includes/taxonomy.php",
+            3450
+        ],
+        "wp-includes/user.php:1346": [
+            "wp-includes/user.php",
+            1346
+        ],
+        "wp-includes/user.php:1347": [
+            "wp-includes/user.php",
+            1347
+        ],
+        "wp-includes/user.php:1348": [
+            "wp-includes/user.php",
+            1348
+        ],
+        "wp-includes/user.php:1349": [
+            "wp-includes/user.php",
+            1349
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

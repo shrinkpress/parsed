@@ -1,0 +1,22 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:508": [
+            "wp-includes/default-filters.php",
+            508,
+            "wp_default_styles",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_default_styles",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 1980,
+    "startLine": 1995,
+    "endLine": 2222,
+    "calls": {
+        "wp-admin/load-styles.php:45": [
+            "wp-admin/load-styles.php",
+            45
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

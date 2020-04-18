@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_image_matches_ratio",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 672,
+    "startLine": 683,
+    "endLine": 700,
+    "calls": {
+        "wp-includes/media.php:767": [
+            "wp-includes/media.php",
+            767
+        ],
+        "wp-includes/media.php:769": [
+            "wp-includes/media.php",
+            769
+        ],
+        "wp-includes/media.php:1280": [
+            "wp-includes/media.php",
+            1280
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

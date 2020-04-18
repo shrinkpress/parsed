@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_rotate_image_resource",
+    "filename": "wp-admin/includes/image-edit.php",
+    "docCommentLine": 408,
+    "startLine": 420,
+    "endLine": 430,
+    "calls": {
+        "wp-admin/includes/image-edit.php:583": [
+            "wp-admin/includes/image-edit.php",
+            583
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

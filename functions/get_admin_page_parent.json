@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "get_admin_page_parent",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 1796,
+    "startLine": 1809,
+    "endLine": 1869,
+    "calls": {
+        "wp-admin/includes/plugin.php:1890": [
+            "wp-admin/includes/plugin.php",
+            1890
+        ],
+        "wp-admin/includes/plugin.php:1982": [
+            "wp-admin/includes/plugin.php",
+            1982
+        ],
+        "wp-admin/includes/plugin.php:2015": [
+            "wp-admin/includes/plugin.php",
+            2015
+        ],
+        "wp-admin/menu-header.php:50": [
+            "wp-admin/menu-header.php",
+            50
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_privacy_resend_request",
+    "filename": "wp-admin/includes/privacy-tools.php",
+    "docCommentLine": 9,
+    "startLine": 18,
+    "endLine": 35,
+    "calls": {
+        "wp-admin/includes/class-wp-privacy-requests-table.php:245": [
+            "wp-admin/includes/class-wp-privacy-requests-table.php",
+            245
+        ],
+        "wp-admin/includes/privacy-tools.php:77": [
+            "wp-admin/includes/privacy-tools.php",
+            77
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

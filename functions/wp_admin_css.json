@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_admin_css",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 4433,
+    "startLine": 4453,
+    "endLine": 4495,
+    "calls": {
+        "wp-admin/install.php:74": [
+            "wp-admin/install.php",
+            74
+        ],
+        "wp-admin/maint/repair.php:21": [
+            "wp-admin/maint/repair.php",
+            21
+        ],
+        "wp-admin/setup-config.php:113": [
+            "wp-admin/setup-config.php",
+            113
+        ],
+        "wp-admin/upgrade.php:66": [
+            "wp-admin/upgrade.php",
+            66
+        ],
+        "wp-admin/upgrade.php:67": [
+            "wp-admin/upgrade.php",
+            67
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

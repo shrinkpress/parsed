@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_original_referer_field",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 1810,
+    "startLine": 1824,
+    "endLine": 1834,
+    "calls": {
+        "wp-admin/edit-form-advanced.php:475": [
+            "wp-admin/edit-form-advanced.php",
+            475
+        ],
+        "wp-admin/edit-form-comment.php:222": [
+            "wp-admin/edit-form-comment.php",
+            222
+        ],
+        "wp-admin/edit-tag-form.php:108": [
+            "wp-admin/edit-tag-form.php",
+            108
+        ],
+        "wp-admin/includes/post.php:2406": [
+            "wp-admin/includes/post.php",
+            2406
+        ],
+        "wp-admin/media.php:160": [
+            "wp-admin/media.php",
+            160
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

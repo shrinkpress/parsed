@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_kses_array_lc",
+    "filename": "wp-includes/kses.php",
+    "docCommentLine": 1615,
+    "startLine": 1623,
+    "endLine": 1637,
+    "calls": {
+        "wp-includes/kses.php:708": [
+            "wp-includes/kses.php",
+            708
+        ],
+        "wp-includes/kses.php:709": [
+            "wp-includes/kses.php",
+            709
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

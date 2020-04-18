@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "dynamic_sidebar",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 654,
+    "startLine": 669,
+    "endLine": 837,
+    "calls": {
+        "wp-admin/includes/widgets.php:117": [
+            "wp-admin/includes/widgets.php",
+            117
+        ],
+        "wp-includes/class-wp-customize-widgets.php:1862": [
+            "wp-includes/class-wp-customize-widgets.php",
+            1862
+        ],
+        "wp-includes/theme-compat/sidebar.php:22": [
+            "wp-includes/theme-compat/sidebar.php",
+            22
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

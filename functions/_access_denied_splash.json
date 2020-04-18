@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ms-admin-filters.php:17": [
+            "wp-admin/includes/ms-admin-filters.php",
+            17,
+            "admin_page_access_denied",
+            "add_action"
+        ]
+    },
+    "functionName": "_access_denied_splash",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 561,
+    "startLine": 568,
+    "endLine": 613,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

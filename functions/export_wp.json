@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "export_wp",
+    "filename": "wp-admin/includes/export.php",
+    "docCommentLine": 18,
+    "startLine": 56,
+    "endLine": 670,
+    "calls": {
+        "wp-admin/export.php:121": [
+            "wp-admin/export.php",
+            121
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,72 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:210": [
+            "wp-includes/default-filters.php",
+            210,
+            "widget_text_content",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:520": [
+            "wp-includes/default-filters.php",
+            520,
+            "the_content",
+            "add_filter"
+        ],
+        "wp-includes/widgets/class-wp-widget-text.php:248": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            248,
+            "widget_text",
+            "has_filter"
+        ],
+        "wp-includes/widgets/class-wp-widget-text.php:251": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            251,
+            "widget_text",
+            "remove_filter"
+        ],
+        "wp-includes/widgets/class-wp-widget-text.php:308": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            308,
+            "widget_text_content",
+            "has_filter"
+        ],
+        "wp-includes/widgets/class-wp-widget-text.php:322": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            322,
+            "widget_text",
+            "add_filter"
+        ]
+    },
+    "functionName": "do_shortcode",
+    "filename": "wp-includes/shortcodes.php",
+    "docCommentLine": 162,
+    "startLine": 177,
+    "endLine": 205,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:3674": [
+            "wp-admin/includes/ajax-actions.php",
+            3674
+        ],
+        "wp-admin/includes/ajax-actions.php:3747": [
+            "wp-admin/includes/ajax-actions.php",
+            3747
+        ],
+        "wp-includes/class-wp-embed.php:69": [
+            "wp-includes/class-wp-embed.php",
+            69
+        ],
+        "wp-includes/media.php:1741": [
+            "wp-includes/media.php",
+            1741
+        ],
+        "wp-includes/media.php:1754": [
+            "wp-includes/media.php",
+            1754
+        ],
+        "wp-includes/widgets/class-wp-widget-text.php:312": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            312
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:389": [
+            "wp-includes/default-filters.php",
+            389,
+            "template_redirect",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_old_slug_redirect",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 972,
+    "startLine": 979,
+    "endLine": 1047,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wpmu_signup_user",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 804,
+    "startLine": 818,
+    "endLine": 865,
+    "calls": {
+        "wp-admin/user-new.php:189": [
+            "wp-admin/user-new.php",
+            189
+        ],
+        "wp-signup.php:650": [
+            "wp-signup.php",
+            650
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

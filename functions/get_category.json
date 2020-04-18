@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_category",
+    "filename": "wp-includes/category.php",
+    "docCommentLine": 69,
+    "startLine": 92,
+    "endLine": 102,
+    "calls": {
+        "wp-includes/deprecated.php:1106": [
+            "wp-includes/deprecated.php",
+            1106
+        ],
+        "wp-includes/deprecated.php:1263": [
+            "wp-includes/deprecated.php",
+            1263
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

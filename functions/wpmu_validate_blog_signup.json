@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wpmu_validate_blog_signup",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 573,
+    "startLine": 597,
+    "endLine": 736,
+    "calls": {
+        "wp-signup.php:239": [
+            "wp-signup.php",
+            239
+        ],
+        "wp-signup.php:769": [
+            "wp-signup.php",
+            769
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "get_others_unpublished_posts",
+    "filename": "wp-admin/includes/deprecated.php",
+    "docCommentLine": 670,
+    "startLine": 684,
+    "endLine": 706,
+    "calls": {
+        "wp-admin/includes/deprecated.php:720": [
+            "wp-admin/includes/deprecated.php",
+            720
+        ],
+        "wp-admin/includes/deprecated.php:735": [
+            "wp-admin/includes/deprecated.php",
+            735
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

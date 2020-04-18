@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:56": [
+            "wp-admin/includes/admin-filters.php",
+            56,
+            "update_option_home",
+            "add_action"
+        ],
+        "wp-admin/includes/admin-filters.php:57": [
+            "wp-admin/includes/admin-filters.php",
+            57,
+            "update_option_siteurl",
+            "add_action"
+        ],
+        "wp-admin/includes/admin-filters.php:58": [
+            "wp-admin/includes/admin-filters.php",
+            58,
+            "update_option_page_on_front",
+            "add_action"
+        ]
+    },
+    "functionName": "update_home_siteurl",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 503,
+    "startLine": 511,
+    "endLine": 521,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

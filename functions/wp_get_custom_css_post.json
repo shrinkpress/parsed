@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_custom_css_post",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 1733,
+    "startLine": 1741,
+    "endLine": 1782,
+    "calls": {
+        "wp-includes/customize/class-wp-customize-custom-css-setting.php:131": [
+            "wp-includes/customize/class-wp-customize-custom-css-setting.php",
+            131
+        ],
+        "wp-includes/theme.php:1799": [
+            "wp-includes/theme.php",
+            1799
+        ],
+        "wp-includes/theme.php:1892": [
+            "wp-includes/theme.php",
+            1892
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

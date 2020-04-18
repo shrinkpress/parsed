@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_the_title_rss",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 146,
+    "startLine": 153,
+    "endLine": 165,
+    "calls": {
+        "wp-includes/feed-atom-comments.php:34": [
+            "wp-includes/feed-atom-comments.php",
+            34
+        ],
+        "wp-includes/feed-rss2-comments.php:39": [
+            "wp-includes/feed-rss2-comments.php",
+            39
+        ],
+        "wp-includes/feed.php:173": [
+            "wp-includes/feed.php",
+            173
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

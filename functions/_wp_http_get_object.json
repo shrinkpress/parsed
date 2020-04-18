@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_http_get_object",
+    "filename": "wp-includes/http.php",
+    "docCommentLine": 12,
+    "startLine": 22,
+    "endLine": 29,
+    "calls": {
+        "wp-includes/http.php:48": [
+            "wp-includes/http.php",
+            48
+        ],
+        "wp-includes/http.php:69": [
+            "wp-includes/http.php",
+            69
+        ],
+        "wp-includes/http.php:90": [
+            "wp-includes/http.php",
+            90
+        ],
+        "wp-includes/http.php:111": [
+            "wp-includes/http.php",
+            111
+        ],
+        "wp-includes/http.php:146": [
+            "wp-includes/http.php",
+            146
+        ],
+        "wp-includes/http.php:163": [
+            "wp-includes/http.php",
+            163
+        ],
+        "wp-includes/http.php:180": [
+            "wp-includes/http.php",
+            180
+        ],
+        "wp-includes/http.php:197": [
+            "wp-includes/http.php",
+            197
+        ],
+        "wp-includes/http.php:365": [
+            "wp-includes/http.php",
+            365
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

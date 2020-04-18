@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_restore_image",
+    "filename": "wp-admin/includes/image-edit.php",
+    "docCommentLine": 659,
+    "startLine": 667,
+    "endLine": 747,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2609": [
+            "wp-admin/includes/ajax-actions.php",
+            2609
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

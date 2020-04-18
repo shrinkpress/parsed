@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "flush_rewrite_rules",
+    "filename": "wp-includes/rewrite.php",
+    "docCommentLine": 264,
+    "startLine": 274,
+    "endLine": 280,
+    "calls": {
+        "wp-admin/admin.php:39": [
+            "wp-admin/admin.php",
+            39
+        ],
+        "wp-admin/admin.php:351": [
+            "wp-admin/admin.php",
+            351
+        ],
+        "wp-admin/includes/misc.php:519": [
+            "wp-admin/includes/misc.php",
+            519
+        ],
+        "wp-admin/includes/schema.php:1055": [
+            "wp-admin/includes/schema.php",
+            1055
+        ],
+        "wp-admin/includes/upgrade.php:99": [
+            "wp-admin/includes/upgrade.php",
+            99
+        ],
+        "wp-admin/options-permalink.php:172": [
+            "wp-admin/options-permalink.php",
+            172
+        ],
+        "wp-includes/theme.php:2969": [
+            "wp-includes/theme.php",
+            2969
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

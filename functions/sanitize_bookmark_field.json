@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "sanitize_bookmark_field",
+    "filename": "wp-includes/bookmark.php",
+    "docCommentLine": 374,
+    "startLine": 398,
+    "endLine": 449,
+    "calls": {
+        "wp-includes/bookmark-template.php:81": [
+            "wp-includes/bookmark-template.php",
+            81
+        ],
+        "wp-includes/bookmark-template.php:82": [
+            "wp-includes/bookmark-template.php",
+            82
+        ],
+        "wp-includes/bookmark-template.php:142": [
+            "wp-includes/bookmark-template.php",
+            142
+        ],
+        "wp-includes/bookmark.php:92": [
+            "wp-includes/bookmark.php",
+            92
+        ],
+        "wp-includes/bookmark.php:362": [
+            "wp-includes/bookmark.php",
+            362
+        ],
+        "wp-includes/bookmark.php:366": [
+            "wp-includes/bookmark.php",
+            366
+        ],
+        "wp-includes/deprecated.php:957": [
+            "wp-includes/deprecated.php",
+            957
+        ],
+        "wp-includes/deprecated.php:958": [
+            "wp-includes/deprecated.php",
+            958
+        ],
+        "wp-includes/deprecated.php:1078": [
+            "wp-includes/deprecated.php",
+            1078
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "update_term_cache",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 3434,
+    "startLine": 3442,
+    "endLine": 3452,
+    "calls": {
+        "wp-includes/class-wp-term-query.php:720": [
+            "wp-includes/class-wp-term-query.php",
+            720
+        ],
+        "wp-includes/taxonomy.php:3663": [
+            "wp-includes/taxonomy.php",
+            3663
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

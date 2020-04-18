@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "the_guid",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 174,
+    "startLine": 187,
+    "endLine": 204,
+    "calls": {
+        "wp-admin/includes/export.php:572": [
+            "wp-admin/includes/export.php",
+            572
+        ],
+        "wp-includes/feed-atom-comments.php:114": [
+            "wp-includes/feed-atom-comments.php",
+            114
+        ],
+        "wp-includes/feed-atom.php:68": [
+            "wp-includes/feed-atom.php",
+            68
+        ],
+        "wp-includes/feed-rss2.php:98": [
+            "wp-includes/feed-rss2.php",
+            98
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

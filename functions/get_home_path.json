@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "get_home_path",
+    "filename": "wp-admin/includes/file.php",
+    "docCommentLine": 98,
+    "startLine": 105,
+    "endLine": 118,
+    "calls": {
+        "wp-admin/includes/misc.php:252": [
+            "wp-admin/includes/misc.php",
+            252
+        ],
+        "wp-admin/includes/misc.php:289": [
+            "wp-admin/includes/misc.php",
+            289
+        ],
+        "wp-admin/includes/network.php:393": [
+            "wp-admin/includes/network.php",
+            393
+        ],
+        "wp-admin/includes/upgrade.php:2959": [
+            "wp-admin/includes/upgrade.php",
+            2959
+        ],
+        "wp-admin/options-permalink.php:65": [
+            "wp-admin/options-permalink.php",
+            65
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

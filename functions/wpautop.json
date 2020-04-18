@@ -1,0 +1,82 @@
+{
+    "callbacks": {
+        "wp-includes/blocks.php:541": [
+            "wp-includes/blocks.php",
+            541,
+            "the_content",
+            "has_filter"
+        ],
+        "wp-includes/blocks.php:543": [
+            "wp-includes/blocks.php",
+            543,
+            "the_content",
+            "remove_filter"
+        ],
+        "wp-includes/blocks.php:564": [
+            "wp-includes/blocks.php",
+            564,
+            "the_content",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:156": [
+            "wp-includes/default-filters.php",
+            156,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":156,\"endLine\":156}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":156,\"endLine\":156}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:175": [
+            "wp-includes/default-filters.php",
+            175,
+            "the_content",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:183": [
+            "wp-includes/default-filters.php",
+            183,
+            "the_excerpt",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:196": [
+            "wp-includes/default-filters.php",
+            196,
+            "comment_text",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:208": [
+            "wp-includes/default-filters.php",
+            208,
+            "widget_text_content",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:573": [
+            "wp-includes/default-filters.php",
+            573,
+            "the_excerpt_embed",
+            "add_filter"
+        ]
+    },
+    "functionName": "wpautop",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 441,
+    "startLine": 455,
+    "endLine": 614,
+    "calls": {
+        "wp-includes/blocks/latest-comments.php:113": [
+            "wp-includes/blocks/latest-comments.php",
+            113
+        ],
+        "wp-includes/blocks/shortcode.php:17": [
+            "wp-includes/blocks/shortcode.php",
+            17
+        ],
+        "wp-includes/deprecated.php:3578": [
+            "wp-includes/deprecated.php",
+            3578
+        ],
+        "wp-includes/widgets/class-wp-widget-text.php:297": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            297
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

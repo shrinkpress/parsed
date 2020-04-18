@@ -1,0 +1,51 @@
+{
+    "callbacks": [],
+    "functionName": "wp_should_upgrade_global_tables",
+    "filename": "wp-admin/includes/upgrade.php",
+    "docCommentLine": 3335,
+    "startLine": 3353,
+    "endLine": 3379,
+    "calls": {
+        "wp-admin/includes/upgrade.php:1653": [
+            "wp-admin/includes/upgrade.php",
+            1653
+        ],
+        "wp-admin/includes/upgrade.php:1697": [
+            "wp-admin/includes/upgrade.php",
+            1697
+        ],
+        "wp-admin/includes/upgrade.php:1788": [
+            "wp-admin/includes/upgrade.php",
+            1788
+        ],
+        "wp-admin/includes/upgrade.php:1817": [
+            "wp-admin/includes/upgrade.php",
+            1817
+        ],
+        "wp-admin/includes/upgrade.php:1940": [
+            "wp-admin/includes/upgrade.php",
+            1940
+        ],
+        "wp-admin/includes/upgrade.php:2232": [
+            "wp-admin/includes/upgrade.php",
+            2232
+        ],
+        "wp-admin/includes/upgrade.php:2253": [
+            "wp-admin/includes/upgrade.php",
+            2253
+        ],
+        "wp-admin/includes/upgrade.php:2617": [
+            "wp-admin/includes/upgrade.php",
+            2617
+        ],
+        "wp-admin/includes/upgrade.php:3270": [
+            "wp-admin/includes/upgrade.php",
+            3270
+        ],
+        "wp-admin/includes/upgrade.php:3288": [
+            "wp-admin/includes/upgrade.php",
+            3288
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

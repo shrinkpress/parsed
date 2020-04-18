@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_theme_file_uri",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 4263,
+    "startLine": 4274,
+    "endLine": 4294,
+    "calls": {
+        "wp-admin/edit-form-blocks.php:199": [
+            "wp-admin/edit-form-blocks.php",
+            199
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

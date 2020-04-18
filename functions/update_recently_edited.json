@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "update_recently_edited",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 304,
+    "startLine": 311,
+    "endLine": 325,
+    "calls": {
+        "wp-admin/plugin-editor.php:155": [
+            "wp-admin/plugin-editor.php",
+            155
+        ],
+        "wp-admin/theme-editor.php:151": [
+            "wp-admin/theme-editor.php",
+            151
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

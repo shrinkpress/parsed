@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_ajax_delete_comment_response",
+    "filename": "wp-admin/includes/ajax-actions.php",
+    "docCommentLine": 419,
+    "startLine": 430,
+    "endLine": 548,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:745": [
+            "wp-admin/includes/ajax-actions.php",
+            745
+        ],
+        "wp-admin/includes/ajax-actions.php:993": [
+            "wp-admin/includes/ajax-actions.php",
+            993
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

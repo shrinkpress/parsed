@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/ms-default-filters.php:49": [
+            "wp-includes/ms-default-filters.php",
+            49,
+            "wp_update_site",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_maybe_clean_new_site_cache_on_update",
+    "filename": "wp-includes/ms-site.php",
+    "docCommentLine": 1269,
+    "startLine": 1277,
+    "endLine": 1281,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_network_site_counts",
+    "filename": "wp-includes/ms-functions.php",
+    "docCommentLine": 2381,
+    "startLine": 2389,
+    "endLine": 2407,
+    "calls": {
+        "wp-includes/ms-functions.php:2325": [
+            "wp-includes/ms-functions.php",
+            2325
+        ],
+        "wp-includes/ms-functions.php:2356": [
+            "wp-includes/ms-functions.php",
+            2356
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

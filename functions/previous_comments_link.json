@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "previous_comments_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 2951,
+    "startLine": 2958,
+    "endLine": 2960,
+    "calls": {
+        "wp-includes/theme-compat/comments.php:53": [
+            "wp-includes/theme-compat/comments.php",
+            53
+        ],
+        "wp-includes/theme-compat/comments.php:62": [
+            "wp-includes/theme-compat/comments.php",
+            62
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

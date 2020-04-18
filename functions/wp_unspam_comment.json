@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_unspam_comment",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 1593,
+    "startLine": 1601,
+    "endLine": 1640,
+    "calls": {
+        "wp-admin/comment.php:316": [
+            "wp-admin/comment.php",
+            316
+        ],
+        "wp-admin/edit-comments.php:74": [
+            "wp-admin/edit-comments.php",
+            74
+        ],
+        "wp-admin/includes/ajax-actions.php:733": [
+            "wp-admin/includes/ajax-actions.php",
+            733
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1567": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
+            1567
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

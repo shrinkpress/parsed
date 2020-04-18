@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "RandomCompat_strlen",
+    "filename": "wp-includes/random_compat/byte_safe_strings.php",
+    "docCommentLine": 58,
+    "startLine": 69,
+    "endLine": 77,
+    "calls": {
+        "wp-includes/random_compat/byte_safe_strings.php:121": [
+            "wp-includes/random_compat/byte_safe_strings.php",
+            121
+        ],
+        "wp-includes/random_compat/byte_safe_strings.php:129": [
+            "wp-includes/random_compat/byte_safe_strings.php",
+            129
+        ],
+        "wp-includes/random_compat/byte_safe_strings.php:132": [
+            "wp-includes/random_compat/byte_safe_strings.php",
+            132
+        ],
+        "wp-includes/random_compat/random_bytes_com_dotnet.php:72": [
+            "wp-includes/random_compat/random_bytes_com_dotnet.php",
+            72
+        ],
+        "wp-includes/random_compat/random_bytes_dev_urandom.php:140": [
+            "wp-includes/random_compat/random_bytes_dev_urandom.php",
+            140
+        ],
+        "wp-includes/random_compat/random_bytes_dev_urandom.php:151": [
+            "wp-includes/random_compat/random_bytes_dev_urandom.php",
+            151
+        ],
+        "wp-includes/random_compat/random_bytes_libsodium.php:76": [
+            "wp-includes/random_compat/random_bytes_libsodium.php",
+            76
+        ],
+        "wp-includes/random_compat/random_bytes_libsodium_legacy.php:80": [
+            "wp-includes/random_compat/random_bytes_libsodium_legacy.php",
+            80
+        ],
+        "wp-includes/random_compat/random_bytes_mcrypt.php:62": [
+            "wp-includes/random_compat/random_bytes_mcrypt.php",
+            62
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

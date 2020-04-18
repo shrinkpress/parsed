@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "PclZipUtilRename",
+    "filename": "wp-admin/includes/class-pclzip.php",
+    "docCommentLine": 0,
+    "startLine": 5624,
+    "endLine": 5642,
+    "calls": {
+        "wp-admin/includes/class-pclzip.php:2331": [
+            "wp-admin/includes/class-pclzip.php",
+            2331
+        ],
+        "wp-admin/includes/class-pclzip.php:4953": [
+            "wp-admin/includes/class-pclzip.php",
+            4953
+        ],
+        "wp-admin/includes/class-pclzip.php:5217": [
+            "wp-admin/includes/class-pclzip.php",
+            5217
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

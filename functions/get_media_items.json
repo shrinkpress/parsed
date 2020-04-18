@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_media_items",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 1469,
+    "startLine": 1484,
+    "endLine": 1524,
+    "calls": {
+        "wp-admin/includes/media.php:2307": [
+            "wp-admin/includes/media.php",
+            2307
+        ],
+        "wp-admin/includes/media.php:2531": [
+            "wp-admin/includes/media.php",
+            2531
+        ],
+        "wp-admin/includes/media.php:2837": [
+            "wp-admin/includes/media.php",
+            2837
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

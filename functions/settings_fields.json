@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "settings_fields",
+    "filename": "wp-admin/includes/plugin.php",
+    "docCommentLine": 2183,
+    "startLine": 2190,
+    "endLine": 2194,
+    "calls": {
+        "wp-admin/options-discussion.php:42": [
+            "wp-admin/options-discussion.php",
+            42
+        ],
+        "wp-admin/options-general.php:59": [
+            "wp-admin/options-general.php",
+            59
+        ],
+        "wp-admin/options-media.php:49": [
+            "wp-admin/options-media.php",
+            49
+        ],
+        "wp-admin/options-reading.php:63": [
+            "wp-admin/options-reading.php",
+            63
+        ],
+        "wp-admin/options-writing.php:63": [
+            "wp-admin/options-writing.php",
+            63
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "filter_block_kses",
+    "filename": "wp-includes/blocks.php",
+    "docCommentLine": 283,
+    "startLine": 296,
+    "endLine": 306,
+    "calls": {
+        "wp-includes/blocks.php:276": [
+            "wp-includes/blocks.php",
+            276
+        ],
+        "wp-includes/blocks.php:301": [
+            "wp-includes/blocks.php",
+            301
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,79 @@
+{
+    "callbacks": [],
+    "functionName": "network_site_url",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 3426,
+    "startLine": 3442,
+    "endLine": 3471,
+    "calls": {
+        "wp-activate.php:127": [
+            "wp-activate.php",
+            127
+        ],
+        "wp-activate.php:149": [
+            "wp-activate.php",
+            149
+        ],
+        "wp-activate.php:199": [
+            "wp-activate.php",
+            199
+        ],
+        "wp-admin/my-sites.php:71": [
+            "wp-admin/my-sites.php",
+            71
+        ],
+        "wp-includes/canonical.php:388": [
+            "wp-includes/canonical.php",
+            388
+        ],
+        "wp-includes/general-template.php:566": [
+            "wp-includes/general-template.php",
+            566
+        ],
+        "wp-includes/link-template.php:3538": [
+            "wp-includes/link-template.php",
+            3538
+        ],
+        "wp-includes/link-template.php:3567": [
+            "wp-includes/link-template.php",
+            3567
+        ],
+        "wp-includes/ms-functions.php:912": [
+            "wp-includes/ms-functions.php",
+            912
+        ],
+        "wp-includes/pluggable.php:2003": [
+            "wp-includes/pluggable.php",
+            2003
+        ],
+        "wp-includes/update.php:81": [
+            "wp-includes/update.php",
+            81
+        ],
+        "wp-login.php:417": [
+            "wp-login.php",
+            417
+        ],
+        "wp-login.php:843": [
+            "wp-login.php",
+            843
+        ],
+        "wp-login.php:951": [
+            "wp-login.php",
+            951
+        ],
+        "wp-login.php:1028": [
+            "wp-login.php",
+            1028
+        ],
+        "wp-signup.php:38": [
+            "wp-signup.php",
+            38
+        ],
+        "wp-signup.php:936": [
+            "wp-signup.php",
+            936
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

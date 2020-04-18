@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "get_page_statuses",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 947,
+    "startLine": 957,
+    "endLine": 965,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:4095": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            4095
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_server_protocol",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 8,
+    "startLine": 15,
+    "endLine": 21,
+    "calls": {
+        "wp-includes/functions.php:1376": [
+            "wp-includes/functions.php",
+            1376
+        ],
+        "wp-includes/load.php:134": [
+            "wp-includes/load.php",
+            134
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

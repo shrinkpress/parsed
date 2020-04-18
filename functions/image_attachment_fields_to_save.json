@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:33": [
+            "wp-admin/includes/admin-filters.php",
+            33,
+            "attachment_fields_to_save",
+            "add_filter"
+        ]
+    },
+    "functionName": "image_attachment_fields_to_save",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 1284,
+    "startLine": 1297,
+    "endLine": 1307,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

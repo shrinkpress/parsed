@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "the_ID",
+    "filename": "wp-includes/post-template.php",
+    "docCommentLine": 11,
+    "startLine": 16,
+    "endLine": 18,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:922": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            922
+        ],
+        "wp-admin/includes/class-wp-posts-list-table.php:928": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            928
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

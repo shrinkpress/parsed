@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "get_post_mime_type",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 855,
+    "startLine": 866,
+    "endLine": 874,
+    "calls": {
+        "wp-admin/includes/image-edit.php:205": [
+            "wp-admin/includes/image-edit.php",
+            205
+        ],
+        "wp-admin/includes/image.php:472": [
+            "wp-admin/includes/image.php",
+            472
+        ],
+        "wp-includes/post-template.php:681": [
+            "wp-includes/post-template.php",
+            681
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

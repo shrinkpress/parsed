@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-admin/includes/ms-admin-filters.php:26": [
+            "wp-admin/includes/ms-admin-filters.php",
+            26,
+            "get_term",
+            "add_filter"
+        ]
+    },
+    "functionName": "sync_category_tag_slugs",
+    "filename": "wp-admin/includes/ms.php",
+    "docCommentLine": 538,
+    "startLine": 550,
+    "endLine": 559,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:517": [
+            "wp-includes/default-filters.php",
+            517,
+            "template_redirect",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_redirect_admin_locations",
+    "filename": "wp-includes/canonical.php",
+    "docCommentLine": 723,
+    "startLine": 733,
+    "endLine": 760,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

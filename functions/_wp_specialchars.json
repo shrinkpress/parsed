@@ -1,0 +1,46 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:19": [
+            "wp-includes/default-filters.php",
+            19,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":19,\"endLine\":19}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":19,\"endLine\":19}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:29": [
+            "wp-includes/default-filters.php",
+            29,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":29,\"endLine\":29}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":29,\"endLine\":29}}",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:239": [
+            "wp-includes/default-filters.php",
+            239,
+            "option_blog_charset",
+            "add_filter"
+        ]
+    },
+    "functionName": "_wp_specialchars",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 927,
+    "startLine": 950,
+    "endLine": 1006,
+    "calls": {
+        "wp-includes/deprecated.php:2077": [
+            "wp-includes/deprecated.php",
+            2077
+        ],
+        "wp-includes/formatting.php:4425": [
+            "wp-includes/formatting.php",
+            4425
+        ],
+        "wp-includes/formatting.php:4453": [
+            "wp-includes/formatting.php",
+            4453
+        ],
+        "wp-includes/formatting.php:4478": [
+            "wp-includes/formatting.php",
+            4478
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

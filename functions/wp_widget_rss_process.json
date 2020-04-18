@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_widget_rss_process",
+    "filename": "wp-includes/widgets.php",
+    "docCommentLine": 1663,
+    "startLine": 1679,
+    "endLine": 1708,
+    "calls": {
+        "wp-admin/includes/dashboard.php:1157": [
+            "wp-admin/includes/dashboard.php",
+            1157
+        ],
+        "wp-includes/widgets/class-wp-widget-rss.php:118": [
+            "wp-includes/widgets/class-wp-widget-rss.php",
+            118
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

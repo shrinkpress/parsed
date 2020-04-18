@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "edit_comment_link",
+    "filename": "wp-includes/link-template.php",
+    "docCommentLine": 1516,
+    "startLine": 1525,
+    "endLine": 1548,
+    "calls": {
+        "wp-includes/class-walker-comment.php:242": [
+            "wp-includes/class-walker-comment.php",
+            242
+        ],
+        "wp-includes/class-walker-comment.php:304": [
+            "wp-includes/class-walker-comment.php",
+            304
+        ],
+        "wp-includes/class-walker-comment.php:392": [
+            "wp-includes/class-walker-comment.php",
+            392
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

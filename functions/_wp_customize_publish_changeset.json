@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/class-wp-customize-manager.php:2646": [
+            "wp-includes/class-wp-customize-manager.php",
+            2646,
+            "transition_post_status",
+            "has_action"
+        ],
+        "wp-includes/default-filters.php:459": [
+            "wp-includes/default-filters.php",
+            459,
+            "transition_post_status",
+            "add_action"
+        ]
+    },
+    "functionName": "_wp_customize_publish_changeset",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 3061,
+    "startLine": 3074,
+    "endLine": 3133,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

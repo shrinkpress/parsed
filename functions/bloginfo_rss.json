@@ -1,0 +1,143 @@
+{
+    "callbacks": [],
+    "functionName": "bloginfo_rss",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 42,
+    "startLine": 54,
+    "endLine": 66,
+    "calls": {
+        "wp-admin/includes/export.php:468": [
+            "wp-admin/includes/export.php",
+            468
+        ],
+        "wp-admin/includes/export.php:469": [
+            "wp-admin/includes/export.php",
+            469
+        ],
+        "wp-admin/includes/export.php:470": [
+            "wp-admin/includes/export.php",
+            470
+        ],
+        "wp-admin/includes/export.php:472": [
+            "wp-admin/includes/export.php",
+            472
+        ],
+        "wp-admin/includes/export.php:475": [
+            "wp-admin/includes/export.php",
+            475
+        ],
+        "wp-includes/feed-atom-comments.php:16": [
+            "wp-includes/feed-atom-comments.php",
+            16
+        ],
+        "wp-includes/feed-atom-comments.php:44": [
+            "wp-includes/feed-atom-comments.php",
+            44
+        ],
+        "wp-includes/feed-atom-comments.php:49": [
+            "wp-includes/feed-atom-comments.php",
+            49
+        ],
+        "wp-includes/feed-atom-comments.php:53": [
+            "wp-includes/feed-atom-comments.php",
+            53
+        ],
+        "wp-includes/feed-atom-comments.php:57": [
+            "wp-includes/feed-atom-comments.php",
+            57
+        ],
+        "wp-includes/feed-atom-comments.php:58": [
+            "wp-includes/feed-atom-comments.php",
+            58
+        ],
+        "wp-includes/feed-atom-comments.php:59": [
+            "wp-includes/feed-atom-comments.php",
+            59
+        ],
+        "wp-includes/feed-atom-comments.php:91": [
+            "wp-includes/feed-atom-comments.php",
+            91
+        ],
+        "wp-includes/feed-atom-comments.php:114": [
+            "wp-includes/feed-atom-comments.php",
+            114
+        ],
+        "wp-includes/feed-atom-comments.php:120": [
+            "wp-includes/feed-atom-comments.php",
+            120
+        ],
+        "wp-includes/feed-atom.php:19": [
+            "wp-includes/feed-atom.php",
+            19
+        ],
+        "wp-includes/feed-atom.php:20": [
+            "wp-includes/feed-atom.php",
+            20
+        ],
+        "wp-includes/feed-atom.php:31": [
+            "wp-includes/feed-atom.php",
+            31
+        ],
+        "wp-includes/feed-atom.php:35": [
+            "wp-includes/feed-atom.php",
+            35
+        ],
+        "wp-includes/feed-atom.php:67": [
+            "wp-includes/feed-atom.php",
+            67
+        ],
+        "wp-includes/feed-atom.php:87": [
+            "wp-includes/feed-atom.php",
+            87
+        ],
+        "wp-includes/feed-rdf.php:32": [
+            "wp-includes/feed-rdf.php",
+            32
+        ],
+        "wp-includes/feed-rdf.php:34": [
+            "wp-includes/feed-rdf.php",
+            34
+        ],
+        "wp-includes/feed-rdf.php:35": [
+            "wp-includes/feed-rdf.php",
+            35
+        ],
+        "wp-includes/feed-rss.php:15": [
+            "wp-includes/feed-rss.php",
+            15
+        ],
+        "wp-includes/feed-rss.php:16": [
+            "wp-includes/feed-rss.php",
+            16
+        ],
+        "wp-includes/feed-rss.php:19": [
+            "wp-includes/feed-rss.php",
+            19
+        ],
+        "wp-includes/feed-rss2-comments.php:50": [
+            "wp-includes/feed-rss2-comments.php",
+            50
+        ],
+        "wp-includes/feed-rss2-comments.php:51": [
+            "wp-includes/feed-rss2-comments.php",
+            51
+        ],
+        "wp-includes/feed-rss2.php:43": [
+            "wp-includes/feed-rss2.php",
+            43
+        ],
+        "wp-includes/feed-rss2.php:44": [
+            "wp-includes/feed-rss2.php",
+            44
+        ],
+        "wp-includes/feed-rss2.php:46": [
+            "wp-includes/feed-rss2.php",
+            46
+        ],
+        "xmlrpc.php:40": [
+            "xmlrpc.php",
+            40
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

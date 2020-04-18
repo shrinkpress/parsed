@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_cache_flush",
+    "filename": "wp-includes/cache.php",
+    "docCommentLine": 87,
+    "startLine": 97,
+    "endLine": 101,
+    "calls": {
+        "wp-admin/includes/update-core.php:1269": [
+            "wp-admin/includes/update-core.php",
+            1269
+        ],
+        "wp-admin/includes/upgrade.php:46": [
+            "wp-admin/includes/upgrade.php",
+            46
+        ],
+        "wp-admin/includes/upgrade.php:103": [
+            "wp-admin/includes/upgrade.php",
+            103
+        ],
+        "wp-admin/includes/upgrade.php:645": [
+            "wp-admin/includes/upgrade.php",
+            645
+        ],
+        "wp-admin/includes/upgrade.php:652": [
+            "wp-admin/includes/upgrade.php",
+            652
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

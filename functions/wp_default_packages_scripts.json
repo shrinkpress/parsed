@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_default_packages_scripts",
+    "filename": "wp-includes/script-loader.php",
+    "docCommentLine": 213,
+    "startLine": 223,
+    "endLine": 637,
+    "calls": {
+        "wp-admin/load-scripts.php:46": [
+            "wp-admin/load-scripts.php",
+            46
+        ],
+        "wp-includes/script-loader.php:897": [
+            "wp-includes/script-loader.php",
+            897
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

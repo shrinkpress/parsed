@@ -1,0 +1,63 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_update_php_url",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 7095,
+    "startLine": 7107,
+    "endLine": 7132,
+    "calls": {
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:656": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            656
+        ],
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:669": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            669
+        ],
+        "wp-admin/includes/class-wp-plugin-install-list-table.php:688": [
+            "wp-admin/includes/class-wp-plugin-install-list-table.php",
+            688
+        ],
+        "wp-admin/includes/class-wp-site-health.php:697": [
+            "wp-admin/includes/class-wp-site-health.php",
+            697
+        ],
+        "wp-admin/includes/dashboard.php:1716": [
+            "wp-admin/includes/dashboard.php",
+            1716
+        ],
+        "wp-admin/includes/plugin-install.php:805": [
+            "wp-admin/includes/plugin-install.php",
+            805
+        ],
+        "wp-admin/includes/update-core.php:957": [
+            "wp-admin/includes/update-core.php",
+            957
+        ],
+        "wp-admin/includes/update.php:495": [
+            "wp-admin/includes/update.php",
+            495
+        ],
+        "wp-admin/install.php:244": [
+            "wp-admin/install.php",
+            244
+        ],
+        "wp-admin/update-core.php:85": [
+            "wp-admin/update-core.php",
+            85
+        ],
+        "wp-admin/update-core.php:366": [
+            "wp-admin/update-core.php",
+            366
+        ],
+        "wp-admin/upgrade.php:88": [
+            "wp-admin/upgrade.php",
+            88
+        ],
+        "wp-includes/functions.php:7181": [
+            "wp-includes/functions.php",
+            7181
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_cache_close",
+    "filename": "wp-includes/cache.php",
+    "docCommentLine": 33,
+    "startLine": 46,
+    "endLine": 48,
+    "calls": {
+        "wp-includes/load.php:949": [
+            "wp-includes/load.php",
+            949
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

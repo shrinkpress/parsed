@@ -1,0 +1,29 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:107": [
+            "wp-includes/default-filters.php",
+            107,
+            "added_term_meta",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:108": [
+            "wp-includes/default-filters.php",
+            108,
+            "updated_term_meta",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:109": [
+            "wp-includes/default-filters.php",
+            109,
+            "deleted_term_meta",
+            "add_action"
+        ]
+    },
+    "functionName": "wp_cache_set_terms_last_changed",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 4620,
+    "startLine": 4625,
+    "endLine": 4627,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

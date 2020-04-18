@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:528": [
+            "wp-includes/default-filters.php",
+            528,
+            "nav_menu_item_id",
+            "add_filter"
+        ]
+    },
+    "functionName": "_nav_menu_item_id_use_once",
+    "filename": "wp-includes/nav-menu-template.php",
+    "docCommentLine": 586,
+    "startLine": 597,
+    "endLine": 604,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

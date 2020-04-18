@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "register_rest_field",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 91,
+    "startLine": 115,
+    "endLine": 131,
+    "calls": {
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:55": [
+            "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
+            55
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

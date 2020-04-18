@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:248": [
+            "wp-includes/default-filters.php",
+            248,
+            "check_comment_flood",
+            "add_action"
+        ]
+    },
+    "functionName": "check_comment_flood_db",
+    "filename": "wp-includes/comment.php",
+    "docCommentLine": 830,
+    "startLine": 840,
+    "endLine": 842,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

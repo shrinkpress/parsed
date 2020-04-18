@@ -1,0 +1,35 @@
+{
+    "callbacks": {
+        "wp-admin/edit-form-blocks.php:33": [
+            "wp-admin/edit-form-blocks.php",
+            33,
+            "admin_print_scripts",
+            "remove_action"
+        ],
+        "wp-includes/default-filters.php:291": [
+            "wp-includes/default-filters.php",
+            291,
+            "wp_head",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:343": [
+            "wp-includes/default-filters.php",
+            343,
+            "admin_print_scripts",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:555": [
+            "wp-includes/default-filters.php",
+            555,
+            "embed_head",
+            "add_action"
+        ]
+    },
+    "functionName": "print_emoji_detection_script",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 5589,
+    "startLine": 5595,
+    "endLine": 5605,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

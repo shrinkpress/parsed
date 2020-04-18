@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:284": [
+            "wp-includes/default-filters.php",
+            284,
+            "wp_head",
+            "add_action"
+        ],
+        "wp-includes/deprecated.php:2400": [
+            "wp-includes/deprecated.php",
+            2400,
+            "wp_head",
+            "remove_action"
+        ]
+    },
+    "functionName": "feed_links_extra",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 2960,
+    "startLine": 2967,
+    "endLine": 3047,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

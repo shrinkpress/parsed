@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_update_term_count",
+    "filename": "wp-includes/taxonomy.php",
+    "docCommentLine": 3080,
+    "startLine": 3098,
+    "endLine": 3125,
+    "calls": {
+        "wp-includes/post.php:7002": [
+            "wp-includes/post.php",
+            7002
+        ],
+        "wp-includes/taxonomy.php:2517": [
+            "wp-includes/taxonomy.php",
+            2517
+        ],
+        "wp-includes/taxonomy.php:2670": [
+            "wp-includes/taxonomy.php",
+            2670
+        ],
+        "wp-includes/taxonomy.php:3073": [
+            "wp-includes/taxonomy.php",
+            3073
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

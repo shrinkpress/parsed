@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "register_theme_directory",
+    "filename": "wp-includes/theme.php",
+    "docCommentLine": 386,
+    "startLine": 396,
+    "endLine": 418,
+    "calls": {
+        "wp-settings.php:350": [
+            "wp-settings.php",
+            350
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

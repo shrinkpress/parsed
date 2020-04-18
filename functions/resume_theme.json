@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "resume_theme",
+    "filename": "wp-admin/includes/theme.php",
+    "docCommentLine": 848,
+    "startLine": 865,
+    "endLine": 909,
+    "calls": {
+        "wp-admin/themes.php:48": [
+            "wp-admin/themes.php",
+            48
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:303": [
+            "wp-includes/default-filters.php",
+            303,
+            "after_switch_theme",
+            "add_action"
+        ],
+        "wp-includes/theme.php:2945": [
+            "wp-includes/theme.php",
+            2945,
+            "after_switch_theme",
+            "remove_action"
+        ]
+    },
+    "functionName": "_wp_menus_changed",
+    "filename": "wp-includes/nav-menu.php",
+    "docCommentLine": 1143,
+    "startLine": 1149,
+    "endLine": 1156,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

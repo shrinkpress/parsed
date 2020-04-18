@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:544": [
+            "wp-includes/default-filters.php",
+            544,
+            "image_send_to_editor",
+            "add_filter"
+        ]
+    },
+    "functionName": "image_add_caption",
+    "filename": "wp-admin/includes/media.php",
+    "docCommentLine": 171,
+    "startLine": 186,
+    "endLine": 248,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

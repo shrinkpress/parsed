@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "comment_author",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 51,
+    "startLine": 60,
+    "endLine": 74,
+    "calls": {
+        "wp-admin/comment.php:163": [
+            "wp-admin/comment.php",
+            163
+        ],
+        "wp-admin/includes/class-wp-comments-list-table.php:833": [
+            "wp-admin/includes/class-wp-comments-list-table.php",
+            833
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

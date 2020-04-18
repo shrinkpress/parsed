@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "got_mod_rewrite",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 9,
+    "startLine": 16,
+    "endLine": 32,
+    "calls": {
+        "wp-admin/includes/misc.php:46": [
+            "wp-admin/includes/misc.php",
+            46
+        ],
+        "wp-admin/includes/misc.php:260": [
+            "wp-admin/includes/misc.php",
+            260
+        ],
+        "wp-admin/includes/network.php:190": [
+            "wp-admin/includes/network.php",
+            190
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

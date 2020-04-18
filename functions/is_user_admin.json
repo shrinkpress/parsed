@@ -1,0 +1,59 @@
+{
+    "callbacks": [],
+    "functionName": "is_user_admin",
+    "filename": "wp-includes/load.php",
+    "docCommentLine": 1043,
+    "startLine": 1057,
+    "endLine": 1065,
+    "calls": {
+        "wp-admin/admin-header.php:40": [
+            "wp-admin/admin-header.php",
+            40
+        ],
+        "wp-admin/admin-header.php:268": [
+            "wp-admin/admin-header.php",
+            268
+        ],
+        "wp-admin/includes/dashboard.php:85": [
+            "wp-admin/includes/dashboard.php",
+            85
+        ],
+        "wp-admin/includes/dashboard.php:332": [
+            "wp-admin/includes/dashboard.php",
+            332
+        ],
+        "wp-admin/includes/menu.php:20": [
+            "wp-admin/includes/menu.php",
+            20
+        ],
+        "wp-admin/includes/menu.php:136": [
+            "wp-admin/includes/menu.php",
+            136
+        ],
+        "wp-admin/user-edit.php:43": [
+            "wp-admin/user-edit.php",
+            43
+        ],
+        "wp-includes/admin-bar.php:346": [
+            "wp-includes/admin-bar.php",
+            346
+        ],
+        "wp-includes/class-wp-admin-bar.php:614": [
+            "wp-includes/class-wp-admin-bar.php",
+            614
+        ],
+        "wp-includes/link-template.php:3598": [
+            "wp-includes/link-template.php",
+            3598
+        ],
+        "wp-includes/link-template.php:3730": [
+            "wp-includes/link-template.php",
+            3730
+        ],
+        "wp-includes/vars.php:27": [
+            "wp-includes/vars.php",
+            27
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

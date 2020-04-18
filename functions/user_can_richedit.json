@@ -1,0 +1,47 @@
+{
+    "callbacks": [],
+    "functionName": "user_can_richedit",
+    "filename": "wp-includes/general-template.php",
+    "docCommentLine": 3317,
+    "startLine": 3334,
+    "endLine": 3359,
+    "calls": {
+        "wp-admin/edit-form-blocks.php:289": [
+            "wp-admin/edit-form-blocks.php",
+            289
+        ],
+        "wp-admin/includes/media.php:1761": [
+            "wp-admin/includes/media.php",
+            1761
+        ],
+        "wp-admin/includes/media.php:1950": [
+            "wp-admin/includes/media.php",
+            1950
+        ],
+        "wp-includes/class-wp-editor.php:104": [
+            "wp-includes/class-wp-editor.php",
+            104
+        ],
+        "wp-includes/class-wp-editor.php:854": [
+            "wp-includes/class-wp-editor.php",
+            854
+        ],
+        "wp-includes/general-template.php:3372": [
+            "wp-includes/general-template.php",
+            3372
+        ],
+        "wp-includes/post.php:2411": [
+            "wp-includes/post.php",
+            2411
+        ],
+        "wp-includes/widgets/class-wp-widget-text.php:462": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            462
+        ],
+        "wp-includes/widgets/class-wp-widget-text.php:473": [
+            "wp-includes/widgets/class-wp-widget-text.php",
+            473
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

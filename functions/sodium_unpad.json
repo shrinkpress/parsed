@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "sodium_unpad",
+    "filename": "wp-includes/sodium_compat/lib/php72compat.php",
+    "docCommentLine": 1305,
+    "startLine": 1313,
+    "endLine": 1316,
+    "calls": {
+        "wp-includes/sodium_compat/src/Compat.php:3319": [
+            "wp-includes/sodium_compat/src/Compat.php",
+            3319
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

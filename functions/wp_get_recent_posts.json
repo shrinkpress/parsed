@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_recent_posts",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 3442,
+    "startLine": 3455,
+    "endLine": 3492,
+    "calls": {
+        "wp-includes/class-wp-xmlrpc-server.php:1970": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1970
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:4941": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            4941
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:6127": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            6127
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:6427": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            6427
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

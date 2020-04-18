@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_ajax_menu_quick_search",
+    "filename": "wp-admin/includes/nav-menu.php",
+    "docCommentLine": 16,
+    "startLine": 23,
+    "endLine": 133,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:1937": [
+            "wp-admin/includes/ajax-actions.php",
+            1937
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,41 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:272": [
+            "wp-includes/default-filters.php",
+            272,
+            "auth_cookie_malformed",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:273": [
+            "wp-includes/default-filters.php",
+            273,
+            "auth_cookie_expired",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:274": [
+            "wp-includes/default-filters.php",
+            274,
+            "auth_cookie_bad_username",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:275": [
+            "wp-includes/default-filters.php",
+            275,
+            "auth_cookie_bad_hash",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:276": [
+            "wp-includes/default-filters.php",
+            276,
+            "auth_cookie_valid",
+            "add_action"
+        ]
+    },
+    "functionName": "rest_cookie_collect_status",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 923,
+    "startLine": 933,
+    "endLine": 944,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

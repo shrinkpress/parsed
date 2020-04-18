@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "locate_template",
+    "filename": "wp-includes/template.php",
+    "docCommentLine": 639,
+    "startLine": 652,
+    "endLine": 675,
+    "calls": {
+        "wp-includes/general-template.php:41": [
+            "wp-includes/general-template.php",
+            41
+        ],
+        "wp-includes/general-template.php:76": [
+            "wp-includes/general-template.php",
+            76
+        ],
+        "wp-includes/general-template.php:111": [
+            "wp-includes/general-template.php",
+            111
+        ],
+        "wp-includes/general-template.php:168": [
+            "wp-includes/general-template.php",
+            168
+        ],
+        "wp-includes/general-template.php:255": [
+            "wp-includes/general-template.php",
+            255
+        ],
+        "wp-includes/template.php:44": [
+            "wp-includes/template.php",
+            44
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

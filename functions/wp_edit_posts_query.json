@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_edit_posts_query",
+    "filename": "wp-admin/includes/post.php",
+    "docCommentLine": 1094,
+    "startLine": 1102,
+    "endLine": 1190,
+    "calls": {
+        "wp-admin/includes/class-wp-posts-list-table.php:147": [
+            "wp-admin/includes/class-wp-posts-list-table.php",
+            147
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

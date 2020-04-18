@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "wp_get_default_update_php_url",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 7134,
+    "startLine": 7146,
+    "endLine": 7148,
+    "calls": {
+        "wp-includes/functions.php:7108": [
+            "wp-includes/functions.php",
+            7108
+        ],
+        "wp-includes/functions.php:7182": [
+            "wp-includes/functions.php",
+            7182
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

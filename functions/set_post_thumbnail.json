@@ -1,0 +1,39 @@
+{
+    "callbacks": [],
+    "functionName": "set_post_thumbnail",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 6891,
+    "startLine": 6900,
+    "endLine": 6911,
+    "calls": {
+        "wp-admin/includes/ajax-actions.php:2647": [
+            "wp-admin/includes/ajax-actions.php",
+            2647
+        ],
+        "wp-admin/includes/ajax-actions.php:2717": [
+            "wp-admin/includes/ajax-actions.php",
+            2717
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:1498": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            1498
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:5522": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5522
+        ],
+        "wp-includes/class-wp-xmlrpc-server.php:5916": [
+            "wp-includes/class-wp-xmlrpc-server.php",
+            5916
+        ],
+        "wp-includes/post.php:3998": [
+            "wp-includes/post.php",
+            3998
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1188": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1188
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:563": [
+            "wp-includes/default-filters.php",
+            563,
+            "embed_content_meta",
+            "add_action"
+        ]
+    },
+    "functionName": "print_embed_comments_button",
+    "filename": "wp-includes/embed.php",
+    "docCommentLine": 1075,
+    "startLine": 1080,
+    "endLine": 1102,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

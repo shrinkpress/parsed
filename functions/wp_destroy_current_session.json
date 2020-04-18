@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_destroy_current_session",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 2620,
+    "startLine": 2625,
+    "endLine": 2631,
+    "calls": {
+        "wp-includes/pluggable.php:572": [
+            "wp-includes/pluggable.php",
+            572
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

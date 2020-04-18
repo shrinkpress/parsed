@@ -1,0 +1,58 @@
+{
+    "callbacks": {
+        "wp-admin/update-core.php:608": [
+            "wp-admin/update-core.php",
+            608,
+            "update_feedback",
+            "add_filter"
+        ]
+    },
+    "functionName": "show_message",
+    "filename": "wp-admin/includes/misc.php",
+    "docCommentLine": 549,
+    "startLine": 556,
+    "endLine": 567,
+    "calls": {
+        "wp-admin/includes/class-wp-upgrader-skin.php:160": [
+            "wp-admin/includes/class-wp-upgrader-skin.php",
+            160
+        ],
+        "wp-admin/includes/update-core.php:1400": [
+            "wp-admin/includes/update-core.php",
+            1400
+        ],
+        "wp-admin/includes/update-core.php:1403": [
+            "wp-admin/includes/update-core.php",
+            1403
+        ],
+        "wp-admin/includes/update-core.php:1411": [
+            "wp-admin/includes/update-core.php",
+            1411
+        ],
+        "wp-admin/update-core.php:598": [
+            "wp-admin/update-core.php",
+            598
+        ],
+        "wp-admin/update-core.php:619": [
+            "wp-admin/update-core.php",
+            619
+        ],
+        "wp-admin/update-core.php:621": [
+            "wp-admin/update-core.php",
+            621
+        ],
+        "wp-admin/update-core.php:627": [
+            "wp-admin/update-core.php",
+            627
+        ],
+        "wp-admin/update-core.php:628": [
+            "wp-admin/update-core.php",
+            628
+        ],
+        "wp-admin/update-core.php:636": [
+            "wp-admin/update-core.php",
+            636
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

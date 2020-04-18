@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "wp_delete_attachment_files",
+    "filename": "wp-includes/post.php",
+    "docCommentLine": 5641,
+    "startLine": 5652,
+    "endLine": 5728,
+    "calls": {
+        "wp-includes/post.php:5634": [
+            "wp-includes/post.php",
+            5634
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

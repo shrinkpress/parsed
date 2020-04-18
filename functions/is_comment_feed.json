@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "is_comment_feed",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 406,
+    "startLine": 415,
+    "endLine": 424,
+    "calls": {
+        "wp-includes/functions.php:3270": [
+            "wp-includes/functions.php",
+            3270
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

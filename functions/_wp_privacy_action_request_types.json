@@ -1,0 +1,19 @@
+{
+    "callbacks": [],
+    "functionName": "_wp_privacy_action_request_types",
+    "filename": "wp-includes/user.php",
+    "docCommentLine": 2900,
+    "startLine": 2908,
+    "endLine": 2913,
+    "calls": {
+        "wp-admin/includes/privacy-tools.php:114": [
+            "wp-admin/includes/privacy-tools.php",
+            114
+        ],
+        "wp-includes/user.php:3348": [
+            "wp-includes/user.php",
+            3348
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

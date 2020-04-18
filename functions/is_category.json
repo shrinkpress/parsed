@@ -1,0 +1,71 @@
+{
+    "callbacks": [],
+    "functionName": "is_category",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 242,
+    "startLine": 259,
+    "endLine": 268,
+    "calls": {
+        "wp-includes/canonical.php:239": [
+            "wp-includes/canonical.php",
+            239
+        ],
+        "wp-includes/canonical.php:253": [
+            "wp-includes/canonical.php",
+            253
+        ],
+        "wp-includes/category-template.php:351": [
+            "wp-includes/category-template.php",
+            351
+        ],
+        "wp-includes/category-template.php:619": [
+            "wp-includes/category-template.php",
+            619
+        ],
+        "wp-includes/category-template.php:1210": [
+            "wp-includes/category-template.php",
+            1210
+        ],
+        "wp-includes/class-wp.php:698": [
+            "wp-includes/class-wp.php",
+            698
+        ],
+        "wp-includes/general-template.php:1080": [
+            "wp-includes/general-template.php",
+            1080
+        ],
+        "wp-includes/general-template.php:1217": [
+            "wp-includes/general-template.php",
+            1217
+        ],
+        "wp-includes/general-template.php:1448": [
+            "wp-includes/general-template.php",
+            1448
+        ],
+        "wp-includes/general-template.php:1561": [
+            "wp-includes/general-template.php",
+            1561
+        ],
+        "wp-includes/general-template.php:3006": [
+            "wp-includes/general-template.php",
+            3006
+        ],
+        "wp-includes/post-template.php:723": [
+            "wp-includes/post-template.php",
+            723
+        ],
+        "wp-includes/post-template.php:797": [
+            "wp-includes/post-template.php",
+            797
+        ],
+        "wp-includes/theme-compat/sidebar.php:35": [
+            "wp-includes/theme-compat/sidebar.php",
+            35
+        ],
+        "wp-includes/theme-compat/sidebar.php:41": [
+            "wp-includes/theme-compat/sidebar.php",
+            41
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

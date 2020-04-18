@@ -1,0 +1,79 @@
+{
+    "callbacks": [],
+    "functionName": "get_comments_number",
+    "filename": "wp-includes/comment-template.php",
+    "docCommentLine": 838,
+    "startLine": 847,
+    "endLine": 866,
+    "calls": {
+        "wp-admin/includes/class-wp-list-table.php:662": [
+            "wp-admin/includes/class-wp-list-table.php",
+            662
+        ],
+        "wp-includes/comment-template.php:806": [
+            "wp-includes/comment-template.php",
+            806
+        ],
+        "wp-includes/comment-template.php:895": [
+            "wp-includes/comment-template.php",
+            895
+        ],
+        "wp-includes/comment-template.php:1530": [
+            "wp-includes/comment-template.php",
+            1530
+        ],
+        "wp-includes/embed.php:1081": [
+            "wp-includes/embed.php",
+            1081
+        ],
+        "wp-includes/embed.php:1094": [
+            "wp-includes/embed.php",
+            1094
+        ],
+        "wp-includes/embed.php:1096": [
+            "wp-includes/embed.php",
+            1096
+        ],
+        "wp-includes/feed-atom.php:85": [
+            "wp-includes/feed-atom.php",
+            85
+        ],
+        "wp-includes/feed-atom.php:87": [
+            "wp-includes/feed-atom.php",
+            87
+        ],
+        "wp-includes/feed-atom.php:88": [
+            "wp-includes/feed-atom.php",
+            88
+        ],
+        "wp-includes/feed-atom.php:89": [
+            "wp-includes/feed-atom.php",
+            89
+        ],
+        "wp-includes/feed-rss2.php:91": [
+            "wp-includes/feed-rss2.php",
+            91
+        ],
+        "wp-includes/feed-rss2.php:110": [
+            "wp-includes/feed-rss2.php",
+            110
+        ],
+        "wp-includes/feed-rss2.php:112": [
+            "wp-includes/feed-rss2.php",
+            112
+        ],
+        "wp-includes/theme-compat/comments.php:35": [
+            "wp-includes/theme-compat/comments.php",
+            35
+        ],
+        "wp-includes/theme-compat/comments.php:44": [
+            "wp-includes/theme-compat/comments.php",
+            44
+        ],
+        "wp-includes/theme-compat/comments.php:45": [
+            "wp-includes/theme-compat/comments.php",
+            45
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

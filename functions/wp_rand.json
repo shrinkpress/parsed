@@ -1,0 +1,31 @@
+{
+    "callbacks": [],
+    "functionName": "wp_rand",
+    "filename": "wp-includes/pluggable.php",
+    "docCommentLine": 2422,
+    "startLine": 2436,
+    "endLine": 2498,
+    "calls": {
+        "wp-admin/includes/misc.php:1289": [
+            "wp-admin/includes/misc.php",
+            1289
+        ],
+        "wp-includes/ms-functions.php:755": [
+            "wp-includes/ms-functions.php",
+            755
+        ],
+        "wp-includes/ms-functions.php:824": [
+            "wp-includes/ms-functions.php",
+            824
+        ],
+        "wp-includes/pluggable.php:2403": [
+            "wp-includes/pluggable.php",
+            2403
+        ],
+        "wp-includes/user.php:2815": [
+            "wp-includes/user.php",
+            2815
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

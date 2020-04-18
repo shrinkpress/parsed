@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "wp_image_editor_supports",
+    "filename": "wp-includes/media.php",
+    "docCommentLine": 3201,
+    "startLine": 3210,
+    "endLine": 3212,
+    "calls": {
+        "wp-admin/includes/image-edit.php:203": [
+            "wp-admin/includes/image-edit.php",
+            203
+        ],
+        "wp-admin/includes/media.php:1637": [
+            "wp-admin/includes/media.php",
+            1637
+        ],
+        "wp-admin/includes/media.php:3075": [
+            "wp-admin/includes/media.php",
+            3075
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,35 @@
+{
+    "callbacks": [],
+    "functionName": "is_year",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 782,
+    "startLine": 795,
+    "endLine": 804,
+    "calls": {
+        "wp-includes/canonical.php:199": [
+            "wp-includes/canonical.php",
+            199
+        ],
+        "wp-includes/canonical.php:226": [
+            "wp-includes/canonical.php",
+            226
+        ],
+        "wp-includes/general-template.php:1089": [
+            "wp-includes/general-template.php",
+            1089
+        ],
+        "wp-includes/general-template.php:1570": [
+            "wp-includes/general-template.php",
+            1570
+        ],
+        "wp-includes/theme-compat/sidebar.php:36": [
+            "wp-includes/theme-compat/sidebar.php",
+            36
+        ],
+        "wp-includes/theme-compat/sidebar.php:76": [
+            "wp-includes/theme-compat/sidebar.php",
+            76
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-admin/includes/admin-filters.php:114": [
+            "wp-admin/includes/admin-filters.php",
+            114,
+            "admin_notices",
+            "add_action"
+        ],
+        "wp-admin/includes/ms-admin-filters.php:39": [
+            "wp-admin/includes/ms-admin-filters.php",
+            39,
+            "network_admin_notices",
+            "add_action"
+        ]
+    },
+    "functionName": "update_nag",
+    "filename": "wp-admin/includes/update.php",
+    "docCommentLine": 257,
+    "startLine": 261,
+    "endLine": 302,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

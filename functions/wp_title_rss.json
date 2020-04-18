@@ -1,0 +1,27 @@
+{
+    "callbacks": [],
+    "functionName": "wp_title_rss",
+    "filename": "wp-includes/feed.php",
+    "docCommentLine": 118,
+    "startLine": 126,
+    "endLine": 144,
+    "calls": {
+        "wp-includes/feed-atom.php:30": [
+            "wp-includes/feed-atom.php",
+            30
+        ],
+        "wp-includes/feed-rdf.php:33": [
+            "wp-includes/feed-rdf.php",
+            33
+        ],
+        "wp-includes/feed-rss.php:14": [
+            "wp-includes/feed-rss.php",
+            14
+        ],
+        "wp-includes/feed-rss2.php:41": [
+            "wp-includes/feed-rss2.php",
+            41
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

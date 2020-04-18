@@ -1,0 +1,41 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:174": [
+            "wp-includes/default-filters.php",
+            174,
+            "the_content",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:181": [
+            "wp-includes/default-filters.php",
+            181,
+            "the_excerpt",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:188": [
+            "wp-includes/default-filters.php",
+            188,
+            "the_post_thumbnail_caption",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:195": [
+            "wp-includes/default-filters.php",
+            195,
+            "comment_text",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:207": [
+            "wp-includes/default-filters.php",
+            207,
+            "widget_text_content",
+            "add_filter"
+        ]
+    },
+    "functionName": "convert_smilies",
+    "filename": "wp-includes/formatting.php",
+    "docCommentLine": 3322,
+    "startLine": 3335,
+    "endLine": 3372,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}
