@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/revision.php:577": [
+        "wp-includes/revision.php:579": [
             "wp-includes/revision.php",
-            577,
+            579,
             "get_post_metadata",
             "add_filter"
         ]
     },
     "functionName": "_wp_preview_post_thumbnail_filter",
     "filename": "wp-includes/revision.php",
-    "docCommentLine": 633,
-    "startLine": 644,
-    "endLine": 666,
+    "docCommentLine": 635,
+    "startLine": 646,
+    "endLine": 668,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

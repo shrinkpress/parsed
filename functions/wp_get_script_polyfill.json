@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_get_script_polyfill",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 162,
-    "startLine": 173,
-    "endLine": 211,
+    "docCommentLine": 168,
+    "startLine": 179,
+    "endLine": 219,
     "calls": {
-        "wp-includes/script-loader.php:120": [
+        "wp-includes/script-loader.php:124": [
             "wp-includes/script-loader.php",
-            120
+            124
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

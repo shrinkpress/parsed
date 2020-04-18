@@ -4,23 +4,23 @@
     "filename": "wp-admin/includes/plugin-install.php",
     "docCommentLine": 418,
     "startLine": 434,
-    "endLine": 503,
+    "endLine": 506,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:4346": [
+        "wp-admin/includes/ajax-actions.php:4350": [
             "wp-admin/includes/ajax-actions.php",
-            4346
+            4350
         ],
         "wp-admin/includes/class-wp-plugin-install-list-table.php:520": [
             "wp-admin/includes/class-wp-plugin-install-list-table.php",
             520
         ],
-        "wp-admin/includes/plugin-install.php:486": [
+        "wp-admin/includes/plugin-install.php:489": [
             "wp-admin/includes/plugin-install.php",
-            486
+            489
         ],
-        "wp-admin/includes/plugin-install.php:849": [
+        "wp-admin/includes/plugin-install.php:853": [
             "wp-admin/includes/plugin-install.php",
-            849
+            853
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

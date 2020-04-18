@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "comment_text_rss",
     "filename": "wp-includes/feed.php",
-    "docCommentLine": 346,
-    "startLine": 351,
-    "endLine": 362,
+    "docCommentLine": 345,
+    "startLine": 350,
+    "endLine": 361,
     "calls": {
-        "wp-includes/feed-rss2-comments.php:102": [
+        "wp-includes/feed-rss2-comments.php:103": [
             "wp-includes/feed-rss2-comments.php",
-            102
+            103
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "validate_plugin",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 1064,
-    "startLine": 1074,
-    "endLine": 1087,
+    "docCommentLine": 1077,
+    "startLine": 1087,
+    "endLine": 1100,
     "calls": {
-        "wp-admin/includes/plugin.php:629": [
+        "wp-admin/includes/plugin.php:637": [
             "wp-admin/includes/plugin.php",
-            629
+            637
         ],
-        "wp-admin/includes/plugin.php:1055": [
+        "wp-admin/includes/plugin.php:1068": [
             "wp-admin/includes/plugin.php",
-            1055
+            1068
         ],
-        "wp-admin/plugins.php:164": [
+        "wp-admin/plugins.php:166": [
             "wp-admin/plugins.php",
-            164
+            166
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

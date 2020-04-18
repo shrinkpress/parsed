@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_privacy_send_personal_data_export_email",
     "filename": "wp-admin/includes/privacy-tools.php",
-    "docCommentLine": 467,
-    "startLine": 475,
-    "endLine": 609,
+    "docCommentLine": 530,
+    "startLine": 538,
+    "endLine": 699,
     "calls": {
-        "wp-admin/includes/privacy-tools.php:724": [
+        "wp-admin/includes/privacy-tools.php:814": [
             "wp-admin/includes/privacy-tools.php",
-            724
+            814
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,17 @@
     "callbacks": [],
     "functionName": "get_post_states",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 2099,
-    "startLine": 2107,
-    "endLine": 2169,
+    "docCommentLine": 2101,
+    "startLine": 2109,
+    "endLine": 2171,
     "calls": {
-        "wp-admin/includes/template.php:2077": [
+        "wp-admin/includes/template.php:2079": [
             "wp-admin/includes/template.php",
-            2077
+            2079
+        ],
+        "wp-includes/nav-menu.php:823": [
+            "wp-includes/nav-menu.php",
+            823
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

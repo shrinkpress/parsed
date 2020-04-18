@@ -6,17 +6,17 @@
     "startLine": 657,
     "endLine": 828,
     "calls": {
-        "wp-includes/comment.php:2121": [
+        "wp-includes/comment.php:2127": [
             "wp-includes/comment.php",
-            2121
+            2127
         ],
-        "wp-includes/comment.php:2138": [
+        "wp-includes/comment.php:2144": [
             "wp-includes/comment.php",
-            2138
+            2144
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:565": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:656": [
             "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
-            565
+            656
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,33 +2,33 @@
     "callbacks": [],
     "functionName": "wp_get_update_php_annotation",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 7170,
-    "startLine": 7180,
-    "endLine": 7195,
+    "docCommentLine": 7362,
+    "startLine": 7372,
+    "endLine": 7387,
     "calls": {
-        "wp-admin/includes/update-core.php:960": [
+        "wp-admin/includes/update-core.php:963": [
             "wp-admin/includes/update-core.php",
-            960
+            963
         ],
         "wp-admin/install.php:246": [
             "wp-admin/install.php",
             246
         ],
-        "wp-admin/update-core.php:88": [
+        "wp-admin/update-core.php:92": [
             "wp-admin/update-core.php",
-            88
+            92
         ],
-        "wp-admin/update-core.php:369": [
+        "wp-admin/update-core.php:373": [
             "wp-admin/update-core.php",
-            369
+            373
         ],
         "wp-admin/upgrade.php:90": [
             "wp-admin/upgrade.php",
             90
         ],
-        "wp-includes/functions.php:7163": [
+        "wp-includes/functions.php:7355": [
             "wp-includes/functions.php",
-            7163
+            7355
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

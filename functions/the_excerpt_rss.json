@@ -6,33 +6,33 @@
     "startLine": 221,
     "endLine": 231,
     "calls": {
-        "wp-includes/feed-atom.php:72": [
+        "wp-includes/feed-atom.php:78": [
             "wp-includes/feed-atom.php",
-            72
-        ],
-        "wp-includes/feed-rdf.php:81": [
-            "wp-includes/feed-rdf.php",
-            81
+            78
         ],
         "wp-includes/feed-rdf.php:83": [
             "wp-includes/feed-rdf.php",
             83
         ],
-        "wp-includes/feed-rss.php:36": [
+        "wp-includes/feed-rdf.php:85": [
+            "wp-includes/feed-rdf.php",
+            85
+        ],
+        "wp-includes/feed-rss.php:35": [
             "wp-includes/feed-rss.php",
-            36
+            35
         ],
-        "wp-includes/feed-rss2.php:100": [
+        "wp-includes/feed-rss2.php:101": [
             "wp-includes/feed-rss2.php",
-            100
+            101
         ],
-        "wp-includes/feed-rss2.php:102": [
+        "wp-includes/feed-rss2.php:103": [
             "wp-includes/feed-rss2.php",
-            102
+            103
         ],
-        "wp-includes/feed-rss2.php:107": [
+        "wp-includes/feed-rss2.php:108": [
             "wp-includes/feed-rss2.php",
-            107
+            108
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/blocks/latest-posts.php:177": [
+        "wp-includes/blocks/latest-posts.php:248": [
             "wp-includes/blocks/latest-posts.php",
-            177,
+            248,
             "init",
             "add_action"
         ]
     },
     "functionName": "register_block_core_latest_posts",
     "filename": "wp-includes/blocks/latest-posts.php",
-    "docCommentLine": 118,
-    "startLine": 121,
-    "endLine": 176,
+    "docCommentLine": 169,
+    "startLine": 172,
+    "endLine": 247,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

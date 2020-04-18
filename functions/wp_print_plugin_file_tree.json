@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_print_plugin_file_tree",
     "filename": "wp-admin/includes/misc.php",
-    "docCommentLine": 442,
-    "startLine": 454,
-    "endLine": 501,
+    "docCommentLine": 449,
+    "startLine": 461,
+    "endLine": 508,
     "calls": {
-        "wp-admin/includes/misc.php:462": [
+        "wp-admin/includes/misc.php:469": [
             "wp-admin/includes/misc.php",
-            462
+            469
         ],
-        "wp-admin/includes/misc.php:471": [
+        "wp-admin/includes/misc.php:478": [
             "wp-admin/includes/misc.php",
-            471
+            478
         ],
-        "wp-admin/plugin-editor.php:254": [
+        "wp-admin/plugin-editor.php:255": [
             "wp-admin/plugin-editor.php",
-            254
+            255
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

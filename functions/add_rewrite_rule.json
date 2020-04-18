@@ -22,10 +22,6 @@
             "wp-includes/class-wp-post-type.php",
             577
         ],
-        "wp-includes/rest-api.php:159": [
-            "wp-includes/rest-api.php",
-            159
-        ],
         "wp-includes/rest-api.php:160": [
             "wp-includes/rest-api.php",
             160
@@ -37,6 +33,10 @@
         "wp-includes/rest-api.php:162": [
             "wp-includes/rest-api.php",
             162
+        ],
+        "wp-includes/rest-api.php:163": [
+            "wp-includes/rest-api.php",
+            163
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

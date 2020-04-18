@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_dashboard_recent_drafts",
     "filename": "wp-admin/includes/dashboard.php",
-    "docCommentLine": 551,
-    "startLine": 558,
-    "endLine": 618,
+    "docCommentLine": 565,
+    "startLine": 572,
+    "endLine": 632,
     "calls": {
-        "wp-admin/includes/dashboard.php:548": [
+        "wp-admin/includes/dashboard.php:562": [
             "wp-admin/includes/dashboard.php",
-            548
+            562
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

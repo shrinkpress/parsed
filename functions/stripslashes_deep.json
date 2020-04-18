@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "stripslashes_deep",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 2719,
-    "startLine": 2727,
-    "endLine": 2729,
+    "docCommentLine": 2723,
+    "startLine": 2731,
+    "endLine": 2733,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:3226": [
+        "wp-admin/includes/ajax-actions.php:3230": [
             "wp-admin/includes/ajax-actions.php",
-            3226
+            3230
         ],
-        "wp-includes/class-wp-widget.php:432": [
+        "wp-includes/class-wp-widget.php:433": [
             "wp-includes/class-wp-widget.php",
-            432
+            433
         ],
-        "wp-includes/formatting.php:5469": [
+        "wp-includes/formatting.php:5480": [
             "wp-includes/formatting.php",
-            5469
+            5480
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,37 +2,37 @@
     "callbacks": [],
     "functionName": "wp_suspend_cache_addition",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 5200,
-    "startLine": 5217,
-    "endLine": 5225,
+    "docCommentLine": 5392,
+    "startLine": 5409,
+    "endLine": 5417,
     "calls": {
-        "wp-includes/cache.php:402": [
-            "wp-includes/cache.php",
-            402
+        "wp-includes/class-wp-object-cache.php:148": [
+            "wp-includes/class-wp-object-cache.php",
+            148
         ],
-        "wp-includes/class-wp-widget.php:374": [
+        "wp-includes/class-wp-widget.php:375": [
             "wp-includes/class-wp-widget.php",
-            374
+            375
         ],
-        "wp-includes/class-wp-widget.php:376": [
+        "wp-includes/class-wp-widget.php:377": [
             "wp-includes/class-wp-widget.php",
-            376
+            377
         ],
-        "wp-includes/class-wp-widget.php:382": [
+        "wp-includes/class-wp-widget.php:383": [
             "wp-includes/class-wp-widget.php",
-            382
+            383
         ],
-        "wp-includes/class-wp-widget.php:437": [
+        "wp-includes/class-wp-widget.php:438": [
             "wp-includes/class-wp-widget.php",
-            437
+            438
         ],
-        "wp-includes/class-wp-widget.php:439": [
+        "wp-includes/class-wp-widget.php:440": [
             "wp-includes/class-wp-widget.php",
-            439
+            440
         ],
-        "wp-includes/class-wp-widget.php:445": [
+        "wp-includes/class-wp-widget.php:446": [
             "wp-includes/class-wp-widget.php",
-            445
+            446
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

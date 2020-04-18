@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/update.php:833": [
+        "wp-includes/update.php:834": [
             "wp-includes/update.php",
-            833,
+            834,
             "wp_maybe_auto_update",
             "add_action"
         ]
     },
     "functionName": "wp_maybe_auto_update",
     "filename": "wp-includes/update.php",
-    "docCommentLine": 600,
-    "startLine": 605,
-    "endLine": 611,
+    "docCommentLine": 601,
+    "startLine": 606,
+    "endLine": 612,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

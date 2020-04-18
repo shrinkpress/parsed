@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_create_image_subsizes",
     "filename": "wp-admin/includes/image.php",
-    "docCommentLine": 212,
-    "startLine": 224,
-    "endLine": 363,
+    "docCommentLine": 214,
+    "startLine": 226,
+    "endLine": 367,
     "calls": {
-        "wp-admin/includes/image.php:157": [
+        "wp-admin/includes/image.php:159": [
             "wp-admin/includes/image.php",
-            157
+            159
         ],
-        "wp-admin/includes/image.php:476": [
+        "wp-admin/includes/image.php:484": [
             "wp-admin/includes/image.php",
-            476
+            484
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "rest_parse_request_arg",
     "filename": "wp-includes/rest-api.php",
-    "docCommentLine": 1060,
-    "startLine": 1073,
-    "endLine": 1083,
+    "docCommentLine": 1066,
+    "startLine": 1079,
+    "endLine": 1089,
     "calls": {
-        "wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:329": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:344": [
             "wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php",
-            329
+            344
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:318": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:321": [
             "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php",
-            318
+            321
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

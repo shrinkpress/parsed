@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_get_update_data",
     "filename": "wp-includes/update.php",
-    "docCommentLine": 640,
-    "startLine": 647,
-    "endLine": 721,
+    "docCommentLine": 641,
+    "startLine": 648,
+    "endLine": 722,
     "calls": {
         "wp-admin/includes/class-wp-ms-themes-list-table.php:161": [
             "wp-admin/includes/class-wp-ms-themes-list-table.php",
@@ -14,9 +14,9 @@
             "wp-admin/includes/class-wp-plugin-install-list-table.php",
             267
         ],
-        "wp-admin/includes/class-wp-plugins-list-table.php:270": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:268": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            270
+            268
         ],
         "wp-admin/menu.php:32": [
             "wp-admin/menu.php",
@@ -30,37 +30,37 @@
             "wp-admin/network/menu.php",
             25
         ],
-        "wp-admin/themes.php:627": [
+        "wp-admin/themes.php:621": [
             "wp-admin/themes.php",
-            627
+            621
         ],
-        "wp-admin/update-core.php:788": [
+        "wp-admin/update-core.php:792": [
             "wp-admin/update-core.php",
-            788
+            792
         ],
-        "wp-admin/update-core.php:824": [
+        "wp-admin/update-core.php:828": [
             "wp-admin/update-core.php",
-            824
+            828
         ],
-        "wp-admin/update-core.php:862": [
+        "wp-admin/update-core.php:866": [
             "wp-admin/update-core.php",
-            862
+            866
         ],
-        "wp-admin/update-core.php:902": [
+        "wp-admin/update-core.php:906": [
             "wp-admin/update-core.php",
-            902
+            906
         ],
-        "wp-admin/update-core.php:931": [
+        "wp-admin/update-core.php:935": [
             "wp-admin/update-core.php",
-            931
+            935
         ],
-        "wp-includes/admin-bar.php:1008": [
+        "wp-includes/admin-bar.php:1021": [
             "wp-includes/admin-bar.php",
-            1008
+            1021
         ],
-        "wp-includes/class-wp-customize-manager.php:4481": [
+        "wp-includes/class-wp-customize-manager.php:4451": [
             "wp-includes/class-wp-customize-manager.php",
-            4481
+            4451
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

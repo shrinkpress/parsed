@@ -6,18 +6,18 @@
             "after_switch_theme",
             "add_action"
         ],
-        "wp-includes/theme.php:2945": [
+        "wp-includes/theme.php:2955": [
             "wp-includes/theme.php",
-            2945,
+            2955,
             "after_switch_theme",
             "remove_action"
         ]
     },
     "functionName": "_wp_menus_changed",
     "filename": "wp-includes/nav-menu.php",
-    "docCommentLine": 1143,
-    "startLine": 1149,
-    "endLine": 1156,
+    "docCommentLine": 1152,
+    "startLine": 1158,
+    "endLine": 1165,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

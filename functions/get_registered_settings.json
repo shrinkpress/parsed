@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_registered_settings",
     "filename": "wp-includes/option.php",
-    "docCommentLine": 2259,
-    "startLine": 2268,
-    "endLine": 2276,
+    "docCommentLine": 2268,
+    "startLine": 2277,
+    "endLine": 2285,
     "calls": {
-        "wp-includes/option.php:2296": [
+        "wp-includes/option.php:2305": [
             "wp-includes/option.php",
-            2296
+            2305
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:220": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:221": [
             "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php",
-            220
+            221
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

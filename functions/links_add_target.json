@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "links_add_target",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 5144,
-    "startLine": 5161,
-    "endLine": 5166,
+    "docCommentLine": 5155,
+    "startLine": 5172,
+    "endLine": 5177,
     "calls": {
-        "wp-admin/includes/plugin-install.php:650": [
+        "wp-admin/includes/plugin-install.php:654": [
             "wp-admin/includes/plugin-install.php",
-            650
+            654
         ],
-        "wp-admin/includes/plugin-install.php:834": [
+        "wp-admin/includes/plugin-install.php:838": [
             "wp-admin/includes/plugin-install.php",
-            834
+            838
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

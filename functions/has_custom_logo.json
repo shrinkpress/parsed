@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "has_custom_logo",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 915,
-    "startLine": 923,
-    "endLine": 938,
+    "docCommentLine": 916,
+    "startLine": 924,
+    "endLine": 939,
     "calls": {
-        "wp-includes/post-template.php:776": [
+        "wp-includes/post-template.php:778": [
             "wp-includes/post-template.php",
-            776
+            778
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

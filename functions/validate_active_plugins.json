@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "validate_active_plugins",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 1025,
-    "startLine": 1034,
-    "endLine": 1062,
+    "docCommentLine": 1038,
+    "startLine": 1047,
+    "endLine": 1075,
     "calls": {
-        "wp-admin/plugins.php:483": [
+        "wp-admin/plugins.php:488": [
             "wp-admin/plugins.php",
-            483
+            488
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

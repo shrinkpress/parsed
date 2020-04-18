@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_revisions_enabled",
     "filename": "wp-includes/revision.php",
-    "docCommentLine": 500,
-    "startLine": 508,
-    "endLine": 510,
+    "docCommentLine": 502,
+    "startLine": 510,
+    "endLine": 512,
     "calls": {
         "wp-admin/includes/revision.php:180": [
             "wp-admin/includes/revision.php",
@@ -18,29 +18,29 @@
             "wp-admin/revision.php",
             90
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:4614": [
+        "wp-includes/class-wp-xmlrpc-server.php:4620": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            4614
+            4620
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:4697": [
+        "wp-includes/class-wp-xmlrpc-server.php:4703": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            4697
+            4703
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:222": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:244": [
             "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php",
-            222
+            244
         ],
         "wp-includes/revision.php:129": [
             "wp-includes/revision.php",
             129
         ],
-        "wp-includes/revision.php:479": [
+        "wp-includes/revision.php:481": [
             "wp-includes/revision.php",
-            479
+            481
         ],
-        "wp-includes/theme.php:3130": [
+        "wp-includes/theme.php:3146": [
             "wp-includes/theme.php",
-            3130
+            3146
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

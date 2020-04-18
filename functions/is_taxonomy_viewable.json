@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "is_taxonomy_viewable",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 4601,
-    "startLine": 4609,
-    "endLine": 4618,
+    "docCommentLine": 4605,
+    "startLine": 4613,
+    "endLine": 4622,
     "calls": {
-        "wp-admin/includes/class-wp-terms-list-table.php:491": [
+        "wp-admin/includes/class-wp-terms-list-table.php:496": [
             "wp-admin/includes/class-wp-terms-list-table.php",
-            491
+            496
         ],
-        "wp-includes/admin-bar.php:737": [
+        "wp-includes/admin-bar.php:750": [
             "wp-includes/admin-bar.php",
-            737
+            750
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

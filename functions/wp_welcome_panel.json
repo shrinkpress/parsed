@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:359": [
+        "wp-includes/default-filters.php:360": [
             "wp-includes/default-filters.php",
-            359,
+            360,
             "welcome_panel",
             "add_action"
         ]
     },
     "functionName": "wp_welcome_panel",
     "filename": "wp-admin/includes/dashboard.php",
-    "docCommentLine": 1752,
-    "startLine": 1757,
-    "endLine": 1815,
+    "docCommentLine": 1865,
+    "startLine": 1870,
+    "endLine": 1928,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

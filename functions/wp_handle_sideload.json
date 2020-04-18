@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_handle_sideload",
     "filename": "wp-admin/includes/file.php",
-    "docCommentLine": 956,
-    "startLine": 972,
-    "endLine": 982,
+    "docCommentLine": 972,
+    "startLine": 988,
+    "endLine": 998,
     "calls": {
         "wp-admin/includes/media.php:449": [
             "wp-admin/includes/media.php",
             449
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:702": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:764": [
             "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
-            702
+            764
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

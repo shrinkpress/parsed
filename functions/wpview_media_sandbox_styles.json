@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wpview_media_sandbox_styles",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 4275,
-    "startLine": 4282,
-    "endLine": 4288,
+    "docCommentLine": 4363,
+    "startLine": 4370,
+    "endLine": 4376,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:3668": [
+        "wp-admin/includes/ajax-actions.php:3672": [
             "wp-admin/includes/ajax-actions.php",
-            3668
+            3672
         ],
-        "wp-admin/includes/ajax-actions.php:3759": [
+        "wp-admin/includes/ajax-actions.php:3763": [
             "wp-admin/includes/ajax-actions.php",
-            3759
+            3763
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

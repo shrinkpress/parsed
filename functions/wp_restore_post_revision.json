@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_restore_post_revision",
     "filename": "wp-includes/revision.php",
-    "docCommentLine": 368,
-    "startLine": 379,
-    "endLine": 421,
+    "docCommentLine": 370,
+    "startLine": 381,
+    "endLine": 423,
     "calls": {
         "wp-admin/revision.php:63": [
             "wp-admin/revision.php",
             63
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:4701": [
+        "wp-includes/class-wp-xmlrpc-server.php:4707": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            4701
+            4707
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

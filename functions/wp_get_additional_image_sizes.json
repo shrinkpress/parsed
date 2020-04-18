@@ -6,29 +6,29 @@
     "startLine": 18,
     "endLine": 26,
     "calls": {
-        "wp-admin/includes/image-edit.php:759": [
+        "wp-admin/includes/image-edit.php:761": [
             "wp-admin/includes/image-edit.php",
-            759
+            761
         ],
-        "wp-admin/includes/post.php:1489": [
+        "wp-admin/includes/post.php:1502": [
             "wp-admin/includes/post.php",
-            1489
+            1502
         ],
-        "wp-includes/media.php:62": [
+        "wp-includes/media.php:64": [
             "wp-includes/media.php",
-            62
+            64
         ],
-        "wp-includes/media.php:304": [
+        "wp-includes/media.php:311": [
             "wp-includes/media.php",
-            304
+            311
         ],
-        "wp-includes/media.php:840": [
+        "wp-includes/media.php:863": [
             "wp-includes/media.php",
-            840
+            863
         ],
-        "wp-includes/media.php:867": [
+        "wp-includes/media.php:890": [
             "wp-includes/media.php",
-            867
+            890
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

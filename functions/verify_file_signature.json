@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "verify_file_signature",
     "filename": "wp-admin/includes/file.php",
-    "docCommentLine": 1178,
-    "startLine": 1189,
-    "endLine": 1337,
+    "docCommentLine": 1194,
+    "startLine": 1205,
+    "endLine": 1353,
     "calls": {
-        "wp-admin/includes/file.php:1112": [
+        "wp-admin/includes/file.php:1128": [
             "wp-admin/includes/file.php",
-            1112
+            1128
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

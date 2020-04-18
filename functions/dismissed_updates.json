@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "dismissed_updates",
     "filename": "wp-admin/update-core.php",
-    "docCommentLine": 174,
-    "startLine": 179,
-    "endLine": 208,
+    "docCommentLine": 178,
+    "startLine": 183,
+    "endLine": 212,
     "calls": {
-        "wp-admin/update-core.php:284": [
+        "wp-admin/update-core.php:288": [
             "wp-admin/update-core.php",
-            284
+            288
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

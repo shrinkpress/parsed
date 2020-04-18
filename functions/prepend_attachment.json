@@ -6,22 +6,22 @@
             "the_content",
             "add_filter"
         ],
-        "wp-includes/template-loader.php:78": [
+        "wp-includes/template-loader.php:86": [
             "wp-includes/template-loader.php",
-            78,
+            86,
             "the_content",
             "remove_filter"
         ]
     },
     "functionName": "prepend_attachment",
     "filename": "wp-includes/post-template.php",
-    "docCommentLine": 1641,
-    "startLine": 1649,
-    "endLine": 1688,
+    "docCommentLine": 1646,
+    "startLine": 1654,
+    "endLine": 1693,
     "calls": {
-        "wp-includes/embed.php:970": [
+        "wp-includes/embed.php:980": [
             "wp-includes/embed.php",
-            970
+            980
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

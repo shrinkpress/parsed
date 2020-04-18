@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_wp_get_post_revision_version",
     "filename": "wp-includes/revision.php",
-    "docCommentLine": 668,
-    "startLine": 677,
-    "endLine": 689,
+    "docCommentLine": 670,
+    "startLine": 679,
+    "endLine": 691,
     "calls": {
         "wp-admin/includes/post.php:272": [
             "wp-admin/includes/post.php",
             272
         ],
-        "wp-includes/revision.php:737": [
+        "wp-includes/revision.php:739": [
             "wp-includes/revision.php",
-            737
+            739
         ],
-        "wp-includes/revision.php:760": [
+        "wp-includes/revision.php:764": [
             "wp-includes/revision.php",
-            760
+            764
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

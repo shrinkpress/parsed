@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "remove_user_from_blog",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 218,
-    "startLine": 236,
-    "endLine": 304,
+    "docCommentLine": 224,
+    "startLine": 242,
+    "endLine": 314,
     "calls": {
         "wp-admin/includes/ms.php:112": [
             "wp-admin/includes/ms.php",
@@ -34,13 +34,13 @@
             "wp-admin/network/users.php",
             163
         ],
-        "wp-admin/users.php:379": [
+        "wp-admin/users.php:380": [
             "wp-admin/users.php",
-            379
+            380
         ],
-        "wp-includes/ms-functions.php:2156": [
+        "wp-includes/ms-functions.php:2199": [
             "wp-includes/ms-functions.php",
-            2156
+            2199
         ],
         "wp-includes/ms-site.php:823": [
             "wp-includes/ms-site.php",

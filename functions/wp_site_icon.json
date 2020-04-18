@@ -6,9 +6,9 @@
             "admin_head",
             "add_action"
         ],
-        "wp-includes/customize/class-wp-customize-site-icon-control.php:40": [
+        "wp-includes/customize/class-wp-customize-site-icon-control.php:44": [
             "wp-includes/customize/class-wp-customize-site-icon-control.php",
-            40,
+            44,
             "customize_controls_print_styles",
             "add_action"
         ],
@@ -27,9 +27,9 @@
     },
     "functionName": "wp_site_icon",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 3127,
-    "startLine": 3134,
-    "endLine": 3173,
+    "docCommentLine": 3126,
+    "startLine": 3133,
+    "endLine": 3172,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

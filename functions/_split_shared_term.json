@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_split_shared_term",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 3759,
-    "startLine": 3782,
-    "endLine": 3907,
+    "docCommentLine": 3762,
+    "startLine": 3785,
+    "endLine": 3910,
     "calls": {
-        "wp-includes/taxonomy.php:2930": [
+        "wp-includes/taxonomy.php:2933": [
             "wp-includes/taxonomy.php",
-            2930
+            2933
         ],
-        "wp-includes/taxonomy.php:3991": [
+        "wp-includes/taxonomy.php:3994": [
             "wp-includes/taxonomy.php",
-            3991
+            3994
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,61 +2,61 @@
     "callbacks": [],
     "functionName": "add_submenu_page",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 1313,
-    "startLine": 1345,
-    "endLine": 1435,
+    "docCommentLine": 1326,
+    "startLine": 1358,
+    "endLine": 1448,
     "calls": {
-        "wp-admin/includes/plugin.php:1458": [
+        "wp-admin/includes/plugin.php:1471": [
             "wp-admin/includes/plugin.php",
-            1458
+            1471
         ],
-        "wp-admin/includes/plugin.php:1482": [
+        "wp-admin/includes/plugin.php:1495": [
             "wp-admin/includes/plugin.php",
-            1482
+            1495
         ],
-        "wp-admin/includes/plugin.php:1506": [
+        "wp-admin/includes/plugin.php:1519": [
             "wp-admin/includes/plugin.php",
-            1506
+            1519
         ],
-        "wp-admin/includes/plugin.php:1530": [
+        "wp-admin/includes/plugin.php:1543": [
             "wp-admin/includes/plugin.php",
-            1530
+            1543
         ],
-        "wp-admin/includes/plugin.php:1559": [
+        "wp-admin/includes/plugin.php:1572": [
             "wp-admin/includes/plugin.php",
-            1559
+            1572
         ],
-        "wp-admin/includes/plugin.php:1583": [
+        "wp-admin/includes/plugin.php:1596": [
             "wp-admin/includes/plugin.php",
-            1583
+            1596
         ],
-        "wp-admin/includes/plugin.php:1607": [
+        "wp-admin/includes/plugin.php:1620": [
             "wp-admin/includes/plugin.php",
-            1607
+            1620
         ],
-        "wp-admin/includes/plugin.php:1631": [
+        "wp-admin/includes/plugin.php:1644": [
             "wp-admin/includes/plugin.php",
-            1631
+            1644
         ],
-        "wp-admin/includes/plugin.php:1655": [
+        "wp-admin/includes/plugin.php:1668": [
             "wp-admin/includes/plugin.php",
-            1655
+            1668
         ],
-        "wp-admin/includes/plugin.php:1679": [
+        "wp-admin/includes/plugin.php:1692": [
             "wp-admin/includes/plugin.php",
-            1679
+            1692
         ],
-        "wp-admin/includes/plugin.php:1703": [
+        "wp-admin/includes/plugin.php:1716": [
             "wp-admin/includes/plugin.php",
-            1703
+            1716
         ],
         "wp-admin/menu.php:223": [
             "wp-admin/menu.php",
             223
         ],
-        "wp-includes/post.php:1802": [
+        "wp-includes/post.php:1813": [
             "wp-includes/post.php",
-            1802
+            1813
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

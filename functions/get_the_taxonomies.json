@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_the_taxonomies",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 4311,
-    "startLine": 4330,
-    "endLine": 4377,
+    "docCommentLine": 4315,
+    "startLine": 4334,
+    "endLine": 4381,
     "calls": {
-        "wp-includes/taxonomy.php:4308": [
+        "wp-includes/taxonomy.php:4312": [
             "wp-includes/taxonomy.php",
-            4308
+            4312
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

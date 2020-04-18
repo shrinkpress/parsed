@@ -6,18 +6,18 @@
             "login_init",
             "add_action"
         ],
-        "wp-includes/default-filters.php:358": [
+        "wp-includes/default-filters.php:359": [
             "wp-includes/default-filters.php",
-            358,
+            359,
             "admin_init",
             "add_action"
         ]
     },
     "functionName": "send_frame_options_header",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 6021,
-    "startLine": 6028,
-    "endLine": 6030,
+    "docCommentLine": 6213,
+    "startLine": 6220,
+    "endLine": 6222,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

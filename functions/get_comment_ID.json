@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_comment_ID",
     "filename": "wp-includes/comment-template.php",
-    "docCommentLine": 651,
-    "startLine": 658,
-    "endLine": 671,
+    "docCommentLine": 652,
+    "startLine": 659,
+    "endLine": 672,
     "calls": {
-        "wp-includes/comment-template.php:679": [
+        "wp-includes/comment-template.php:680": [
             "wp-includes/comment-template.php",
-            679
+            680
         ],
-        "wp-includes/comment-template.php:1953": [
+        "wp-includes/comment-template.php:1972": [
             "wp-includes/comment-template.php",
-            1953
+            1972
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

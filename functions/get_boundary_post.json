@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_boundary_post",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 2004,
-    "startLine": 2020,
-    "endLine": 2068,
+    "docCommentLine": 2006,
+    "startLine": 2022,
+    "endLine": 2070,
     "calls": {
-        "wp-includes/deprecated.php:2675": [
+        "wp-includes/deprecated.php:2672": [
             "wp-includes/deprecated.php",
-            2675
+            2672
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "stick_post",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 2493,
-    "startLine": 2502,
-    "endLine": 2525,
+    "docCommentLine": 2504,
+    "startLine": 2513,
+    "endLine": 2536,
     "calls": {
-        "wp-admin/includes/post.php:428": [
+        "wp-admin/includes/post.php:431": [
             "wp-admin/includes/post.php",
-            428
+            431
         ],
-        "wp-admin/includes/post.php:627": [
+        "wp-admin/includes/post.php:630": [
             "wp-admin/includes/post.php",
-            627
+            630
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:1343": [
+        "wp-includes/class-wp-xmlrpc-server.php:1345": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            1343
+            1345
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:569": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:626": [
             "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
-            569
+            626
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:716": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:789": [
             "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
-            716
+            789
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

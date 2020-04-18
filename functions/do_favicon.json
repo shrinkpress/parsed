@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/default-filters.php:341": [
+            "wp-includes/default-filters.php",
+            341,
+            "do_favicon",
+            "add_action"
+        ]
+    },
+    "functionName": "do_favicon",
+    "filename": "wp-includes/functions.php",
+    "docCommentLine": 1657,
+    "startLine": 1662,
+    "endLine": 1672,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "maybe_disable_automattic_widgets",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 3213,
-    "startLine": 3218,
-    "endLine": 3228,
+    "docCommentLine": 3238,
+    "startLine": 3243,
+    "endLine": 3253,
     "calls": {
-        "wp-admin/includes/upgrade.php:822": [
+        "wp-admin/includes/upgrade.php:839": [
             "wp-admin/includes/upgrade.php",
-            822
+            839
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

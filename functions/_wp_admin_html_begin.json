@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "_wp_admin_html_begin",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 2411,
-    "startLine": 2414,
-    "endLine": 2452,
+    "docCommentLine": 2413,
+    "startLine": 2416,
+    "endLine": 2454,
     "calls": {
         "wp-admin/admin-header.php:72": [
             "wp-admin/admin-header.php",
@@ -18,9 +18,9 @@
             "wp-admin/includes/media.php",
             516
         ],
-        "wp-admin/includes/template.php:1961": [
+        "wp-admin/includes/template.php:1963": [
             "wp-admin/includes/template.php",
-            1961
+            1963
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

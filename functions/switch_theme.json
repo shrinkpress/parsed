@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "switch_theme",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 716,
-    "startLine": 730,
-    "endLine": 816,
+    "docCommentLine": 719,
+    "startLine": 733,
+    "endLine": 819,
     "calls": {
-        "wp-admin/includes/class-theme-upgrader.php:577": [
+        "wp-admin/includes/class-theme-upgrader.php:583": [
             "wp-admin/includes/class-theme-upgrader.php",
-            577
+            583
         ],
         "wp-admin/themes.php:33": [
             "wp-admin/themes.php",
@@ -18,13 +18,13 @@
             "wp-includes/class-wp-customize-manager.php",
             2881
         ],
-        "wp-includes/theme.php:858": [
+        "wp-includes/theme.php:861": [
             "wp-includes/theme.php",
-            858
+            861
         ],
-        "wp-includes/theme.php:876": [
+        "wp-includes/theme.php:879": [
             "wp-includes/theme.php",
-            876
+            879
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

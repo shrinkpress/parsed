@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_user_request_action_description",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 3434,
-    "startLine": 3442,
-    "endLine": 3465,
+    "docCommentLine": 3613,
+    "startLine": 3621,
+    "endLine": 3644,
     "calls": {
-        "wp-includes/user.php:3067": [
+        "wp-includes/user.php:3196": [
             "wp-includes/user.php",
-            3067
+            3196
         ],
-        "wp-includes/user.php:3497": [
+        "wp-includes/user.php:3676": [
             "wp-includes/user.php",
-            3497
+            3676
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

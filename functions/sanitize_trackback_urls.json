@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "sanitize_trackback_urls",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 5399,
-    "startLine": 5407,
-    "endLine": 5428,
+    "docCommentLine": 5410,
+    "startLine": 5418,
+    "endLine": 5439,
     "calls": {
-        "wp-includes/post.php:3778": [
+        "wp-includes/post.php:3789": [
             "wp-includes/post.php",
-            3778
+            3789
         ],
-        "wp-includes/post.php:4786": [
+        "wp-includes/post.php:4824": [
             "wp-includes/post.php",
-            4786
+            4824
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

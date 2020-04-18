@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_find_hierarchy_loop_tortoise_hare",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 5968,
-    "startLine": 5988,
-    "endLine": 6019,
+    "docCommentLine": 6160,
+    "startLine": 6180,
+    "endLine": 6211,
     "calls": {
-        "wp-includes/functions.php:5960": [
+        "wp-includes/functions.php:6152": [
             "wp-includes/functions.php",
-            5960
+            6152
         ],
-        "wp-includes/functions.php:5965": [
+        "wp-includes/functions.php:6157": [
             "wp-includes/functions.php",
-            5965
+            6157
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

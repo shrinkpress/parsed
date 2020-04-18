@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "is_trackback",
     "filename": "wp-includes/query.php",
-    "docCommentLine": 758,
-    "startLine": 771,
-    "endLine": 780,
+    "docCommentLine": 791,
+    "startLine": 804,
+    "endLine": 813,
     "calls": {
         "wp-includes/canonical.php:59": [
             "wp-includes/canonical.php",
             59
         ],
-        "wp-includes/functions.php:3271": [
+        "wp-includes/functions.php:3328": [
             "wp-includes/functions.php",
-            3271
+            3328
         ],
-        "wp-includes/template-loader.php:42": [
+        "wp-includes/template-loader.php:50": [
             "wp-includes/template-loader.php",
-            42
+            50
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "_wp_image_editor_choose",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 3214,
-    "startLine": 3224,
-    "endLine": 3261,
+    "docCommentLine": 3277,
+    "startLine": 3287,
+    "endLine": 3324,
     "calls": {
         "wp-admin/includes/class-wp-debug-data.php:491": [
             "wp-admin/includes/class-wp-debug-data.php",
@@ -14,13 +14,13 @@
             "wp-admin/includes/class-wp-debug-data.php",
             514
         ],
-        "wp-includes/media.php:3185": [
+        "wp-includes/media.php:3248": [
             "wp-includes/media.php",
-            3185
+            3248
         ],
-        "wp-includes/media.php:3211": [
+        "wp-includes/media.php:3274": [
             "wp-includes/media.php",
-            3211
+            3274
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "wp_guess_url",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 5151,
-    "startLine": 5161,
-    "endLine": 5198,
+    "docCommentLine": 5343,
+    "startLine": 5353,
+    "endLine": 5390,
     "calls": {
         "wp-admin/includes/schema.php:364": [
             "wp-admin/includes/schema.php",
             364
         ],
-        "wp-admin/includes/upgrade.php:62": [
+        "wp-admin/includes/upgrade.php:69": [
             "wp-admin/includes/upgrade.php",
-            62
+            69
         ],
-        "wp-includes/load.php:611": [
+        "wp-includes/load.php:612": [
             "wp-includes/load.php",
-            611
+            612
         ],
-        "wp-includes/script-loader.php:959": [
+        "wp-includes/script-loader.php:590": [
             "wp-includes/script-loader.php",
-            959
+            590
         ],
-        "wp-includes/script-loader.php:2005": [
+        "wp-includes/script-loader.php:1629": [
             "wp-includes/script-loader.php",
-            2005
+            1629
         ],
         "wp-load.php:56": [
             "wp-load.php",

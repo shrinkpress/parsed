@@ -9,13 +9,13 @@
     },
     "functionName": "wp_enqueue_scripts",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 2656,
-    "startLine": 2664,
-    "endLine": 2671,
+    "docCommentLine": 2280,
+    "startLine": 2288,
+    "endLine": 2295,
     "calls": {
-        "wp-includes/class-wp-customize-manager.php:455": [
+        "wp-includes/class-wp-customize-manager.php:454": [
             "wp-includes/class-wp-customize-manager.php",
-            455
+            454
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

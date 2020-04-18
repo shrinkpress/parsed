@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "get_posts_by_author_sql",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6289,
-    "startLine": 6306,
-    "endLine": 6371,
+    "docCommentLine": 6327,
+    "startLine": 6344,
+    "endLine": 6409,
     "calls": {
         "wp-includes/class-wp-user-query.php:767": [
             "wp-includes/class-wp-user-query.php",
             767
         ],
-        "wp-includes/post.php:6286": [
+        "wp-includes/post.php:6324": [
             "wp-includes/post.php",
-            6286
+            6324
         ],
-        "wp-includes/user.php:372": [
+        "wp-includes/user.php:373": [
             "wp-includes/user.php",
-            372
+            373
         ],
-        "wp-includes/user.php:412": [
+        "wp-includes/user.php:413": [
             "wp-includes/user.php",
-            412
+            413
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

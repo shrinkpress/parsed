@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "ms_is_switched",
     "filename": "wp-includes/ms-blogs.php",
-    "docCommentLine": 643,
-    "startLine": 652,
-    "endLine": 654,
+    "docCommentLine": 646,
+    "startLine": 655,
+    "endLine": 657,
     "calls": {
-        "wp-admin/includes/misc.php:516": [
+        "wp-admin/includes/misc.php:523": [
             "wp-admin/includes/misc.php",
-            516
+            523
         ],
-        "wp-includes/functions.php:2342": [
+        "wp-includes/functions.php:2385": [
             "wp-includes/functions.php",
-            2342
+            2385
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

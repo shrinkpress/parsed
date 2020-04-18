@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "get_available_languages",
     "filename": "wp-includes/l10n.php",
-    "docCommentLine": 1275,
-    "startLine": 1287,
-    "endLine": 1310,
+    "docCommentLine": 1289,
+    "startLine": 1301,
+    "endLine": 1324,
     "calls": {
-        "wp-admin/includes/translation-install.php:162": [
+        "wp-admin/includes/translation-install.php:164": [
             "wp-admin/includes/translation-install.php",
-            162
+            164
         ],
-        "wp-admin/includes/translation-install.php:212": [
+        "wp-admin/includes/translation-install.php:214": [
             "wp-admin/includes/translation-install.php",
-            212
+            214
         ],
-        "wp-admin/includes/upgrade.php:1896": [
+        "wp-admin/includes/upgrade.php:1916": [
             "wp-admin/includes/upgrade.php",
-            1896
+            1916
         ],
         "wp-admin/includes/user.php:128": [
             "wp-admin/includes/user.php",
@@ -38,29 +38,29 @@
             "wp-admin/options-general.php",
             158
         ],
-        "wp-admin/user-edit.php:340": [
+        "wp-admin/user-edit.php:339": [
             "wp-admin/user-edit.php",
-            340
+            339
         ],
         "wp-includes/class-wp-locale-switcher.php:49": [
             "wp-includes/class-wp-locale-switcher.php",
             49
         ],
-        "wp-includes/formatting.php:4709": [
+        "wp-includes/formatting.php:4714": [
             "wp-includes/formatting.php",
-            4709
+            4714
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1257": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1386": [
             "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
-            1257
+            1386
         ],
         "wp-includes/update.php:338": [
             "wp-includes/update.php",
             338
         ],
-        "wp-includes/update.php:528": [
+        "wp-includes/update.php:529": [
             "wp-includes/update.php",
-            528
+            529
         ],
         "wp-signup.php:879": [
             "wp-signup.php",

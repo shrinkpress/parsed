@@ -2,37 +2,37 @@
     "callbacks": [],
     "functionName": "wp_defer_comment_counting",
     "filename": "wp-includes/comment.php",
-    "docCommentLine": 2408,
-    "startLine": 2422,
-    "endLine": 2434,
+    "docCommentLine": 2414,
+    "startLine": 2428,
+    "endLine": 2440,
     "calls": {
         "wp-admin/edit-comments.php:53": [
             "wp-admin/edit-comments.php",
             53
         ],
-        "wp-admin/edit-comments.php:112": [
+        "wp-admin/edit-comments.php:99": [
             "wp-admin/edit-comments.php",
-            112
+            99
         ],
-        "wp-includes/comment.php:2474": [
+        "wp-includes/comment.php:2480": [
             "wp-includes/comment.php",
-            2474
+            2480
         ],
-        "wp-includes/post.php:3004": [
+        "wp-includes/post.php:3015": [
             "wp-includes/post.php",
-            3004
+            3015
         ],
-        "wp-includes/post.php:3011": [
+        "wp-includes/post.php:3022": [
             "wp-includes/post.php",
-            3011
+            3022
         ],
-        "wp-includes/post.php:5611": [
+        "wp-includes/post.php:5649": [
             "wp-includes/post.php",
-            5611
+            5649
         ],
-        "wp-includes/post.php:5618": [
+        "wp-includes/post.php:5656": [
             "wp-includes/post.php",
-            5618
+            5656
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

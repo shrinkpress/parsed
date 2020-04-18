@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "get_next_posts_link",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 2343,
-    "startLine": 2355,
-    "endLine": 2384,
+    "docCommentLine": 2345,
+    "startLine": 2357,
+    "endLine": 2386,
     "calls": {
-        "wp-includes/link-template.php:2395": [
+        "wp-includes/link-template.php:2397": [
             "wp-includes/link-template.php",
-            2395
+            2397
         ],
-        "wp-includes/link-template.php:2524": [
+        "wp-includes/link-template.php:2526": [
             "wp-includes/link-template.php",
-            2524
+            2526
         ],
-        "wp-includes/link-template.php:2664": [
+        "wp-includes/link-template.php:2666": [
             "wp-includes/link-template.php",
-            2664
+            2666
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

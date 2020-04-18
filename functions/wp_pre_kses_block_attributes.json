@@ -6,24 +6,24 @@
             "pre_kses",
             "add_filter"
         ],
-        "wp-includes/formatting.php:4923": [
+        "wp-includes/formatting.php:4928": [
             "wp-includes/formatting.php",
-            4923,
+            4928,
             "pre_kses",
             "remove_filter"
         ],
-        "wp-includes/formatting.php:4925": [
+        "wp-includes/formatting.php:4930": [
             "wp-includes/formatting.php",
-            4925,
+            4930,
             "pre_kses",
             "add_filter"
         ]
     },
     "functionName": "wp_pre_kses_block_attributes",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 4905,
-    "startLine": 4918,
-    "endLine": 4928,
+    "docCommentLine": 4910,
+    "startLine": 4923,
+    "endLine": 4933,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

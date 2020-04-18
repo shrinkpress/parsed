@@ -12,18 +12,18 @@
             "login_head",
             "add_action"
         ],
-        "wp-includes/default-filters.php:557": [
+        "wp-includes/default-filters.php:559": [
             "wp-includes/default-filters.php",
-            557,
+            559,
             "embed_head",
             "add_action"
         ]
     },
     "functionName": "wp_print_head_scripts",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 2606,
-    "startLine": 2618,
-    "endLine": 2630,
+    "docCommentLine": 2230,
+    "startLine": 2242,
+    "endLine": 2254,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

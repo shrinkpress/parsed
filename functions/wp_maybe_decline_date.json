@@ -3,9 +3,13 @@
     "functionName": "wp_maybe_decline_date",
     "filename": "wp-includes/functions.php",
     "docCommentLine": 308,
-    "startLine": 321,
-    "endLine": 380,
+    "startLine": 323,
+    "endLine": 396,
     "calls": {
+        "wp-admin/includes/class-wp-community-events.php:414": [
+            "wp-admin/includes/class-wp-community-events.php",
+            414
+        ],
         "wp-includes/functions.php:289": [
             "wp-includes/functions.php",
             289

@@ -1,29 +1,29 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:428": [
+        "wp-includes/default-filters.php:429": [
             "wp-includes/default-filters.php",
-            428,
+            429,
             "determine_current_user",
             "add_filter"
         ]
     },
     "functionName": "wp_validate_auth_cookie",
     "filename": "wp-includes/pluggable.php",
-    "docCommentLine": 586,
-    "startLine": 603,
-    "endLine": 699,
+    "docCommentLine": 590,
+    "startLine": 607,
+    "endLine": 710,
     "calls": {
-        "wp-includes/pluggable.php:1053": [
+        "wp-includes/pluggable.php:1062": [
             "wp-includes/pluggable.php",
-            1053
+            1062
         ],
-        "wp-includes/user.php:276": [
+        "wp-includes/user.php:277": [
             "wp-includes/user.php",
-            276
+            277
         ],
-        "wp-includes/user.php:351": [
+        "wp-includes/user.php:352": [
             "wp-includes/user.php",
-            351
+            352
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

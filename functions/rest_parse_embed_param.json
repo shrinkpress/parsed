@@ -1,0 +1,15 @@
+{
+    "callbacks": [],
+    "functionName": "rest_parse_embed_param",
+    "filename": "wp-includes/rest-api.php",
+    "docCommentLine": 1579,
+    "startLine": 1587,
+    "endLine": 1599,
+    "calls": {
+        "wp-includes/rest-api/class-wp-rest-server.php:401": [
+            "wp-includes/rest-api/class-wp-rest-server.php",
+            401
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

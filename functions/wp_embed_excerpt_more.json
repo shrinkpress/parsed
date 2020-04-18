@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:570": [
+        "wp-includes/default-filters.php:572": [
             "wp-includes/default-filters.php",
-            570,
+            572,
             "excerpt_more",
             "add_filter"
         ]
     },
     "functionName": "wp_embed_excerpt_more",
     "filename": "wp-includes/embed.php",
-    "docCommentLine": 913,
-    "startLine": 924,
-    "endLine": 936,
+    "docCommentLine": 923,
+    "startLine": 934,
+    "endLine": 946,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

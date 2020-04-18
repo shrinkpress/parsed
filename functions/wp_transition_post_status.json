@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_transition_post_status",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 4589,
-    "startLine": 4610,
-    "endLine": 4654,
+    "docCommentLine": 4627,
+    "startLine": 4648,
+    "endLine": 4692,
     "calls": {
-        "wp-includes/class-wp-customize-manager.php:3044": [
+        "wp-includes/class-wp-customize-manager.php:3048": [
             "wp-includes/class-wp-customize-manager.php",
-            3044
+            3048
         ],
-        "wp-includes/post.php:4021": [
+        "wp-includes/post.php:4045": [
             "wp-includes/post.php",
-            4021
+            4045
         ],
-        "wp-includes/post.php:4227": [
+        "wp-includes/post.php:4265": [
             "wp-includes/post.php",
-            4227
+            4265
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

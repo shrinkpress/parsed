@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_get_cron_array",
     "filename": "wp-includes/cron.php",
-    "docCommentLine": 923,
-    "startLine": 931,
-    "endLine": 944,
+    "docCommentLine": 931,
+    "startLine": 939,
+    "endLine": 952,
     "calls": {
-        "wp-admin/includes/class-wp-site-health.php:2029": [
+        "wp-admin/includes/class-wp-site-health.php:2072": [
             "wp-admin/includes/class-wp-site-health.php",
-            2029
+            2072
         ],
-        "wp-admin/includes/upgrade.php:2010": [
+        "wp-admin/includes/upgrade.php:2029": [
             "wp-admin/includes/upgrade.php",
-            2010
+            2029
         ],
         "wp-includes/cron.php:95": [
             "wp-includes/cron.php",
@@ -26,21 +26,21 @@
             "wp-includes/cron.php",
             370
         ],
-        "wp-includes/cron.php:432": [
+        "wp-includes/cron.php:434": [
             "wp-includes/cron.php",
-            432
+            434
         ],
-        "wp-includes/cron.php:488": [
+        "wp-includes/cron.php:490": [
             "wp-includes/cron.php",
-            488
+            490
         ],
-        "wp-includes/cron.php:561": [
+        "wp-includes/cron.php:563": [
             "wp-includes/cron.php",
-            561
+            563
         ],
-        "wp-includes/cron.php:896": [
+        "wp-includes/cron.php:904": [
             "wp-includes/cron.php",
-            896
+            904
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

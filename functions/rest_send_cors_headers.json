@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/rest-api.php:181": [
+        "wp-includes/rest-api.php:182": [
             "wp-includes/rest-api.php",
-            181,
+            182,
             "rest_pre_serve_request",
             "add_filter"
         ]
     },
     "functionName": "rest_send_cors_headers",
     "filename": "wp-includes/rest-api.php",
-    "docCommentLine": 572,
-    "startLine": 580,
-    "endLine": 597,
+    "docCommentLine": 574,
+    "startLine": 582,
+    "endLine": 599,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

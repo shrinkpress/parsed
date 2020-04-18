@@ -1,14 +1,14 @@
 {
     "callbacks": {
-        "wp-includes/comment-template.php:2324": [
+        "wp-includes/comment-template.php:2345": [
             "wp-includes/comment-template.php",
-            2324,
+            2345,
             "set_comment_cookies",
             "has_action"
         ],
-        "wp-includes/default-filters.php:341": [
+        "wp-includes/default-filters.php:342": [
             "wp-includes/default-filters.php",
-            341,
+            342,
             "set_comment_cookies",
             "add_action"
         ]

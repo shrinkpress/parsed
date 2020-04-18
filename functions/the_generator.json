@@ -9,17 +9,17 @@
     },
     "functionName": "the_generator",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 4533,
-    "startLine": 4543,
-    "endLine": 4554,
+    "docCommentLine": 4525,
+    "startLine": 4535,
+    "endLine": 4546,
     "calls": {
         "wp-admin/includes/export.php:458": [
             "wp-admin/includes/export.php",
             458
         ],
-        "wp-includes/general-template.php:4530": [
+        "wp-includes/general-template.php:4522": [
             "wp-includes/general-template.php",
-            4530
+            4522
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

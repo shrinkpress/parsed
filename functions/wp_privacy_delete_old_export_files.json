@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:369": [
+        "wp-includes/default-filters.php:370": [
             "wp-includes/default-filters.php",
-            369,
+            370,
             "wp_privacy_delete_old_export_files",
             "add_action"
         ]
     },
     "functionName": "wp_privacy_delete_old_export_files",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 7054,
-    "startLine": 7065,
-    "endLine": 7093,
+    "docCommentLine": 7246,
+    "startLine": 7257,
+    "endLine": 7285,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

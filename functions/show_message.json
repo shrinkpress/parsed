@@ -1,57 +1,57 @@
 {
     "callbacks": {
-        "wp-admin/update-core.php:608": [
+        "wp-admin/update-core.php:612": [
             "wp-admin/update-core.php",
-            608,
+            612,
             "update_feedback",
             "add_filter"
         ]
     },
     "functionName": "show_message",
     "filename": "wp-admin/includes/misc.php",
-    "docCommentLine": 549,
-    "startLine": 556,
-    "endLine": 567,
+    "docCommentLine": 556,
+    "startLine": 563,
+    "endLine": 574,
     "calls": {
         "wp-admin/includes/class-wp-upgrader-skin.php:160": [
             "wp-admin/includes/class-wp-upgrader-skin.php",
             160
         ],
-        "wp-admin/includes/update-core.php:1400": [
+        "wp-admin/includes/update-core.php:1409": [
             "wp-admin/includes/update-core.php",
-            1400
+            1409
         ],
-        "wp-admin/includes/update-core.php:1403": [
+        "wp-admin/includes/update-core.php:1412": [
             "wp-admin/includes/update-core.php",
-            1403
+            1412
         ],
-        "wp-admin/includes/update-core.php:1411": [
+        "wp-admin/includes/update-core.php:1420": [
             "wp-admin/includes/update-core.php",
-            1411
+            1420
         ],
-        "wp-admin/update-core.php:598": [
+        "wp-admin/update-core.php:602": [
             "wp-admin/update-core.php",
-            598
+            602
         ],
-        "wp-admin/update-core.php:619": [
+        "wp-admin/update-core.php:623": [
             "wp-admin/update-core.php",
-            619
+            623
         ],
-        "wp-admin/update-core.php:621": [
+        "wp-admin/update-core.php:625": [
             "wp-admin/update-core.php",
-            621
+            625
         ],
-        "wp-admin/update-core.php:627": [
+        "wp-admin/update-core.php:631": [
             "wp-admin/update-core.php",
-            627
+            631
         ],
-        "wp-admin/update-core.php:628": [
+        "wp-admin/update-core.php:632": [
             "wp-admin/update-core.php",
-            628
+            632
         ],
-        "wp-admin/update-core.php:636": [
+        "wp-admin/update-core.php:640": [
             "wp-admin/update-core.php",
-            636
+            640
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

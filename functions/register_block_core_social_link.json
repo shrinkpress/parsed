@@ -1,0 +1,17 @@
+{
+    "callbacks": {
+        "wp-includes/blocks/social-link.php:50": [
+            "wp-includes/blocks/social-link.php",
+            50,
+            "init",
+            "add_action"
+        ]
+    },
+    "functionName": "register_block_core_social_link",
+    "filename": "wp-includes/blocks/social-link.php",
+    "docCommentLine": 33,
+    "startLine": 36,
+    "endLine": 49,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

@@ -2,37 +2,37 @@
     "callbacks": [],
     "functionName": "is_child_theme",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 145,
-    "startLine": 152,
-    "endLine": 154,
+    "docCommentLine": 146,
+    "startLine": 153,
+    "endLine": 155,
     "calls": {
-        "wp-admin/includes/class-wp-site-health.php:491": [
+        "wp-admin/includes/class-wp-site-health.php:521": [
             "wp-admin/includes/class-wp-site-health.php",
-            491
+            521
         ],
-        "wp-admin/includes/class-wp-site-health.php:506": [
+        "wp-admin/includes/class-wp-site-health.php:536": [
             "wp-admin/includes/class-wp-site-health.php",
-            506
+            536
         ],
-        "wp-admin/includes/class-wp-site-health.php:564": [
+        "wp-admin/includes/class-wp-site-health.php:594": [
             "wp-admin/includes/class-wp-site-health.php",
-            564
+            594
         ],
-        "wp-admin/theme-editor.php:298": [
+        "wp-admin/theme-editor.php:303": [
             "wp-admin/theme-editor.php",
-            298
+            303
         ],
         "wp-includes/class-wp-customize-manager.php:1658": [
             "wp-includes/class-wp-customize-manager.php",
             1658
         ],
-        "wp-includes/theme.php:849": [
+        "wp-includes/theme.php:852": [
             "wp-includes/theme.php",
-            849
+            852
         ],
-        "wp-includes/theme.php:2003": [
+        "wp-includes/theme.php:2007": [
             "wp-includes/theme.php",
-            2003
+            2007
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "add_option_whitelist",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 2116,
-    "startLine": 2127,
-    "endLine": 2149,
+    "docCommentLine": 2147,
+    "startLine": 2158,
+    "endLine": 2180,
     "calls": {
-        "wp-admin/includes/plugin.php:2110": [
+        "wp-admin/includes/plugin.php:2141": [
             "wp-admin/includes/plugin.php",
-            2110
+            2141
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

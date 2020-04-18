@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_not_installed",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 590,
-    "startLine": 598,
-    "endLine": 616,
+    "docCommentLine": 591,
+    "startLine": 599,
+    "endLine": 617,
     "calls": {
-        "wp-settings.php:151": [
+        "wp-settings.php:161": [
             "wp-settings.php",
-            151
+            161
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

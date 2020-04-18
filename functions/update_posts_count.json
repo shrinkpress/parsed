@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "update_posts_count",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 1822,
-    "startLine": 1836,
-    "endLine": 1839,
+    "docCommentLine": 1860,
+    "startLine": 1874,
+    "endLine": 1877,
     "calls": {
-        "wp-includes/ms-blogs.php:828": [
+        "wp-includes/ms-blogs.php:831": [
             "wp-includes/ms-blogs.php",
-            828
+            831
         ],
-        "wp-includes/ms-blogs.php:854": [
+        "wp-includes/ms-blogs.php:857": [
             "wp-includes/ms-blogs.php",
-            854
+            857
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

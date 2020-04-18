@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_comment_trashnotice",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 525,
-    "startLine": 530,
-    "endLine": 551,
+    "docCommentLine": 527,
+    "startLine": 532,
+    "endLine": 553,
     "calls": {
-        "wp-admin/edit-comments.php:366": [
+        "wp-admin/edit-comments.php:353": [
             "wp-admin/edit-comments.php",
-            366
+            353
         ],
-        "wp-admin/includes/dashboard.php:1026": [
+        "wp-admin/includes/dashboard.php:1047": [
             "wp-admin/includes/dashboard.php",
-            1026
+            1047
         ],
-        "wp-admin/includes/meta-boxes.php:852": [
+        "wp-admin/includes/meta-boxes.php:861": [
             "wp-admin/includes/meta-boxes.php",
-            852
+            861
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

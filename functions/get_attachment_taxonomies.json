@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "get_attachment_taxonomies",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 3004,
-    "startLine": 3016,
-    "endLine": 3063,
+    "docCommentLine": 3062,
+    "startLine": 3074,
+    "endLine": 3121,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:3100": [
+        "wp-admin/includes/ajax-actions.php:3104": [
             "wp-admin/includes/ajax-actions.php",
-            3100
+            3104
         ],
         "wp-admin/includes/media.php:787": [
             "wp-admin/includes/media.php",
             787
         ],
-        "wp-admin/includes/media.php:1392": [
+        "wp-admin/includes/media.php:1400": [
             "wp-admin/includes/media.php",
-            1392
+            1400
         ],
-        "wp-admin/includes/media.php:1844": [
+        "wp-admin/includes/media.php:1856": [
             "wp-admin/includes/media.php",
-            1844
+            1856
         ],
         "wp-includes/taxonomy.php:227": [
             "wp-includes/taxonomy.php",

@@ -2,33 +2,33 @@
     "callbacks": [],
     "functionName": "wp_html_excerpt",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 5072,
-    "startLine": 5086,
-    "endLine": 5098,
+    "docCommentLine": 5080,
+    "startLine": 5094,
+    "endLine": 5109,
     "calls": {
         "wp-admin/async-upload.php:63": [
             "wp-admin/async-upload.php",
             63
         ],
-        "wp-admin/edit-comments.php:153": [
+        "wp-admin/edit-comments.php:140": [
             "wp-admin/edit-comments.php",
-            153
+            140
         ],
-        "wp-admin/edit-comments.php:234": [
+        "wp-admin/edit-comments.php:221": [
             "wp-admin/edit-comments.php",
-            234
+            221
         ],
-        "wp-admin/edit-comments.php:249": [
+        "wp-admin/edit-comments.php:236": [
             "wp-admin/edit-comments.php",
-            249
+            236
         ],
-        "wp-admin/includes/class-wp-comments-list-table.php:829": [
+        "wp-admin/includes/class-wp-comments-list-table.php:833": [
             "wp-admin/includes/class-wp-comments-list-table.php",
-            829
+            833
         ],
-        "wp-admin/includes/media.php:1600": [
+        "wp-admin/includes/media.php:1612": [
             "wp-admin/includes/media.php",
-            1600
+            1612
         ],
         "wp-admin/nav-menus.php:491": [
             "wp-admin/nav-menus.php",
@@ -38,17 +38,17 @@
             "wp-admin/nav-menus.php",
             703
         ],
-        "wp-includes/admin-bar.php:351": [
+        "wp-includes/admin-bar.php:364": [
             "wp-includes/admin-bar.php",
-            351
+            364
         ],
         "wp-includes/class-wp-customize-nav-menus.php:648": [
             "wp-includes/class-wp-customize-nav-menus.php",
             648
         ],
-        "wp-includes/comment.php:2740": [
+        "wp-includes/comment.php:2746": [
             "wp-includes/comment.php",
-            2740
+            2746
         ],
         "wp-trackback.php:118": [
             "wp-trackback.php",

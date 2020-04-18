@@ -1,67 +1,10 @@
 {
     "callbacks": [],
     "functionName": "wp_get_user_request_data",
-    "filename": "wp-includes/user.php",
-    "docCommentLine": 3692,
-    "startLine": 3700,
-    "endLine": 3709,
-    "calls": {
-        "wp-admin/includes/ajax-actions.php:4710": [
-            "wp-admin/includes/ajax-actions.php",
-            4710
-        ],
-        "wp-admin/includes/ajax-actions.php:4901": [
-            "wp-admin/includes/ajax-actions.php",
-            4901
-        ],
-        "wp-admin/includes/class-wp-privacy-requests-table.php:303": [
-            "wp-admin/includes/class-wp-privacy-requests-table.php",
-            303
-        ],
-        "wp-admin/includes/privacy-tools.php:48": [
-            "wp-admin/includes/privacy-tools.php",
-            48
-        ],
-        "wp-admin/includes/privacy-tools.php:292": [
-            "wp-admin/includes/privacy-tools.php",
-            292
-        ],
-        "wp-admin/includes/privacy-tools.php:477": [
-            "wp-admin/includes/privacy-tools.php",
-            477
-        ],
-        "wp-admin/includes/privacy-tools.php:647": [
-            "wp-admin/includes/privacy-tools.php",
-            647
-        ],
-        "wp-admin/includes/privacy-tools.php:790": [
-            "wp-admin/includes/privacy-tools.php",
-            790
-        ],
-        "wp-includes/user.php:3024": [
-            "wp-includes/user.php",
-            3024
-        ],
-        "wp-includes/user.php:3054": [
-            "wp-includes/user.php",
-            3054
-        ],
-        "wp-includes/user.php:3193": [
-            "wp-includes/user.php",
-            3193
-        ],
-        "wp-includes/user.php:3343": [
-            "wp-includes/user.php",
-            3343
-        ],
-        "wp-includes/user.php:3479": [
-            "wp-includes/user.php",
-            3479
-        ],
-        "wp-includes/user.php:3641": [
-            "wp-includes/user.php",
-            3641
-        ]
-    },
+    "filename": "wp-admin/includes/deprecated.php",
+    "docCommentLine": 1568,
+    "startLine": 1578,
+    "endLine": 1581,
+    "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

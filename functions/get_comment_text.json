@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "get_comment_text",
     "filename": "wp-includes/comment-template.php",
-    "docCommentLine": 946,
-    "startLine": 959,
-    "endLine": 974,
+    "docCommentLine": 948,
+    "startLine": 962,
+    "endLine": 993,
     "calls": {
-        "wp-includes/comment-template.php:991": [
+        "wp-includes/comment-template.php:1010": [
             "wp-includes/comment-template.php",
-            991
+            1010
         ],
-        "wp-includes/comment.php:3462": [
+        "wp-includes/comment.php:3474": [
             "wp-includes/comment.php",
-            3462
+            3474
         ],
-        "wp-includes/feed.php:352": [
+        "wp-includes/feed.php:351": [
             "wp-includes/feed.php",
-            352
+            351
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

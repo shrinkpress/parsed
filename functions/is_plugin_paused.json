@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "is_plugin_paused",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 2278,
-    "startLine": 2291,
-    "endLine": 2303,
+    "docCommentLine": 2316,
+    "startLine": 2329,
+    "endLine": 2341,
     "calls": {
-        "wp-admin/includes/class-wp-plugins-list-table.php:225": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:223": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            225
+            223
         ],
-        "wp-admin/includes/class-wp-plugins-list-table.php:724": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:722": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            724
+            722
         ],
-        "wp-admin/includes/class-wp-plugins-list-table.php:857": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:855": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            857
+            855
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

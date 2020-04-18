@@ -12,44 +12,44 @@
             "upgrader_process_complete",
             "remove_action"
         ],
-        "wp-admin/includes/class-plugin-upgrader.php:174": [
+        "wp-admin/includes/class-plugin-upgrader.php:177": [
             "wp-admin/includes/class-plugin-upgrader.php",
-            174,
+            177,
             "upgrader_process_complete",
             "add_action"
         ],
-        "wp-admin/includes/class-plugin-upgrader.php:192": [
+        "wp-admin/includes/class-plugin-upgrader.php:195": [
             "wp-admin/includes/class-plugin-upgrader.php",
-            192,
+            195,
             "upgrader_process_complete",
             "remove_action"
         ]
     },
     "functionName": "wp_clean_plugins_cache",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 2196,
-    "startLine": 2203,
-    "endLine": 2208,
+    "docCommentLine": 2228,
+    "startLine": 2235,
+    "endLine": 2240,
     "calls": {
         "wp-admin/includes/class-plugin-upgrader.php:127": [
             "wp-admin/includes/class-plugin-upgrader.php",
             127
         ],
-        "wp-admin/includes/class-plugin-upgrader.php:201": [
+        "wp-admin/includes/class-plugin-upgrader.php:206": [
             "wp-admin/includes/class-plugin-upgrader.php",
-            201
+            206
         ],
-        "wp-admin/includes/class-plugin-upgrader.php:306": [
+        "wp-admin/includes/class-plugin-upgrader.php:311": [
             "wp-admin/includes/class-plugin-upgrader.php",
-            306
+            311
         ],
         "wp-admin/includes/class-wp-automatic-updater.php:426": [
             "wp-admin/includes/class-wp-automatic-updater.php",
             426
         ],
-        "wp-includes/update.php:804": [
+        "wp-includes/update.php:805": [
             "wp-includes/update.php",
-            804
+            805
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

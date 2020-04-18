@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "get_header_image",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 1069,
-    "startLine": 1076,
-    "endLine": 1088,
+    "docCommentLine": 1072,
+    "startLine": 1079,
+    "endLine": 1091,
     "calls": {
         "wp-admin/includes/class-custom-image-header.php:516": [
             "wp-admin/includes/class-custom-image-header.php",
@@ -18,29 +18,29 @@
             "wp-admin/includes/class-custom-image-header.php",
             687
         ],
-        "wp-admin/includes/template.php:2193": [
+        "wp-admin/includes/template.php:2195": [
             "wp-admin/includes/template.php",
-            2193
+            2195
         ],
-        "wp-includes/theme.php:1066": [
+        "wp-includes/theme.php:1069": [
             "wp-includes/theme.php",
-            1066
+            1069
         ],
-        "wp-includes/theme.php:1101": [
+        "wp-includes/theme.php:1104": [
             "wp-includes/theme.php",
-            1101
+            1104
         ],
-        "wp-includes/theme.php:1263": [
+        "wp-includes/theme.php:1266": [
             "wp-includes/theme.php",
-            1263
+            1266
         ],
-        "wp-includes/theme.php:1477": [
+        "wp-includes/theme.php:1481": [
             "wp-includes/theme.php",
-            1477
+            1481
         ],
-        "wp-includes/theme.php:2912": [
+        "wp-includes/theme.php:2922": [
             "wp-includes/theme.php",
-            2912
+            2922
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

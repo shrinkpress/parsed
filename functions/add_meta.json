@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "add_meta",
     "filename": "wp-admin/includes/post.php",
-    "docCommentLine": 888,
-    "startLine": 896,
-    "endLine": 929,
+    "docCommentLine": 891,
+    "startLine": 899,
+    "endLine": 932,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:1572": [
+        "wp-admin/includes/ajax-actions.php:1575": [
             "wp-admin/includes/ajax-actions.php",
-            1572
+            1575
         ],
-        "wp-admin/includes/ajax-actions.php:1580": [
+        "wp-admin/includes/ajax-actions.php:1583": [
             "wp-admin/includes/ajax-actions.php",
-            1580
+            1583
         ],
-        "wp-admin/includes/post.php:403": [
+        "wp-admin/includes/post.php:405": [
             "wp-admin/includes/post.php",
-            403
+            405
         ],
-        "wp-admin/includes/post.php:856": [
+        "wp-admin/includes/post.php:859": [
             "wp-admin/includes/post.php",
-            856
+            859
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

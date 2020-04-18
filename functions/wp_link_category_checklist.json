@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_link_category_checklist",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 253,
-    "startLine": 260,
-    "endLine": 295,
+    "docCommentLine": 255,
+    "startLine": 262,
+    "endLine": 297,
     "calls": {
         "wp-admin/includes/deprecated.php:100": [
             "wp-admin/includes/deprecated.php",
             100
         ],
-        "wp-admin/includes/meta-boxes.php:1098": [
+        "wp-admin/includes/meta-boxes.php:1111": [
             "wp-admin/includes/meta-boxes.php",
-            1098
+            1111
         ],
-        "wp-admin/includes/meta-boxes.php:1100": [
+        "wp-admin/includes/meta-boxes.php:1113": [
             "wp-admin/includes/meta-boxes.php",
-            1100
+            1113
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -12,24 +12,24 @@
             "wp_head",
             "add_action"
         ],
-        "wp-includes/default-filters.php:343": [
+        "wp-includes/default-filters.php:344": [
             "wp-includes/default-filters.php",
-            343,
+            344,
             "admin_print_scripts",
             "add_action"
         ],
-        "wp-includes/default-filters.php:555": [
+        "wp-includes/default-filters.php:557": [
             "wp-includes/default-filters.php",
-            555,
+            557,
             "embed_head",
             "add_action"
         ]
     },
     "functionName": "print_emoji_detection_script",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 5589,
-    "startLine": 5595,
-    "endLine": 5605,
+    "docCommentLine": 5600,
+    "startLine": 5606,
+    "endLine": 5616,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

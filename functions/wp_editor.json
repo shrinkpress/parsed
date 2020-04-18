@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_editor",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 3388,
-    "startLine": 3407,
-    "endLine": 3412,
+    "docCommentLine": 3387,
+    "startLine": 3408,
+    "endLine": 3413,
     "calls": {
         "wp-admin/edit-form-advanced.php:581": [
             "wp-admin/edit-form-advanced.php",
@@ -14,17 +14,17 @@
             "wp-admin/edit-form-comment.php",
             74
         ],
-        "wp-admin/includes/media.php:3215": [
+        "wp-admin/includes/media.php:3234": [
             "wp-admin/includes/media.php",
-            3215
+            3234
         ],
-        "wp-admin/includes/template.php:458": [
+        "wp-admin/includes/template.php:460": [
             "wp-admin/includes/template.php",
-            458
+            460
         ],
-        "wp-includes/deprecated.php:2587": [
+        "wp-includes/deprecated.php:2584": [
             "wp-includes/deprecated.php",
-            2587
+            2584
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

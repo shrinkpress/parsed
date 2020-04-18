@@ -21,25 +21,25 @@
     },
     "functionName": "_wp_specialchars",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 927,
-    "startLine": 950,
-    "endLine": 1006,
+    "docCommentLine": 929,
+    "startLine": 952,
+    "endLine": 1008,
     "calls": {
-        "wp-includes/deprecated.php:2077": [
+        "wp-includes/deprecated.php:2074": [
             "wp-includes/deprecated.php",
-            2077
+            2074
         ],
-        "wp-includes/formatting.php:4425": [
+        "wp-includes/formatting.php:4430": [
             "wp-includes/formatting.php",
-            4425
+            4430
         ],
-        "wp-includes/formatting.php:4453": [
+        "wp-includes/formatting.php:4458": [
             "wp-includes/formatting.php",
-            4453
+            4458
         ],
-        "wp-includes/formatting.php:4478": [
+        "wp-includes/formatting.php:4483": [
             "wp-includes/formatting.php",
-            4478
+            4483
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

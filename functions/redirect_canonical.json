@@ -1,8 +1,8 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:516": [
+        "wp-includes/default-filters.php:517": [
             "wp-includes/default-filters.php",
-            516,
+            517,
             "template_redirect",
             "add_action"
         ]
@@ -11,11 +11,11 @@
     "filename": "wp-includes/canonical.php",
     "docCommentLine": 12,
     "startLine": 42,
-    "endLine": 617,
+    "endLine": 625,
     "calls": {
-        "wp-includes/canonical.php:606": [
+        "wp-includes/canonical.php:614": [
             "wp-includes/canonical.php",
-            606
+            614
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

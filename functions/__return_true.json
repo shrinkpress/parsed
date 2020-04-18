@@ -12,15 +12,15 @@
             "pre_option_link_manager_enabled",
             "remove_filter"
         ],
-        "wp-admin/includes/class-wp-screen.php:1229": [
+        "wp-admin/includes/class-wp-screen.php:1265": [
             "wp-admin/includes/class-wp-screen.php",
-            1229,
+            1265,
             "screen_options_show_submit",
             "add_filter"
         ],
-        "wp-admin/includes/class-wp-screen.php:1284": [
+        "wp-admin/includes/class-wp-screen.php:1320": [
             "wp-admin/includes/class-wp-screen.php",
-            1284,
+            1320,
             "screen_options_show_submit",
             "add_filter"
         ],
@@ -36,15 +36,15 @@
             "pre_option_show_avatars",
             "remove_filter"
         ],
-        "wp-includes/default-filters.php:411": [
+        "wp-includes/default-filters.php:412": [
             "wp-includes/default-filters.php",
-            411,
+            412,
             "default_option_link_manager_enabled",
             "add_filter"
         ],
-        "wp-includes/default-filters.php:414": [
+        "wp-includes/default-filters.php:415": [
             "wp-includes/default-filters.php",
-            414,
+            415,
             "pre_option_embed_autourls",
             "add_filter"
         ],
@@ -69,9 +69,9 @@
     },
     "functionName": "__return_true",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 5822,
-    "startLine": 5833,
-    "endLine": 5835,
+    "docCommentLine": 6014,
+    "startLine": 6025,
+    "endLine": 6027,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

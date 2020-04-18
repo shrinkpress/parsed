@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "update_right_now_message",
     "filename": "wp-admin/includes/update.php",
-    "docCommentLine": 0,
-    "startLine": 305,
-    "endLine": 343,
+    "docCommentLine": 324,
+    "startLine": 329,
+    "endLine": 367,
     "calls": {
-        "wp-admin/includes/dashboard.php:329": [
+        "wp-admin/includes/dashboard.php:343": [
             "wp-admin/includes/dashboard.php",
-            329
+            343
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

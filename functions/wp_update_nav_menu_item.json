@@ -6,21 +6,21 @@
     "startLine": 418,
     "endLine": 592,
     "calls": {
-        "wp-admin/includes/nav-menu.php:960": [
+        "wp-admin/includes/nav-menu.php:961": [
             "wp-admin/includes/nav-menu.php",
-            960
+            961
         ],
-        "wp-admin/includes/nav-menu.php:1181": [
+        "wp-admin/includes/nav-menu.php:1182": [
             "wp-admin/includes/nav-menu.php",
-            1181
+            1182
         ],
         "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:853": [
             "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php",
             853
         ],
-        "wp-includes/nav-menu.php:1105": [
+        "wp-includes/nav-menu.php:1114": [
             "wp-includes/nav-menu.php",
-            1105
+            1114
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

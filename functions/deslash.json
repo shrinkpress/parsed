@@ -2,37 +2,37 @@
     "callbacks": [],
     "functionName": "deslash",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 2502,
-    "startLine": 2510,
-    "endLine": 2529,
+    "docCommentLine": 2523,
+    "startLine": 2531,
+    "endLine": 2550,
     "calls": {
-        "wp-admin/includes/upgrade.php:992": [
-            "wp-admin/includes/upgrade.php",
-            992
-        ],
-        "wp-admin/includes/upgrade.php:993": [
-            "wp-admin/includes/upgrade.php",
-            993
-        ],
-        "wp-admin/includes/upgrade.php:994": [
-            "wp-admin/includes/upgrade.php",
-            994
-        ],
-        "wp-admin/includes/upgrade.php:1010": [
-            "wp-admin/includes/upgrade.php",
-            1010
-        ],
         "wp-admin/includes/upgrade.php:1011": [
             "wp-admin/includes/upgrade.php",
             1011
         ],
-        "wp-admin/includes/upgrade.php:1021": [
+        "wp-admin/includes/upgrade.php:1012": [
             "wp-admin/includes/upgrade.php",
-            1021
+            1012
         ],
-        "wp-admin/includes/upgrade.php:1022": [
+        "wp-admin/includes/upgrade.php:1013": [
             "wp-admin/includes/upgrade.php",
-            1022
+            1013
+        ],
+        "wp-admin/includes/upgrade.php:1029": [
+            "wp-admin/includes/upgrade.php",
+            1029
+        ],
+        "wp-admin/includes/upgrade.php:1030": [
+            "wp-admin/includes/upgrade.php",
+            1030
+        ],
+        "wp-admin/includes/upgrade.php:1040": [
+            "wp-admin/includes/upgrade.php",
+            1040
+        ],
+        "wp-admin/includes/upgrade.php:1041": [
+            "wp-admin/includes/upgrade.php",
+            1041
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

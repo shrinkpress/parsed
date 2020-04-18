@@ -1,0 +1,23 @@
+{
+    "callbacks": [],
+    "functionName": "is_favicon",
+    "filename": "wp-includes/query.php",
+    "docCommentLine": 655,
+    "startLine": 664,
+    "endLine": 673,
+    "calls": {
+        "wp-includes/canonical.php:59": [
+            "wp-includes/canonical.php",
+            59
+        ],
+        "wp-includes/class-wp.php:664": [
+            "wp-includes/class-wp.php",
+            664
+        ],
+        "wp-includes/template-loader.php:39": [
+            "wp-includes/template-loader.php",
+            39
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

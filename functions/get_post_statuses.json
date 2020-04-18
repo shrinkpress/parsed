@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_post_statuses",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 926,
-    "startLine": 936,
-    "endLine": 945,
+    "docCommentLine": 934,
+    "startLine": 944,
+    "endLine": 953,
     "calls": {
-        "wp-includes/class-wp-xmlrpc-server.php:4060": [
+        "wp-includes/class-wp-xmlrpc-server.php:4066": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            4060
+            4066
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

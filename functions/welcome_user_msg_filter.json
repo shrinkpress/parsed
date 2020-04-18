@@ -6,18 +6,18 @@
             "site_option_welcome_user_email",
             "add_filter"
         ],
-        "wp-includes/ms-functions.php:2234": [
+        "wp-includes/ms-functions.php:2277": [
             "wp-includes/ms-functions.php",
-            2234,
+            2277,
             "site_option_welcome_user_email",
             "remove_filter"
         ]
     },
     "functionName": "welcome_user_msg_filter",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 2224,
-    "startLine": 2232,
-    "endLine": 2254,
+    "docCommentLine": 2267,
+    "startLine": 2275,
+    "endLine": 2297,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

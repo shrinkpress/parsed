@@ -2,57 +2,57 @@
     "callbacks": [],
     "functionName": "get_metadata",
     "filename": "wp-includes/meta.php",
-    "docCommentLine": 474,
-    "startLine": 488,
-    "endLine": 550,
+    "docCommentLine": 475,
+    "startLine": 489,
+    "endLine": 551,
     "calls": {
         "wp-includes/comment.php:492": [
             "wp-includes/comment.php",
             492
         ],
-        "wp-includes/meta.php:209": [
+        "wp-includes/meta.php:208": [
             "wp-includes/meta.php",
-            209
+            208
         ],
-        "wp-includes/meta.php:1362": [
+        "wp-includes/meta.php:1377": [
             "wp-includes/meta.php",
-            1362
+            1377
         ],
-        "wp-includes/meta.php:1367": [
+        "wp-includes/meta.php:1382": [
             "wp-includes/meta.php",
-            1367
+            1382
         ],
-        "wp-includes/ms-site.php:1084": [
+        "wp-includes/ms-site.php:1083": [
             "wp-includes/ms-site.php",
-            1084
+            1083
         ],
-        "wp-includes/post.php:2110": [
+        "wp-includes/post.php:2121": [
             "wp-includes/post.php",
-            2110
+            2121
         ],
         "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:81": [
             "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
             81
         ],
-        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:149": [
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:153": [
             "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
-            149
+            153
         ],
-        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:266": [
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:272": [
             "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
-            266
+            272
         ],
-        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:351": [
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:360": [
             "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
-            351
+            360
         ],
-        "wp-includes/taxonomy.php:1251": [
+        "wp-includes/taxonomy.php:1254": [
             "wp-includes/taxonomy.php",
-            1251
+            1254
         ],
-        "wp-includes/user.php:827": [
+        "wp-includes/user.php:828": [
             "wp-includes/user.php",
-            827
+            828
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

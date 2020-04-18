@@ -6,13 +6,13 @@
     "startLine": 343,
     "endLine": 374,
     "calls": {
-        "wp-admin/includes/class-wp-users-list-table.php:463": [
+        "wp-admin/includes/class-wp-users-list-table.php:462": [
             "wp-admin/includes/class-wp-users-list-table.php",
-            463
+            462
         ],
-        "wp-includes/admin-bar.php:748": [
+        "wp-includes/admin-bar.php:761": [
             "wp-includes/admin-bar.php",
-            748
+            761
         ],
         "wp-includes/author-template.php:301": [
             "wp-includes/author-template.php",
@@ -26,25 +26,25 @@
             "wp-includes/blocks/latest-comments.php",
             83
         ],
-        "wp-includes/canonical.php:234": [
+        "wp-includes/canonical.php:236": [
             "wp-includes/canonical.php",
-            234
+            236
         ],
         "wp-includes/deprecated.php:788": [
             "wp-includes/deprecated.php",
             788
         ],
-        "wp-includes/embed.php:550": [
+        "wp-includes/embed.php:560": [
             "wp-includes/embed.php",
-            550
+            560
         ],
         "wp-includes/link-template.php:800": [
             "wp-includes/link-template.php",
             800
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:908": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1009": [
             "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
-            908
+            1009
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

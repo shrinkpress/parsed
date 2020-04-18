@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_count_posts_cache_key",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 2568,
-    "startLine": 2578,
-    "endLine": 2587,
+    "docCommentLine": 2579,
+    "startLine": 2589,
+    "endLine": 2598,
     "calls": {
-        "wp-includes/post.php:2615": [
+        "wp-includes/post.php:2626": [
             "wp-includes/post.php",
-            2615
+            2626
         ],
-        "wp-includes/post.php:6754": [
+        "wp-includes/post.php:6792": [
             "wp-includes/post.php",
-            6754
+            6792
         ],
-        "wp-includes/post.php:6755": [
+        "wp-includes/post.php:6793": [
             "wp-includes/post.php",
-            6755
+            6793
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

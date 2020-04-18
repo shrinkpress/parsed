@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_unique_term_slug",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 2678,
-    "startLine": 2701,
-    "endLine": 2779,
+    "docCommentLine": 2681,
+    "startLine": 2704,
+    "endLine": 2782,
     "calls": {
-        "wp-includes/taxonomy.php:2251": [
+        "wp-includes/taxonomy.php:2254": [
             "wp-includes/taxonomy.php",
-            2251
+            2254
         ],
-        "wp-includes/taxonomy.php:2920": [
+        "wp-includes/taxonomy.php:2923": [
             "wp-includes/taxonomy.php",
-            2920
+            2923
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

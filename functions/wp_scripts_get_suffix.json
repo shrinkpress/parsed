@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_scripts_get_suffix",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 904,
-    "startLine": 914,
-    "endLine": 939,
+    "docCommentLine": 534,
+    "startLine": 544,
+    "endLine": 570,
     "calls": {
         "wp-includes/script-loader.php:46": [
             "wp-includes/script-loader.php",
@@ -18,17 +18,17 @@
             "wp-includes/script-loader.php",
             79
         ],
-        "wp-includes/script-loader.php:224": [
+        "wp-includes/script-loader.php:232": [
             "wp-includes/script-loader.php",
-            224
+            232
         ],
-        "wp-includes/script-loader.php:953": [
+        "wp-includes/script-loader.php:584": [
             "wp-includes/script-loader.php",
-            953
+            584
         ],
-        "wp-includes/script-loader.php:954": [
+        "wp-includes/script-loader.php:585": [
             "wp-includes/script-loader.php",
-            954
+            585
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

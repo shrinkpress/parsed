@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "wp_check_php_version",
     "filename": "wp-admin/includes/misc.php",
-    "docCommentLine": 1384,
-    "startLine": 1392,
-    "endLine": 1445,
+    "docCommentLine": 1391,
+    "startLine": 1399,
+    "endLine": 1452,
     "calls": {
-        "wp-admin/includes/class-wp-site-health.php:674": [
+        "wp-admin/includes/class-wp-site-health.php:704": [
             "wp-admin/includes/class-wp-site-health.php",
-            674
+            704
         ],
         "wp-admin/includes/dashboard.php:39": [
             "wp-admin/includes/dashboard.php",
             39
         ],
-        "wp-admin/includes/dashboard.php:1694": [
+        "wp-admin/includes/dashboard.php:1723": [
             "wp-admin/includes/dashboard.php",
-            1694
+            1723
         ],
-        "wp-admin/includes/dashboard.php:1738": [
+        "wp-admin/includes/dashboard.php:1767": [
             "wp-admin/includes/dashboard.php",
-            1738
+            1767
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

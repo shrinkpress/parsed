@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_start_scraping_edited_file_errors",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 1428,
-    "startLine": 1433,
-    "endLine": 1455,
+    "docCommentLine": 1441,
+    "startLine": 1446,
+    "endLine": 1468,
     "calls": {
-        "wp-settings.php:347": [
+        "wp-settings.php:358": [
             "wp-settings.php",
-            347
+            358
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

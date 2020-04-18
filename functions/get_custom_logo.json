@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_custom_logo",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 940,
-    "startLine": 948,
-    "endLine": 1005,
+    "docCommentLine": 941,
+    "startLine": 949,
+    "endLine": 1006,
     "calls": {
-        "wp-includes/class-wp-customize-manager.php:6046": [
+        "wp-includes/class-wp-customize-manager.php:6036": [
             "wp-includes/class-wp-customize-manager.php",
-            6046
+            6036
         ],
-        "wp-includes/general-template.php:1015": [
+        "wp-includes/general-template.php:1016": [
             "wp-includes/general-template.php",
-            1015
+            1016
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -6,29 +6,37 @@
     "startLine": 179,
     "endLine": 182,
     "calls": {
-        "wp-admin/includes/dashboard.php:1658": [
+        "wp-admin/includes/class-wp-site-health.php:2271": [
+            "wp-admin/includes/class-wp-site-health.php",
+            2271
+        ],
+        "wp-admin/includes/class-wp-site-health.php:2280": [
+            "wp-admin/includes/class-wp-site-health.php",
+            2280
+        ],
+        "wp-admin/includes/dashboard.php:1687": [
             "wp-admin/includes/dashboard.php",
-            1658
+            1687
         ],
-        "wp-admin/includes/translation-install.php:58": [
+        "wp-admin/includes/translation-install.php:59": [
             "wp-admin/includes/translation-install.php",
-            58
+            59
         ],
-        "wp-admin/includes/translation-install.php:70": [
+        "wp-admin/includes/translation-install.php:71": [
             "wp-admin/includes/translation-install.php",
-            70
+            71
         ],
-        "wp-admin/includes/update-core.php:1266": [
+        "wp-admin/includes/update-core.php:1275": [
             "wp-admin/includes/update-core.php",
-            1266
+            1275
         ],
         "wp-includes/class-wp-http-ixr-client.php:88": [
             "wp-includes/class-wp-http-ixr-client.php",
             88
         ],
-        "wp-includes/cron.php:727": [
+        "wp-includes/cron.php:729": [
             "wp-includes/cron.php",
-            727
+            729
         ],
         "wp-includes/update.php:154": [
             "wp-includes/update.php",
@@ -46,13 +54,13 @@
             "wp-includes/update.php",
             390
         ],
-        "wp-includes/update.php:569": [
+        "wp-includes/update.php:570": [
             "wp-includes/update.php",
-            569
+            570
         ],
-        "wp-includes/update.php:579": [
+        "wp-includes/update.php:580": [
             "wp-includes/update.php",
-            579
+            580
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

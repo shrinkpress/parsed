@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "get_super_admins",
     "filename": "wp-includes/capabilities.php",
-    "docCommentLine": 833,
-    "startLine": 842,
-    "endLine": 850,
+    "docCommentLine": 842,
+    "startLine": 851,
+    "endLine": 859,
     "calls": {
         "wp-admin/includes/class-wp-ms-users-list-table.php:58": [
             "wp-admin/includes/class-wp-ms-users-list-table.php",
@@ -18,13 +18,13 @@
             "wp-admin/includes/class-wp-ms-users-list-table.php",
             267
         ],
-        "wp-admin/includes/class-wp-ms-users-list-table.php:498": [
+        "wp-admin/includes/class-wp-ms-users-list-table.php:499": [
             "wp-admin/includes/class-wp-ms-users-list-table.php",
-            498
+            499
         ],
-        "wp-admin/includes/class-wp-users-list-table.php:438": [
+        "wp-admin/includes/class-wp-users-list-table.php:437": [
             "wp-admin/includes/class-wp-users-list-table.php",
-            438
+            437
         ],
         "wp-admin/includes/ms.php:154": [
             "wp-admin/includes/ms.php",
@@ -34,9 +34,9 @@
             "wp-admin/includes/ms.php",
             869
         ],
-        "wp-includes/capabilities.php:872": [
+        "wp-includes/capabilities.php:881": [
             "wp-includes/capabilities.php",
-            872
+            881
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

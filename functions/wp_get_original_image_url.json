@@ -2,9 +2,18 @@
     "callbacks": [],
     "functionName": "wp_get_original_image_url",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 7186,
-    "startLine": 7198,
-    "endLine": 7226,
-    "calls": [],
+    "docCommentLine": 7226,
+    "startLine": 7238,
+    "endLine": 7266,
+    "calls": {
+        "wp-admin/includes/media.php:3407": [
+            "wp-admin/includes/media.php",
+            3407
+        ],
+        "wp-includes/media.php:3581": [
+            "wp-includes/media.php",
+            3581
+        ]
+    },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

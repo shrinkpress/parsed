@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "delete_metadata_by_mid",
     "filename": "wp-includes/meta.php",
-    "docCommentLine": 768,
-    "startLine": 779,
-    "endLine": 871,
+    "docCommentLine": 772,
+    "startLine": 784,
+    "endLine": 876,
     "calls": {
         "wp-admin/includes/ms.php:195": [
             "wp-admin/includes/ms.php",
             195
         ],
-        "wp-admin/includes/post.php:940": [
+        "wp-admin/includes/post.php:943": [
             "wp-admin/includes/post.php",
-            940
+            943
         ],
         "wp-admin/includes/user.php:427": [
             "wp-admin/includes/user.php",
@@ -30,25 +30,25 @@
             "wp-includes/comment.php",
             1413
         ],
-        "wp-includes/functions.php:842": [
+        "wp-includes/functions.php:860": [
             "wp-includes/functions.php",
-            842
+            860
         ],
         "wp-includes/ms-site.php:257": [
             "wp-includes/ms-site.php",
             257
         ],
-        "wp-includes/post.php:3015": [
+        "wp-includes/post.php:3026": [
             "wp-includes/post.php",
-            3015
+            3026
         ],
-        "wp-includes/post.php:5622": [
+        "wp-includes/post.php:5660": [
             "wp-includes/post.php",
-            5622
+            5660
         ],
-        "wp-includes/taxonomy.php:1876": [
+        "wp-includes/taxonomy.php:1879": [
             "wp-includes/taxonomy.php",
-            1876
+            1879
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

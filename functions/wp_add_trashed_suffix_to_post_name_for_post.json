@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_add_trashed_suffix_to_post_name_for_post",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 7063,
-    "startLine": 7077,
-    "endLine": 7090,
+    "docCommentLine": 7101,
+    "startLine": 7115,
+    "endLine": 7128,
     "calls": {
-        "wp-includes/post.php:3841": [
+        "wp-includes/post.php:3865": [
             "wp-includes/post.php",
-            3841
+            3865
         ],
-        "wp-includes/post.php:7058": [
+        "wp-includes/post.php:7096": [
             "wp-includes/post.php",
-            7058
+            7096
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

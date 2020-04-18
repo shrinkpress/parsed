@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "rest_is_ip_address",
     "filename": "wp-includes/rest-api.php",
-    "docCommentLine": 1085,
-    "startLine": 1095,
-    "endLine": 1103,
+    "docCommentLine": 1091,
+    "startLine": 1101,
+    "endLine": 1109,
     "calls": {
-        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1176": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1329": [
             "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
-            1176
+            1329
         ],
-        "wp-includes/rest-api.php:1330": [
+        "wp-includes/rest-api.php:1342": [
             "wp-includes/rest-api.php",
-            1330
+            1342
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

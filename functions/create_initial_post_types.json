@@ -1,14 +1,14 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:474": [
+        "wp-includes/default-filters.php:475": [
             "wp-includes/default-filters.php",
-            474,
+            475,
             "init",
             "add_action"
         ],
-        "wp-includes/default-filters.php:478": [
+        "wp-includes/default-filters.php:479": [
             "wp-includes/default-filters.php",
-            478,
+            479,
             "change_locale",
             "add_action"
         ]
@@ -17,11 +17,11 @@
     "filename": "wp-includes/post.php",
     "docCommentLine": 13,
     "startLine": 20,
-    "endLine": 475,
+    "endLine": 478,
     "calls": {
-        "wp-settings.php:345": [
+        "wp-settings.php:356": [
             "wp-settings.php",
-            345
+            356
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

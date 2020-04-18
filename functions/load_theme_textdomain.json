@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "load_theme_textdomain",
     "filename": "wp-includes/l10n.php",
-    "docCommentLine": 839,
-    "startLine": 855,
-    "endLine": 878,
+    "docCommentLine": 854,
+    "startLine": 870,
+    "endLine": 893,
     "calls": {
-        "wp-includes/class-wp-theme.php:1375": [
+        "wp-includes/class-wp-theme.php:1386": [
             "wp-includes/class-wp-theme.php",
-            1375
+            1386
         ],
-        "wp-includes/l10n.php:899": [
+        "wp-includes/l10n.php:914": [
             "wp-includes/l10n.php",
-            899
+            914
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

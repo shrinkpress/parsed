@@ -1,0 +1,23 @@
+{
+    "callbacks": {
+        "wp-includes/blocks/latest-posts.php:47": [
+            "wp-includes/blocks/latest-posts.php",
+            47,
+            "excerpt_length",
+            "add_filter"
+        ],
+        "wp-includes/blocks/latest-posts.php:139": [
+            "wp-includes/blocks/latest-posts.php",
+            139,
+            "excerpt_length",
+            "remove_filter"
+        ]
+    },
+    "functionName": "block_core_latest_posts_get_excerpt_length",
+    "filename": "wp-includes/blocks/latest-posts.php",
+    "docCommentLine": 16,
+    "startLine": 23,
+    "endLine": 26,
+    "calls": [],
+    ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
+}

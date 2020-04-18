@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "update_site_meta",
     "filename": "wp-includes/ms-site.php",
-    "docCommentLine": 1087,
-    "startLine": 1105,
-    "endLine": 1107,
+    "docCommentLine": 1086,
+    "startLine": 1104,
+    "endLine": 1106,
     "calls": {
-        "wp-admin/includes/upgrade.php:655": [
+        "wp-admin/includes/upgrade.php:672": [
             "wp-admin/includes/upgrade.php",
-            655
+            672
         ],
-        "wp-admin/includes/upgrade.php:656": [
+        "wp-admin/includes/upgrade.php:673": [
             "wp-admin/includes/upgrade.php",
-            656
+            673
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "the_block_editor_meta_boxes",
     "filename": "wp-admin/includes/post.php",
-    "docCommentLine": 2223,
-    "startLine": 2228,
-    "endLine": 2352,
+    "docCommentLine": 2242,
+    "startLine": 2247,
+    "endLine": 2371,
     "calls": {
-        "wp-admin/edit-form-blocks.php:409": [
+        "wp-admin/edit-form-blocks.php:427": [
             "wp-admin/edit-form-blocks.php",
-            409
+            427
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

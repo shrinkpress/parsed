@@ -24,22 +24,22 @@
             "widget_text_content",
             "add_filter"
         ],
-        "wp-includes/default-filters.php:574": [
+        "wp-includes/default-filters.php:576": [
             "wp-includes/default-filters.php",
-            574,
+            576,
             "the_excerpt_embed",
             "add_filter"
         ]
     },
     "functionName": "shortcode_unautop",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 826,
-    "startLine": 838,
-    "endLine": 883,
+    "docCommentLine": 828,
+    "startLine": 840,
+    "endLine": 885,
     "calls": {
-        "wp-includes/widgets/class-wp-widget-text.php:310": [
+        "wp-includes/widgets/class-wp-widget-text.php:312": [
             "wp-includes/widgets/class-wp-widget-text.php",
-            310
+            312
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_editor_stylesheets",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 1975,
-    "startLine": 1984,
-    "endLine": 2029,
+    "docCommentLine": 1979,
+    "startLine": 1988,
+    "endLine": 2033,
     "calls": {
-        "wp-includes/class-wp-editor.php:547": [
+        "wp-includes/class-wp-editor.php:572": [
             "wp-includes/class-wp-editor.php",
-            547
+            572
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

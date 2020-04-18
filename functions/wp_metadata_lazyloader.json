@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_metadata_lazyloader",
     "filename": "wp-includes/meta.php",
-    "docCommentLine": 972,
-    "startLine": 979,
-    "endLine": 987,
+    "docCommentLine": 978,
+    "startLine": 985,
+    "endLine": 993,
     "calls": {
         "wp-includes/comment.php:535": [
             "wp-includes/comment.php",
             535
         ],
-        "wp-includes/post.php:6980": [
+        "wp-includes/post.php:7018": [
             "wp-includes/post.php",
-            6980
+            7018
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

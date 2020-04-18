@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "file_is_displayable_image",
     "filename": "wp-admin/includes/image.php",
-    "docCommentLine": 870,
-    "startLine": 878,
-    "endLine": 899,
+    "docCommentLine": 878,
+    "startLine": 886,
+    "endLine": 907,
     "calls": {
-        "wp-admin/includes/image.php:474": [
+        "wp-admin/includes/image.php:482": [
             "wp-admin/includes/image.php",
-            474
+            482
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

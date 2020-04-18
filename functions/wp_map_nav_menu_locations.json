@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_map_nav_menu_locations",
     "filename": "wp-includes/nav-menu.php",
-    "docCommentLine": 1158,
-    "startLine": 1167,
-    "endLine": 1255,
+    "docCommentLine": 1167,
+    "startLine": 1176,
+    "endLine": 1264,
     "calls": {
         "wp-includes/class-wp-customize-nav-menus.php:661": [
             "wp-includes/class-wp-customize-nav-menus.php",
             661
         ],
-        "wp-includes/nav-menu.php:1152": [
+        "wp-includes/nav-menu.php:1161": [
             "wp-includes/nav-menu.php",
-            1152
+            1161
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

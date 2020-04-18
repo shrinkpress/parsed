@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "comment_excerpt",
     "filename": "wp-includes/comment-template.php",
-    "docCommentLine": 626,
-    "startLine": 635,
-    "endLine": 649,
+    "docCommentLine": 627,
+    "startLine": 636,
+    "endLine": 650,
     "calls": {
-        "wp-admin/includes/dashboard.php:830": [
+        "wp-admin/includes/dashboard.php:851": [
             "wp-admin/includes/dashboard.php",
-            830
+            851
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

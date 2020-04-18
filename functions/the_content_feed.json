@@ -6,13 +6,13 @@
     "startLine": 212,
     "endLine": 214,
     "calls": {
-        "wp-includes/feed-atom.php:74": [
+        "wp-includes/feed-atom.php:81": [
             "wp-includes/feed-atom.php",
-            74
+            81
         ],
-        "wp-includes/feed-rdf.php:84": [
+        "wp-includes/feed-rdf.php:86": [
             "wp-includes/feed-rdf.php",
-            84
+            86
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

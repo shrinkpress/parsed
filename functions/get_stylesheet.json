@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "get_stylesheet",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 156,
-    "startLine": 169,
-    "endLine": 178,
+    "docCommentLine": 157,
+    "startLine": 170,
+    "endLine": 179,
     "calls": {
         "wp-admin/includes/class-custom-background.php:552": [
             "wp-admin/includes/class-custom-background.php",
@@ -42,85 +42,85 @@
             "wp-admin/includes/class-theme-upgrader-skin.php",
             68
         ],
-        "wp-admin/includes/class-theme-upgrader.php:367": [
+        "wp-admin/includes/class-theme-upgrader.php:370": [
             "wp-admin/includes/class-theme-upgrader.php",
-            367
+            370
         ],
-        "wp-admin/includes/class-theme-upgrader.php:539": [
+        "wp-admin/includes/class-theme-upgrader.php:543": [
             "wp-admin/includes/class-theme-upgrader.php",
-            539
+            543
         ],
-        "wp-admin/includes/class-theme-upgrader.php:569": [
+        "wp-admin/includes/class-theme-upgrader.php:575": [
             "wp-admin/includes/class-theme-upgrader.php",
-            569
+            575
         ],
-        "wp-admin/includes/class-theme-upgrader.php:574": [
+        "wp-admin/includes/class-theme-upgrader.php:580": [
             "wp-admin/includes/class-theme-upgrader.php",
-            574
+            580
         ],
         "wp-admin/includes/file.php:465": [
             "wp-admin/includes/file.php",
             465
         ],
-        "wp-admin/includes/theme.php:590": [
+        "wp-admin/includes/theme.php:591": [
             "wp-admin/includes/theme.php",
-            590
+            591
         ],
-        "wp-admin/includes/theme.php:819": [
+        "wp-admin/includes/theme.php:820": [
             "wp-admin/includes/theme.php",
-            819
+            820
         ],
         "wp-admin/theme-editor.php:63": [
             "wp-admin/theme-editor.php",
             63
         ],
-        "wp-includes/class-wp-customize-manager.php:285": [
+        "wp-includes/class-wp-customize-manager.php:286": [
             "wp-includes/class-wp-customize-manager.php",
-            285
+            286
         ],
-        "wp-includes/class-wp-customize-manager.php:5652": [
+        "wp-includes/class-wp-customize-manager.php:5642": [
             "wp-includes/class-wp-customize-manager.php",
-            5652
+            5642
         ],
         "wp-includes/theme.php:48": [
             "wp-includes/theme.php",
             48
         ],
-        "wp-includes/theme.php:114": [
+        "wp-includes/theme.php:115": [
             "wp-includes/theme.php",
-            114
+            115
         ],
-        "wp-includes/theme.php:188": [
+        "wp-includes/theme.php:189": [
             "wp-includes/theme.php",
-            188
+            189
         ],
-        "wp-includes/theme.php:212": [
+        "wp-includes/theme.php:213": [
             "wp-includes/theme.php",
-            212
+            213
         ],
-        "wp-includes/theme.php:872": [
+        "wp-includes/theme.php:875": [
             "wp-includes/theme.php",
-            872
+            875
         ],
-        "wp-includes/theme.php:1743": [
+        "wp-includes/theme.php:1747": [
             "wp-includes/theme.php",
-            1743
+            1747
         ],
-        "wp-includes/theme.php:1759": [
+        "wp-includes/theme.php:1763": [
             "wp-includes/theme.php",
-            1759
+            1763
         ],
-        "wp-includes/theme.php:1796": [
+        "wp-includes/theme.php:1800": [
             "wp-includes/theme.php",
-            1796
+            1800
         ],
-        "wp-includes/theme.php:1838": [
+        "wp-includes/theme.php:1842": [
             "wp-includes/theme.php",
-            1838
+            1842
         ],
-        "wp-includes/theme.php:1900": [
+        "wp-includes/theme.php:1904": [
             "wp-includes/theme.php",
-            1900
+            1904
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

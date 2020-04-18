@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:458": [
+        "wp-includes/default-filters.php:459": [
             "wp-includes/default-filters.php",
-            458,
+            459,
             "plugins_loaded",
             "add_action"
         ]
     },
     "functionName": "_wp_customize_include",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 2975,
-    "startLine": 2988,
-    "endLine": 3059,
+    "docCommentLine": 2985,
+    "startLine": 2998,
+    "endLine": 3075,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

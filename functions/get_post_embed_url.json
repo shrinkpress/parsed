@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_post_embed_url",
     "filename": "wp-includes/embed.php",
-    "docCommentLine": 352,
-    "startLine": 360,
-    "endLine": 383,
+    "docCommentLine": 361,
+    "startLine": 369,
+    "endLine": 392,
     "calls": {
-        "wp-includes/embed.php:438": [
+        "wp-includes/embed.php:447": [
             "wp-includes/embed.php",
-            438
+            447
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

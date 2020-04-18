@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_previous_post_link",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 2070,
-    "startLine": 2082,
-    "endLine": 2084,
+    "docCommentLine": 2072,
+    "startLine": 2084,
+    "endLine": 2086,
     "calls": {
-        "wp-includes/link-template.php:2100": [
+        "wp-includes/link-template.php:2102": [
             "wp-includes/link-template.php",
-            2100
+            2102
         ],
-        "wp-includes/link-template.php:2586": [
+        "wp-includes/link-template.php:2588": [
             "wp-includes/link-template.php",
-            2586
+            2588
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

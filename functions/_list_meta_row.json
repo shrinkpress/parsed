@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_list_meta_row",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 597,
-    "startLine": 608,
-    "endLine": 652,
+    "docCommentLine": 599,
+    "startLine": 610,
+    "endLine": 654,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:1594": [
+        "wp-admin/includes/ajax-actions.php:1597": [
             "wp-admin/includes/ajax-actions.php",
-            1594
+            1597
         ],
-        "wp-admin/includes/ajax-actions.php:1634": [
+        "wp-admin/includes/ajax-actions.php:1637": [
             "wp-admin/includes/ajax-actions.php",
-            1634
+            1637
         ],
-        "wp-admin/includes/template.php:589": [
+        "wp-admin/includes/template.php:591": [
             "wp-admin/includes/template.php",
-            589
+            591
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

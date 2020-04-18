@@ -2,49 +2,49 @@
     "callbacks": [],
     "functionName": "wp_attachment_is_image",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6033,
-    "startLine": 6047,
-    "endLine": 6049,
+    "docCommentLine": 6071,
+    "startLine": 6085,
+    "endLine": 6087,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:2433": [
+        "wp-admin/includes/ajax-actions.php:2437": [
             "wp-admin/includes/ajax-actions.php",
-            2433
+            2437
         ],
         "wp-admin/includes/image.php:81": [
             "wp-admin/includes/image.php",
             81
         ],
-        "wp-admin/includes/media.php:1637": [
+        "wp-admin/includes/media.php:1649": [
             "wp-admin/includes/media.php",
-            1637
+            1649
         ],
-        "wp-admin/includes/media.php:3073": [
+        "wp-admin/includes/media.php:3092": [
             "wp-admin/includes/media.php",
-            3073
+            3092
         ],
-        "wp-includes/deprecated.php:1886": [
+        "wp-includes/deprecated.php:1883": [
             "wp-includes/deprecated.php",
-            1886
+            1883
         ],
-        "wp-includes/embed.php:663": [
+        "wp-includes/embed.php:673": [
             "wp-includes/embed.php",
-            663
+            673
         ],
-        "wp-includes/media.php:186": [
+        "wp-includes/media.php:193": [
             "wp-includes/media.php",
-            186
+            193
         ],
-        "wp-includes/post.php:7162": [
+        "wp-includes/post.php:7202": [
             "wp-includes/post.php",
-            7162
+            7202
         ],
-        "wp-includes/post.php:7199": [
+        "wp-includes/post.php:7239": [
             "wp-includes/post.php",
-            7199
+            7239
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:421": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:458": [
             "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
-            421
+            458
         ],
         "wp-includes/theme-compat/embed-content.php:21": [
             "wp-includes/theme-compat/embed-content.php",

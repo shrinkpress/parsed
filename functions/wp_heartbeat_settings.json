@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:417": [
+        "wp-includes/default-filters.php:418": [
             "wp-includes/default-filters.php",
-            417,
+            418,
             "heartbeat_settings",
             "add_filter"
         ]
     },
     "functionName": "wp_heartbeat_settings",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 4726,
-    "startLine": 4736,
-    "endLine": 4746,
+    "docCommentLine": 4718,
+    "startLine": 4728,
+    "endLine": 4738,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

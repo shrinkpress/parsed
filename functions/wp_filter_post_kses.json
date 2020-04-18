@@ -1,8 +1,8 @@
 {
     "callbacks": {
-        "wp-admin/includes/ajax-actions.php:1293": [
+        "wp-admin/includes/ajax-actions.php:1296": [
             "wp-admin/includes/ajax-actions.php",
-            1293,
+            1296,
             "pre_comment_content",
             "remove_filter"
         ],
@@ -18,66 +18,66 @@
             "content_save_pre",
             "has_filter"
         ],
-        "wp-includes/comment.php:3329": [
+        "wp-includes/comment.php:3341": [
             "wp-includes/comment.php",
-            3329,
+            3341,
             "pre_comment_content",
             "remove_filter"
         ],
-        "wp-includes/kses.php:1990": [
+        "wp-includes/kses.php:2009": [
             "wp-includes/kses.php",
-            1990,
+            2009,
             "pre_comment_content",
             "add_filter"
         ],
-        "wp-includes/kses.php:1996": [
+        "wp-includes/kses.php:2015": [
             "wp-includes/kses.php",
-            1996,
+            2015,
             "content_save_pre",
             "add_filter"
         ],
-        "wp-includes/kses.php:1997": [
+        "wp-includes/kses.php:2016": [
             "wp-includes/kses.php",
-            1997,
+            2016,
             "excerpt_save_pre",
             "add_filter"
         ],
-        "wp-includes/kses.php:1998": [
+        "wp-includes/kses.php:2017": [
             "wp-includes/kses.php",
-            1998,
+            2017,
             "content_filtered_save_pre",
             "add_filter"
         ],
-        "wp-includes/kses.php:2018": [
+        "wp-includes/kses.php:2037": [
             "wp-includes/kses.php",
-            2018,
+            2037,
             "pre_comment_content",
             "remove_filter"
         ],
-        "wp-includes/kses.php:2022": [
+        "wp-includes/kses.php:2041": [
             "wp-includes/kses.php",
-            2022,
+            2041,
             "content_save_pre",
             "remove_filter"
         ],
-        "wp-includes/kses.php:2023": [
+        "wp-includes/kses.php:2042": [
             "wp-includes/kses.php",
-            2023,
+            2042,
             "excerpt_save_pre",
             "remove_filter"
         ],
-        "wp-includes/kses.php:2024": [
+        "wp-includes/kses.php:2043": [
             "wp-includes/kses.php",
-            2024,
+            2043,
             "content_filtered_save_pre",
             "remove_filter"
         ]
     },
     "functionName": "wp_filter_post_kses",
     "filename": "wp-includes/kses.php",
-    "docCommentLine": 1910,
-    "startLine": 1923,
-    "endLine": 1925,
+    "docCommentLine": 1929,
+    "startLine": 1942,
+    "endLine": 1944,
     "calls": {
         "wp-admin/includes/post.php:320": [
             "wp-admin/includes/post.php",

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_trusted_keys",
     "filename": "wp-admin/includes/file.php",
-    "docCommentLine": 1339,
-    "startLine": 1346,
-    "endLine": 1364,
+    "docCommentLine": 1355,
+    "startLine": 1362,
+    "endLine": 1380,
     "calls": {
-        "wp-admin/includes/file.php:1282": [
+        "wp-admin/includes/file.php:1298": [
             "wp-admin/includes/file.php",
-            1282
+            1298
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

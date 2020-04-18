@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "register_theme_directory",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 386,
-    "startLine": 396,
-    "endLine": 418,
+    "docCommentLine": 387,
+    "startLine": 397,
+    "endLine": 419,
     "calls": {
-        "wp-settings.php:350": [
+        "wp-settings.php:361": [
             "wp-settings.php",
-            350
+            361
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

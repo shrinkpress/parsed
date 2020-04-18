@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "get_term_children",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 988,
-    "startLine": 1002,
-    "endLine": 1028,
+    "docCommentLine": 991,
+    "startLine": 1005,
+    "endLine": 1031,
     "calls": {
         "wp-includes/class-wp-tax-query.php:570": [
             "wp-includes/class-wp-tax-query.php",
@@ -14,9 +14,9 @@
             "wp-includes/class-wp-term-query.php",
             754
         ],
-        "wp-includes/taxonomy.php:1023": [
+        "wp-includes/taxonomy.php:1026": [
             "wp-includes/taxonomy.php",
-            1023
+            1026
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

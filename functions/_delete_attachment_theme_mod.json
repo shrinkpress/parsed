@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:461": [
+        "wp-includes/default-filters.php:462": [
             "wp-includes/default-filters.php",
-            461,
+            462,
             "delete_attachment",
             "add_action"
         ]
     },
     "functionName": "_delete_attachment_theme_mod",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 2897,
-    "startLine": 2910,
-    "endLine": 2929,
+    "docCommentLine": 2907,
+    "startLine": 2920,
+    "endLine": 2939,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

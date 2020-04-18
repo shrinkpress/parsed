@@ -2,25 +2,17 @@
     "callbacks": [],
     "functionName": "have_comments",
     "filename": "wp-includes/query.php",
-    "docCommentLine": 944,
-    "startLine": 953,
-    "endLine": 956,
+    "docCommentLine": 977,
+    "startLine": 986,
+    "endLine": 989,
     "calls": {
         "wp-includes/feed-atom-comments.php:70": [
             "wp-includes/feed-atom-comments.php",
             70
         ],
-        "wp-includes/feed-atom-comments.php:71": [
-            "wp-includes/feed-atom-comments.php",
-            71
-        ],
         "wp-includes/feed-rss2-comments.php:73": [
             "wp-includes/feed-rss2-comments.php",
             73
-        ],
-        "wp-includes/feed-rss2-comments.php:74": [
-            "wp-includes/feed-rss2-comments.php",
-            74
         ],
         "wp-includes/theme-compat/comments.php:32": [
             "wp-includes/theme-compat/comments.php",

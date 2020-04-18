@@ -2,89 +2,89 @@
     "callbacks": [],
     "functionName": "is_tax",
     "filename": "wp-includes/query.php",
-    "docCommentLine": 298,
-    "startLine": 320,
-    "endLine": 329,
+    "docCommentLine": 303,
+    "startLine": 328,
+    "endLine": 337,
     "calls": {
-        "wp-includes/canonical.php:239": [
+        "wp-includes/canonical.php:241": [
             "wp-includes/canonical.php",
-            239
+            241
         ],
-        "wp-includes/category-template.php:619": [
+        "wp-includes/category-template.php:622": [
             "wp-includes/category-template.php",
-            619
+            622
         ],
-        "wp-includes/category-template.php:1210": [
+        "wp-includes/category-template.php:1216": [
             "wp-includes/category-template.php",
-            1210
+            1216
         ],
-        "wp-includes/class-wp.php:698": [
+        "wp-includes/class-wp.php:704": [
             "wp-includes/class-wp.php",
-            698
+            704
         ],
-        "wp-includes/general-template.php:1069": [
+        "wp-includes/general-template.php:1070": [
             "wp-includes/general-template.php",
-            1069
+            1070
         ],
-        "wp-includes/general-template.php:1222": [
+        "wp-includes/general-template.php:1223": [
             "wp-includes/general-template.php",
-            1222
+            1223
         ],
-        "wp-includes/general-template.php:1466": [
+        "wp-includes/general-template.php:1467": [
             "wp-includes/general-template.php",
-            1466
-        ],
-        "wp-includes/general-template.php:1579": [
-            "wp-includes/general-template.php",
-            1579
+            1467
         ],
         "wp-includes/general-template.php:1580": [
             "wp-includes/general-template.php",
             1580
         ],
-        "wp-includes/general-template.php:1582": [
+        "wp-includes/general-template.php:1581": [
             "wp-includes/general-template.php",
-            1582
+            1581
         ],
-        "wp-includes/general-template.php:1584": [
+        "wp-includes/general-template.php:1583": [
             "wp-includes/general-template.php",
-            1584
+            1583
         ],
-        "wp-includes/general-template.php:1586": [
+        "wp-includes/general-template.php:1585": [
             "wp-includes/general-template.php",
-            1586
+            1585
         ],
-        "wp-includes/general-template.php:1588": [
+        "wp-includes/general-template.php:1587": [
             "wp-includes/general-template.php",
-            1588
+            1587
         ],
-        "wp-includes/general-template.php:1590": [
+        "wp-includes/general-template.php:1589": [
             "wp-includes/general-template.php",
-            1590
+            1589
         ],
-        "wp-includes/general-template.php:1592": [
+        "wp-includes/general-template.php:1591": [
             "wp-includes/general-template.php",
-            1592
+            1591
         ],
-        "wp-includes/general-template.php:1594": [
+        "wp-includes/general-template.php:1593": [
             "wp-includes/general-template.php",
-            1594
+            1593
         ],
-        "wp-includes/general-template.php:1596": [
+        "wp-includes/general-template.php:1595": [
             "wp-includes/general-template.php",
-            1596
+            1595
         ],
-        "wp-includes/general-template.php:1602": [
+        "wp-includes/general-template.php:1597": [
             "wp-includes/general-template.php",
-            1602
+            1597
         ],
-        "wp-includes/general-template.php:3020": [
+        "wp-includes/general-template.php:1603": [
             "wp-includes/general-template.php",
-            3020
+            1603
         ],
-        "wp-includes/post-template.php:747": [
+        "wp-includes/general-template.php:3025": [
+            "wp-includes/general-template.php",
+            3025
+        ],
+        "wp-includes/post-template.php:749": [
             "wp-includes/post-template.php",
-            747
+            749
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

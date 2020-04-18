@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "language_attributes",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 3982,
-    "startLine": 3993,
-    "endLine": 3995,
+    "docCommentLine": 3973,
+    "startLine": 3984,
+    "endLine": 3986,
     "calls": {
-        "wp-admin/includes/template.php:2435": [
+        "wp-admin/includes/template.php:2437": [
             "wp-admin/includes/template.php",
-            2435
+            2437
         ],
-        "wp-admin/includes/template.php:2445": [
+        "wp-admin/includes/template.php:2447": [
             "wp-admin/includes/template.php",
-            2445
+            2447
         ],
         "wp-admin/install.php:68": [
             "wp-admin/install.php",
@@ -34,13 +34,13 @@
             "wp-includes/theme-compat/header.php",
             19
         ],
-        "wp-login.php:84": [
+        "wp-login.php:90": [
             "wp-login.php",
-            84
+            90
         ],
-        "wp-login.php:87": [
+        "wp-login.php:93": [
             "wp-login.php",
-            87
+            93
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

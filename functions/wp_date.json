@@ -6,6 +6,10 @@
     "startLine": 227,
     "endLine": 306,
     "calls": {
+        "wp-admin/options-general.php:292": [
+            "wp-admin/options-general.php",
+            292
+        ],
         "wp-includes/functions.php:47": [
             "wp-includes/functions.php",
             47
@@ -22,13 +26,13 @@
             "wp-includes/functions.php",
             191
         ],
-        "wp-includes/general-template.php:2583": [
+        "wp-includes/general-template.php:2586": [
             "wp-includes/general-template.php",
-            2583
+            2586
         ],
-        "wp-includes/general-template.php:2771": [
+        "wp-includes/general-template.php:2776": [
             "wp-includes/general-template.php",
-            2771
+            2776
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

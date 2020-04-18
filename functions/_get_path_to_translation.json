@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_get_path_to_translation",
     "filename": "wp-includes/l10n.php",
-    "docCommentLine": 1131,
-    "startLine": 1146,
-    "endLine": 1158,
+    "docCommentLine": 1145,
+    "startLine": 1160,
+    "endLine": 1172,
     "calls": {
         "wp-includes/class-wp-locale-switcher.php:222": [
             "wp-includes/class-wp-locale-switcher.php",
             222
         ],
-        "wp-includes/l10n.php:1123": [
+        "wp-includes/l10n.php:1137": [
             "wp-includes/l10n.php",
-            1123
+            1137
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -1,23 +1,23 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:394": [
-            "wp-includes/default-filters.php",
-            394,
-            "post_updated",
-            "add_action"
-        ],
         "wp-includes/default-filters.php:395": [
             "wp-includes/default-filters.php",
             395,
+            "post_updated",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:396": [
+            "wp-includes/default-filters.php",
+            396,
             "attachment_updated",
             "add_action"
         ]
     },
     "functionName": "wp_check_for_changed_dates",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6230,
-    "startLine": 6249,
-    "endLine": 6269,
+    "docCommentLine": 6268,
+    "startLine": 6287,
+    "endLine": 6307,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "get_extended",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 696,
-    "startLine": 712,
-    "endLine": 733,
+    "docCommentLine": 698,
+    "startLine": 720,
+    "endLine": 741,
     "calls": {
         "wp-includes/class-wp-xmlrpc-server.php:1050": [
             "wp-includes/class-wp-xmlrpc-server.php",
             1050
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6009": [
+        "wp-includes/class-wp-xmlrpc-server.php:6017": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6009
+            6017
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6161": [
+        "wp-includes/class-wp-xmlrpc-server.php:6169": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6161
+            6169
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

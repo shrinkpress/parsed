@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "get_pagenum_link",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 2218,
-    "startLine": 2230,
-    "endLine": 2296,
+    "docCommentLine": 2220,
+    "startLine": 2232,
+    "endLine": 2298,
     "calls": {
-        "wp-includes/general-template.php:4079": [
+        "wp-includes/general-template.php:4071": [
             "wp-includes/general-template.php",
-            4079
+            4071
         ],
-        "wp-includes/link-template.php:2319": [
+        "wp-includes/link-template.php:2321": [
             "wp-includes/link-template.php",
-            2319
+            2321
         ],
-        "wp-includes/link-template.php:2419": [
+        "wp-includes/link-template.php:2421": [
             "wp-includes/link-template.php",
-            2419
+            2421
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

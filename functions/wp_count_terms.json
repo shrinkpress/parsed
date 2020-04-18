@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_count_terms",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 1676,
-    "startLine": 1688,
-    "endLine": 1704,
+    "docCommentLine": 1679,
+    "startLine": 1691,
+    "endLine": 1707,
     "calls": {
         "wp-admin/includes/class-wp-terms-list-table.php:132": [
             "wp-admin/includes/class-wp-terms-list-table.php",
@@ -14,9 +14,9 @@
             "wp-admin/includes/nav-menu.php",
             719
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:259": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:266": [
             "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php",
-            259
+            266
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "maybe_unserialize",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 568,
-    "startLine": 576,
-    "endLine": 581,
+    "docCommentLine": 584,
+    "startLine": 592,
+    "endLine": 597,
     "calls": {
-        "wp-admin/includes/template.php:625": [
+        "wp-admin/includes/template.php:627": [
             "wp-admin/includes/template.php",
-            625
+            627
         ],
-        "wp-admin/includes/upgrade.php:2499": [
+        "wp-admin/includes/upgrade.php:2520": [
             "wp-admin/includes/upgrade.php",
-            2499
+            2520
         ],
         "wp-admin/network/site-settings.php:134": [
             "wp-admin/network/site-settings.php",
             134
         ],
-        "wp-admin/options.php:342": [
+        "wp-admin/options.php:344": [
             "wp-admin/options.php",
-            342
+            344
         ],
         "wp-includes/class-wp-customize-manager.php:1551": [
             "wp-includes/class-wp-customize-manager.php",
@@ -30,17 +30,17 @@
             "wp-includes/class-wp-customize-manager.php",
             1593
         ],
-        "wp-includes/meta.php:539": [
+        "wp-includes/meta.php:540": [
             "wp-includes/meta.php",
-            539
+            540
         ],
-        "wp-includes/meta.php:646": [
+        "wp-includes/meta.php:649": [
             "wp-includes/meta.php",
-            646
+            649
         ],
-        "wp-includes/ms-functions.php:1141": [
+        "wp-includes/ms-functions.php:1170": [
             "wp-includes/ms-functions.php",
-            1141
+            1170
         ],
         "wp-includes/option.php:152": [
             "wp-includes/option.php",
@@ -54,9 +54,17 @@
             "wp-includes/option.php",
             1300
         ],
-        "wp-includes/user.php:958": [
+        "wp-includes/user.php:964": [
             "wp-includes/user.php",
-            958
+            964
+        ],
+        "wp-includes/user.php:3068": [
+            "wp-includes/user.php",
+            3068
+        ],
+        "wp-includes/user.php:3099": [
+            "wp-includes/user.php",
+            3099
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

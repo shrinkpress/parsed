@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_comment_reply",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 388,
-    "startLine": 400,
-    "endLine": 523,
+    "docCommentLine": 390,
+    "startLine": 402,
+    "endLine": 525,
     "calls": {
-        "wp-admin/edit-comments.php:365": [
+        "wp-admin/edit-comments.php:352": [
             "wp-admin/edit-comments.php",
-            365
+            352
         ],
         "wp-admin/edit-form-advanced.php:723": [
             "wp-admin/edit-form-advanced.php",
             723
         ],
-        "wp-admin/includes/dashboard.php:1025": [
+        "wp-admin/includes/dashboard.php:1046": [
             "wp-admin/includes/dashboard.php",
-            1025
+            1046
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

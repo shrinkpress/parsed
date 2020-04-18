@@ -2,41 +2,41 @@
     "callbacks": [],
     "functionName": "wp_get_audio_extensions",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 2378,
-    "startLine": 2385,
-    "endLine": 2395,
+    "docCommentLine": 2436,
+    "startLine": 2443,
+    "endLine": 2453,
     "calls": {
-        "wp-admin/includes/schema.php:1228": [
+        "wp-admin/includes/schema.php:1227": [
             "wp-admin/includes/schema.php",
-            1228
+            1227
         ],
-        "wp-includes/embed.php:201": [
+        "wp-includes/embed.php:210": [
             "wp-includes/embed.php",
-            201
+            210
         ],
         "wp-includes/media-template.php:17": [
             "wp-includes/media-template.php",
             17
         ],
-        "wp-includes/media-template.php:1191": [
+        "wp-includes/media-template.php:1201": [
             "wp-includes/media-template.php",
-            1191
+            1201
         ],
-        "wp-includes/media.php:2481": [
+        "wp-includes/media.php:2539": [
             "wp-includes/media.php",
-            2481
+            2539
         ],
-        "wp-includes/media.php:3637": [
+        "wp-includes/media.php:3710": [
             "wp-includes/media.php",
-            3637
+            3710
         ],
-        "wp-includes/post.php:6023": [
+        "wp-includes/post.php:6061": [
             "wp-includes/post.php",
-            6023
+            6061
         ],
-        "wp-includes/widgets/class-wp-widget-media-audio.php:80": [
+        "wp-includes/widgets/class-wp-widget-media-audio.php:81": [
             "wp-includes/widgets/class-wp-widget-media-audio.php",
-            80
+            81
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_is_numeric_array",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 4375,
-    "startLine": 4383,
-    "endLine": 4391,
+    "docCommentLine": 4432,
+    "startLine": 4440,
+    "endLine": 4448,
     "calls": {
-        "wp-includes/rest-api/class-wp-rest-server.php:453": [
+        "wp-includes/rest-api/class-wp-rest-server.php:477": [
             "wp-includes/rest-api/class-wp-rest-server.php",
-            453
+            477
         ],
-        "wp-includes/rest-api.php:760": [
+        "wp-includes/rest-api.php:762": [
             "wp-includes/rest-api.php",
-            760
+            762
         ],
-        "wp-includes/rest-api.php:1232": [
+        "wp-includes/rest-api.php:1239": [
             "wp-includes/rest-api.php",
-            1232
+            1239
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_next_comments_link",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 2852,
-    "startLine": 2863,
-    "endLine": 2902,
+    "docCommentLine": 2854,
+    "startLine": 2865,
+    "endLine": 2904,
     "calls": {
-        "wp-includes/link-template.php:2913": [
+        "wp-includes/link-template.php:2915": [
             "wp-includes/link-template.php",
-            2913
+            2915
         ],
-        "wp-includes/link-template.php:3047": [
+        "wp-includes/link-template.php:3052": [
             "wp-includes/link-template.php",
-            3047
+            3052
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

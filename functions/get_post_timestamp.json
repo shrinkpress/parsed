@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_post_timestamp",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 2654,
-    "startLine": 2667,
-    "endLine": 2675,
+    "docCommentLine": 2657,
+    "startLine": 2670,
+    "endLine": 2678,
     "calls": {
-        "wp-admin/includes/class-wp-media-list-table.php:455": [
+        "wp-admin/includes/class-wp-media-list-table.php:459": [
             "wp-admin/includes/class-wp-media-list-table.php",
-            455
+            459
         ],
         "wp-admin/includes/class-wp-posts-list-table.php:1070": [
             "wp-admin/includes/class-wp-posts-list-table.php",

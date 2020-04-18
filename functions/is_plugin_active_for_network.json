@@ -2,53 +2,53 @@
     "callbacks": [],
     "functionName": "is_plugin_active_for_network",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 540,
-    "startLine": 557,
-    "endLine": 568,
+    "docCommentLine": 548,
+    "startLine": 565,
+    "endLine": 576,
     "calls": {
         "wp-admin/includes/class-plugin-upgrader-skin.php:38": [
             "wp-admin/includes/class-plugin-upgrader-skin.php",
             38
         ],
-        "wp-admin/includes/class-wp-plugins-list-table.php:211": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:209": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            211
+            209
         ],
-        "wp-admin/includes/class-wp-plugins-list-table.php:220": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:218": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            220
+            218
         ],
-        "wp-admin/includes/class-wp-plugins-list-table.php:667": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:665": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            667
+            665
         ],
-        "wp-admin/includes/class-wp-plugins-list-table.php:670": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:668": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            670
+            668
         ],
-        "wp-admin/includes/plugin.php:518": [
+        "wp-admin/includes/plugin.php:526": [
             "wp-admin/includes/plugin.php",
-            518
+            526
         ],
-        "wp-admin/includes/plugin.php:748": [
+        "wp-admin/includes/plugin.php:758": [
             "wp-admin/includes/plugin.php",
-            748
+            758
         ],
-        "wp-admin/includes/plugin.php:767": [
+        "wp-admin/includes/plugin.php:777": [
             "wp-admin/includes/plugin.php",
-            767
+            777
         ],
-        "wp-admin/includes/update.php:416": [
+        "wp-admin/includes/update.php:442": [
             "wp-admin/includes/update.php",
-            416
+            442
         ],
-        "wp-admin/plugins.php:86": [
+        "wp-admin/plugins.php:88": [
             "wp-admin/plugins.php",
-            86
+            88
         ],
-        "wp-admin/plugins.php:187": [
+        "wp-admin/plugins.php:189": [
             "wp-admin/plugins.php",
-            187
+            189
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:355": [
+        "wp-includes/default-filters.php:356": [
             "wp-includes/default-filters.php",
-            355,
+            356,
             "transition_post_status",
             "add_action"
         ]
     },
     "functionName": "_transition_post_status",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6711,
-    "startLine": 6724,
-    "endLine": 6760,
+    "docCommentLine": 6749,
+    "startLine": 6762,
+    "endLine": 6798,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

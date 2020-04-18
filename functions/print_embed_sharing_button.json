@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:564": [
+        "wp-includes/default-filters.php:566": [
             "wp-includes/default-filters.php",
-            564,
+            566,
             "embed_content_meta",
             "add_action"
         ]
     },
     "functionName": "print_embed_sharing_button",
     "filename": "wp-includes/embed.php",
-    "docCommentLine": 1104,
-    "startLine": 1109,
-    "endLine": 1120,
+    "docCommentLine": 1115,
+    "startLine": 1120,
+    "endLine": 1131,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

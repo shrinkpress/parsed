@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "the_comment",
     "filename": "wp-includes/query.php",
-    "docCommentLine": 958,
-    "startLine": 967,
-    "endLine": 970,
+    "docCommentLine": 991,
+    "startLine": 1000,
+    "endLine": 1003,
     "calls": {
-        "wp-includes/feed-atom-comments.php:72": [
+        "wp-includes/feed-atom-comments.php:71": [
             "wp-includes/feed-atom-comments.php",
-            72
+            71
         ],
-        "wp-includes/feed-rss2-comments.php:75": [
+        "wp-includes/feed-rss2-comments.php:74": [
             "wp-includes/feed-rss2-comments.php",
-            75
+            74
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -1,23 +1,23 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:390": [
-            "wp-includes/default-filters.php",
-            390,
-            "post_updated",
-            "add_action"
-        ],
         "wp-includes/default-filters.php:391": [
             "wp-includes/default-filters.php",
             391,
+            "post_updated",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:392": [
+            "wp-includes/default-filters.php",
+            392,
             "attachment_updated",
             "add_action"
         ]
     },
     "functionName": "wp_check_for_changed_slugs",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6187,
-    "startLine": 6206,
-    "endLine": 6228,
+    "docCommentLine": 6225,
+    "startLine": 6244,
+    "endLine": 6266,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

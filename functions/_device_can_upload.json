@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_device_can_upload",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 6155,
-    "startLine": 6163,
-    "endLine": 6177,
+    "docCommentLine": 6347,
+    "startLine": 6355,
+    "endLine": 6369,
     "calls": {
-        "wp-admin/includes/media.php:2046": [
+        "wp-admin/includes/media.php:2062": [
             "wp-admin/includes/media.php",
-            2046
+            2062
         ],
         "wp-includes/media-template.php:236": [
             "wp-includes/media-template.php",
             236
         ],
-        "wp-includes/media.php:3332": [
+        "wp-includes/media.php:3398": [
             "wp-includes/media.php",
-            3332
+            3398
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

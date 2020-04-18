@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "validate_plugin_requirements",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 1089,
-    "startLine": 1097,
-    "endLine": 1154,
+    "docCommentLine": 1102,
+    "startLine": 1110,
+    "endLine": 1167,
     "calls": {
-        "wp-admin/includes/plugin.php:634": [
+        "wp-admin/includes/plugin.php:642": [
             "wp-admin/includes/plugin.php",
-            634
+            642
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

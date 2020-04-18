@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "image_get_intermediate_size",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 702,
-    "startLine": 738,
-    "endLine": 829,
+    "docCommentLine": 725,
+    "startLine": 761,
+    "endLine": 852,
     "calls": {
         "wp-admin/includes/image-edit.php:21": [
             "wp-admin/includes/image-edit.php",
             21
         ],
-        "wp-admin/includes/image.php:968": [
+        "wp-admin/includes/image.php:976": [
             "wp-admin/includes/image.php",
-            968
+            976
         ],
-        "wp-includes/media.php:228": [
+        "wp-includes/media.php:235": [
             "wp-includes/media.php",
-            228
+            235
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

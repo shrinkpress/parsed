@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "rest_get_date_with_gmt",
     "filename": "wp-includes/rest-api.php",
-    "docCommentLine": 970,
-    "startLine": 982,
-    "endLine": 1007,
+    "docCommentLine": 973,
+    "startLine": 985,
+    "endLine": 1013,
     "calls": {
-        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1189": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1342": [
             "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
-            1189
+            1342
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1195": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1348": [
             "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
-            1195
+            1348
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1024": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1117": [
             "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
-            1024
+            1117
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1032": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1125": [
             "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
-            1032
+            1125
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

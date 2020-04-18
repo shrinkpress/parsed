@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "unload_textdomain",
     "filename": "wp-includes/l10n.php",
-    "docCommentLine": 674,
-    "startLine": 685,
-    "endLine": 724,
+    "docCommentLine": 689,
+    "startLine": 700,
+    "endLine": 739,
     "calls": {
         "wp-includes/class-wp-locale-switcher.php:203": [
             "wp-includes/class-wp-locale-switcher.php",
             203
         ],
-        "wp-includes/functions.php:5520": [
+        "wp-includes/functions.php:5712": [
             "wp-includes/functions.php",
-            5520
+            5712
         ],
-        "wp-includes/l10n.php:745": [
+        "wp-includes/l10n.php:760": [
             "wp-includes/l10n.php",
-            745
+            760
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_exif_frac2dec",
     "filename": "wp-admin/includes/image.php",
-    "docCommentLine": 620,
-    "startLine": 628,
-    "endLine": 638,
+    "docCommentLine": 628,
+    "startLine": 636,
+    "endLine": 646,
     "calls": {
-        "wp-admin/includes/image.php:803": [
+        "wp-admin/includes/image.php:811": [
             "wp-admin/includes/image.php",
-            803
+            811
         ],
-        "wp-admin/includes/image.php:812": [
+        "wp-admin/includes/image.php:820": [
             "wp-admin/includes/image.php",
-            812
+            820
         ],
-        "wp-admin/includes/image.php:819": [
+        "wp-admin/includes/image.php:827": [
             "wp-admin/includes/image.php",
-            819
+            827
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

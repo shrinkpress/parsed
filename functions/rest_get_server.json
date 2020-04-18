@@ -2,33 +2,33 @@
     "callbacks": [],
     "functionName": "rest_get_server",
     "filename": "wp-includes/rest-api.php",
-    "docCommentLine": 432,
-    "startLine": 443,
-    "endLine": 475,
+    "docCommentLine": 434,
+    "startLine": 445,
+    "endLine": 477,
     "calls": {
-        "wp-includes/rest-api/endpoints/class-wp-rest-controller.php:222": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-controller.php:276": [
             "wp-includes/rest-api/endpoints/class-wp-rest-controller.php",
-            222
+            276
         ],
-        "wp-includes/rest-api.php:87": [
+        "wp-includes/rest-api.php:88": [
             "wp-includes/rest-api.php",
-            87
+            88
         ],
-        "wp-includes/rest-api.php:298": [
+        "wp-includes/rest-api.php:299": [
             "wp-includes/rest-api.php",
-            298
+            299
         ],
-        "wp-includes/rest-api.php:429": [
+        "wp-includes/rest-api.php:431": [
             "wp-includes/rest-api.php",
-            429
+            431
         ],
-        "wp-includes/rest-api.php:918": [
+        "wp-includes/rest-api.php:921": [
             "wp-includes/rest-api.php",
-            918
+            921
         ],
-        "wp-includes/rest-api.php:1541": [
+        "wp-includes/rest-api.php:1554": [
             "wp-includes/rest-api.php",
-            1541
+            1554
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:401": [
+        "wp-includes/default-filters.php:402": [
             "wp-includes/default-filters.php",
-            401,
+            402,
             "wp_head",
             "add_action"
         ]
     },
     "functionName": "wp_post_preview_js",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 6526,
-    "startLine": 6535,
-    "endLine": 6560,
+    "docCommentLine": 6718,
+    "startLine": 6727,
+    "endLine": 6752,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

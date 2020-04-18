@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_delete_attachment_files",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 5641,
-    "startLine": 5652,
-    "endLine": 5728,
+    "docCommentLine": 5679,
+    "startLine": 5690,
+    "endLine": 5766,
     "calls": {
-        "wp-includes/post.php:5634": [
+        "wp-includes/post.php:5672": [
             "wp-includes/post.php",
-            5634
+            5672
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_privacy_anonymize_data",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 6944,
-    "startLine": 6953,
-    "endLine": 6991,
+    "docCommentLine": 7136,
+    "startLine": 7145,
+    "endLine": 7183,
     "calls": {
-        "wp-includes/comment.php:3564": [
+        "wp-includes/comment.php:3576": [
             "wp-includes/comment.php",
-            3564
+            3576
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "get_settings_errors",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 1732,
-    "startLine": 1755,
-    "endLine": 1790,
+    "docCommentLine": 1734,
+    "startLine": 1757,
+    "endLine": 1792,
     "calls": {
-        "wp-admin/includes/template.php:1827": [
+        "wp-admin/includes/template.php:1829": [
             "wp-admin/includes/template.php",
-            1827
+            1829
         ],
-        "wp-admin/options-permalink.php:162": [
+        "wp-admin/options-permalink.php:174": [
             "wp-admin/options-permalink.php",
-            162
+            174
         ],
-        "wp-admin/options-permalink.php:166": [
+        "wp-admin/options-permalink.php:178": [
             "wp-admin/options-permalink.php",
-            166
+            178
         ],
-        "wp-admin/options.php:304": [
+        "wp-admin/options.php:308": [
             "wp-admin/options.php",
-            304
+            308
         ],
-        "wp-admin/options.php:307": [
+        "wp-admin/options.php:311": [
             "wp-admin/options.php",
-            307
+            311
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "is_upload_space_available",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 2504,
-    "startLine": 2510,
-    "endLine": 2516,
+    "docCommentLine": 2547,
+    "startLine": 2553,
+    "endLine": 2559,
     "calls": {
-        "wp-admin/includes/media.php:2086": [
+        "wp-admin/includes/media.php:2102": [
             "wp-admin/includes/media.php",
-            2086
+            2102
         ],
         "wp-admin/includes/ms-deprecated.php:32": [
             "wp-admin/includes/ms-deprecated.php",
@@ -18,9 +18,9 @@
             "wp-includes/media-template.php",
             249
         ],
-        "wp-includes/media.php:3334": [
+        "wp-includes/media.php:3400": [
             "wp-includes/media.php",
-            3334
+            3400
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

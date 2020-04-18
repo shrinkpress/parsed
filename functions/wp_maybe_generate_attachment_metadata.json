@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_maybe_generate_attachment_metadata",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 4201,
-    "startLine": 4208,
-    "endLine": 4227,
+    "docCommentLine": 4274,
+    "startLine": 4281,
+    "endLine": 4300,
     "calls": {
-        "wp-admin/includes/media.php:3108": [
+        "wp-admin/includes/media.php:3127": [
             "wp-admin/includes/media.php",
-            3108
+            3127
         ],
-        "wp-admin/includes/media.php:3114": [
+        "wp-admin/includes/media.php:3133": [
             "wp-admin/includes/media.php",
-            3114
+            3133
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

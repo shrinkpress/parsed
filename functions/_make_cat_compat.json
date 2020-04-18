@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "_make_cat_compat",
     "filename": "wp-includes/category.php",
-    "docCommentLine": 338,
-    "startLine": 358,
-    "endLine": 374,
+    "docCommentLine": 335,
+    "startLine": 355,
+    "endLine": 371,
     "calls": {
         "wp-admin/includes/taxonomy.php:42": [
             "wp-admin/includes/taxonomy.php",
@@ -18,29 +18,29 @@
             "wp-includes/category-template.php",
             85
         ],
-        "wp-includes/category.php:62": [
+        "wp-includes/category.php:61": [
             "wp-includes/category.php",
-            62
+            61
         ],
-        "wp-includes/category.php:99": [
+        "wp-includes/category.php:96": [
             "wp-includes/category.php",
-            99
+            96
         ],
-        "wp-includes/category.php:160": [
+        "wp-includes/category.php:157": [
             "wp-includes/category.php",
-            160
+            157
         ],
-        "wp-includes/category.php:168": [
+        "wp-includes/category.php:165": [
             "wp-includes/category.php",
-            168
+            165
         ],
-        "wp-includes/category.php:184": [
+        "wp-includes/category.php:181": [
             "wp-includes/category.php",
-            184
+            181
         ],
-        "wp-includes/class-wp-query.php:3470": [
+        "wp-includes/class-wp-query.php:3493": [
             "wp-includes/class-wp-query.php",
-            3470
+            3493
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

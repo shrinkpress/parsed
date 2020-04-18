@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "core_upgrade_preamble",
     "filename": "wp-admin/update-core.php",
-    "docCommentLine": 210,
-    "startLine": 218,
-    "endLine": 285,
+    "docCommentLine": 214,
+    "startLine": 222,
+    "endLine": 289,
     "calls": {
-        "wp-admin/update-core.php:764": [
+        "wp-admin/update-core.php:768": [
             "wp-admin/update-core.php",
-            764
+            768
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_get_schedules",
     "filename": "wp-includes/cron.php",
-    "docCommentLine": 783,
-    "startLine": 812,
-    "endLine": 835,
+    "docCommentLine": 785,
+    "startLine": 815,
+    "endLine": 843,
     "calls": {
-        "wp-admin/includes/class-wp-site-health.php:2019": [
+        "wp-admin/includes/class-wp-site-health.php:2062": [
             "wp-admin/includes/class-wp-site-health.php",
-            2019
+            2062
         ],
         "wp-includes/cron.php:194": [
             "wp-includes/cron.php",
@@ -18,9 +18,9 @@
             "wp-includes/cron.php",
             259
         ],
-        "wp-includes/cron.php:762": [
+        "wp-includes/cron.php:764": [
             "wp-includes/cron.php",
-            762
+            764
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

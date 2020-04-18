@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "wp_max_upload_size",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 3138,
-    "startLine": 3145,
-    "endLine": 3159,
+    "docCommentLine": 3201,
+    "startLine": 3208,
+    "endLine": 3222,
     "calls": {
-        "wp-admin/edit-form-blocks.php:165": [
+        "wp-admin/edit-form-blocks.php:168": [
             "wp-admin/edit-form-blocks.php",
-            165
+            168
         ],
-        "wp-admin/includes/media.php:2060": [
+        "wp-admin/includes/media.php:2076": [
             "wp-admin/includes/media.php",
-            2060
+            2076
         ],
-        "wp-admin/includes/template.php:957": [
+        "wp-admin/includes/template.php:958": [
             "wp-admin/includes/template.php",
-            957
+            958
         ],
         "wp-includes/media-template.php:282": [
             "wp-includes/media-template.php",
             282
         ],
-        "wp-includes/media.php:3276": [
+        "wp-includes/media.php:3339": [
             "wp-includes/media.php",
-            3276
+            3339
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

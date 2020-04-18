@@ -15,9 +15,9 @@
     },
     "functionName": "sanitize_email",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 3591,
-    "startLine": 3599,
-    "endLine": 3691,
+    "docCommentLine": 3595,
+    "startLine": 3603,
+    "endLine": 3695,
     "calls": {
         "wp-admin/network/site-new.php:94": [
             "wp-admin/network/site-new.php",
@@ -31,21 +31,21 @@
             "wp-admin/network.php",
             100
         ],
-        "wp-includes/formatting.php:4578": [
+        "wp-includes/formatting.php:4583": [
             "wp-includes/formatting.php",
-            4578
+            4583
         ],
-        "wp-includes/ms-functions.php:461": [
+        "wp-includes/ms-functions.php:480": [
             "wp-includes/ms-functions.php",
-            461
+            480
         ],
-        "wp-includes/ms-functions.php:823": [
+        "wp-includes/ms-functions.php:852": [
             "wp-includes/ms-functions.php",
-            823
+            852
         ],
-        "wp-includes/user.php:3385": [
+        "wp-includes/user.php:3564": [
             "wp-includes/user.php",
-            3385
+            3564
         ],
         "wp-mail.php:132": [
             "wp-mail.php",

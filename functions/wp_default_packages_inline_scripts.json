@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_default_packages_inline_scripts",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 639,
-    "startLine": 646,
-    "endLine": 741,
+    "docCommentLine": 269,
+    "startLine": 276,
+    "endLine": 371,
     "calls": {
-        "wp-includes/script-loader.php:900": [
+        "wp-includes/script-loader.php:530": [
             "wp-includes/script-loader.php",
-            900
+            530
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

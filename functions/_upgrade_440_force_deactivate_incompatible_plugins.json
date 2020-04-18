@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "_upgrade_440_force_deactivate_incompatible_plugins",
     "filename": "wp-admin/includes/update-core.php",
-    "docCommentLine": 1501,
-    "startLine": 1505,
-    "endLine": 1509,
+    "docCommentLine": 1510,
+    "startLine": 1514,
+    "endLine": 1518,
     "calls": {
-        "wp-admin/includes/update-core.php:1260": [
+        "wp-admin/includes/update-core.php:1269": [
             "wp-admin/includes/update-core.php",
-            1260
+            1269
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

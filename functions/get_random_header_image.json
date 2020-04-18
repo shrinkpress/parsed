@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "get_random_header_image",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 1212,
-    "startLine": 1219,
-    "endLine": 1225,
+    "docCommentLine": 1215,
+    "startLine": 1222,
+    "endLine": 1228,
     "calls": {
-        "wp-includes/theme.php:1084": [
+        "wp-includes/theme.php:1087": [
             "wp-includes/theme.php",
-            1084
+            1087
         ],
-        "wp-includes/theme.php:1243": [
+        "wp-includes/theme.php:1246": [
             "wp-includes/theme.php",
-            1243
+            1246
         ],
-        "wp-includes/theme.php:1249": [
+        "wp-includes/theme.php:1252": [
             "wp-includes/theme.php",
-            1249
+            1252
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

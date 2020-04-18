@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:349": [
+        "wp-includes/default-filters.php:350": [
             "wp-includes/default-filters.php",
-            349,
+            350,
             "plugins_loaded",
             "add_action"
         ]
     },
     "functionName": "wp_maybe_load_widgets",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 4495,
-    "startLine": 4503,
-    "endLine": 4522,
+    "docCommentLine": 4552,
+    "startLine": 4560,
+    "endLine": 4579,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

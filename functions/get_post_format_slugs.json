@@ -14,13 +14,17 @@
             "wp-includes/post-formats.php",
             169
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2201": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2338": [
             "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
-            2201
+            2338
         ],
-        "wp-includes/theme.php:2410": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:421": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php",
+            421
+        ],
+        "wp-includes/theme.php:2415": [
             "wp-includes/theme.php",
-            2410
+            2415
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

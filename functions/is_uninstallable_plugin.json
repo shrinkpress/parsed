@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "is_uninstallable_plugin",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 1156,
-    "startLine": 1164,
-    "endLine": 1173,
+    "docCommentLine": 1169,
+    "startLine": 1177,
+    "endLine": 1186,
     "calls": {
-        "wp-admin/includes/plugin.php:943": [
+        "wp-admin/includes/plugin.php:955": [
             "wp-admin/includes/plugin.php",
-            943
+            955
         ],
-        "wp-admin/plugins.php:297": [
+        "wp-admin/plugins.php:299": [
             "wp-admin/plugins.php",
-            297
+            299
         ],
-        "wp-admin/plugins.php:308": [
+        "wp-admin/plugins.php:310": [
             "wp-admin/plugins.php",
-            308
+            310
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "upgrade_430_fix_comments",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 1952,
-    "startLine": 1961,
-    "endLine": 2000,
+    "docCommentLine": 1972,
+    "startLine": 1980,
+    "endLine": 2019,
     "calls": {
-        "wp-admin/includes/upgrade.php:1926": [
+        "wp-admin/includes/upgrade.php:1946": [
             "wp-admin/includes/upgrade.php",
-            1926
+            1946
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

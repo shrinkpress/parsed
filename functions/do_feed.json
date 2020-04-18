@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "do_feed",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 1503,
-    "startLine": 1515,
-    "endLine": 1544,
+    "docCommentLine": 1522,
+    "startLine": 1534,
+    "endLine": 1563,
     "calls": {
-        "wp-includes/template-loader.php:40": [
+        "wp-includes/template-loader.php:48": [
             "wp-includes/template-loader.php",
-            40
+            48
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

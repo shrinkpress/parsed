@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "make_site_theme_from_oldschool",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 2947,
-    "startLine": 2958,
-    "endLine": 3038,
+    "docCommentLine": 2972,
+    "startLine": 2983,
+    "endLine": 3063,
     "calls": {
-        "wp-admin/includes/upgrade.php:3148": [
+        "wp-admin/includes/upgrade.php:3173": [
             "wp-admin/includes/upgrade.php",
-            3148
+            3173
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

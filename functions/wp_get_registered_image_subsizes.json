@@ -2,21 +2,25 @@
     "callbacks": [],
     "functionName": "wp_get_registered_image_subsizes",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 857,
-    "startLine": 866,
-    "endLine": 910,
+    "docCommentLine": 880,
+    "startLine": 889,
+    "endLine": 933,
     "calls": {
+        "wp-admin/edit-form-blocks.php:231": [
+            "wp-admin/edit-form-blocks.php",
+            231
+        ],
         "wp-admin/includes/image.php:85": [
             "wp-admin/includes/image.php",
             85
         ],
-        "wp-admin/includes/image.php:347": [
+        "wp-admin/includes/image.php:351": [
             "wp-admin/includes/image.php",
-            347
+            351
         ],
-        "wp-admin/includes/image.php:558": [
+        "wp-admin/includes/image.php:566": [
             "wp-admin/includes/image.php",
-            558
+            566
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

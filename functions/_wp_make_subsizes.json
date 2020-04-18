@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_wp_make_subsizes",
     "filename": "wp-admin/includes/image.php",
-    "docCommentLine": 365,
-    "startLine": 380,
-    "endLine": 456,
+    "docCommentLine": 369,
+    "startLine": 384,
+    "endLine": 464,
     "calls": {
-        "wp-admin/includes/image.php:169": [
+        "wp-admin/includes/image.php:171": [
             "wp-admin/includes/image.php",
-            169
+            171
         ],
-        "wp-admin/includes/image.php:362": [
+        "wp-admin/includes/image.php:366": [
             "wp-admin/includes/image.php",
-            362
+            366
         ],
-        "wp-admin/includes/image.php:595": [
+        "wp-admin/includes/image.php:603": [
             "wp-admin/includes/image.php",
-            595
+            603
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

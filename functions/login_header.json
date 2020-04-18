@@ -3,40 +3,40 @@
     "functionName": "login_header",
     "filename": "wp-login.php",
     "docCommentLine": 25,
-    "startLine": 35,
-    "endLine": 265,
+    "startLine": 41,
+    "endLine": 271,
     "calls": {
-        "wp-login.php:622": [
+        "wp-login.php:632": [
             "wp-login.php",
-            622
+            632
         ],
-        "wp-login.php:833": [
+        "wp-login.php:843": [
             "wp-login.php",
-            833
+            843
         ],
-        "wp-login.php:940": [
+        "wp-login.php:950": [
             "wp-login.php",
-            940
+            950
         ],
-        "wp-login.php:948": [
+        "wp-login.php:958": [
             "wp-login.php",
-            948
+            958
         ],
-        "wp-login.php:1069": [
+        "wp-login.php:1079": [
             "wp-login.php",
-            1069
+            1079
         ],
-        "wp-login.php:1145": [
+        "wp-login.php:1155": [
             "wp-login.php",
-            1145
+            1155
         ],
-        "wp-login.php:1229": [
+        "wp-login.php:1239": [
             "wp-login.php",
-            1229
+            1239
         ],
-        "wp-login.php:1337": [
+        "wp-login.php:1347": [
             "wp-login.php",
-            1337
+            1347
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

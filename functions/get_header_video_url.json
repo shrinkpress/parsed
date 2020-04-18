@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "get_header_video_url",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 1417,
-    "startLine": 1426,
-    "endLine": 1449,
+    "docCommentLine": 1420,
+    "startLine": 1429,
+    "endLine": 1453,
     "calls": {
-        "wp-includes/theme.php:1414": [
+        "wp-includes/theme.php:1417": [
             "wp-includes/theme.php",
-            1414
+            1417
         ],
-        "wp-includes/theme.php:1457": [
+        "wp-includes/theme.php:1461": [
             "wp-includes/theme.php",
-            1457
+            1461
         ],
-        "wp-includes/theme.php:1472": [
+        "wp-includes/theme.php:1476": [
             "wp-includes/theme.php",
-            1472
+            1476
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

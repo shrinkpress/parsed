@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_get_dropins",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 468,
-    "startLine": 478,
-    "endLine": 498,
+    "docCommentLine": 476,
+    "startLine": 486,
+    "endLine": 506,
     "calls": {
         "wp-admin/includes/class-wp-debug-data.php:475": [
             "wp-admin/includes/class-wp-debug-data.php",
             475
         ],
-        "wp-admin/includes/class-wp-plugins-list-table.php:641": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:639": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            641
+            639
         ],
-        "wp-admin/includes/plugin.php:432": [
+        "wp-admin/includes/plugin.php:436": [
             "wp-admin/includes/plugin.php",
-            432
+            436
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

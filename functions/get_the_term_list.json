@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_the_term_list",
     "filename": "wp-includes/category-template.php",
-    "docCommentLine": 1263,
-    "startLine": 1275,
-    "endLine": 1309,
+    "docCommentLine": 1269,
+    "startLine": 1281,
+    "endLine": 1315,
     "calls": {
-        "wp-includes/category-template.php:1163": [
+        "wp-includes/category-template.php:1169": [
             "wp-includes/category-template.php",
-            1163
+            1169
         ],
-        "wp-includes/category-template.php:1389": [
+        "wp-includes/category-template.php:1395": [
             "wp-includes/category-template.php",
-            1389
+            1395
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

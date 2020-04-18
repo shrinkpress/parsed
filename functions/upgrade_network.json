@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "upgrade_network",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 2136,
-    "startLine": 2144,
-    "endLine": 2286,
+    "docCommentLine": 2157,
+    "startLine": 2165,
+    "endLine": 2307,
     "calls": {
-        "wp-admin/includes/upgrade.php:650": [
+        "wp-admin/includes/upgrade.php:667": [
             "wp-admin/includes/upgrade.php",
-            650
+            667
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

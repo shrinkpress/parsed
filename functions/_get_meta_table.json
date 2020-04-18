@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "_get_meta_table",
     "filename": "wp-includes/meta.php",
-    "docCommentLine": 1008,
-    "startLine": 1018,
-    "endLine": 1028,
+    "docCommentLine": 1014,
+    "startLine": 1025,
+    "endLine": 1035,
     "calls": {
         "wp-includes/class-wp-meta-query.php:322": [
             "wp-includes/class-wp-meta-query.php",
@@ -18,25 +18,25 @@
             "wp-includes/meta.php",
             168
         ],
-        "wp-includes/meta.php:342": [
+        "wp-includes/meta.php:343": [
             "wp-includes/meta.php",
-            342
+            343
         ],
-        "wp-includes/meta.php:615": [
+        "wp-includes/meta.php:618": [
             "wp-includes/meta.php",
-            615
+            618
         ],
-        "wp-includes/meta.php:678": [
+        "wp-includes/meta.php:682": [
             "wp-includes/meta.php",
-            678
+            682
         ],
-        "wp-includes/meta.php:792": [
+        "wp-includes/meta.php:797": [
             "wp-includes/meta.php",
-            792
+            797
         ],
-        "wp-includes/meta.php:891": [
+        "wp-includes/meta.php:897": [
             "wp-includes/meta.php",
-            891
+            897
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

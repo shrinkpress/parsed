@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_post_embed_html",
     "filename": "wp-includes/embed.php",
-    "docCommentLine": 421,
-    "startLine": 431,
-    "endLine": 490,
+    "docCommentLine": 430,
+    "startLine": 440,
+    "endLine": 500,
     "calls": {
-        "wp-includes/embed.php:653": [
+        "wp-includes/embed.php:663": [
             "wp-includes/embed.php",
-            653
+            663
         ],
-        "wp-includes/embed.php:1151": [
+        "wp-includes/embed.php:1162": [
             "wp-includes/embed.php",
-            1151
+            1162
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "strip_shortcodes",
     "filename": "wp-includes/shortcodes.php",
-    "docCommentLine": 582,
-    "startLine": 592,
-    "endLine": 633,
+    "docCommentLine": 603,
+    "startLine": 613,
+    "endLine": 654,
     "calls": {
-        "wp-includes/formatting.php:3798": [
+        "wp-includes/formatting.php:3802": [
             "wp-includes/formatting.php",
-            3798
+            3802
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

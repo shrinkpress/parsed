@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_check_mysql_version",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 3198,
-    "startLine": 3205,
-    "endLine": 3211,
+    "docCommentLine": 3223,
+    "startLine": 3230,
+    "endLine": 3236,
     "calls": {
-        "wp-admin/includes/upgrade.php:45": [
+        "wp-admin/includes/upgrade.php:52": [
             "wp-admin/includes/upgrade.php",
-            45
+            52
         ],
-        "wp-admin/includes/upgrade.php:644": [
+        "wp-admin/includes/upgrade.php:661": [
             "wp-admin/includes/upgrade.php",
-            644
+            661
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

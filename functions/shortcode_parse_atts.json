@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "shortcode_parse_atts",
     "filename": "wp-includes/shortcodes.php",
-    "docCommentLine": 483,
-    "startLine": 498,
-    "endLine": 532,
+    "docCommentLine": 503,
+    "startLine": 518,
+    "endLine": 552,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:3610": [
+        "wp-admin/includes/ajax-actions.php:3614": [
             "wp-admin/includes/ajax-actions.php",
-            3610
+            3614
         ],
-        "wp-includes/class-wp-oembed.php:480": [
+        "wp-includes/class-wp-oembed.php:484": [
             "wp-includes/class-wp-oembed.php",
-            480
+            484
         ],
-        "wp-includes/media.php:4102": [
+        "wp-includes/media.php:4175": [
             "wp-includes/media.php",
-            4102
+            4175
         ],
-        "wp-includes/shortcodes.php:296": [
+        "wp-includes/shortcodes.php:314": [
             "wp-includes/shortcodes.php",
-            296
+            314
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

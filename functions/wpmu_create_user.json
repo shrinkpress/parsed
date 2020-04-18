@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wpmu_create_user",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 1239,
-    "startLine": 1254,
-    "endLine": 1276,
+    "docCommentLine": 1271,
+    "startLine": 1286,
+    "endLine": 1308,
     "calls": {
         "wp-admin/network/site-new.php:124": [
             "wp-admin/network/site-new.php",
@@ -18,13 +18,13 @@
             "wp-admin/network/user-new.php",
             51
         ],
-        "wp-includes/ms-functions.php:1147": [
+        "wp-includes/ms-functions.php:1176": [
             "wp-includes/ms-functions.php",
-            1147
+            1176
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:511": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:562": [
             "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
-            511
+            562
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

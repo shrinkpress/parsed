@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "get_theme_root",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 560,
-    "startLine": 573,
-    "endLine": 601,
+    "docCommentLine": 563,
+    "startLine": 576,
+    "endLine": 604,
     "calls": {
-        "wp-admin/includes/class-theme-upgrader.php:147": [
+        "wp-admin/includes/class-theme-upgrader.php:148": [
             "wp-admin/includes/class-theme-upgrader.php",
-            147
+            148
         ],
-        "wp-admin/includes/class-theme-upgrader.php:221": [
+        "wp-admin/includes/class-theme-upgrader.php:222": [
             "wp-admin/includes/class-theme-upgrader.php",
-            221
+            222
         ],
-        "wp-admin/includes/class-theme-upgrader.php:293": [
+        "wp-admin/includes/class-theme-upgrader.php:294": [
             "wp-admin/includes/class-theme-upgrader.php",
-            293
+            294
         ],
-        "wp-admin/includes/class-theme-upgrader.php:397": [
+        "wp-admin/includes/class-theme-upgrader.php:400": [
             "wp-admin/includes/class-theme-upgrader.php",
-            397
+            400
         ],
         "wp-admin/includes/class-wp-automatic-updater.php:290": [
             "wp-admin/includes/class-wp-automatic-updater.php",
@@ -30,29 +30,29 @@
             "wp-admin/includes/class-wp-debug-data.php",
             442
         ],
-        "wp-admin/includes/class-wp-debug-data.php:1254": [
+        "wp-admin/includes/class-wp-debug-data.php:1250": [
             "wp-admin/includes/class-wp-debug-data.php",
-            1254
+            1250
         ],
-        "wp-admin/includes/class-wp-filesystem-base.php:97": [
+        "wp-admin/includes/class-wp-filesystem-base.php:98": [
             "wp-admin/includes/class-wp-filesystem-base.php",
-            97
+            98
         ],
         "wp-admin/includes/class-wp-upgrader.php:228": [
             "wp-admin/includes/class-wp-upgrader.php",
             228
         ],
-        "wp-includes/theme.php:189": [
+        "wp-includes/theme.php:190": [
             "wp-includes/theme.php",
-            189
+            190
         ],
-        "wp-includes/theme.php:323": [
+        "wp-includes/theme.php:324": [
             "wp-includes/theme.php",
-            323
+            324
         ],
-        "wp-settings.php:350": [
+        "wp-settings.php:361": [
             "wp-settings.php",
-            350
+            361
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

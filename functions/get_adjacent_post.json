@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "get_adjacent_post",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 1684,
-    "startLine": 1700,
-    "endLine": 1877,
+    "docCommentLine": 1686,
+    "startLine": 1702,
+    "endLine": 1879,
     "calls": {
-        "wp-includes/link-template.php:1666": [
+        "wp-includes/link-template.php:1668": [
             "wp-includes/link-template.php",
-            1666
+            1668
         ],
-        "wp-includes/link-template.php:1681": [
+        "wp-includes/link-template.php:1683": [
             "wp-includes/link-template.php",
-            1681
+            1683
         ],
-        "wp-includes/link-template.php:1898": [
+        "wp-includes/link-template.php:1900": [
             "wp-includes/link-template.php",
-            1898
+            1900
         ],
-        "wp-includes/link-template.php:2154": [
+        "wp-includes/link-template.php:2156": [
             "wp-includes/link-template.php",
-            2154
+            2156
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

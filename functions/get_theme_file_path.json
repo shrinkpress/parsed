@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_theme_file_path",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 4324,
-    "startLine": 4335,
-    "endLine": 4355,
+    "docCommentLine": 4329,
+    "startLine": 4340,
+    "endLine": 4360,
     "calls": {
-        "wp-admin/edit-form-blocks.php:195": [
+        "wp-admin/edit-form-blocks.php:198": [
             "wp-admin/edit-form-blocks.php",
-            195
+            198
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

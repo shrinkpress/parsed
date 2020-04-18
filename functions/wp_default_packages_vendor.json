@@ -4,15 +4,15 @@
     "filename": "wp-includes/script-loader.php",
     "docCommentLine": 66,
     "startLine": 76,
-    "endLine": 160,
+    "endLine": 166,
     "calls": {
         "wp-admin/load-scripts.php:45": [
             "wp-admin/load-scripts.php",
             45
         ],
-        "wp-includes/script-loader.php:895": [
+        "wp-includes/script-loader.php:525": [
             "wp-includes/script-loader.php",
-            895
+            525
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "delete_user_option",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 536,
-    "startLine": 553,
-    "endLine": 560,
+    "docCommentLine": 537,
+    "startLine": 554,
+    "endLine": 561,
     "calls": {
-        "wp-includes/ms-functions.php:1263": [
+        "wp-includes/ms-functions.php:1295": [
             "wp-includes/ms-functions.php",
-            1263
+            1295
         ],
-        "wp-includes/ms-functions.php:1264": [
+        "wp-includes/ms-functions.php:1296": [
             "wp-includes/ms-functions.php",
-            1264
+            1296
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

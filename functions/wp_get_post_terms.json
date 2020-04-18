@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_get_post_terms",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 3414,
-    "startLine": 3431,
-    "endLine": 3440,
+    "docCommentLine": 3425,
+    "startLine": 3442,
+    "endLine": 3451,
     "calls": {
         "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:355": [
             "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php",
             355
         ],
-        "wp-includes/post.php:3411": [
+        "wp-includes/post.php:3422": [
             "wp-includes/post.php",
-            3411
+            3422
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

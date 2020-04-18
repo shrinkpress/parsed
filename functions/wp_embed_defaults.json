@@ -3,16 +3,16 @@
     "functionName": "wp_embed_defaults",
     "filename": "wp-includes/embed.php",
     "docCommentLine": 45,
-    "startLine": 63,
-    "endLine": 84,
+    "startLine": 68,
+    "endLine": 93,
     "calls": {
         "wp-includes/class-wp-embed.php:160": [
             "wp-includes/class-wp-embed.php",
             160
         ],
-        "wp-includes/class-wp-oembed.php:515": [
+        "wp-includes/class-wp-oembed.php:519": [
             "wp-includes/class-wp-oembed.php",
-            515
+            519
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

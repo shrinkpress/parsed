@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/rest-api.php:185": [
+        "wp-includes/rest-api.php:186": [
             "wp-includes/rest-api.php",
-            185,
+            186,
             "rest_pre_dispatch",
             "add_filter"
         ]
     },
     "functionName": "rest_handle_options_request",
     "filename": "wp-includes/rest-api.php",
-    "docCommentLine": 599,
-    "startLine": 612,
-    "endLine": 649,
+    "docCommentLine": 601,
+    "startLine": 614,
+    "endLine": 651,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

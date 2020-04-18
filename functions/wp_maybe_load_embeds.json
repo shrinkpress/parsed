@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:350": [
+        "wp-includes/default-filters.php:351": [
             "wp-includes/default-filters.php",
-            350,
+            351,
             "plugins_loaded",
             "add_action"
         ]
     },
     "functionName": "wp_maybe_load_embeds",
     "filename": "wp-includes/embed.php",
-    "docCommentLine": 168,
-    "startLine": 178,
-    "endLine": 211,
+    "docCommentLine": 177,
+    "startLine": 187,
+    "endLine": 220,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

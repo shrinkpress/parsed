@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_prepare_themes_for_js",
     "filename": "wp-admin/includes/theme.php",
-    "docCommentLine": 579,
-    "startLine": 589,
-    "endLine": 694,
+    "docCommentLine": 580,
+    "startLine": 590,
+    "endLine": 695,
     "calls": {
         "wp-admin/themes.php:153": [
             "wp-admin/themes.php",
@@ -14,9 +14,9 @@
             "wp-admin/themes.php",
             155
         ],
-        "wp-includes/class-wp-customize-manager.php:5754": [
+        "wp-includes/class-wp-customize-manager.php:5744": [
             "wp-includes/class-wp-customize-manager.php",
-            5754
+            5744
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

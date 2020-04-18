@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/class-wp-customize-manager.php:406": [
+        "wp-includes/class-wp-customize-manager.php:405": [
             "wp-includes/class-wp-customize-manager.php",
-            406,
+            405,
             "customize_controls_print_footer_scripts",
             "add_action"
         ]
     },
     "functionName": "wp_print_admin_notice_templates",
     "filename": "wp-admin/includes/update.php",
-    "docCommentLine": 732,
-    "startLine": 748,
-    "endLine": 811,
+    "docCommentLine": 765,
+    "startLine": 781,
+    "endLine": 844,
     "calls": {
         "wp-admin/import.php:238": [
             "wp-admin/import.php",
@@ -25,17 +25,17 @@
             "wp-admin/plugin-install.php",
             182
         ],
-        "wp-admin/plugins.php:640": [
+        "wp-admin/plugins.php:645": [
             "wp-admin/plugins.php",
-            640
+            645
         ],
         "wp-admin/theme-install.php:373": [
             "wp-admin/theme-install.php",
             373
         ],
-        "wp-admin/themes.php:620": [
+        "wp-admin/themes.php:614": [
             "wp-admin/themes.php",
-            620
+            614
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

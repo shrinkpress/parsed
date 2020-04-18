@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "wp_create_user",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 2140,
-    "startLine": 2155,
-    "endLine": 2162,
+    "docCommentLine": 2150,
+    "startLine": 2165,
+    "endLine": 2172,
     "calls": {
-        "wp-admin/includes/upgrade.php:81": [
+        "wp-admin/includes/upgrade.php:90": [
             "wp-admin/includes/upgrade.php",
-            81
+            90
         ],
-        "wp-admin/includes/upgrade.php:87": [
+        "wp-admin/includes/upgrade.php:97": [
             "wp-admin/includes/upgrade.php",
-            87
+            97
         ],
         "wp-includes/deprecated.php:1193": [
             "wp-includes/deprecated.php",
             1193
         ],
-        "wp-includes/ms-functions.php:1257": [
+        "wp-includes/ms-functions.php:1289": [
             "wp-includes/ms-functions.php",
-            1257
+            1289
         ],
-        "wp-includes/user.php:2552": [
+        "wp-includes/user.php:2562": [
             "wp-includes/user.php",
-            2552
+            2562
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

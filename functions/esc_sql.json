@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "esc_sql",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 4246,
-    "startLine": 4265,
-    "endLine": 4268,
+    "docCommentLine": 4250,
+    "startLine": 4269,
+    "endLine": 4272,
     "calls": {
         "wp-includes/class-wp-comment-query.php:1152": [
             "wp-includes/class-wp-comment-query.php",
@@ -22,33 +22,33 @@
             "wp-includes/class-wp-date-query.php",
             712
         ],
-        "wp-includes/class-wp-query.php:2404": [
+        "wp-includes/class-wp-query.php:2419": [
             "wp-includes/class-wp-query.php",
-            2404
+            2419
         ],
         "wp-includes/class-wp-user-query.php:796": [
             "wp-includes/class-wp-user-query.php",
             796
         ],
-        "wp-includes/post.php:4906": [
+        "wp-includes/post.php:4944": [
             "wp-includes/post.php",
-            4906
+            4944
         ],
-        "wp-includes/post.php:4916": [
+        "wp-includes/post.php:4954": [
             "wp-includes/post.php",
-            4916
+            4954
         ],
-        "wp-includes/post.php:4990": [
+        "wp-includes/post.php:5028": [
             "wp-includes/post.php",
-            4990
+            5028
         ],
-        "wp-includes/taxonomy.php:3611": [
+        "wp-includes/taxonomy.php:3614": [
             "wp-includes/taxonomy.php",
-            3611
+            3614
         ],
-        "wp-includes/taxonomy.php:3707": [
+        "wp-includes/taxonomy.php:3710": [
             "wp-includes/taxonomy.php",
-            3707
+            3710
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

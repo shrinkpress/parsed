@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_alloptions_110",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 2442,
-    "startLine": 2451,
-    "endLine": 2464,
+    "docCommentLine": 2463,
+    "startLine": 2472,
+    "endLine": 2485,
     "calls": {
-        "wp-admin/includes/upgrade.php:942": [
+        "wp-admin/includes/upgrade.php:959": [
             "wp-admin/includes/upgrade.php",
-            942
+            959
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

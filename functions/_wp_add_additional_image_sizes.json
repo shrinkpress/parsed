@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:525": [
+        "wp-includes/default-filters.php:526": [
             "wp-includes/default-filters.php",
-            525,
+            526,
             "plugins_loaded",
             "add_action"
         ]
     },
     "functionName": "_wp_add_additional_image_sizes",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 4370,
-    "startLine": 4383,
-    "endLine": 4388,
+    "docCommentLine": 4458,
+    "startLine": 4471,
+    "endLine": 4476,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

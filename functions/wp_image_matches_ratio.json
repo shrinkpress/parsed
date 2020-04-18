@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_image_matches_ratio",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 672,
-    "startLine": 683,
-    "endLine": 700,
+    "docCommentLine": 695,
+    "startLine": 706,
+    "endLine": 723,
     "calls": {
-        "wp-includes/media.php:767": [
+        "wp-includes/media.php:790": [
             "wp-includes/media.php",
-            767
+            790
         ],
-        "wp-includes/media.php:769": [
+        "wp-includes/media.php:792": [
             "wp-includes/media.php",
-            769
+            792
         ],
-        "wp-includes/media.php:1280": [
+        "wp-includes/media.php:1333": [
             "wp-includes/media.php",
-            1280
+            1333
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

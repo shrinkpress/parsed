@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_upload_bits",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 2554,
-    "startLine": 2577,
-    "endLine": 2671,
+    "docCommentLine": 2597,
+    "startLine": 2620,
+    "endLine": 2714,
     "calls": {
-        "wp-admin/includes/image.php:514": [
+        "wp-admin/includes/image.php:522": [
             "wp-admin/includes/image.php",
-            514
+            522
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6341": [
+        "wp-includes/class-wp-xmlrpc-server.php:6349": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6341
+            6349
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

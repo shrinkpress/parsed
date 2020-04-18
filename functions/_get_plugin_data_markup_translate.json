@@ -6,21 +6,21 @@
     "startLine": 143,
     "endLine": 221,
     "calls": {
-        "wp-admin/includes/class-wp-plugins-list-table.php:255": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:253": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            255
+            253
         ],
         "wp-admin/includes/plugin.php:106": [
             "wp-admin/includes/plugin.php",
             106
         ],
-        "wp-admin/plugins.php:307": [
+        "wp-admin/plugins.php:309": [
             "wp-admin/plugins.php",
-            307
+            309
         ],
-        "wp-admin/update-core.php:328": [
+        "wp-admin/update-core.php:332": [
             "wp-admin/update-core.php",
-            328
+            332
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

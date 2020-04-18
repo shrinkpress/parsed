@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:457": [
+        "wp-includes/default-filters.php:458": [
             "wp-includes/default-filters.php",
-            457,
+            458,
             "wp_head",
             "add_action"
         ]
     },
     "functionName": "_custom_logo_header_styles",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 2654,
-    "startLine": 2660,
-    "endLine": 2677,
+    "docCommentLine": 2661,
+    "startLine": 2667,
+    "endLine": 2684,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

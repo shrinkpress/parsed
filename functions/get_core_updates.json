@@ -2,41 +2,41 @@
     "callbacks": [],
     "functionName": "get_core_updates",
     "filename": "wp-admin/includes/update.php",
-    "docCommentLine": 25,
-    "startLine": 32,
-    "endLine": 72,
+    "docCommentLine": 27,
+    "startLine": 36,
+    "endLine": 76,
     "calls": {
         "wp-admin/includes/class-wp-debug-data.php:43": [
             "wp-admin/includes/class-wp-debug-data.php",
             43
         ],
-        "wp-admin/includes/class-wp-site-health.php:223": [
+        "wp-admin/includes/class-wp-site-health.php:253": [
             "wp-admin/includes/class-wp-site-health.php",
-            223
+            253
         ],
-        "wp-admin/includes/update.php:15": [
+        "wp-admin/includes/update.php:17": [
             "wp-admin/includes/update.php",
-            15
+            17
         ],
-        "wp-admin/update-core.php:44": [
+        "wp-admin/update-core.php:48": [
             "wp-admin/update-core.php",
-            44
+            48
         ],
-        "wp-admin/update-core.php:180": [
+        "wp-admin/update-core.php:184": [
             "wp-admin/update-core.php",
-            180
+            184
         ],
-        "wp-admin/update-core.php:222": [
+        "wp-admin/update-core.php:226": [
             "wp-admin/update-core.php",
-            222
+            226
         ],
-        "wp-admin/update-core.php:305": [
+        "wp-admin/update-core.php:309": [
             "wp-admin/update-core.php",
-            305
+            309
         ],
-        "wp-includes/update.php:673": [
+        "wp-includes/update.php:674": [
             "wp-includes/update.php",
-            673
+            674
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:348": [
+        "wp-includes/default-filters.php:349": [
             "wp-includes/default-filters.php",
-            348,
+            349,
             "init",
             "add_action"
         ]
     },
     "functionName": "smilies_init",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 4152,
-    "startLine": 4174,
-    "endLine": 4281,
+    "docCommentLine": 4209,
+    "startLine": 4231,
+    "endLine": 4338,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

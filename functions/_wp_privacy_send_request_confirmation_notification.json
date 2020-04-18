@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:363": [
+        "wp-includes/default-filters.php:364": [
             "wp-includes/default-filters.php",
-            363,
+            364,
             "user_request_action_confirmed",
             "add_action"
         ]
     },
     "functionName": "_wp_privacy_send_request_confirmation_notification",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 3043,
-    "startLine": 3053,
-    "endLine": 3181,
+    "docCommentLine": 3168,
+    "startLine": 3178,
+    "endLine": 3335,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

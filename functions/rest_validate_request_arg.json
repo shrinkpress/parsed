@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "rest_validate_request_arg",
     "filename": "wp-includes/rest-api.php",
-    "docCommentLine": 1020,
-    "startLine": 1030,
-    "endLine": 1038,
+    "docCommentLine": 1026,
+    "startLine": 1036,
+    "endLine": 1044,
     "calls": {
-        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1703": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1864": [
             "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
-            1703
+            1864
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2605": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2789": [
             "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
-            2605
+            2789
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:233": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:514": [
             "wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php",
-            233
+            514
         ],
-        "wp-includes/rest-api.php:1074": [
+        "wp-includes/rest-api.php:1080": [
             "wp-includes/rest-api.php",
-            1074
+            1080
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

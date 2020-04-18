@@ -6,18 +6,18 @@
             "wp_print_styles",
             "add_action"
         ],
-        "wp-includes/default-filters.php:346": [
+        "wp-includes/default-filters.php:347": [
             "wp-includes/default-filters.php",
-            346,
+            347,
             "admin_print_styles",
             "add_action"
         ]
     },
     "functionName": "print_emoji_styles",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 5554,
-    "startLine": 5561,
-    "endLine": 5587,
+    "docCommentLine": 5565,
+    "startLine": 5572,
+    "endLine": 5598,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_generate_auth_cookie",
     "filename": "wp-includes/pluggable.php",
-    "docCommentLine": 703,
-    "startLine": 716,
-    "endLine": 750,
+    "docCommentLine": 714,
+    "startLine": 727,
+    "endLine": 761,
     "calls": {
-        "wp-includes/pluggable.php:884": [
+        "wp-includes/pluggable.php:895": [
             "wp-includes/pluggable.php",
-            884
+            895
         ],
-        "wp-includes/pluggable.php:885": [
+        "wp-includes/pluggable.php:896": [
             "wp-includes/pluggable.php",
-            885
+            896
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

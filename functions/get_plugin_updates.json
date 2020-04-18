@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "get_plugin_updates",
     "filename": "wp-admin/includes/update.php",
-    "docCommentLine": 345,
-    "startLine": 350,
-    "endLine": 362,
+    "docCommentLine": 369,
+    "startLine": 374,
+    "endLine": 386,
     "calls": {
         "wp-admin/includes/class-wp-automatic-updater.php:774": [
             "wp-admin/includes/class-wp-automatic-updater.php",
             774
         ],
-        "wp-admin/includes/class-wp-debug-data.php:827": [
+        "wp-admin/includes/class-wp-debug-data.php:835": [
             "wp-admin/includes/class-wp-debug-data.php",
-            827
+            835
         ],
-        "wp-admin/includes/class-wp-site-health.php:330": [
+        "wp-admin/includes/class-wp-site-health.php:360": [
             "wp-admin/includes/class-wp-site-health.php",
-            330
+            360
         ],
-        "wp-admin/update-core.php:297": [
+        "wp-admin/update-core.php:301": [
             "wp-admin/update-core.php",
-            297
+            301
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

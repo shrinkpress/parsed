@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_enclosed",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 4705,
-    "startLine": 4713,
-    "endLine": 4739,
+    "docCommentLine": 4743,
+    "startLine": 4751,
+    "endLine": 4777,
     "calls": {
-        "wp-includes/functions.php:833": [
+        "wp-includes/functions.php:851": [
             "wp-includes/functions.php",
-            833
+            851
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

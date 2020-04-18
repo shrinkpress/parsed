@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "reset_mbstring_encoding",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 6437,
-    "startLine": 6444,
-    "endLine": 6446,
+    "docCommentLine": 6629,
+    "startLine": 6636,
+    "endLine": 6638,
     "calls": {
         "wp-admin/includes/class-wp-filesystem-direct.php:77": [
             "wp-admin/includes/class-wp-filesystem-direct.php",
             77
         ],
-        "wp-admin/includes/class-wp-filesystem-ftpext.php:198": [
+        "wp-admin/includes/class-wp-filesystem-ftpext.php:197": [
             "wp-admin/includes/class-wp-filesystem-ftpext.php",
-            198
+            197
         ],
         "wp-admin/includes/class-wp-filesystem-ftpsockets.php:151": [
             "wp-admin/includes/class-wp-filesystem-ftpsockets.php",
@@ -38,41 +38,41 @@
             "wp-admin/includes/class-wp-filesystem-ftpsockets.php",
             649
         ],
-        "wp-admin/includes/file.php:1309": [
+        "wp-admin/includes/file.php:1325": [
             "wp-admin/includes/file.php",
-            1309
+            1325
         ],
-        "wp-admin/includes/file.php:1315": [
+        "wp-admin/includes/file.php:1331": [
             "wp-admin/includes/file.php",
-            1315
+            1331
         ],
-        "wp-admin/includes/file.php:1599": [
+        "wp-admin/includes/file.php:1615": [
             "wp-admin/includes/file.php",
-            1599
+            1615
         ],
-        "wp-admin/includes/image.php:726": [
+        "wp-admin/includes/image.php:734": [
             "wp-admin/includes/image.php",
-            726
+            734
         ],
-        "wp-admin/includes/image.php:773": [
+        "wp-admin/includes/image.php:781": [
             "wp-admin/includes/image.php",
-            773
+            781
         ],
-        "wp-includes/class-http.php:405": [
+        "wp-includes/class-http.php:406": [
             "wp-includes/class-http.php",
-            405
+            406
         ],
-        "wp-includes/formatting.php:900": [
+        "wp-includes/formatting.php:902": [
             "wp-includes/formatting.php",
-            900
+            902
         ],
-        "wp-includes/formatting.php:1171": [
+        "wp-includes/formatting.php:1173": [
             "wp-includes/formatting.php",
-            1171
+            1173
         ],
-        "wp-includes/wp-db.php:3081": [
+        "wp-includes/wp-db.php:3077": [
             "wp-includes/wp-db.php",
-            3081
+            3077
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

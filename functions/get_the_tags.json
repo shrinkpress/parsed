@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_the_tags",
     "filename": "wp-includes/category-template.php",
-    "docCommentLine": 1117,
-    "startLine": 1125,
-    "endLine": 1137,
+    "docCommentLine": 1123,
+    "startLine": 1131,
+    "endLine": 1143,
     "calls": {
-        "wp-includes/feed.php:381": [
+        "wp-includes/feed.php:380": [
             "wp-includes/feed.php",
-            381
+            380
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

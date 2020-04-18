@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "get_post_modified_time",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 2737,
-    "startLine": 2749,
-    "endLine": 2791,
+    "docCommentLine": 2741,
+    "startLine": 2754,
+    "endLine": 2796,
     "calls": {
-        "wp-includes/feed-atom.php:69": [
+        "wp-includes/feed-atom.php:74": [
             "wp-includes/feed-atom.php",
-            69
+            74
         ],
-        "wp-includes/general-template.php:2472": [
+        "wp-includes/general-template.php:2473": [
             "wp-includes/general-template.php",
-            2472
+            2473
         ],
-        "wp-includes/general-template.php:2474": [
+        "wp-includes/general-template.php:2475": [
             "wp-includes/general-template.php",
-            2474
+            2475
         ],
-        "wp-includes/general-template.php:2717": [
+        "wp-includes/general-template.php:2721": [
             "wp-includes/general-template.php",
-            2717
+            2721
         ],
-        "wp-includes/general-template.php:2719": [
+        "wp-includes/general-template.php:2723": [
             "wp-includes/general-template.php",
-            2719
+            2723
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

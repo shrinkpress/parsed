@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_magic_quotes",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 915,
-    "startLine": 924,
-    "endLine": 933,
+    "docCommentLine": 916,
+    "startLine": 925,
+    "endLine": 946,
     "calls": {
-        "wp-settings.php:398": [
+        "wp-settings.php:415": [
             "wp-settings.php",
-            398
+            415
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

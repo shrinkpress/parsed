@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "do_enclose",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 799,
-    "startLine": 816,
-    "endLine": 905,
+    "docCommentLine": 817,
+    "startLine": 834,
+    "endLine": 922,
     "calls": {
-        "wp-includes/comment.php:2684": [
+        "wp-includes/comment.php:2690": [
             "wp-includes/comment.php",
-            2684
+            2690
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

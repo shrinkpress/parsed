@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "get_hidden_meta_boxes",
     "filename": "wp-admin/includes/screen.php",
-    "docCommentLine": 143,
-    "startLine": 151,
-    "endLine": 193,
+    "docCommentLine": 142,
+    "startLine": 150,
+    "endLine": 192,
     "calls": {
-        "wp-admin/includes/meta-boxes.php:840": [
+        "wp-admin/includes/meta-boxes.php:849": [
             "wp-admin/includes/meta-boxes.php",
-            840
+            849
         ],
-        "wp-admin/includes/screen.php:110": [
+        "wp-admin/includes/screen.php:109": [
             "wp-admin/includes/screen.php",
-            110
+            109
         ],
-        "wp-admin/includes/template.php:1244": [
+        "wp-admin/includes/template.php:1245": [
             "wp-admin/includes/template.php",
-            1244
+            1245
         ],
-        "wp-admin/includes/template.php:1438": [
+        "wp-admin/includes/template.php:1440": [
             "wp-admin/includes/template.php",
-            1438
+            1440
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

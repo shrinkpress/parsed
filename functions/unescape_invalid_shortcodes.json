@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "unescape_invalid_shortcodes",
     "filename": "wp-includes/shortcodes.php",
-    "docCommentLine": 452,
-    "startLine": 460,
-    "endLine": 470,
+    "docCommentLine": 472,
+    "startLine": 480,
+    "endLine": 490,
     "calls": {
-        "wp-includes/shortcodes.php:202": [
+        "wp-includes/shortcodes.php:221": [
             "wp-includes/shortcodes.php",
-            202
+            221
         ],
-        "wp-includes/shortcodes.php:630": [
+        "wp-includes/shortcodes.php:651": [
             "wp-includes/shortcodes.php",
-            630
+            651
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_sanitize_text_fields",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 5285,
-    "startLine": 5295,
-    "endLine": 5331,
+    "docCommentLine": 5296,
+    "startLine": 5306,
+    "endLine": 5342,
     "calls": {
-        "wp-includes/formatting.php:5244": [
+        "wp-includes/formatting.php:5255": [
             "wp-includes/formatting.php",
-            5244
+            5255
         ],
-        "wp-includes/formatting.php:5272": [
+        "wp-includes/formatting.php:5283": [
             "wp-includes/formatting.php",
-            5272
+            5283
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

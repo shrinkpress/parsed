@@ -1,26 +1,26 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:535": [
-            "wp-includes/default-filters.php",
-            535,
-            "template_redirect",
-            "add_action"
-        ],
         "wp-includes/default-filters.php:536": [
             "wp-includes/default-filters.php",
             536,
-            "admin_init",
+            "template_redirect",
             "add_action"
         ],
         "wp-includes/default-filters.php:537": [
             "wp-includes/default-filters.php",
             537,
-            "before_signup_header",
+            "admin_init",
             "add_action"
         ],
         "wp-includes/default-filters.php:538": [
             "wp-includes/default-filters.php",
             538,
+            "before_signup_header",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:539": [
+            "wp-includes/default-filters.php",
+            539,
             "activate_header",
             "add_action"
         ]

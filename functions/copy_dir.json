@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "copy_dir",
     "filename": "wp-admin/includes/file.php",
-    "docCommentLine": 1684,
-    "startLine": 1699,
-    "endLine": 1742,
+    "docCommentLine": 1700,
+    "startLine": 1715,
+    "endLine": 1758,
     "calls": {
-        "wp-admin/includes/class-wp-upgrader.php:587": [
+        "wp-admin/includes/class-wp-upgrader.php:592": [
             "wp-admin/includes/class-wp-upgrader.php",
-            587
+            592
         ],
-        "wp-admin/includes/file.php:1735": [
+        "wp-admin/includes/file.php:1751": [
             "wp-admin/includes/file.php",
-            1735
+            1751
         ],
-        "wp-admin/includes/update-core.php:1166": [
+        "wp-admin/includes/update-core.php:1171": [
             "wp-admin/includes/update-core.php",
-            1166
+            1171
         ],
-        "wp-admin/includes/update-core.php:1223": [
+        "wp-admin/includes/update-core.php:1232": [
             "wp-admin/includes/update-core.php",
-            1223
+            1232
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

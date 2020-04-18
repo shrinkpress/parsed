@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:508": [
+        "wp-includes/default-filters.php:509": [
             "wp-includes/default-filters.php",
-            508,
+            509,
             "wp_default_styles",
             "add_action"
         ]
     },
     "functionName": "wp_default_styles",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 1980,
-    "startLine": 1995,
-    "endLine": 2222,
+    "docCommentLine": 1603,
+    "startLine": 1618,
+    "endLine": 1846,
     "calls": {
         "wp-admin/load-styles.php:45": [
             "wp-admin/load-styles.php",

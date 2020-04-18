@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_get_original_referer",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 1878,
-    "startLine": 1885,
-    "endLine": 1890,
+    "docCommentLine": 1914,
+    "startLine": 1921,
+    "endLine": 1926,
     "calls": {
         "wp-admin/comment.php:276": [
             "wp-admin/comment.php",
@@ -18,9 +18,9 @@
             "wp-admin/media.php",
             30
         ],
-        "wp-includes/functions.php:1825": [
+        "wp-includes/functions.php:1861": [
             "wp-includes/functions.php",
-            1825
+            1861
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

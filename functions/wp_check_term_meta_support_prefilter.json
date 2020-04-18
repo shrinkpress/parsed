@@ -51,13 +51,13 @@
     },
     "functionName": "wp_check_term_meta_support_prefilter",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 4629,
-    "startLine": 4637,
-    "endLine": 4643,
+    "docCommentLine": 4633,
+    "startLine": 4641,
+    "endLine": 4647,
     "calls": {
-        "wp-includes/taxonomy.php:1304": [
+        "wp-includes/taxonomy.php:1307": [
             "wp-includes/taxonomy.php",
-            1304
+            1307
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

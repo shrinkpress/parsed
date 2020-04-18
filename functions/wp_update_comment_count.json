@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "wp_update_comment_count",
     "filename": "wp-includes/comment.php",
-    "docCommentLine": 2436,
-    "startLine": 2458,
-    "endLine": 2481,
+    "docCommentLine": 2442,
+    "startLine": 2464,
+    "endLine": 2487,
     "calls": {
         "wp-includes/comment.php:1433": [
             "wp-includes/comment.php",
             1433
         ],
-        "wp-includes/comment.php:1911": [
+        "wp-includes/comment.php:1917": [
             "wp-includes/comment.php",
-            1911
+            1917
         ],
-        "wp-includes/comment.php:2297": [
+        "wp-includes/comment.php:2303": [
             "wp-includes/comment.php",
-            2297
+            2303
         ],
-        "wp-includes/comment.php:2390": [
+        "wp-includes/comment.php:2396": [
             "wp-includes/comment.php",
-            2390
+            2396
         ],
-        "wp-includes/comment.php:2429": [
+        "wp-includes/comment.php:2435": [
             "wp-includes/comment.php",
-            2429
+            2435
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

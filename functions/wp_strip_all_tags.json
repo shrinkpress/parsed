@@ -15,33 +15,33 @@
     },
     "functionName": "wp_strip_all_tags",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 5201,
-    "startLine": 5214,
-    "endLine": 5223,
+    "docCommentLine": 5212,
+    "startLine": 5225,
+    "endLine": 5234,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:3022": [
+        "wp-admin/includes/ajax-actions.php:3026": [
             "wp-admin/includes/ajax-actions.php",
-            3022
+            3026
         ],
         "wp-admin/includes/class-wp-list-table.php:1338": [
             "wp-admin/includes/class-wp-list-table.php",
             1338
         ],
-        "wp-admin/includes/class-wp-screen.php:1137": [
+        "wp-admin/includes/class-wp-screen.php:1173": [
             "wp-admin/includes/class-wp-screen.php",
-            1137
+            1173
         ],
-        "wp-admin/includes/class-wp-users-list-table.php:525": [
+        "wp-admin/includes/class-wp-users-list-table.php:524": [
             "wp-admin/includes/class-wp-users-list-table.php",
-            525
+            524
         ],
         "wp-admin/includes/media.php:771": [
             "wp-admin/includes/media.php",
             771
         ],
-        "wp-admin/includes/post.php:380": [
+        "wp-admin/includes/post.php:381": [
             "wp-admin/includes/post.php",
-            380
+            381
         ],
         "wp-includes/class-wp-recovery-mode-email-service.php:121": [
             "wp-includes/class-wp-recovery-mode-email-service.php",
@@ -51,21 +51,25 @@
             "wp-includes/comment.php",
             1279
         ],
-        "wp-includes/formatting.php:2092": [
+        "wp-includes/formatting.php:2094": [
             "wp-includes/formatting.php",
-            2092
+            2094
         ],
-        "wp-includes/formatting.php:3859": [
+        "wp-includes/formatting.php:3863": [
             "wp-includes/formatting.php",
-            3859
+            3863
         ],
-        "wp-includes/formatting.php:5090": [
+        "wp-includes/formatting.php:5099": [
             "wp-includes/formatting.php",
-            5090
+            5099
         ],
-        "wp-includes/formatting.php:5307": [
+        "wp-includes/formatting.php:5318": [
             "wp-includes/formatting.php",
-            5307
+            5318
+        ],
+        "wp-includes/nav-menu.php:825": [
+            "wp-includes/nav-menu.php",
+            825
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

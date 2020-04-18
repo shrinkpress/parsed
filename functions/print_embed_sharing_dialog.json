@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:566": [
+        "wp-includes/default-filters.php:568": [
             "wp-includes/default-filters.php",
-            566,
+            568,
             "embed_footer",
             "add_action"
         ]
     },
     "functionName": "print_embed_sharing_dialog",
     "filename": "wp-includes/embed.php",
-    "docCommentLine": 1122,
-    "startLine": 1127,
-    "endLine": 1165,
+    "docCommentLine": 1133,
+    "startLine": 1138,
+    "endLine": 1176,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

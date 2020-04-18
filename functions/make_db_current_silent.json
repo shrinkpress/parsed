@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "make_db_current_silent",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 2931,
-    "startLine": 2943,
-    "endLine": 2945,
+    "docCommentLine": 2956,
+    "startLine": 2968,
+    "endLine": 2970,
     "calls": {
-        "wp-admin/includes/upgrade.php:47": [
+        "wp-admin/includes/upgrade.php:54": [
             "wp-admin/includes/upgrade.php",
-            47
+            54
         ],
-        "wp-admin/includes/upgrade.php:647": [
+        "wp-admin/includes/upgrade.php:664": [
             "wp-admin/includes/upgrade.php",
-            647
+            664
         ],
         "wp-includes/ms-deprecated.php:624": [
             "wp-includes/ms-deprecated.php",

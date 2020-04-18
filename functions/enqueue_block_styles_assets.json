@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:505": [
+        "wp-includes/default-filters.php:506": [
             "wp-includes/default-filters.php",
-            505,
+            506,
             "enqueue_block_assets",
             "add_action"
         ]
     },
     "functionName": "enqueue_block_styles_assets",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 2896,
-    "startLine": 2901,
-    "endLine": 2914,
+    "docCommentLine": 2520,
+    "startLine": 2525,
+    "endLine": 2538,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

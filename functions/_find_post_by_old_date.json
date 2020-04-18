@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "_find_post_by_old_date",
     "filename": "wp-includes/query.php",
-    "docCommentLine": 1084,
-    "startLine": 1097,
-    "endLine": 1122,
+    "docCommentLine": 1117,
+    "startLine": 1130,
+    "endLine": 1155,
     "calls": {
-        "wp-includes/query.php:1007": [
+        "wp-includes/query.php:1040": [
             "wp-includes/query.php",
-            1007
+            1040
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

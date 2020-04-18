@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_http_build_query",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 974,
-    "startLine": 992,
-    "endLine": 1025,
+    "docCommentLine": 991,
+    "startLine": 1009,
+    "endLine": 1042,
     "calls": {
-        "wp-includes/functions.php:971": [
+        "wp-includes/functions.php:988": [
             "wp-includes/functions.php",
-            971
+            988
         ],
-        "wp-includes/functions.php:1012": [
+        "wp-includes/functions.php:1029": [
             "wp-includes/functions.php",
-            1012
+            1029
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

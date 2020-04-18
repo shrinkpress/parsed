@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_write_post",
     "filename": "wp-admin/includes/post.php",
-    "docCommentLine": 790,
-    "startLine": 799,
-    "endLine": 866,
+    "docCommentLine": 793,
+    "startLine": 802,
+    "endLine": 869,
     "calls": {
-        "wp-admin/includes/post.php:876": [
+        "wp-admin/includes/post.php:879": [
             "wp-admin/includes/post.php",
-            876
+            879
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

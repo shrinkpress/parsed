@@ -3,8 +3,8 @@
     "functionName": "get_categories",
     "filename": "wp-includes/category.php",
     "docCommentLine": 9,
-    "startLine": 26,
-    "endLine": 67,
+    "startLine": 25,
+    "endLine": 66,
     "calls": {
         "wp-admin/includes/deprecated.php:136": [
             "wp-admin/includes/deprecated.php",
@@ -14,21 +14,21 @@
             "wp-admin/includes/export.php",
             158
         ],
-        "wp-includes/category-template.php:569": [
+        "wp-includes/category-template.php:572": [
             "wp-includes/category-template.php",
-            569
+            572
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:3491": [
+        "wp-includes/class-wp-xmlrpc-server.php:3497": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            3491
+            3497
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6250": [
+        "wp-includes/class-wp-xmlrpc-server.php:6258": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6250
+            6258
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6491": [
+        "wp-includes/class-wp-xmlrpc-server.php:6500": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6491
+            6500
         ],
         "wp-includes/deprecated.php:1032": [
             "wp-includes/deprecated.php",

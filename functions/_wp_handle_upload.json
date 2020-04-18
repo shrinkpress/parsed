@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_wp_handle_upload",
     "filename": "wp-admin/includes/file.php",
-    "docCommentLine": 702,
-    "startLine": 718,
-    "endLine": 924,
+    "docCommentLine": 703,
+    "startLine": 719,
+    "endLine": 940,
     "calls": {
-        "wp-admin/includes/file.php:953": [
+        "wp-admin/includes/file.php:969": [
             "wp-admin/includes/file.php",
-            953
+            969
         ],
-        "wp-admin/includes/file.php:981": [
+        "wp-admin/includes/file.php:997": [
             "wp-admin/includes/file.php",
-            981
+            997
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -6,9 +6,9 @@
     "startLine": 29,
     "endLine": 37,
     "calls": {
-        "wp-admin/includes/theme.php:899": [
+        "wp-admin/includes/theme.php:900": [
             "wp-admin/includes/theme.php",
-            899
+            900
         ],
         "wp-includes/class-wp-recovery-mode.php:214": [
             "wp-includes/class-wp-recovery-mode.php",
@@ -18,17 +18,17 @@
             "wp-includes/class-wp-recovery-mode.php",
             441
         ],
-        "wp-includes/class-wp-theme.php:415": [
+        "wp-includes/class-wp-theme.php:419": [
             "wp-includes/class-wp-theme.php",
-            415
+            419
         ],
-        "wp-includes/load.php:781": [
+        "wp-includes/load.php:782": [
             "wp-includes/load.php",
-            781
+            782
         ],
-        "wp-includes/theme.php:765": [
+        "wp-includes/theme.php:768": [
             "wp-includes/theme.php",
-            765
+            768
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

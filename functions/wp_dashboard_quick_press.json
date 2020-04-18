@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_dashboard_quick_press",
     "filename": "wp-admin/includes/dashboard.php",
-    "docCommentLine": 478,
-    "startLine": 487,
-    "endLine": 549,
+    "docCommentLine": 492,
+    "startLine": 501,
+    "endLine": 563,
     "calls": {
-        "wp-admin/includes/deprecated.php:747": [
+        "wp-admin/includes/deprecated.php:748": [
             "wp-admin/includes/deprecated.php",
-            747
+            748
         ],
         "wp-admin/post.php:90": [
             "wp-admin/post.php",
             90
         ],
-        "wp-admin/post.php:100": [
+        "wp-admin/post.php:108": [
             "wp-admin/post.php",
-            100
+            108
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

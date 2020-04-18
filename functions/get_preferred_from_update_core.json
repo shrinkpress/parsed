@@ -3,24 +3,24 @@
     "functionName": "get_preferred_from_update_core",
     "filename": "wp-admin/includes/update.php",
     "docCommentLine": 9,
-    "startLine": 14,
-    "endLine": 23,
+    "startLine": 16,
+    "endLine": 25,
     "calls": {
         "wp-admin/includes/class-wp-automatic-updater.php:628": [
             "wp-admin/includes/class-wp-automatic-updater.php",
             628
         ],
-        "wp-admin/includes/update.php:216": [
+        "wp-admin/includes/update.php:234": [
             "wp-admin/includes/update.php",
-            216
+            234
         ],
-        "wp-admin/includes/update.php:272": [
+        "wp-admin/includes/update.php:292": [
             "wp-admin/includes/update.php",
-            272
+            292
         ],
-        "wp-admin/includes/update.php:314": [
+        "wp-admin/includes/update.php:338": [
             "wp-admin/includes/update.php",
-            314
+            338
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

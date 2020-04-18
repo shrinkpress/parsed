@@ -4,15 +4,15 @@
     "filename": "wp-admin/includes/image.php",
     "docCommentLine": 69,
     "startLine": 80,
-    "endLine": 137,
+    "endLine": 139,
     "calls": {
-        "wp-admin/includes/image.php:162": [
+        "wp-admin/includes/image.php:164": [
             "wp-admin/includes/image.php",
-            162
+            164
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:478": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:515": [
             "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
-            478
+            515
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

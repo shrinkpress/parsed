@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:471": [
+        "wp-includes/default-filters.php:472": [
             "wp-includes/default-filters.php",
-            471,
+            472,
             "transition_post_status",
             "add_action"
         ]
     },
     "functionName": "__clear_multi_author_cache",
     "filename": "wp-includes/author-template.php",
-    "docCommentLine": 562,
-    "startLine": 568,
-    "endLine": 570,
+    "docCommentLine": 563,
+    "startLine": 569,
+    "endLine": 571,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

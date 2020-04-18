@@ -2,21 +2,17 @@
     "callbacks": [],
     "functionName": "add_magic_quotes",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 1194,
-    "startLine": 1202,
-    "endLine": 1211,
+    "docCommentLine": 1212,
+    "startLine": 1220,
+    "endLine": 1229,
     "calls": {
-        "wp-admin/includes/post.php:1074": [
+        "wp-admin/includes/post.php:1077": [
             "wp-admin/includes/post.php",
-            1074
+            1077
         ],
-        "wp-includes/functions.php:1205": [
+        "wp-includes/functions.php:1223": [
             "wp-includes/functions.php",
-            1205
-        ],
-        "wp-includes/load.php:926": [
-            "wp-includes/load.php",
-            926
+            1223
         ],
         "wp-includes/load.php:927": [
             "wp-includes/load.php",
@@ -30,9 +26,13 @@
             "wp-includes/load.php",
             929
         ],
-        "wp-includes/user.php:1945": [
+        "wp-includes/load.php:930": [
+            "wp-includes/load.php",
+            930
+        ],
+        "wp-includes/user.php:1955": [
             "wp-includes/user.php",
-            1945
+            1955
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

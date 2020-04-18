@@ -9,21 +9,21 @@
     },
     "functionName": "wp_maybe_update_network_site_counts",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 2328,
-    "startLine": 2339,
-    "endLine": 2357,
+    "docCommentLine": 2371,
+    "startLine": 2382,
+    "endLine": 2400,
     "calls": {
-        "wp-includes/ms-site.php:1132": [
+        "wp-includes/ms-site.php:1131": [
             "wp-includes/ms-site.php",
-            1132
+            1131
+        ],
+        "wp-includes/ms-site.php:1136": [
+            "wp-includes/ms-site.php",
+            1136
         ],
         "wp-includes/ms-site.php:1137": [
             "wp-includes/ms-site.php",
             1137
-        ],
-        "wp-includes/ms-site.php:1138": [
-            "wp-includes/ms-site.php",
-            1138
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_get_plugin_from_callback",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 1167,
-    "startLine": 1177,
-    "endLine": 1211,
+    "docCommentLine": 1168,
+    "startLine": 1178,
+    "endLine": 1212,
     "calls": {
-        "wp-admin/includes/template.php:1123": [
+        "wp-admin/includes/template.php:1124": [
             "wp-admin/includes/template.php",
-            1123
+            1124
         ],
-        "wp-admin/includes/template.php:1328": [
+        "wp-admin/includes/template.php:1330": [
             "wp-admin/includes/template.php",
-            1328
+            1330
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "redirect_guess_404_permalink",
     "filename": "wp-includes/canonical.php",
-    "docCommentLine": 675,
-    "startLine": 684,
-    "endLine": 721,
+    "docCommentLine": 683,
+    "startLine": 692,
+    "endLine": 729,
     "calls": {
-        "wp-includes/canonical.php:152": [
+        "wp-includes/canonical.php:154": [
             "wp-includes/canonical.php",
-            152
+            154
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

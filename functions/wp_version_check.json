@@ -24,15 +24,15 @@
             "upgrader_process_complete",
             "remove_action"
         ],
-        "wp-admin/includes/class-wp-site-health.php:194": [
+        "wp-admin/includes/class-wp-site-health.php:224": [
             "wp-admin/includes/class-wp-site-health.php",
-            194,
+            224,
             "wp_version_check",
             "has_filter"
         ],
-        "wp-includes/update.php:817": [
+        "wp-includes/update.php:818": [
             "wp-includes/update.php",
-            817,
+            818,
             "wp_version_check",
             "add_action"
         ]
@@ -43,13 +43,13 @@
     "startLine": 24,
     "endLine": 244,
     "calls": {
-        "wp-admin/includes/class-core-upgrader.php:133": [
+        "wp-admin/includes/class-core-upgrader.php:134": [
             "wp-admin/includes/class-core-upgrader.php",
-            133
+            134
         ],
-        "wp-admin/includes/class-core-upgrader.php:255": [
+        "wp-admin/includes/class-core-upgrader.php:256": [
             "wp-admin/includes/class-core-upgrader.php",
-            255
+            256
         ],
         "wp-admin/includes/class-wp-automatic-updater.php:441": [
             "wp-admin/includes/class-wp-automatic-updater.php",
@@ -63,17 +63,17 @@
             "wp-admin/includes/class-wp-debug-data.php",
             17
         ],
-        "wp-admin/includes/class-wp-upgrader.php:747": [
+        "wp-admin/includes/class-wp-upgrader.php:752": [
             "wp-admin/includes/class-wp-upgrader.php",
-            747
+            752
         ],
-        "wp-admin/update-core.php:733": [
+        "wp-admin/update-core.php:737": [
             "wp-admin/update-core.php",
-            733
+            737
         ],
-        "wp-includes/update.php:741": [
+        "wp-includes/update.php:742": [
             "wp-includes/update.php",
-            741
+            742
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

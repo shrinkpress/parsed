@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "upgrade_all",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 671,
-    "startLine": 683,
-    "endLine": 826,
+    "docCommentLine": 688,
+    "startLine": 700,
+    "endLine": 843,
     "calls": {
-        "wp-admin/includes/upgrade.php:648": [
+        "wp-admin/includes/upgrade.php:665": [
             "wp-admin/includes/upgrade.php",
-            648
+            665
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

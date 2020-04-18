@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_image_get_preview_ratio",
     "filename": "wp-admin/includes/image-edit.php",
-    "docCommentLine": 393,
-    "startLine": 403,
-    "endLine": 406,
+    "docCommentLine": 395,
+    "startLine": 405,
+    "endLine": 408,
     "calls": {
-        "wp-admin/includes/image-edit.php:604": [
+        "wp-admin/includes/image-edit.php:606": [
             "wp-admin/includes/image-edit.php",
-            604
+            606
         ],
-        "wp-admin/includes/image-edit.php:607": [
+        "wp-admin/includes/image-edit.php:609": [
             "wp-admin/includes/image-edit.php",
-            607
+            609
         ],
-        "wp-admin/includes/image-edit.php:648": [
+        "wp-admin/includes/image-edit.php:650": [
             "wp-admin/includes/image-edit.php",
-            648
+            650
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

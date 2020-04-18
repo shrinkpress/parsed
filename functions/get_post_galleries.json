@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_post_galleries",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 4075,
-    "startLine": 4085,
-    "endLine": 4143,
+    "docCommentLine": 4148,
+    "startLine": 4158,
+    "endLine": 4216,
     "calls": {
-        "wp-includes/media.php:4155": [
+        "wp-includes/media.php:4228": [
             "wp-includes/media.php",
-            4155
+            4228
         ],
-        "wp-includes/media.php:4182": [
+        "wp-includes/media.php:4255": [
             "wp-includes/media.php",
-            4182
+            4255
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

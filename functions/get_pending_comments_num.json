@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "get_pending_comments_num",
     "filename": "wp-admin/includes/comment.php",
-    "docCommentLine": 133,
-    "startLine": 143,
-    "endLine": 180,
+    "docCommentLine": 134,
+    "startLine": 144,
+    "endLine": 181,
     "calls": {
         "wp-admin/includes/class-wp-comments-list-table.php:156": [
             "wp-admin/includes/class-wp-comments-list-table.php",
             156
         ],
-        "wp-admin/includes/class-wp-comments-list-table.php:905": [
+        "wp-admin/includes/class-wp-comments-list-table.php:909": [
             "wp-admin/includes/class-wp-comments-list-table.php",
-            905
+            909
         ],
-        "wp-admin/includes/class-wp-media-list-table.php:549": [
+        "wp-admin/includes/class-wp-media-list-table.php:553": [
             "wp-admin/includes/class-wp-media-list-table.php",
-            549
+            553
         ],
-        "wp-admin/includes/class-wp-media-list-table.php:622": [
+        "wp-admin/includes/class-wp-media-list-table.php:626": [
             "wp-admin/includes/class-wp-media-list-table.php",
-            622
+            626
         ],
         "wp-admin/includes/class-wp-posts-list-table.php:737": [
             "wp-admin/includes/class-wp-posts-list-table.php",

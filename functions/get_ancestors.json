@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "get_ancestors",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 4484,
-    "startLine": 4497,
-    "endLine": 4538,
+    "docCommentLine": 4488,
+    "startLine": 4501,
+    "endLine": 4542,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:1093": [
+        "wp-admin/includes/ajax-actions.php:1096": [
             "wp-admin/includes/ajax-actions.php",
-            1093
+            1096
         ],
-        "wp-admin/includes/class-wp-terms-list-table.php:341": [
+        "wp-admin/includes/class-wp-terms-list-table.php:345": [
             "wp-admin/includes/class-wp-terms-list-table.php",
-            341
+            345
         ],
-        "wp-includes/category-template.php:1356": [
+        "wp-includes/category-template.php:1362": [
             "wp-includes/category-template.php",
-            1356
+            1362
         ],
-        "wp-includes/taxonomy.php:4227": [
+        "wp-includes/taxonomy.php:4230": [
             "wp-includes/taxonomy.php",
-            4227
+            4230
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

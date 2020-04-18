@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:554": [
+        "wp-includes/default-filters.php:556": [
             "wp-includes/default-filters.php",
-            554,
+            556,
             "embed_head",
             "add_action"
         ]
     },
     "functionName": "enqueue_embed_scripts",
     "filename": "wp-includes/embed.php",
-    "docCommentLine": 976,
-    "startLine": 986,
-    "endLine": 995,
+    "docCommentLine": 986,
+    "startLine": 996,
+    "endLine": 1005,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

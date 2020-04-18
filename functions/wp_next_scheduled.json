@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_next_scheduled",
     "filename": "wp-includes/cron.php",
-    "docCommentLine": 600,
-    "startLine": 611,
-    "endLine": 618,
+    "docCommentLine": 602,
+    "startLine": 613,
+    "endLine": 620,
     "calls": {
         "wp-admin/admin.php:97": [
             "wp-admin/admin.php",
@@ -14,45 +14,49 @@
             "wp-admin/admin.php",
             102
         ],
-        "wp-admin/includes/post.php:680": [
+        "wp-admin/includes/class-wp-site-health.php:2220": [
+            "wp-admin/includes/class-wp-site-health.php",
+            2220
+        ],
+        "wp-admin/includes/post.php:683": [
             "wp-admin/includes/post.php",
-            680
+            683
         ],
         "wp-includes/class-wp-recovery-mode.php:98": [
             "wp-includes/class-wp-recovery-mode.php",
             98
         ],
-        "wp-includes/functions.php:7049": [
+        "wp-includes/functions.php:7241": [
             "wp-includes/functions.php",
-            7049
+            7241
         ],
-        "wp-includes/ms-functions.php:2310": [
+        "wp-includes/ms-functions.php:2353": [
             "wp-includes/ms-functions.php",
-            2310
+            2353
         ],
-        "wp-includes/post.php:6816": [
+        "wp-includes/post.php:6854": [
             "wp-includes/post.php",
-            6816
+            6854
         ],
-        "wp-includes/taxonomy.php:4013": [
+        "wp-includes/taxonomy.php:4016": [
             "wp-includes/taxonomy.php",
-            4013
+            4016
         ],
         "wp-includes/update.php:229": [
             "wp-includes/update.php",
             229
         ],
-        "wp-includes/update.php:784": [
+        "wp-includes/update.php:785": [
             "wp-includes/update.php",
-            784
+            785
         ],
-        "wp-includes/update.php:788": [
+        "wp-includes/update.php:789": [
             "wp-includes/update.php",
-            788
+            789
         ],
-        "wp-includes/update.php:792": [
+        "wp-includes/update.php:793": [
             "wp-includes/update.php",
-            792
+            793
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

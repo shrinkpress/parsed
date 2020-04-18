@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_get_attachment_thumb_url",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 5939,
-    "startLine": 5947,
-    "endLine": 5980,
+    "docCommentLine": 5977,
+    "startLine": 5985,
+    "endLine": 6018,
     "calls": {
-        "wp-includes/deprecated.php:1882": [
+        "wp-includes/deprecated.php:1879": [
             "wp-includes/deprecated.php",
-            1882
+            1879
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

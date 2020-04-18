@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "image_size_input_fields",
     "filename": "wp-admin/includes/media.php",
-    "docCommentLine": 1116,
-    "startLine": 1125,
-    "endLine": 1192,
+    "docCommentLine": 1124,
+    "startLine": 1133,
+    "endLine": 1200,
     "calls": {
-        "wp-admin/includes/media.php:1450": [
+        "wp-admin/includes/media.php:1462": [
             "wp-admin/includes/media.php",
-            1450
+            1462
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

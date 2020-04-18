@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_print_scripts",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 2562,
-    "startLine": 2570,
-    "endLine": 2604,
+    "docCommentLine": 2186,
+    "startLine": 2194,
+    "endLine": 2228,
     "calls": {
-        "wp-includes/class.wp-scripts.php:325": [
+        "wp-includes/class.wp-scripts.php:329": [
             "wp-includes/class.wp-scripts.php",
-            325
+            329
         ],
-        "wp-includes/script-loader.php:2520": [
+        "wp-includes/script-loader.php:2144": [
             "wp-includes/script-loader.php",
-            2520
+            2144
         ],
-        "wp-includes/script-loader.php:2555": [
+        "wp-includes/script-loader.php:2179": [
             "wp-includes/script-loader.php",
-            2555
+            2179
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

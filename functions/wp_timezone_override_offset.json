@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:404": [
+        "wp-includes/default-filters.php:405": [
             "wp-includes/default-filters.php",
-            404,
+            405,
             "pre_option_gmt_offset",
             "add_filter"
         ]
     },
     "functionName": "wp_timezone_override_offset",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 5427,
-    "startLine": 5436,
-    "endLine": 5448,
+    "docCommentLine": 5619,
+    "startLine": 5628,
+    "endLine": 5640,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

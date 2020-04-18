@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_generate_user_request_key",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 3597,
-    "startLine": 3605,
-    "endLine": 3626,
+    "docCommentLine": 3800,
+    "startLine": 3808,
+    "endLine": 3829,
     "calls": {
-        "wp-includes/user.php:3502": [
+        "wp-includes/user.php:3681": [
             "wp-includes/user.php",
-            3502
+            3681
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

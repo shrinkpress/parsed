@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "wp_new_comment",
     "filename": "wp-includes/comment.php",
-    "docCommentLine": 2026,
-    "startLine": 2070,
-    "endLine": 2162,
+    "docCommentLine": 2032,
+    "startLine": 2076,
+    "endLine": 2168,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:1329": [
+        "wp-admin/includes/ajax-actions.php:1332": [
             "wp-admin/includes/ajax-actions.php",
-            1329
+            1332
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:3922": [
+        "wp-includes/class-wp-xmlrpc-server.php:3928": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            3922
+            3928
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6960": [
+        "wp-includes/class-wp-xmlrpc-server.php:6971": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6960
+            6971
         ],
-        "wp-includes/comment.php:3378": [
+        "wp-includes/comment.php:3390": [
             "wp-includes/comment.php",
-            3378
+            3390
         ],
         "wp-trackback.php:135": [
             "wp-trackback.php",

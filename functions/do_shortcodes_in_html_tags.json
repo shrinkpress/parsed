@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "do_shortcodes_in_html_tags",
     "filename": "wp-includes/shortcodes.php",
-    "docCommentLine": 340,
-    "startLine": 355,
-    "endLine": 450,
+    "docCommentLine": 358,
+    "startLine": 373,
+    "endLine": 470,
     "calls": {
-        "wp-includes/shortcodes.php:196": [
+        "wp-includes/shortcodes.php:215": [
             "wp-includes/shortcodes.php",
-            196
+            215
         ],
-        "wp-includes/shortcodes.php:624": [
+        "wp-includes/shortcodes.php:645": [
             "wp-includes/shortcodes.php",
-            624
+            645
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

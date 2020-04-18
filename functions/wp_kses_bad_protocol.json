@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_kses_bad_protocol",
     "filename": "wp-includes/kses.php",
-    "docCommentLine": 1546,
-    "startLine": 1560,
-    "endLine": 1574,
+    "docCommentLine": 1565,
+    "startLine": 1579,
+    "endLine": 1593,
     "calls": {
         "wp-includes/class-http.php:268": [
             "wp-includes/class-http.php",
             268
         ],
-        "wp-includes/formatting.php:4364": [
+        "wp-includes/formatting.php:4369": [
             "wp-includes/formatting.php",
-            4364
+            4369
         ],
         "wp-includes/http.php:520": [
             "wp-includes/http.php",
@@ -22,21 +22,21 @@
             "wp-includes/kses.php",
             797
         ],
-        "wp-includes/kses.php:1280": [
+        "wp-includes/kses.php:1289": [
             "wp-includes/kses.php",
-            1280
+            1289
         ],
-        "wp-includes/kses.php:1301": [
+        "wp-includes/kses.php:1310": [
             "wp-includes/kses.php",
-            1301
+            1310
         ],
-        "wp-includes/kses.php:1322": [
+        "wp-includes/kses.php:1331": [
             "wp-includes/kses.php",
-            1322
+            1331
         ],
-        "wp-includes/kses.php:2266": [
+        "wp-includes/kses.php:2285": [
             "wp-includes/kses.php",
-            2266
+            2285
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

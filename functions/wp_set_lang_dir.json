@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_set_lang_dir",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 356,
-    "startLine": 369,
-    "endLine": 399,
+    "docCommentLine": 357,
+    "startLine": 370,
+    "endLine": 400,
     "calls": {
-        "wp-settings.php:100": [
+        "wp-settings.php:106": [
             "wp-settings.php",
-            100
+            106
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

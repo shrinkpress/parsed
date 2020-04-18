@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_language_attributes",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 3940,
-    "startLine": 3950,
-    "endLine": 3980,
+    "docCommentLine": 3931,
+    "startLine": 3941,
+    "endLine": 3971,
     "calls": {
-        "wp-includes/functions.php:3350": [
+        "wp-includes/functions.php:3407": [
             "wp-includes/functions.php",
-            3350
+            3407
         ],
-        "wp-includes/general-template.php:3994": [
+        "wp-includes/general-template.php:3985": [
             "wp-includes/general-template.php",
-            3994
+            3985
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

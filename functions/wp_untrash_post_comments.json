@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_untrash_post_comments",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 3301,
-    "startLine": 3311,
-    "endLine": 3363,
+    "docCommentLine": 3312,
+    "startLine": 3322,
+    "endLine": 3374,
     "calls": {
-        "wp-includes/post.php:3228": [
+        "wp-includes/post.php:3239": [
             "wp-includes/post.php",
-            3228
+            3239
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

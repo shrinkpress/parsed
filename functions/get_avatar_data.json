@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "get_avatar_data",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 4044,
-    "startLine": 4080,
-    "endLine": 4261,
+    "docCommentLine": 4049,
+    "startLine": 4085,
+    "endLine": 4266,
     "calls": {
         "wp-admin/includes/credits.php:144": [
             "wp-admin/includes/credits.php",
@@ -14,13 +14,13 @@
             "wp-admin/includes/credits.php",
             145
         ],
-        "wp-includes/link-template.php:4017": [
+        "wp-includes/link-template.php:4022": [
             "wp-includes/link-template.php",
-            4017
+            4022
         ],
-        "wp-includes/pluggable.php:2634": [
+        "wp-includes/pluggable.php:2671": [
             "wp-includes/pluggable.php",
-            2634
+            2671
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:379": [
+        "wp-includes/default-filters.php:380": [
             "wp-includes/default-filters.php",
-            379,
+            380,
             "delete_post",
             "add_action"
         ]
     },
     "functionName": "_wp_delete_post_menu_item",
     "filename": "wp-includes/nav-menu.php",
-    "docCommentLine": 1024,
-    "startLine": 1032,
-    "endLine": 1040,
+    "docCommentLine": 1033,
+    "startLine": 1041,
+    "endLine": 1049,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

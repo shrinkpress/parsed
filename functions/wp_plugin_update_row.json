@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-admin/includes/update.php:376": [
+        "wp-admin/includes/update.php:400": [
             "wp-admin/includes/update.php",
-            376,
-            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Scalar_Encapsed\",\"parts\":[{\"nodeType\":\"Scalar_EncapsedStringPart\",\"value\":\"after_plugin_row_\",\"attributes\":{\"startLine\":376,\"endLine\":376}},{\"nodeType\":\"Expr_Variable\",\"name\":\"plugin_file\",\"attributes\":{\"startLine\":376,\"endLine\":376}}],\"attributes\":{\"startLine\":376,\"endLine\":376,\"kind\":2}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":376,\"endLine\":376}}",
+            400,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Scalar_Encapsed\",\"parts\":[{\"nodeType\":\"Scalar_EncapsedStringPart\",\"value\":\"after_plugin_row_\",\"attributes\":{\"startLine\":400,\"endLine\":400}},{\"nodeType\":\"Expr_Variable\",\"name\":\"plugin_file\",\"attributes\":{\"startLine\":400,\"endLine\":400}}],\"attributes\":{\"startLine\":400,\"endLine\":400,\"kind\":2}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":400,\"endLine\":400}}",
             "add_action"
         ]
     },
     "functionName": "wp_plugin_update_row",
     "filename": "wp-admin/includes/update.php",
-    "docCommentLine": 381,
-    "startLine": 388,
-    "endLine": 540,
+    "docCommentLine": 405,
+    "startLine": 414,
+    "endLine": 566,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

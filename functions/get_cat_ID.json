@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_cat_ID",
     "filename": "wp-includes/category.php",
-    "docCommentLine": 190,
-    "startLine": 198,
-    "endLine": 204,
+    "docCommentLine": 187,
+    "startLine": 195,
+    "endLine": 201,
     "calls": {
-        "wp-includes/class-wp-xmlrpc-server.php:5497": [
+        "wp-includes/class-wp-xmlrpc-server.php:5505": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            5497
+            5505
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:5813": [
+        "wp-includes/class-wp-xmlrpc-server.php:5821": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            5813
+            5821
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

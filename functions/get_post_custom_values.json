@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_post_custom_values",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 2230,
-    "startLine": 2242,
-    "endLine": 2250,
+    "docCommentLine": 2241,
+    "startLine": 2253,
+    "endLine": 2261,
     "calls": {
-        "wp-includes/post-template.php:1096": [
+        "wp-includes/post-template.php:1099": [
             "wp-includes/post-template.php",
-            1096
+            1099
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

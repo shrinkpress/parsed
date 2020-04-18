@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "get_cat_name",
     "filename": "wp-includes/category.php",
-    "docCommentLine": 206,
-    "startLine": 214,
-    "endLine": 221,
+    "docCommentLine": 203,
+    "startLine": 211,
+    "endLine": 218,
     "calls": {
-        "wp-admin/edit-tags.php:597": [
+        "wp-admin/edit-tags.php:600": [
             "wp-admin/edit-tags.php",
-            597
+            600
         ],
         "wp-includes/class-wp-xmlrpc-server.php:1072": [
             "wp-includes/class-wp-xmlrpc-server.php",
             1072
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:5995": [
+        "wp-includes/class-wp-xmlrpc-server.php:6003": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            5995
+            6003
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6147": [
+        "wp-includes/class-wp-xmlrpc-server.php:6155": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6147
+            6155
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6553": [
+        "wp-includes/class-wp-xmlrpc-server.php:6562": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6553
+            6562
         ],
         "wp-includes/deprecated.php:1235": [
             "wp-includes/deprecated.php",

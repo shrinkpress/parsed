@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "term_exists",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 1347,
-    "startLine": 1368,
-    "endLine": 1424,
+    "docCommentLine": 1350,
+    "startLine": 1371,
+    "endLine": 1427,
     "calls": {
         "wp-admin/includes/export.php:122": [
             "wp-admin/includes/export.php",
@@ -26,41 +26,41 @@
             "wp-admin/includes/taxonomy.php",
             308
         ],
-        "wp-includes/deprecated.php:2508": [
+        "wp-includes/deprecated.php:2505": [
             "wp-includes/deprecated.php",
-            2508
+            2505
         ],
-        "wp-includes/taxonomy.php:1764": [
+        "wp-includes/taxonomy.php:1767": [
             "wp-includes/taxonomy.php",
-            1764
+            1767
         ],
-        "wp-includes/taxonomy.php:1787": [
+        "wp-includes/taxonomy.php:1790": [
             "wp-includes/taxonomy.php",
-            1787
+            1790
         ],
-        "wp-includes/taxonomy.php:2147": [
+        "wp-includes/taxonomy.php:2150": [
             "wp-includes/taxonomy.php",
-            2147
+            2150
         ],
-        "wp-includes/taxonomy.php:2464": [
+        "wp-includes/taxonomy.php:2467": [
             "wp-includes/taxonomy.php",
-            2464
+            2467
         ],
-        "wp-includes/taxonomy.php:2624": [
+        "wp-includes/taxonomy.php:2627": [
             "wp-includes/taxonomy.php",
-            2624
+            2627
         ],
-        "wp-includes/taxonomy.php:2708": [
+        "wp-includes/taxonomy.php:2711": [
             "wp-includes/taxonomy.php",
-            2708
+            2711
         ],
-        "wp-includes/taxonomy.php:2725": [
+        "wp-includes/taxonomy.php:2728": [
             "wp-includes/taxonomy.php",
-            2725
+            2728
         ],
-        "wp-includes/taxonomy.php:2860": [
+        "wp-includes/taxonomy.php:2863": [
             "wp-includes/taxonomy.php",
-            2860
+            2863
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

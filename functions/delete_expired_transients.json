@@ -1,8 +1,8 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:376": [
+        "wp-includes/default-filters.php:377": [
             "wp-includes/default-filters.php",
-            376,
+            377,
             "delete_expired_transients",
             "add_action"
         ]
@@ -17,9 +17,9 @@
             "wp-admin/includes/schema.php",
             681
         ],
-        "wp-admin/includes/upgrade.php:2148": [
+        "wp-admin/includes/upgrade.php:2169": [
             "wp-admin/includes/upgrade.php",
-            2148
+            2169
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

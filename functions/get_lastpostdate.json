@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_lastpostdate",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6373,
-    "startLine": 6391,
-    "endLine": 6402,
+    "docCommentLine": 6411,
+    "startLine": 6429,
+    "endLine": 6440,
     "calls": {
-        "wp-includes/post.php:6439": [
+        "wp-includes/post.php:6477": [
             "wp-includes/post.php",
-            6439
+            6477
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

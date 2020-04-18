@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_add_privacy_policy_content",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 2226,
-    "startLine": 2246,
-    "endLine": 2276,
+    "docCommentLine": 2258,
+    "startLine": 2284,
+    "endLine": 2314,
     "calls": {
-        "wp-admin/includes/class-wp-privacy-policy-content.php:723": [
+        "wp-admin/includes/class-wp-privacy-policy-content.php:724": [
             "wp-admin/includes/class-wp-privacy-policy-content.php",
-            723
+            724
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

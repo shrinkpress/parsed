@@ -1,8 +1,8 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:353": [
+        "wp-includes/default-filters.php:354": [
             "wp-includes/default-filters.php",
-            353,
+            354,
             "post_updated",
             "add_action"
         ]
@@ -11,15 +11,15 @@
     "filename": "wp-includes/revision.php",
     "docCommentLine": 100,
     "startLine": 111,
-    "endLine": 219,
+    "endLine": 221,
     "calls": {
-        "wp-includes/revision.php:780": [
+        "wp-includes/revision.php:784": [
             "wp-includes/revision.php",
-            780
+            784
         ],
-        "wp-includes/theme.php:1906": [
+        "wp-includes/theme.php:1910": [
             "wp-includes/theme.php",
-            1906
+            1910
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

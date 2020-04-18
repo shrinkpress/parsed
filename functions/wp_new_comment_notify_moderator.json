@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:439": [
+        "wp-includes/default-filters.php:440": [
             "wp-includes/default-filters.php",
-            439,
+            440,
             "comment_post",
             "add_action"
         ]
     },
     "functionName": "wp_new_comment_notify_moderator",
     "filename": "wp-includes/comment.php",
-    "docCommentLine": 2164,
-    "startLine": 2172,
-    "endLine": 2186,
+    "docCommentLine": 2170,
+    "startLine": 2178,
+    "endLine": 2192,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

@@ -2,37 +2,37 @@
     "callbacks": [],
     "functionName": "_wp_die_process_input",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 3718,
-    "startLine": 3735,
-    "endLine": 3805,
+    "docCommentLine": 3775,
+    "startLine": 3792,
+    "endLine": 3862,
     "calls": {
-        "wp-includes/functions.php:3308": [
+        "wp-includes/functions.php:3365": [
             "wp-includes/functions.php",
-            3308
+            3365
         ],
-        "wp-includes/functions.php:3511": [
+        "wp-includes/functions.php:3568": [
             "wp-includes/functions.php",
-            3511
+            3568
         ],
-        "wp-includes/functions.php:3547": [
+        "wp-includes/functions.php:3604": [
             "wp-includes/functions.php",
-            3547
+            3604
         ],
-        "wp-includes/functions.php:3585": [
+        "wp-includes/functions.php:3642": [
             "wp-includes/functions.php",
-            3585
+            3642
         ],
-        "wp-includes/functions.php:3631": [
+        "wp-includes/functions.php:3688": [
             "wp-includes/functions.php",
-            3631
+            3688
         ],
-        "wp-includes/functions.php:3659": [
+        "wp-includes/functions.php:3716": [
             "wp-includes/functions.php",
-            3659
+            3716
         ],
-        "wp-includes/functions.php:3704": [
+        "wp-includes/functions.php:3761": [
             "wp-includes/functions.php",
-            3704
+            3761
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

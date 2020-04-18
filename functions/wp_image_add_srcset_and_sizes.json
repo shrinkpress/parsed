@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_image_add_srcset_and_sizes",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 1472,
-    "startLine": 1485,
-    "endLine": 1559,
+    "docCommentLine": 1530,
+    "startLine": 1543,
+    "endLine": 1617,
     "calls": {
-        "wp-includes/media.php:1466": [
+        "wp-includes/media.php:1524": [
             "wp-includes/media.php",
-            1466
+            1524
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

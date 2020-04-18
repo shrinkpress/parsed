@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "add_user_to_blog",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 146,
-    "startLine": 158,
-    "endLine": 216,
+    "docCommentLine": 151,
+    "startLine": 164,
+    "endLine": 222,
     "calls": {
         "wp-admin/network/site-users.php:74": [
             "wp-admin/network/site-users.php",
@@ -14,25 +14,25 @@
             "wp-admin/network/site-users.php",
             101
         ],
-        "wp-includes/ms-functions.php:61": [
+        "wp-includes/ms-functions.php:66": [
             "wp-includes/ms-functions.php",
-            61
+            66
         ],
-        "wp-includes/ms-functions.php:2122": [
+        "wp-includes/ms-functions.php:2165": [
             "wp-includes/ms-functions.php",
-            2122
+            2165
         ],
-        "wp-includes/ms-functions.php:2158": [
+        "wp-includes/ms-functions.php:2201": [
             "wp-includes/ms-functions.php",
-            2158
+            2201
         ],
         "wp-includes/ms-site.php:771": [
             "wp-includes/ms-site.php",
             771
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:524": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:579": [
             "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
-            524
+            579
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

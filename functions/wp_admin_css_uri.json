@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_admin_css_uri",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 4404,
-    "startLine": 4414,
-    "endLine": 4431,
+    "docCommentLine": 4396,
+    "startLine": 4406,
+    "endLine": 4423,
     "calls": {
-        "wp-includes/general-template.php:4470": [
+        "wp-includes/general-template.php:4462": [
             "wp-includes/general-template.php",
-            4470
+            4462
         ],
-        "wp-includes/general-template.php:4489": [
+        "wp-includes/general-template.php:4481": [
             "wp-includes/general-template.php",
-            4489
+            4481
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

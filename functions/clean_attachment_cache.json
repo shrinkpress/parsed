@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "clean_attachment_cache",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6666,
-    "startLine": 6681,
-    "endLine": 6705,
+    "docCommentLine": 6704,
+    "startLine": 6719,
+    "endLine": 6743,
     "calls": {
-        "wp-admin/includes/media.php:3697": [
+        "wp-admin/includes/media.php:3727": [
             "wp-admin/includes/media.php",
-            3697
+            3727
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

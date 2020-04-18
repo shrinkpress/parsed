@@ -27,9 +27,9 @@
     },
     "functionName": "get_media_item",
     "filename": "wp-admin/includes/media.php",
-    "docCommentLine": 1526,
-    "startLine": 1537,
-    "endLine": 1817,
+    "docCommentLine": 1538,
+    "startLine": 1549,
+    "endLine": 1829,
     "calls": {
         "wp-admin/async-upload.php:67": [
             "wp-admin/async-upload.php",
@@ -39,9 +39,9 @@
             "wp-admin/async-upload.php",
             77
         ],
-        "wp-admin/includes/media.php:1516": [
+        "wp-admin/includes/media.php:1528": [
             "wp-admin/includes/media.php",
-            1516
+            1528
         ],
         "wp-admin/media.php:142": [
             "wp-admin/media.php",

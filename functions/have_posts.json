@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "have_posts",
     "filename": "wp-includes/query.php",
-    "docCommentLine": 884,
-    "startLine": 893,
-    "endLine": 896,
+    "docCommentLine": 917,
+    "startLine": 926,
+    "endLine": 929,
     "calls": {
         "wp-admin/includes/class-wp-media-list-table.php:219": [
             "wp-admin/includes/class-wp-media-list-table.php",
             219
         ],
-        "wp-admin/includes/class-wp-media-list-table.php:626": [
+        "wp-admin/includes/class-wp-media-list-table.php:630": [
             "wp-admin/includes/class-wp-media-list-table.php",
-            626
+            630
         ],
         "wp-admin/includes/class-wp-posts-list-table.php:201": [
             "wp-admin/includes/class-wp-posts-list-table.php",
@@ -30,9 +30,9 @@
             "wp-includes/feed-rdf.php",
             71
         ],
-        "wp-includes/feed-rss.php:31": [
+        "wp-includes/feed-rss.php:30": [
             "wp-includes/feed-rss.php",
-            31
+            30
         ],
         "wp-includes/feed-rss2.php:85": [
             "wp-includes/feed-rss2.php",

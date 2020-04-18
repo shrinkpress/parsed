@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_cache_close",
     "filename": "wp-includes/cache.php",
-    "docCommentLine": 33,
-    "startLine": 46,
-    "endLine": 48,
+    "docCommentLine": 36,
+    "startLine": 49,
+    "endLine": 51,
     "calls": {
-        "wp-includes/load.php:949": [
+        "wp-includes/load.php:962": [
             "wp-includes/load.php",
-            949
+            962
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

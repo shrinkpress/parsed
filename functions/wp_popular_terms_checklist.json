@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_popular_terms_checklist",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 191,
-    "startLine": 207,
-    "endLine": 251,
+    "docCommentLine": 193,
+    "startLine": 209,
+    "endLine": 253,
     "calls": {
         "wp-admin/includes/ajax-actions.php:583": [
             "wp-admin/includes/ajax-actions.php",
             583
         ],
-        "wp-admin/includes/meta-boxes.php:587": [
+        "wp-admin/includes/meta-boxes.php:595": [
             "wp-admin/includes/meta-boxes.php",
-            587
+            595
         ],
-        "wp-admin/includes/meta-boxes.php:1108": [
+        "wp-admin/includes/meta-boxes.php:1121": [
             "wp-admin/includes/meta-boxes.php",
-            1108
+            1121
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

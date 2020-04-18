@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "pre_schema_upgrade",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 3246,
-    "startLine": 3254,
-    "endLine": 3306,
+    "docCommentLine": 3271,
+    "startLine": 3279,
+    "endLine": 3331,
     "calls": {
-        "wp-admin/includes/upgrade.php:646": [
+        "wp-admin/includes/upgrade.php:663": [
             "wp-admin/includes/upgrade.php",
-            646
+            663
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

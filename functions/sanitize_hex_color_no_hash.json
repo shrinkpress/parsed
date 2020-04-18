@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "sanitize_hex_color_no_hash",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 5949,
-    "startLine": 5963,
-    "endLine": 5971,
+    "docCommentLine": 5961,
+    "startLine": 5975,
+    "endLine": 5983,
     "calls": {
-        "wp-includes/class-wp-customize-manager.php:5893": [
+        "wp-includes/class-wp-customize-manager.php:5883": [
             "wp-includes/class-wp-customize-manager.php",
-            5893
+            5883
         ],
-        "wp-includes/formatting.php:5985": [
+        "wp-includes/formatting.php:5997": [
             "wp-includes/formatting.php",
-            5985
+            5997
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

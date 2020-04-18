@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_home_url",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 3150,
-    "startLine": 3167,
-    "endLine": 3206,
+    "docCommentLine": 3155,
+    "startLine": 3172,
+    "endLine": 3211,
     "calls": {
         "wp-activate.php:173": [
             "wp-activate.php",
             173
         ],
-        "wp-admin/includes/class-wp-ms-sites-list-table.php:718": [
+        "wp-admin/includes/class-wp-ms-sites-list-table.php:719": [
             "wp-admin/includes/class-wp-ms-sites-list-table.php",
-            718
+            719
         ],
         "wp-admin/includes/class-wp-ms-users-list-table.php:412": [
             "wp-admin/includes/class-wp-ms-users-list-table.php",
@@ -54,33 +54,33 @@
             "wp-admin/network/site-users.php",
             226
         ],
-        "wp-includes/admin-bar.php:340": [
+        "wp-includes/admin-bar.php:353": [
             "wp-includes/admin-bar.php",
-            340
+            353
         ],
-        "wp-includes/admin-bar.php:577": [
+        "wp-includes/admin-bar.php:590": [
             "wp-includes/admin-bar.php",
-            577
+            590
         ],
         "wp-includes/class-wp-admin-bar.php:45": [
             "wp-includes/class-wp-admin-bar.php",
             45
         ],
-        "wp-includes/embed.php:539": [
+        "wp-includes/embed.php:549": [
             "wp-includes/embed.php",
-            539
+            549
         ],
-        "wp-includes/embed.php:541": [
+        "wp-includes/embed.php:551": [
             "wp-includes/embed.php",
-            541
+            551
         ],
         "wp-includes/link-template.php:1228": [
             "wp-includes/link-template.php",
             1228
         ],
-        "wp-includes/link-template.php:3147": [
+        "wp-includes/link-template.php:3152": [
             "wp-includes/link-template.php",
-            3147
+            3152
         ],
         "wp-includes/ms-deprecated.php:638": [
             "wp-includes/ms-deprecated.php",
@@ -90,21 +90,21 @@
             "wp-includes/ms-site.php",
             728
         ],
-        "wp-includes/rest-api.php:355": [
+        "wp-includes/rest-api.php:356": [
             "wp-includes/rest-api.php",
-            355
+            356
         ],
-        "wp-includes/rest-api.php:357": [
+        "wp-includes/rest-api.php:358": [
             "wp-includes/rest-api.php",
-            357
+            358
         ],
-        "wp-includes/rest-api.php:362": [
+        "wp-includes/rest-api.php:363": [
             "wp-includes/rest-api.php",
-            362
+            363
         ],
-        "wp-includes/rest-api.php:374": [
+        "wp-includes/rest-api.php:375": [
             "wp-includes/rest-api.php",
-            374
+            375
         ],
         "wp-signup.php:367": [
             "wp-signup.php",

@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:583": [
+        "wp-includes/default-filters.php:585": [
             "wp-includes/default-filters.php",
-            583,
+            585,
             "user_has_cap",
             "add_filter"
         ]
     },
     "functionName": "wp_maybe_grant_install_languages_cap",
     "filename": "wp-includes/capabilities.php",
-    "docCommentLine": 982,
-    "startLine": 993,
-    "endLine": 999,
+    "docCommentLine": 991,
+    "startLine": 1002,
+    "endLine": 1008,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

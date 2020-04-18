@@ -9,29 +9,29 @@
     },
     "functionName": "wp_kses_post",
     "filename": "wp-includes/kses.php",
-    "docCommentLine": 1927,
-    "startLine": 1940,
-    "endLine": 1942,
+    "docCommentLine": 1946,
+    "startLine": 1959,
+    "endLine": 1961,
     "calls": {
-        "wp-admin/includes/media.php:3398": [
+        "wp-admin/includes/media.php:3428": [
             "wp-admin/includes/media.php",
-            3398
+            3428
         ],
-        "wp-includes/blocks/latest-posts.php:83": [
+        "wp-includes/blocks/latest-posts.php:132": [
             "wp-includes/blocks/latest-posts.php",
-            83
+            132
         ],
         "wp-includes/class-wp-simplepie-sanitize-kses.php:48": [
             "wp-includes/class-wp-simplepie-sanitize-kses.php",
             48
         ],
-        "wp-includes/widgets/class-wp-widget-custom-html.php:194": [
+        "wp-includes/widgets/class-wp-widget-custom-html.php:196": [
             "wp-includes/widgets/class-wp-widget-custom-html.php",
-            194
+            196
         ],
-        "wp-includes/widgets/class-wp-widget-text.php:385": [
+        "wp-includes/widgets/class-wp-widget-text.php:388": [
             "wp-includes/widgets/class-wp-widget-text.php",
-            385
+            388
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

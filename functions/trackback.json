@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "trackback",
     "filename": "wp-includes/comment.php",
-    "docCommentLine": 2904,
-    "startLine": 2919,
-    "endLine": 2943,
+    "docCommentLine": 2916,
+    "startLine": 2931,
+    "endLine": 2955,
     "calls": {
-        "wp-includes/comment.php:2750": [
+        "wp-includes/comment.php:2756": [
             "wp-includes/comment.php",
-            2750
+            2756
         ],
-        "wp-includes/post.php:4822": [
+        "wp-includes/post.php:4860": [
             "wp-includes/post.php",
-            4822
+            4860
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

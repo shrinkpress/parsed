@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "update_post_cache",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6521,
-    "startLine": 6528,
-    "endLine": 6536,
+    "docCommentLine": 6559,
+    "startLine": 6566,
+    "endLine": 6574,
     "calls": {
-        "wp-includes/deprecated.php:3100": [
+        "wp-includes/deprecated.php:3097": [
             "wp-includes/deprecated.php",
-            3100
+            3097
         ],
-        "wp-includes/post.php:671": [
+        "wp-includes/post.php:673": [
             "wp-includes/post.php",
-            671
+            673
         ],
-        "wp-includes/post.php:5427": [
+        "wp-includes/post.php:5465": [
             "wp-includes/post.php",
-            5427
+            5465
         ],
-        "wp-includes/post.php:6614": [
+        "wp-includes/post.php:6652": [
             "wp-includes/post.php",
-            6614
+            6652
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

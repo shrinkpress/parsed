@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_skip_paused_plugins",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 702,
-    "startLine": 710,
-    "endLine": 729,
+    "docCommentLine": 703,
+    "startLine": 711,
+    "endLine": 730,
     "calls": {
-        "wp-includes/load.php:696": [
+        "wp-includes/load.php:697": [
             "wp-includes/load.php",
-            696
+            697
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

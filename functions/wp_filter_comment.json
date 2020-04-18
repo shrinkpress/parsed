@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "wp_filter_comment",
     "filename": "wp-includes/comment.php",
-    "docCommentLine": 1942,
-    "startLine": 1954,
-    "endLine": 2004,
+    "docCommentLine": 1948,
+    "startLine": 1960,
+    "endLine": 2010,
     "calls": {
-        "wp-includes/comment.php:2119": [
+        "wp-includes/comment.php:2125": [
             "wp-includes/comment.php",
-            2119
+            2125
         ],
-        "wp-includes/comment.php:2136": [
+        "wp-includes/comment.php:2142": [
             "wp-includes/comment.php",
-            2136
+            2142
         ],
-        "wp-includes/comment.php:2337": [
+        "wp-includes/comment.php:2343": [
             "wp-includes/comment.php",
-            2337
+            2343
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:600": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:699": [
             "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
-            600
+            699
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

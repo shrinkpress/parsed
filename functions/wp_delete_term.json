@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_delete_term",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 1732,
-    "startLine": 1759,
-    "endLine": 1938,
+    "docCommentLine": 1735,
+    "startLine": 1762,
+    "endLine": 1941,
     "calls": {
         "wp-admin/edit-tags.php:122": [
             "wp-admin/edit-tags.php",
@@ -14,33 +14,33 @@
             "wp-admin/edit-tags.php",
             144
         ],
-        "wp-admin/includes/ajax-actions.php:771": [
+        "wp-admin/includes/ajax-actions.php:774": [
             "wp-admin/includes/ajax-actions.php",
-            771
+            774
         ],
-        "wp-admin/includes/upgrade.php:1833": [
+        "wp-admin/includes/upgrade.php:1853": [
             "wp-admin/includes/upgrade.php",
-            1833
+            1853
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:2268": [
+        "wp-includes/class-wp-xmlrpc-server.php:2274": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            2268
+            2274
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:3432": [
+        "wp-includes/class-wp-xmlrpc-server.php:3438": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            3432
+            3438
         ],
         "wp-includes/nav-menu.php:277": [
             "wp-includes/nav-menu.php",
             277
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:630": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:682": [
             "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php",
-            630
+            682
         ],
-        "wp-includes/taxonomy.php:1950": [
+        "wp-includes/taxonomy.php:1953": [
             "wp-includes/taxonomy.php",
-            1950
+            1953
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -1,14 +1,14 @@
 {
     "callbacks": {
-        "wp-admin/includes/ajax-actions.php:1294": [
+        "wp-admin/includes/ajax-actions.php:1297": [
             "wp-admin/includes/ajax-actions.php",
-            1294,
+            1297,
             "pre_comment_content",
             "add_filter"
         ],
-        "wp-includes/comment.php:3330": [
+        "wp-includes/comment.php:3342": [
             "wp-includes/comment.php",
-            3330,
+            3342,
             "pre_comment_content",
             "add_filter"
         ],
@@ -36,36 +36,36 @@
             "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_Variable\",\"name\":\"filter\",\"attributes\":{\"startLine\":71,\"endLine\":71}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":71,\"endLine\":71}}",
             "add_filter"
         ],
-        "wp-includes/kses.php:1986": [
+        "wp-includes/kses.php:2005": [
             "wp-includes/kses.php",
-            1986,
+            2005,
             "title_save_pre",
             "add_filter"
         ],
-        "wp-includes/kses.php:1992": [
+        "wp-includes/kses.php:2011": [
             "wp-includes/kses.php",
-            1992,
+            2011,
             "pre_comment_content",
             "add_filter"
         ],
-        "wp-includes/kses.php:2015": [
+        "wp-includes/kses.php:2034": [
             "wp-includes/kses.php",
-            2015,
+            2034,
             "title_save_pre",
             "remove_filter"
         ],
-        "wp-includes/kses.php:2019": [
+        "wp-includes/kses.php:2038": [
             "wp-includes/kses.php",
-            2019,
+            2038,
             "pre_comment_content",
             "remove_filter"
         ]
     },
     "functionName": "wp_filter_kses",
     "filename": "wp-includes/kses.php",
-    "docCommentLine": 1882,
-    "startLine": 1892,
-    "endLine": 1894,
+    "docCommentLine": 1901,
+    "startLine": 1911,
+    "endLine": 1913,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

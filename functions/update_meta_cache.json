@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "update_meta_cache",
     "filename": "wp-includes/meta.php",
-    "docCommentLine": 873,
-    "startLine": 884,
-    "endLine": 970,
+    "docCommentLine": 878,
+    "startLine": 890,
+    "endLine": 976,
     "calls": {
         "wp-includes/class-wp-metadata-lazyloader.php:162": [
             "wp-includes/class-wp-metadata-lazyloader.php",
             162
         ],
-        "wp-includes/comment.php:3054": [
+        "wp-includes/comment.php:3066": [
             "wp-includes/comment.php",
-            3054
+            3066
         ],
-        "wp-includes/deprecated.php:2608": [
+        "wp-includes/deprecated.php:2605": [
             "wp-includes/deprecated.php",
-            2608
+            2605
         ],
-        "wp-includes/meta.php:525": [
+        "wp-includes/meta.php:526": [
             "wp-includes/meta.php",
-            525
+            526
         ],
-        "wp-includes/meta.php:581": [
+        "wp-includes/meta.php:583": [
             "wp-includes/meta.php",
-            581
+            583
         ],
         "wp-includes/ms-site.php:395": [
             "wp-includes/ms-site.php",
@@ -34,13 +34,13 @@
             "wp-includes/pluggable.php",
             140
         ],
-        "wp-includes/post.php:6663": [
+        "wp-includes/post.php:6701": [
             "wp-includes/post.php",
-            6663
+            6701
         ],
-        "wp-includes/taxonomy.php:1290": [
+        "wp-includes/taxonomy.php:1293": [
             "wp-includes/taxonomy.php",
-            1290
+            1293
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

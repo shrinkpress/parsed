@@ -6,18 +6,18 @@
             "wp_head",
             "add_action"
         ],
-        "wp-includes/default-filters.php:561": [
+        "wp-includes/default-filters.php:563": [
             "wp-includes/default-filters.php",
-            561,
+            563,
             "embed_head",
             "add_action"
         ]
     },
     "functionName": "locale_stylesheet",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 696,
-    "startLine": 701,
-    "endLine": 714,
+    "docCommentLine": 699,
+    "startLine": 704,
+    "endLine": 717,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

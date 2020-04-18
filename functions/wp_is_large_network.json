@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_is_large_network",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 2535,
-    "startLine": 2548,
-    "endLine": 2573,
+    "docCommentLine": 2578,
+    "startLine": 2591,
+    "endLine": 2616,
     "calls": {
         "wp-admin/includes/ajax-actions.php:264": [
             "wp-admin/includes/ajax-actions.php",
@@ -42,13 +42,13 @@
             "wp-includes/ms-deprecated.php",
             483
         ],
-        "wp-includes/ms-functions.php:2340": [
+        "wp-includes/ms-functions.php:2383": [
             "wp-includes/ms-functions.php",
-            2340
+            2383
         ],
-        "wp-includes/ms-functions.php:2371": [
+        "wp-includes/ms-functions.php:2414": [
             "wp-includes/ms-functions.php",
-            2371
+            2414
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_main_site_id",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 5275,
-    "startLine": 5284,
-    "endLine": 5295,
+    "docCommentLine": 5467,
+    "startLine": 5476,
+    "endLine": 5487,
     "calls": {
-        "wp-includes/functions.php:5272": [
+        "wp-includes/functions.php:5464": [
             "wp-includes/functions.php",
-            5272
+            5464
         ],
-        "wp-includes/ms-load.php:441": [
+        "wp-includes/ms-load.php:444": [
             "wp-includes/ms-load.php",
-            441
+            444
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

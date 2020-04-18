@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_to_ping",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 4770,
-    "startLine": 4779,
-    "endLine": 4797,
+    "docCommentLine": 4808,
+    "startLine": 4817,
+    "endLine": 4835,
     "calls": {
-        "wp-includes/comment.php:2724": [
+        "wp-includes/comment.php:2730": [
             "wp-includes/comment.php",
-            2724
+            2730
         ],
-        "wp-includes/post.php:6811": [
+        "wp-includes/post.php:6849": [
             "wp-includes/post.php",
-            6811
+            6849
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

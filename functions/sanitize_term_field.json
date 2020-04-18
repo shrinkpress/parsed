@@ -2,57 +2,57 @@
     "callbacks": [],
     "functionName": "sanitize_term_field",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 1501,
-    "startLine": 1524,
-    "endLine": 1674,
+    "docCommentLine": 1504,
+    "startLine": 1527,
+    "endLine": 1677,
     "calls": {
-        "wp-admin/includes/class-wp-media-list-table.php:588": [
+        "wp-admin/includes/class-wp-media-list-table.php:592": [
             "wp-admin/includes/class-wp-media-list-table.php",
-            588
+            592
         ],
         "wp-admin/includes/class-wp-posts-list-table.php:1201": [
             "wp-admin/includes/class-wp-posts-list-table.php",
             1201
         ],
-        "wp-includes/category.php:264": [
+        "wp-includes/category.php:261": [
             "wp-includes/category.php",
-            264
+            261
         ],
-        "wp-includes/class-wp-query.php:1231": [
+        "wp-includes/class-wp-query.php:1246": [
             "wp-includes/class-wp-query.php",
-            1231
+            1246
         ],
-        "wp-includes/class-wp-query.php:1237": [
+        "wp-includes/class-wp-query.php:1252": [
             "wp-includes/class-wp-query.php",
-            1237
+            1252
         ],
-        "wp-includes/class-wp-query.php:1241": [
+        "wp-includes/class-wp-query.php:1256": [
             "wp-includes/class-wp-query.php",
-            1241
+            1256
         ],
         "wp-includes/class-wp-term-query.php:488": [
             "wp-includes/class-wp-term-query.php",
             488
         ],
-        "wp-includes/feed.php:392": [
+        "wp-includes/feed.php:391": [
             "wp-includes/feed.php",
-            392
+            391
         ],
-        "wp-includes/feed.php:398": [
+        "wp-includes/feed.php:397": [
             "wp-includes/feed.php",
-            398
+            397
         ],
-        "wp-includes/taxonomy.php:1060": [
+        "wp-includes/taxonomy.php:1063": [
             "wp-includes/taxonomy.php",
-            1060
+            1063
         ],
-        "wp-includes/taxonomy.php:1483": [
+        "wp-includes/taxonomy.php:1486": [
             "wp-includes/taxonomy.php",
-            1483
+            1486
         ],
-        "wp-includes/taxonomy.php:1487": [
+        "wp-includes/taxonomy.php:1490": [
             "wp-includes/taxonomy.php",
-            1487
+            1490
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

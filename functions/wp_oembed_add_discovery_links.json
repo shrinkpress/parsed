@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:551": [
+        "wp-includes/default-filters.php:553": [
             "wp-includes/default-filters.php",
-            551,
+            553,
             "wp_head",
             "add_action"
         ]
     },
     "functionName": "wp_oembed_add_discovery_links",
     "filename": "wp-includes/embed.php",
-    "docCommentLine": 317,
-    "startLine": 322,
-    "endLine": 341,
+    "docCommentLine": 326,
+    "startLine": 331,
+    "endLine": 350,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

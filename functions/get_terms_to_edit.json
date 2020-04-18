@@ -6,17 +6,17 @@
     "startLine": 258,
     "endLine": 296,
     "calls": {
-        "wp-admin/includes/meta-boxes.php:517": [
+        "wp-admin/includes/meta-boxes.php:525": [
             "wp-admin/includes/meta-boxes.php",
-            517
+            525
         ],
         "wp-admin/includes/taxonomy.php:246": [
             "wp-admin/includes/taxonomy.php",
             246
         ],
-        "wp-admin/includes/template.php:356": [
+        "wp-admin/includes/template.php:358": [
             "wp-admin/includes/template.php",
-            356
+            358
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

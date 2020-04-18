@@ -2,33 +2,33 @@
     "callbacks": [],
     "functionName": "get_comment_author_rss",
     "filename": "wp-includes/feed.php",
-    "docCommentLine": 317,
-    "startLine": 324,
-    "endLine": 335,
+    "docCommentLine": 316,
+    "startLine": 323,
+    "endLine": 334,
     "calls": {
-        "wp-includes/feed-atom-comments.php:84": [
+        "wp-includes/feed-atom-comments.php:83": [
             "wp-includes/feed-atom-comments.php",
-            84
+            83
         ],
-        "wp-includes/feed-atom-comments.php:87": [
+        "wp-includes/feed-atom-comments.php:86": [
             "wp-includes/feed-atom-comments.php",
-            87
+            86
         ],
-        "wp-includes/feed-rss2-comments.php:87": [
+        "wp-includes/feed-rss2-comments.php:86": [
             "wp-includes/feed-rss2-comments.php",
-            87
+            86
         ],
-        "wp-includes/feed-rss2-comments.php:90": [
+        "wp-includes/feed-rss2-comments.php:89": [
             "wp-includes/feed-rss2-comments.php",
-            90
+            89
         ],
         "wp-includes/feed-rss2-comments.php:95": [
             "wp-includes/feed-rss2-comments.php",
             95
         ],
-        "wp-includes/feed.php:343": [
+        "wp-includes/feed.php:342": [
             "wp-includes/feed.php",
-            343
+            342
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

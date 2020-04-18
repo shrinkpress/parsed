@@ -2,45 +2,45 @@
     "callbacks": [],
     "functionName": "user_can_richedit",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 3317,
-    "startLine": 3334,
-    "endLine": 3359,
+    "docCommentLine": 3316,
+    "startLine": 3333,
+    "endLine": 3358,
     "calls": {
-        "wp-admin/edit-form-blocks.php:289": [
+        "wp-admin/edit-form-blocks.php:303": [
             "wp-admin/edit-form-blocks.php",
-            289
+            303
         ],
-        "wp-admin/includes/media.php:1761": [
+        "wp-admin/includes/media.php:1773": [
             "wp-admin/includes/media.php",
-            1761
+            1773
         ],
-        "wp-admin/includes/media.php:1950": [
+        "wp-admin/includes/media.php:1966": [
             "wp-admin/includes/media.php",
-            1950
+            1966
         ],
-        "wp-includes/class-wp-editor.php:104": [
+        "wp-includes/class-wp-editor.php:105": [
             "wp-includes/class-wp-editor.php",
-            104
+            105
         ],
-        "wp-includes/class-wp-editor.php:854": [
+        "wp-includes/class-wp-editor.php:928": [
             "wp-includes/class-wp-editor.php",
-            854
+            928
         ],
-        "wp-includes/general-template.php:3372": [
+        "wp-includes/general-template.php:3371": [
             "wp-includes/general-template.php",
-            3372
+            3371
         ],
-        "wp-includes/post.php:2411": [
+        "wp-includes/post.php:2422": [
             "wp-includes/post.php",
-            2411
+            2422
         ],
-        "wp-includes/widgets/class-wp-widget-text.php:462": [
+        "wp-includes/widgets/class-wp-widget-text.php:465": [
             "wp-includes/widgets/class-wp-widget-text.php",
-            462
+            465
         ],
-        "wp-includes/widgets/class-wp-widget-text.php:473": [
+        "wp-includes/widgets/class-wp-widget-text.php:476": [
             "wp-includes/widgets/class-wp-widget-text.php",
-            473
+            476
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

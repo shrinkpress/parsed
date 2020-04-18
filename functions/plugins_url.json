@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "plugins_url",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 3373,
-    "startLine": 3387,
-    "endLine": 3424,
+    "docCommentLine": 3378,
+    "startLine": 3392,
+    "endLine": 3429,
     "calls": {
-        "wp-includes/l10n.php:951": [
+        "wp-includes/l10n.php:965": [
             "wp-includes/l10n.php",
-            951
+            965
         ],
-        "wp-includes/plugin.php:762": [
+        "wp-includes/plugin.php:763": [
             "wp-includes/plugin.php",
-            762
+            763
         ],
-        "wp-includes/theme.php:633": [
+        "wp-includes/theme.php:636": [
             "wp-includes/theme.php",
-            633
+            636
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

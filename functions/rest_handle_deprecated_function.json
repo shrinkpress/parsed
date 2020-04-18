@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/rest-api.php:175": [
+        "wp-includes/rest-api.php:176": [
             "wp-includes/rest-api.php",
-            175,
+            176,
             "deprecated_function_run",
             "add_action"
         ]
     },
     "functionName": "rest_handle_deprecated_function",
     "filename": "wp-includes/rest-api.php",
-    "docCommentLine": 524,
-    "startLine": 533,
-    "endLine": 546,
+    "docCommentLine": 526,
+    "startLine": 535,
+    "endLine": 548,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

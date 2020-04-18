@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_parent_post_rel_link",
     "filename": "wp-includes/deprecated.php",
-    "docCommentLine": 2743,
-    "startLine": 2752,
-    "endLine": 2772,
+    "docCommentLine": 2740,
+    "startLine": 2749,
+    "endLine": 2769,
     "calls": {
-        "wp-includes/deprecated.php:2785": [
+        "wp-includes/deprecated.php:2782": [
             "wp-includes/deprecated.php",
-            2785
+            2782
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

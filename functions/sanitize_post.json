@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "sanitize_post",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 2289,
-    "startLine": 2306,
-    "endLine": 2333,
+    "docCommentLine": 2300,
+    "startLine": 2317,
+    "endLine": 2344,
     "calls": {
-        "wp-admin/includes/media.php:1355": [
+        "wp-admin/includes/media.php:1363": [
             "wp-admin/includes/media.php",
-            1355
+            1363
         ],
         "wp-includes/class-wp-post.php:248": [
             "wp-includes/class-wp-post.php",
@@ -22,21 +22,21 @@
             "wp-includes/class-wp-post.php",
             366
         ],
-        "wp-includes/post.php:762": [
+        "wp-includes/post.php:770": [
             "wp-includes/post.php",
-            762
+            770
         ],
-        "wp-includes/post.php:3583": [
+        "wp-includes/post.php:3594": [
             "wp-includes/post.php",
-            3583
+            3594
         ],
-        "wp-includes/post.php:5423": [
+        "wp-includes/post.php:5461": [
             "wp-includes/post.php",
-            5423
+            5461
         ],
-        "wp-includes/revision.php:570": [
+        "wp-includes/revision.php:572": [
             "wp-includes/revision.php",
-            570
+            572
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

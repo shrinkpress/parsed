@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "wp_set_post_categories",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 4553,
-    "startLine": 4569,
-    "endLine": 4587,
+    "docCommentLine": 4591,
+    "startLine": 4607,
+    "endLine": 4625,
     "calls": {
         "wp-admin/includes/taxonomy.php:93": [
             "wp-admin/includes/taxonomy.php",
             93
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6607": [
+        "wp-includes/class-wp-xmlrpc-server.php:6616": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6607
+            6616
         ],
         "wp-includes/deprecated.php:749": [
             "wp-includes/deprecated.php",
             749
         ],
-        "wp-includes/post.php:3932": [
+        "wp-includes/post.php:3956": [
             "wp-includes/post.php",
-            3932
+            3956
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

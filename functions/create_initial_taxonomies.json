@@ -1,14 +1,14 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:512": [
-            "wp-includes/default-filters.php",
-            512,
-            "init",
-            "add_action"
-        ],
         "wp-includes/default-filters.php:513": [
             "wp-includes/default-filters.php",
             513,
+            "init",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:514": [
+            "wp-includes/default-filters.php",
+            514,
             "change_locale",
             "add_action"
         ]
@@ -19,9 +19,9 @@
     "startLine": 24,
     "endLine": 175,
     "calls": {
-        "wp-settings.php:344": [
+        "wp-settings.php:355": [
             "wp-settings.php",
-            344
+            355
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

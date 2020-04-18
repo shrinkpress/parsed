@@ -2,69 +2,69 @@
     "callbacks": [],
     "functionName": "wp_load_translations_early",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 1121,
-    "startLine": 1138,
-    "endLine": 1220,
+    "docCommentLine": 1134,
+    "startLine": 1151,
+    "endLine": 1233,
     "calls": {
         "wp-includes/class-wp-fatal-error-handler.php:167": [
             "wp-includes/class-wp-fatal-error-handler.php",
             167
         ],
-        "wp-includes/functions.php:1715": [
+        "wp-includes/functions.php:1751": [
             "wp-includes/functions.php",
-            1715
+            1751
         ],
-        "wp-includes/functions.php:4577": [
+        "wp-includes/functions.php:4634": [
             "wp-includes/functions.php",
-            4577
+            4634
         ],
         "wp-includes/load.php:143": [
             "wp-includes/load.php",
             143
         ],
-        "wp-includes/load.php:223": [
+        "wp-includes/load.php:224": [
             "wp-includes/load.php",
-            223
+            224
         ],
-        "wp-includes/load.php:487": [
+        "wp-includes/load.php:488": [
             "wp-includes/load.php",
-            487
+            488
         ],
-        "wp-includes/ms-load.php:468": [
+        "wp-includes/ms-load.php:471": [
             "wp-includes/ms-load.php",
-            468
+            471
         ],
-        "wp-includes/wp-db.php:1093": [
+        "wp-includes/wp-db.php:1086": [
             "wp-includes/wp-db.php",
-            1093
+            1086
         ],
-        "wp-includes/wp-db.php:1303": [
+        "wp-includes/wp-db.php:1296": [
             "wp-includes/wp-db.php",
-            1303
+            1296
         ],
-        "wp-includes/wp-db.php:1324": [
+        "wp-includes/wp-db.php:1317": [
             "wp-includes/wp-db.php",
-            1324
+            1317
         ],
-        "wp-includes/wp-db.php:1369": [
+        "wp-includes/wp-db.php:1362": [
             "wp-includes/wp-db.php",
-            1369
+            1362
         ],
-        "wp-includes/wp-db.php:1382": [
+        "wp-includes/wp-db.php:1375": [
             "wp-includes/wp-db.php",
-            1382
+            1375
         ],
-        "wp-includes/wp-db.php:1457": [
+        "wp-includes/wp-db.php:1450": [
             "wp-includes/wp-db.php",
-            1457
+            1450
         ],
-        "wp-includes/wp-db.php:1673": [
+        "wp-includes/wp-db.php:1666": [
             "wp-includes/wp-db.php",
-            1673
+            1666
         ],
-        "wp-includes/wp-db.php:1839": [
+        "wp-includes/wp-db.php:1832": [
             "wp-includes/wp-db.php",
-            1839
+            1832
         ],
         "wp-load.php:72": [
             "wp-load.php",

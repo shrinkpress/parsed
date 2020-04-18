@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "wp_rand",
     "filename": "wp-includes/pluggable.php",
-    "docCommentLine": 2422,
-    "startLine": 2436,
-    "endLine": 2498,
+    "docCommentLine": 2458,
+    "startLine": 2472,
+    "endLine": 2535,
     "calls": {
-        "wp-admin/includes/misc.php:1289": [
+        "wp-admin/includes/misc.php:1296": [
             "wp-admin/includes/misc.php",
-            1289
+            1296
         ],
-        "wp-includes/ms-functions.php:755": [
+        "wp-includes/ms-functions.php:784": [
             "wp-includes/ms-functions.php",
-            755
+            784
         ],
-        "wp-includes/ms-functions.php:824": [
+        "wp-includes/ms-functions.php:853": [
             "wp-includes/ms-functions.php",
-            824
+            853
         ],
-        "wp-includes/pluggable.php:2403": [
+        "wp-includes/pluggable.php:2439": [
             "wp-includes/pluggable.php",
-            2403
+            2439
         ],
-        "wp-includes/user.php:2815": [
+        "wp-includes/user.php:2825": [
             "wp-includes/user.php",
-            2815
+            2825
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

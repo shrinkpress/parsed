@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "is_header_video_active",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 1522,
-    "startLine": 1529,
-    "endLine": 1552,
+    "docCommentLine": 1526,
+    "startLine": 1533,
+    "endLine": 1556,
     "calls": {
-        "wp-includes/theme.php:1515": [
+        "wp-includes/theme.php:1519": [
             "wp-includes/theme.php",
-            1515
+            1519
         ],
-        "wp-includes/theme.php:1589": [
+        "wp-includes/theme.php:1593": [
             "wp-includes/theme.php",
-            1589
+            1593
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

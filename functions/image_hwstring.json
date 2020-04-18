@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "image_hwstring",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 132,
-    "startLine": 149,
-    "endLine": 158,
+    "docCommentLine": 138,
+    "startLine": 155,
+    "endLine": 164,
     "calls": {
-        "wp-includes/media.php:371": [
+        "wp-includes/media.php:378": [
             "wp-includes/media.php",
-            371
+            378
         ],
-        "wp-includes/media.php:988": [
+        "wp-includes/media.php:1026": [
             "wp-includes/media.php",
-            988
+            1026
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_set_post_tags",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 4488,
-    "startLine": 4502,
-    "endLine": 4504,
+    "docCommentLine": 4526,
+    "startLine": 4540,
+    "endLine": 4542,
     "calls": {
-        "wp-includes/post.php:3936": [
+        "wp-includes/post.php:3960": [
             "wp-includes/post.php",
-            3936
+            3960
         ],
-        "wp-includes/post.php:4485": [
+        "wp-includes/post.php:4523": [
             "wp-includes/post.php",
-            4485
+            4523
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

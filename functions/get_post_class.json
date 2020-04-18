@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_post_class",
     "filename": "wp-includes/post-template.php",
-    "docCommentLine": 458,
-    "startLine": 479,
-    "endLine": 580,
+    "docCommentLine": 460,
+    "startLine": 481,
+    "endLine": 582,
     "calls": {
         "wp-admin/includes/class-wp-posts-list-table.php:1297": [
             "wp-admin/includes/class-wp-posts-list-table.php",
             1297
         ],
-        "wp-includes/post-template.php:455": [
+        "wp-includes/post-template.php:457": [
             "wp-includes/post-template.php",
-            455
+            457
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

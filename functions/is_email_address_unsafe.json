@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "is_email_address_unsafe",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 372,
-    "startLine": 385,
-    "endLine": 426,
+    "docCommentLine": 384,
+    "startLine": 397,
+    "endLine": 438,
     "calls": {
-        "wp-includes/ms-functions.php:485": [
+        "wp-includes/ms-functions.php:504": [
             "wp-includes/ms-functions.php",
-            485
+            504
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

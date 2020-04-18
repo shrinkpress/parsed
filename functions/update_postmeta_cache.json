@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "update_postmeta_cache",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6649,
-    "startLine": 6662,
-    "endLine": 6664,
+    "docCommentLine": 6687,
+    "startLine": 6700,
+    "endLine": 6702,
     "calls": {
-        "wp-includes/post.php:6645": [
+        "wp-includes/post.php:6683": [
             "wp-includes/post.php",
-            6645
+            6683
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

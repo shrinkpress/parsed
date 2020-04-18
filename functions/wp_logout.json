@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_logout",
     "filename": "wp-includes/pluggable.php",
-    "docCommentLine": 566,
-    "startLine": 571,
-    "endLine": 582,
+    "docCommentLine": 570,
+    "startLine": 575,
+    "endLine": 586,
     "calls": {
-        "wp-login.php:761": [
+        "wp-login.php:771": [
             "wp-login.php",
-            761
+            771
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

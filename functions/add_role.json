@@ -2,10 +2,14 @@
     "callbacks": [],
     "functionName": "add_role",
     "filename": "wp-includes/capabilities.php",
-    "docCommentLine": 805,
-    "startLine": 815,
-    "endLine": 820,
+    "docCommentLine": 813,
+    "startLine": 824,
+    "endLine": 829,
     "calls": {
+        "wp-admin/includes/schema.php:707": [
+            "wp-admin/includes/schema.php",
+            707
+        ],
         "wp-admin/includes/schema.php:708": [
             "wp-admin/includes/schema.php",
             708
@@ -21,10 +25,6 @@
         "wp-admin/includes/schema.php:711": [
             "wp-admin/includes/schema.php",
             711
-        ],
-        "wp-admin/includes/schema.php:712": [
-            "wp-admin/includes/schema.php",
-            712
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

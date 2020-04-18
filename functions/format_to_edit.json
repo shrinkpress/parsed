@@ -2,17 +2,13 @@
     "callbacks": [],
     "functionName": "format_to_edit",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 2604,
-    "startLine": 2620,
-    "endLine": 2633,
+    "docCommentLine": 2608,
+    "startLine": 2624,
+    "endLine": 2637,
     "calls": {
-        "wp-admin/includes/comment.php:115": [
+        "wp-admin/includes/comment.php:116": [
             "wp-admin/includes/comment.php",
-            115
-        ],
-        "wp-admin/includes/comment.php:125": [
-            "wp-admin/includes/comment.php",
-            125
+            116
         ],
         "wp-admin/includes/comment.php:126": [
             "wp-admin/includes/comment.php",
@@ -22,13 +18,17 @@
             "wp-admin/includes/comment.php",
             127
         ],
-        "wp-includes/post.php:2411": [
-            "wp-includes/post.php",
-            2411
+        "wp-admin/includes/comment.php:128": [
+            "wp-admin/includes/comment.php",
+            128
         ],
-        "wp-includes/post.php:2413": [
+        "wp-includes/post.php:2422": [
             "wp-includes/post.php",
-            2413
+            2422
+        ],
+        "wp-includes/post.php:2424": [
+            "wp-includes/post.php",
+            2424
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

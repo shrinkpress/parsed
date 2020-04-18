@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "plugin_sandbox_scrape",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 2210,
-    "startLine": 2218,
-    "endLine": 2224,
+    "docCommentLine": 2242,
+    "startLine": 2250,
+    "endLine": 2256,
     "calls": {
-        "wp-admin/includes/plugin.php:2362": [
+        "wp-admin/includes/plugin.php:2399": [
             "wp-admin/includes/plugin.php",
-            2362
+            2399
         ],
-        "wp-admin/plugins.php:175": [
+        "wp-admin/plugins.php:177": [
             "wp-admin/plugins.php",
-            175
+            177
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

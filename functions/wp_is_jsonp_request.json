@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_is_jsonp_request",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 1497,
-    "startLine": 1504,
-    "endLine": 1523,
+    "docCommentLine": 1511,
+    "startLine": 1518,
+    "endLine": 1537,
     "calls": {
-        "wp-includes/functions.php:3249": [
+        "wp-includes/functions.php:3306": [
             "wp-includes/functions.php",
-            3249
+            3306
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

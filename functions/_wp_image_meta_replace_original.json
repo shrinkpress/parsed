@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_wp_image_meta_replace_original",
     "filename": "wp-admin/includes/image.php",
-    "docCommentLine": 181,
-    "startLine": 193,
-    "endLine": 210,
+    "docCommentLine": 183,
+    "startLine": 195,
+    "endLine": 212,
     "calls": {
-        "wp-admin/includes/image.php:299": [
+        "wp-admin/includes/image.php:301": [
             "wp-admin/includes/image.php",
-            299
+            301
         ],
-        "wp-admin/includes/image.php:329": [
+        "wp-admin/includes/image.php:331": [
             "wp-admin/includes/image.php",
-            329
+            331
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

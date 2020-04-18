@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "maybe_serialize",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 682,
-    "startLine": 690,
-    "endLine": 703,
+    "docCommentLine": 698,
+    "startLine": 706,
+    "endLine": 721,
     "calls": {
         "wp-includes/class-wp-customize-manager.php:1522": [
             "wp-includes/class-wp-customize-manager.php",
@@ -14,53 +14,53 @@
             "wp-includes/class-wp-customize-manager.php",
             1563
         ],
-        "wp-includes/deprecated.php:2329": [
+        "wp-includes/deprecated.php:2326": [
             "wp-includes/deprecated.php",
-            2329
+            2326
         ],
-        "wp-includes/meta.php:88": [
+        "wp-includes/meta.php:87": [
             "wp-includes/meta.php",
-            88
+            87
         ],
-        "wp-includes/meta.php:223": [
+        "wp-includes/meta.php:222": [
             "wp-includes/meta.php",
-            223
+            222
         ],
-        "wp-includes/meta.php:232": [
+        "wp-includes/meta.php:231": [
             "wp-includes/meta.php",
-            232
+            231
         ],
-        "wp-includes/meta.php:376": [
+        "wp-includes/meta.php:377": [
             "wp-includes/meta.php",
-            376
+            377
         ],
-        "wp-includes/meta.php:724": [
+        "wp-includes/meta.php:728": [
             "wp-includes/meta.php",
-            724
+            728
         ],
-        "wp-includes/option.php:356": [
+        "wp-includes/option.php:355": [
             "wp-includes/option.php",
-            356
+            355
         ],
-        "wp-includes/option.php:370": [
+        "wp-includes/option.php:369": [
             "wp-includes/option.php",
-            370
+            369
         ],
         "wp-includes/option.php:491": [
             "wp-includes/option.php",
             491
         ],
-        "wp-includes/option.php:1402": [
+        "wp-includes/option.php:1403": [
             "wp-includes/option.php",
-            1402
+            1403
         ],
-        "wp-includes/option.php:1612": [
+        "wp-includes/option.php:1613": [
             "wp-includes/option.php",
-            1612
+            1613
         ],
-        "wp-includes/option.php:1632": [
+        "wp-includes/option.php:1633": [
             "wp-includes/option.php",
-            1632
+            1633
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

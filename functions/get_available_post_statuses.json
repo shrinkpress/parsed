@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_available_post_statuses",
     "filename": "wp-admin/includes/post.php",
-    "docCommentLine": 1080,
-    "startLine": 1088,
-    "endLine": 1092,
+    "docCommentLine": 1083,
+    "startLine": 1091,
+    "endLine": 1095,
     "calls": {
-        "wp-admin/includes/post.php:1116": [
+        "wp-admin/includes/post.php:1119": [
             "wp-admin/includes/post.php",
-            1116
+            1119
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

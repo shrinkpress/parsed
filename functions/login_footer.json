@@ -2,37 +2,37 @@
     "callbacks": [],
     "functionName": "login_footer",
     "filename": "wp-login.php",
-    "docCommentLine": 267,
-    "startLine": 274,
-    "endLine": 319,
+    "docCommentLine": 273,
+    "startLine": 283,
+    "endLine": 328,
     "calls": {
-        "wp-login.php:720": [
+        "wp-login.php:730": [
             "wp-login.php",
-            720
+            730
         ],
-        "wp-login.php:881": [
+        "wp-login.php:891": [
             "wp-login.php",
-            881
+            891
         ],
-        "wp-login.php:941": [
+        "wp-login.php:951": [
             "wp-login.php",
-            941
+            951
         ],
-        "wp-login.php:1016": [
+        "wp-login.php:1026": [
             "wp-login.php",
-            1016
+            1026
         ],
-        "wp-login.php:1108": [
+        "wp-login.php:1118": [
             "wp-login.php",
-            1108
+            1118
         ],
-        "wp-login.php:1146": [
+        "wp-login.php:1156": [
             "wp-login.php",
-            1146
+            1156
         ],
-        "wp-login.php:1489": [
+        "wp-login.php:1499": [
             "wp-login.php",
-            1489
+            1499
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

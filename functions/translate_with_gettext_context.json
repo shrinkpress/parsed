@@ -3,24 +3,24 @@
     "functionName": "translate_with_gettext_context",
     "filename": "wp-includes/l10n.php",
     "docCommentLine": 210,
-    "startLine": 226,
-    "endLine": 240,
+    "startLine": 225,
+    "endLine": 239,
     "calls": {
-        "wp-includes/l10n.php:348": [
+        "wp-includes/l10n.php:357": [
             "wp-includes/l10n.php",
-            348
+            357
         ],
-        "wp-includes/l10n.php:378": [
+        "wp-includes/l10n.php:390": [
             "wp-includes/l10n.php",
-            378
+            390
         ],
-        "wp-includes/l10n.php:393": [
+        "wp-includes/l10n.php:408": [
             "wp-includes/l10n.php",
-            393
+            408
         ],
-        "wp-includes/l10n.php:1272": [
+        "wp-includes/l10n.php:1286": [
             "wp-includes/l10n.php",
-            1272
+            1286
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -4,43 +4,43 @@
     "filename": "wp-admin/includes/post.php",
     "docCommentLine": 219,
     "startLine": 229,
-    "endLine": 435,
+    "endLine": 438,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:1559": [
+        "wp-admin/includes/ajax-actions.php:1562": [
             "wp-admin/includes/ajax-actions.php",
-            1559
+            1562
         ],
-        "wp-admin/includes/ajax-actions.php:2062": [
+        "wp-admin/includes/ajax-actions.php:2066": [
             "wp-admin/includes/ajax-actions.php",
-            2062
+            2066
         ],
-        "wp-admin/includes/ajax-actions.php:2766": [
+        "wp-admin/includes/ajax-actions.php:2770": [
             "wp-admin/includes/ajax-actions.php",
-            2766
+            2770
         ],
-        "wp-admin/includes/post.php:821": [
+        "wp-admin/includes/post.php:824": [
             "wp-admin/includes/post.php",
-            821
+            824
         ],
-        "wp-admin/includes/post.php:1872": [
+        "wp-admin/includes/post.php:1886": [
             "wp-admin/includes/post.php",
-            1872
+            1886
         ],
-        "wp-admin/includes/post.php:1946": [
+        "wp-admin/includes/post.php:1960": [
             "wp-admin/includes/post.php",
-            1946
+            1960
         ],
-        "wp-admin/post.php:99": [
+        "wp-admin/post.php:107": [
             "wp-admin/post.php",
-            99
+            107
         ],
-        "wp-admin/post.php:106": [
+        "wp-admin/post.php:114": [
             "wp-admin/post.php",
-            106
+            114
         ],
-        "wp-admin/post.php:219": [
+        "wp-admin/post.php:227": [
             "wp-admin/post.php",
-            219
+            227
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

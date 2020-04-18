@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_exif_date2ts",
     "filename": "wp-admin/includes/image.php",
-    "docCommentLine": 640,
-    "startLine": 648,
-    "endLine": 653,
+    "docCommentLine": 648,
+    "startLine": 656,
+    "endLine": 661,
     "calls": {
-        "wp-admin/includes/image.php:809": [
+        "wp-admin/includes/image.php:817": [
             "wp-admin/includes/image.php",
-            809
+            817
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

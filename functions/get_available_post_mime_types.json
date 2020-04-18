@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_available_post_mime_types",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 7131,
-    "startLine": 7141,
-    "endLine": 7146,
+    "docCommentLine": 7169,
+    "startLine": 7179,
+    "endLine": 7184,
     "calls": {
-        "wp-admin/includes/post.php:1272": [
+        "wp-admin/includes/post.php:1275": [
             "wp-admin/includes/post.php",
-            1272
+            1275
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

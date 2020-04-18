@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_trash_post_comments",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 3242,
-    "startLine": 3252,
-    "endLine": 3299,
+    "docCommentLine": 3253,
+    "startLine": 3263,
+    "endLine": 3310,
     "calls": {
-        "wp-includes/class-wp-customize-manager.php:3061": [
+        "wp-includes/class-wp-customize-manager.php:3065": [
             "wp-includes/class-wp-customize-manager.php",
-            3061
+            3065
         ],
-        "wp-includes/post.php:3157": [
+        "wp-includes/post.php:3168": [
             "wp-includes/post.php",
-            3157
+            3168
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

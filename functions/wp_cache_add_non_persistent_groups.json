@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "wp_cache_add_non_persistent_groups",
     "filename": "wp-includes/cache.php",
-    "docCommentLine": 236,
-    "startLine": 243,
-    "endLine": 245,
+    "docCommentLine": 239,
+    "startLine": 246,
+    "endLine": 248,
     "calls": {
-        "wp-includes/class-wp-theme.php:197": [
+        "wp-includes/class-wp-theme.php:201": [
             "wp-includes/class-wp-theme.php",
-            197
+            201
         ],
-        "wp-includes/load.php:584": [
+        "wp-includes/load.php:585": [
             "wp-includes/load.php",
-            584
+            585
         ],
-        "wp-includes/ms-blogs.php:542": [
+        "wp-includes/ms-blogs.php:545": [
             "wp-includes/ms-blogs.php",
-            542
+            545
         ],
-        "wp-includes/ms-blogs.php:609": [
+        "wp-includes/ms-blogs.php:612": [
             "wp-includes/ms-blogs.php",
-            609
+            612
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

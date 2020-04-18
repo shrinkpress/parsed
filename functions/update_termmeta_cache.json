@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "update_termmeta_cache",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 1278,
-    "startLine": 1289,
-    "endLine": 1291,
+    "docCommentLine": 1281,
+    "startLine": 1292,
+    "endLine": 1294,
     "calls": {
         "wp-includes/class-wp-metadata-lazyloader.php:140": [
             "wp-includes/class-wp-metadata-lazyloader.php",
@@ -14,9 +14,9 @@
             "wp-includes/class-wp-term-query.php",
             726
         ],
-        "wp-includes/taxonomy.php:3666": [
+        "wp-includes/taxonomy.php:3669": [
             "wp-includes/taxonomy.php",
-            3666
+            3669
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

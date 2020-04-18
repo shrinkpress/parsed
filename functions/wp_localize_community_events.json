@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:501": [
+        "wp-includes/default-filters.php:502": [
             "wp-includes/default-filters.php",
-            501,
+            502,
             "admin_print_scripts-index.php",
             "add_action"
         ]
     },
     "functionName": "wp_localize_community_events",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 2362,
-    "startLine": 2367,
-    "endLine": 2429,
+    "docCommentLine": 1986,
+    "startLine": 1991,
+    "endLine": 2053,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

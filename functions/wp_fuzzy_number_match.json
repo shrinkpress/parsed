@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_fuzzy_number_match",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 7389,
-    "startLine": 7401,
-    "endLine": 7403,
+    "docCommentLine": 7581,
+    "startLine": 7593,
+    "endLine": 7595,
     "calls": {
-        "wp-includes/media.php:613": [
+        "wp-includes/media.php:636": [
             "wp-includes/media.php",
-            613
+            636
         ],
-        "wp-includes/media.php:697": [
+        "wp-includes/media.php:720": [
             "wp-includes/media.php",
-            697
+            720
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

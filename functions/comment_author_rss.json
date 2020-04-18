@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "comment_author_rss",
     "filename": "wp-includes/feed.php",
-    "docCommentLine": 337,
-    "startLine": 342,
-    "endLine": 344,
+    "docCommentLine": 336,
+    "startLine": 341,
+    "endLine": 343,
     "calls": {
-        "wp-includes/feed-atom-comments.php:94": [
+        "wp-includes/feed-atom-comments.php:93": [
             "wp-includes/feed-atom-comments.php",
-            94
+            93
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

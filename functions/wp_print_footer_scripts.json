@@ -12,18 +12,18 @@
             "login_footer",
             "add_action"
         ],
-        "wp-includes/default-filters.php:568": [
+        "wp-includes/default-filters.php:570": [
             "wp-includes/default-filters.php",
-            568,
+            570,
             "embed_footer",
             "add_action"
         ]
     },
     "functionName": "wp_print_footer_scripts",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 2642,
-    "startLine": 2647,
-    "endLine": 2654,
+    "docCommentLine": 2266,
+    "startLine": 2271,
+    "endLine": 2278,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

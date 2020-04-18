@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_tempnam",
     "filename": "wp-admin/includes/file.php",
-    "docCommentLine": 625,
-    "startLine": 638,
-    "endLine": 670,
+    "docCommentLine": 626,
+    "startLine": 639,
+    "endLine": 671,
     "calls": {
-        "wp-admin/includes/class-wp-filesystem-ftpext.php:135": [
+        "wp-admin/includes/class-wp-filesystem-ftpext.php:134": [
             "wp-admin/includes/class-wp-filesystem-ftpext.php",
-            135
+            134
         ],
-        "wp-admin/includes/class-wp-filesystem-ftpext.php:185": [
+        "wp-admin/includes/class-wp-filesystem-ftpext.php:184": [
             "wp-admin/includes/class-wp-filesystem-ftpext.php",
-            185
+            184
         ],
         "wp-admin/includes/class-wp-filesystem-ftpsockets.php:137": [
             "wp-admin/includes/class-wp-filesystem-ftpsockets.php",
@@ -22,25 +22,25 @@
             "wp-admin/includes/class-wp-filesystem-ftpsockets.php",
             194
         ],
-        "wp-admin/includes/file.php:653": [
+        "wp-admin/includes/file.php:654": [
             "wp-admin/includes/file.php",
-            653
+            654
         ],
-        "wp-admin/includes/file.php:663": [
+        "wp-admin/includes/file.php:664": [
             "wp-admin/includes/file.php",
-            663
+            664
         ],
-        "wp-admin/includes/file.php:1005": [
+        "wp-admin/includes/file.php:1021": [
             "wp-admin/includes/file.php",
-            1005
+            1021
         ],
         "wp-includes/class-wp-customize-manager.php:1364": [
             "wp-includes/class-wp-customize-manager.php",
             1364
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:674": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:732": [
             "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
-            674
+            732
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

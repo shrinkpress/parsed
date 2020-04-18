@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "get_custom_header",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 1317,
-    "startLine": 1326,
-    "endLine": 1360,
+    "docCommentLine": 1320,
+    "startLine": 1329,
+    "endLine": 1363,
     "calls": {
         "wp-admin/includes/class-custom-image-header.php:507": [
             "wp-admin/includes/class-custom-image-header.php",
@@ -14,13 +14,13 @@
             "wp-admin/includes/class-custom-image-header.php",
             515
         ],
-        "wp-includes/theme.php:1100": [
+        "wp-includes/theme.php:1103": [
             "wp-includes/theme.php",
-            1100
+            1103
         ],
-        "wp-includes/theme.php:1471": [
+        "wp-includes/theme.php:1475": [
             "wp-includes/theme.php",
-            1471
+            1475
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

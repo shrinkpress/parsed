@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "delete_plugins",
     "filename": "wp-admin/includes/plugin.php",
-    "docCommentLine": 867,
-    "startLine": 879,
-    "endLine": 1023,
+    "docCommentLine": 878,
+    "startLine": 890,
+    "endLine": 1036,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:4541": [
+        "wp-admin/includes/ajax-actions.php:4545": [
             "wp-admin/includes/ajax-actions.php",
-            4541
+            4545
         ],
-        "wp-admin/plugins.php:380": [
+        "wp-admin/plugins.php:382": [
             "wp-admin/plugins.php",
-            380
+            382
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

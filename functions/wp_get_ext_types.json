@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_get_ext_types",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 3067,
-    "startLine": 3074,
-    "endLine": 3100,
+    "docCommentLine": 3127,
+    "startLine": 3134,
+    "endLine": 3159,
     "calls": {
-        "wp-includes/functions.php:2684": [
+        "wp-includes/functions.php:2727": [
             "wp-includes/functions.php",
-            2684
+            2727
         ],
-        "wp-includes/post.php:2766": [
+        "wp-includes/post.php:2777": [
             "wp-includes/post.php",
-            2766
+            2777
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

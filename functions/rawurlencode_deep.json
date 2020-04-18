@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "rawurlencode_deep",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 2755,
-    "startLine": 2763,
-    "endLine": 2765,
+    "docCommentLine": 2759,
+    "startLine": 2767,
+    "endLine": 2769,
     "calls": {
-        "wp-includes/canonical.php:413": [
+        "wp-includes/canonical.php:421": [
             "wp-includes/canonical.php",
-            413
+            421
         ],
-        "wp-includes/canonical.php:414": [
+        "wp-includes/canonical.php:422": [
             "wp-includes/canonical.php",
-            414
+            422
         ],
-        "wp-includes/link-template.php:4235": [
+        "wp-includes/link-template.php:4240": [
             "wp-includes/link-template.php",
-            4235
+            4240
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

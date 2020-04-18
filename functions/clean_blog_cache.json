@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "clean_blog_cache",
     "filename": "wp-includes/ms-site.php",
-    "docCommentLine": 962,
-    "startLine": 971,
-    "endLine": 1034,
+    "docCommentLine": 963,
+    "startLine": 972,
+    "endLine": 1033,
     "calls": {
-        "wp-admin/includes/upgrade.php:1608": [
+        "wp-admin/includes/upgrade.php:1627": [
             "wp-admin/includes/upgrade.php",
-            1608
+            1627
         ],
         "wp-includes/ms-blogs.php:279": [
             "wp-includes/ms-blogs.php",
@@ -34,9 +34,9 @@
             "wp-includes/ms-site.php",
             753
         ],
-        "wp-includes/ms-site.php:1279": [
+        "wp-includes/ms-site.php:1278": [
             "wp-includes/ms-site.php",
-            1279
+            1278
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

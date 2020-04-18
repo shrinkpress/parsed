@@ -1,15 +1,15 @@
 {
     "callbacks": {
-        "wp-includes/class-wp-taxonomy.php:439": [
+        "wp-includes/class-wp-taxonomy.php:444": [
             "wp-includes/class-wp-taxonomy.php",
-            439,
-            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_BinaryOp_Concat\",\"left\":{\"nodeType\":\"Scalar_String\",\"value\":\"wp_ajax_add-\",\"attributes\":{\"startLine\":439,\"endLine\":439,\"kind\":1}},\"right\":{\"nodeType\":\"Expr_PropertyFetch\",\"var\":{\"nodeType\":\"Expr_Variable\",\"name\":\"this\",\"attributes\":{\"startLine\":439,\"endLine\":439}},\"name\":{\"nodeType\":\"Identifier\",\"name\":\"name\",\"attributes\":{\"startLine\":439,\"endLine\":439}},\"attributes\":{\"startLine\":439,\"endLine\":439}},\"attributes\":{\"startLine\":439,\"endLine\":439}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":439,\"endLine\":439}}",
+            444,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_BinaryOp_Concat\",\"left\":{\"nodeType\":\"Scalar_String\",\"value\":\"wp_ajax_add-\",\"attributes\":{\"startLine\":444,\"endLine\":444,\"kind\":1}},\"right\":{\"nodeType\":\"Expr_PropertyFetch\",\"var\":{\"nodeType\":\"Expr_Variable\",\"name\":\"this\",\"attributes\":{\"startLine\":444,\"endLine\":444}},\"name\":{\"nodeType\":\"Identifier\",\"name\":\"name\",\"attributes\":{\"startLine\":444,\"endLine\":444}},\"attributes\":{\"startLine\":444,\"endLine\":444}},\"attributes\":{\"startLine\":444,\"endLine\":444}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":444,\"endLine\":444}}",
             "add_filter"
         ],
-        "wp-includes/class-wp-taxonomy.php:448": [
+        "wp-includes/class-wp-taxonomy.php:453": [
             "wp-includes/class-wp-taxonomy.php",
-            448,
-            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_BinaryOp_Concat\",\"left\":{\"nodeType\":\"Scalar_String\",\"value\":\"wp_ajax_add-\",\"attributes\":{\"startLine\":448,\"endLine\":448,\"kind\":1}},\"right\":{\"nodeType\":\"Expr_PropertyFetch\",\"var\":{\"nodeType\":\"Expr_Variable\",\"name\":\"this\",\"attributes\":{\"startLine\":448,\"endLine\":448}},\"name\":{\"nodeType\":\"Identifier\",\"name\":\"name\",\"attributes\":{\"startLine\":448,\"endLine\":448}},\"attributes\":{\"startLine\":448,\"endLine\":448}},\"attributes\":{\"startLine\":448,\"endLine\":448}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":448,\"endLine\":448}}",
+            453,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Expr_BinaryOp_Concat\",\"left\":{\"nodeType\":\"Scalar_String\",\"value\":\"wp_ajax_add-\",\"attributes\":{\"startLine\":453,\"endLine\":453,\"kind\":1}},\"right\":{\"nodeType\":\"Expr_PropertyFetch\",\"var\":{\"nodeType\":\"Expr_Variable\",\"name\":\"this\",\"attributes\":{\"startLine\":453,\"endLine\":453}},\"name\":{\"nodeType\":\"Identifier\",\"name\":\"name\",\"attributes\":{\"startLine\":453,\"endLine\":453}},\"attributes\":{\"startLine\":453,\"endLine\":453}},\"attributes\":{\"startLine\":453,\"endLine\":453}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":453,\"endLine\":453}}",
             "remove_filter"
         ]
     },

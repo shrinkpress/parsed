@@ -1,21 +1,21 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:524": [
+        "wp-includes/default-filters.php:525": [
             "wp-includes/default-filters.php",
-            524,
+            525,
             "customize_controls_enqueue_scripts",
             "add_action"
         ]
     },
     "functionName": "wp_plupload_default_settings",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 3263,
-    "startLine": 3268,
-    "endLine": 3344,
+    "docCommentLine": 3326,
+    "startLine": 3331,
+    "endLine": 3410,
     "calls": {
-        "wp-includes/media.php:3969": [
+        "wp-includes/media.php:4042": [
             "wp-includes/media.php",
-            3969
+            4042
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

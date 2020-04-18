@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "save_mod_rewrite_rules",
     "filename": "wp-admin/includes/misc.php",
-    "docCommentLine": 230,
-    "startLine": 242,
-    "endLine": 267,
+    "docCommentLine": 237,
+    "startLine": 249,
+    "endLine": 274,
     "calls": {
-        "wp-includes/class-wp-rewrite.php:1820": [
+        "wp-includes/class-wp-rewrite.php:1823": [
             "wp-includes/class-wp-rewrite.php",
-            1820
+            1823
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

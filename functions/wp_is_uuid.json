@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_is_uuid",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 6708,
-    "startLine": 6718,
-    "endLine": 6735,
+    "docCommentLine": 6900,
+    "startLine": 6910,
+    "endLine": 6927,
     "calls": {
-        "wp-includes/class-wp-customize-manager.php:524": [
+        "wp-includes/class-wp-customize-manager.php:523": [
             "wp-includes/class-wp-customize-manager.php",
-            524
+            523
         ],
-        "wp-includes/class-wp-customize-manager.php:630": [
+        "wp-includes/class-wp-customize-manager.php:629": [
             "wp-includes/class-wp-customize-manager.php",
-            630
+            629
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

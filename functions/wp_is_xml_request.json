@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_is_xml_request",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 1525,
-    "startLine": 1532,
-    "endLine": 1555,
+    "docCommentLine": 1539,
+    "startLine": 1547,
+    "endLine": 1570,
     "calls": {
-        "wp-includes/functions.php:3267": [
+        "wp-includes/functions.php:3324": [
             "wp-includes/functions.php",
-            3267
+            3324
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

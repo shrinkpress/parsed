@@ -1,35 +1,35 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:465": [
-            "wp-includes/default-filters.php",
-            465,
-            "save_post",
-            "add_action"
-        ],
         "wp-includes/default-filters.php:466": [
             "wp-includes/default-filters.php",
             466,
-            "delete_post",
+            "save_post",
             "add_action"
         ],
         "wp-includes/default-filters.php:467": [
             "wp-includes/default-filters.php",
             467,
-            "update_option_start_of_week",
+            "delete_post",
             "add_action"
         ],
         "wp-includes/default-filters.php:468": [
             "wp-includes/default-filters.php",
             468,
+            "update_option_start_of_week",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:469": [
+            "wp-includes/default-filters.php",
+            469,
             "update_option_gmt_offset",
             "add_action"
         ]
     },
     "functionName": "delete_get_calendar_cache",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 2281,
-    "startLine": 2287,
-    "endLine": 2289,
+    "docCommentLine": 2282,
+    "startLine": 2288,
+    "endLine": 2290,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

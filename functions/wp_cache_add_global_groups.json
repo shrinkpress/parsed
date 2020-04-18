@@ -2,33 +2,33 @@
     "callbacks": [],
     "functionName": "wp_cache_add_global_groups",
     "filename": "wp-includes/cache.php",
-    "docCommentLine": 220,
-    "startLine": 230,
-    "endLine": 234,
+    "docCommentLine": 223,
+    "startLine": 233,
+    "endLine": 237,
     "calls": {
-        "wp-includes/class-wp-theme.php:192": [
+        "wp-includes/class-wp-theme.php:196": [
             "wp-includes/class-wp-theme.php",
-            192
+            196
         ],
-        "wp-includes/load.php:583": [
+        "wp-includes/load.php:584": [
             "wp-includes/load.php",
-            583
+            584
         ],
-        "wp-includes/ms-blogs.php:538": [
+        "wp-includes/ms-blogs.php:541": [
             "wp-includes/ms-blogs.php",
-            538
+            541
         ],
-        "wp-includes/ms-blogs.php:540": [
+        "wp-includes/ms-blogs.php:543": [
             "wp-includes/ms-blogs.php",
-            540
+            543
         ],
-        "wp-includes/ms-blogs.php:605": [
+        "wp-includes/ms-blogs.php:608": [
             "wp-includes/ms-blogs.php",
-            605
+            608
         ],
-        "wp-includes/ms-blogs.php:607": [
+        "wp-includes/ms-blogs.php:610": [
             "wp-includes/ms-blogs.php",
-            607
+            610
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

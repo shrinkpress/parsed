@@ -1,23 +1,23 @@
 {
     "callbacks": {
-        "wp-includes/class-wp-customize-manager.php:376": [
+        "wp-includes/class-wp-customize-manager.php:375": [
             "wp-includes/class-wp-customize-manager.php",
-            376,
+            375,
             "admin_init",
             "remove_action"
         ],
-        "wp-includes/update.php:828": [
+        "wp-includes/update.php:829": [
             "wp-includes/update.php",
-            828,
+            829,
             "admin_init",
             "add_action"
         ]
     },
     "functionName": "_maybe_update_themes",
     "filename": "wp-includes/update.php",
-    "docCommentLine": 761,
-    "startLine": 770,
-    "endLine": 776,
+    "docCommentLine": 762,
+    "startLine": 771,
+    "endLine": 777,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

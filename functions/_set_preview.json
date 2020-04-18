@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/revision.php:596": [
+        "wp-includes/revision.php:598": [
             "wp-includes/revision.php",
-            596,
+            598,
             "the_preview",
             "add_filter"
         ]
     },
     "functionName": "_set_preview",
     "filename": "wp-includes/revision.php",
-    "docCommentLine": 551,
-    "startLine": 560,
-    "endLine": 580,
+    "docCommentLine": 553,
+    "startLine": 562,
+    "endLine": 582,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "get_taxonomies_for_attachments",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 3065,
-    "startLine": 3077,
-    "endLine": 3094,
+    "docCommentLine": 3123,
+    "startLine": 3135,
+    "endLine": 3152,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:2924": [
+        "wp-admin/includes/ajax-actions.php:2928": [
             "wp-admin/includes/ajax-actions.php",
-            2924
+            2928
         ],
-        "wp-admin/includes/class-wp-media-list-table.php:289": [
+        "wp-admin/includes/class-wp-media-list-table.php:293": [
             "wp-admin/includes/class-wp-media-list-table.php",
-            289
+            293
         ],
         "wp-admin/menu.php:70": [
             "wp-admin/menu.php",
             70
         ],
-        "wp-includes/class-wp-query.php:2123": [
+        "wp-includes/class-wp-query.php:2138": [
             "wp-includes/class-wp-query.php",
-            2123
+            2138
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

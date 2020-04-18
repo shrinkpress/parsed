@@ -6,13 +6,13 @@
     "startLine": 1333,
     "endLine": 1362,
     "calls": {
-        "wp-admin/edit-comments.php:152": [
+        "wp-admin/edit-comments.php:139": [
             "wp-admin/edit-comments.php",
-            152
+            139
         ],
-        "wp-admin/edit-comments.php:169": [
+        "wp-admin/edit-comments.php:156": [
             "wp-admin/edit-comments.php",
-            169
+            156
         ],
         "wp-admin/includes/ajax-actions.php:451": [
             "wp-admin/includes/ajax-actions.php",
@@ -26,29 +26,29 @@
             "wp-admin/includes/ajax-actions.php",
             523
         ],
-        "wp-admin/includes/ajax-actions.php:1364": [
+        "wp-admin/includes/ajax-actions.php:1367": [
             "wp-admin/includes/ajax-actions.php",
-            1364
+            1367
         ],
-        "wp-admin/includes/class-wp-comments-list-table.php:217": [
+        "wp-admin/includes/class-wp-comments-list-table.php:219": [
             "wp-admin/includes/class-wp-comments-list-table.php",
-            217
+            219
         ],
-        "wp-admin/includes/dashboard.php:288": [
+        "wp-admin/includes/dashboard.php:302": [
             "wp-admin/includes/dashboard.php",
-            288
+            302
         ],
         "wp-admin/menu.php:89": [
             "wp-admin/menu.php",
             89
         ],
-        "wp-includes/admin-bar.php:896": [
+        "wp-includes/admin-bar.php:909": [
             "wp-includes/admin-bar.php",
-            896
+            909
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:4018": [
+        "wp-includes/class-wp-xmlrpc-server.php:4024": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            4018
+            4024
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

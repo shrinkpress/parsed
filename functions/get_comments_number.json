@@ -2,65 +2,65 @@
     "callbacks": [],
     "functionName": "get_comments_number",
     "filename": "wp-includes/comment-template.php",
-    "docCommentLine": 838,
-    "startLine": 847,
-    "endLine": 866,
+    "docCommentLine": 839,
+    "startLine": 848,
+    "endLine": 867,
     "calls": {
         "wp-admin/includes/class-wp-list-table.php:662": [
             "wp-admin/includes/class-wp-list-table.php",
             662
         ],
-        "wp-includes/comment-template.php:806": [
+        "wp-includes/comment-template.php:807": [
             "wp-includes/comment-template.php",
-            806
+            807
         ],
-        "wp-includes/comment-template.php:895": [
+        "wp-includes/comment-template.php:897": [
             "wp-includes/comment-template.php",
-            895
+            897
         ],
-        "wp-includes/comment-template.php:1530": [
+        "wp-includes/comment-template.php:1549": [
             "wp-includes/comment-template.php",
-            1530
+            1549
         ],
-        "wp-includes/embed.php:1081": [
+        "wp-includes/embed.php:1092": [
             "wp-includes/embed.php",
-            1081
+            1092
         ],
-        "wp-includes/embed.php:1094": [
+        "wp-includes/embed.php:1105": [
             "wp-includes/embed.php",
-            1094
+            1105
         ],
-        "wp-includes/embed.php:1096": [
+        "wp-includes/embed.php:1107": [
             "wp-includes/embed.php",
-            1096
+            1107
         ],
-        "wp-includes/feed-atom.php:85": [
+        "wp-includes/feed-atom.php:94": [
             "wp-includes/feed-atom.php",
-            85
+            94
         ],
-        "wp-includes/feed-atom.php:87": [
+        "wp-includes/feed-atom.php:96": [
             "wp-includes/feed-atom.php",
-            87
+            96
         ],
-        "wp-includes/feed-atom.php:88": [
+        "wp-includes/feed-atom.php:97": [
             "wp-includes/feed-atom.php",
-            88
+            97
         ],
-        "wp-includes/feed-atom.php:89": [
+        "wp-includes/feed-atom.php:98": [
             "wp-includes/feed-atom.php",
-            89
+            98
         ],
         "wp-includes/feed-rss2.php:91": [
             "wp-includes/feed-rss2.php",
             91
         ],
-        "wp-includes/feed-rss2.php:110": [
-            "wp-includes/feed-rss2.php",
-            110
-        ],
         "wp-includes/feed-rss2.php:112": [
             "wp-includes/feed-rss2.php",
             112
+        ],
+        "wp-includes/feed-rss2.php:114": [
+            "wp-includes/feed-rss2.php",
+            114
         ],
         "wp-includes/theme-compat/comments.php:35": [
             "wp-includes/theme-compat/comments.php",

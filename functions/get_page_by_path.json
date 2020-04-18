@@ -2,45 +2,45 @@
     "callbacks": [],
     "functionName": "get_page_by_path",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 4871,
-    "startLine": 4884,
-    "endLine": 4963,
+    "docCommentLine": 4909,
+    "startLine": 4922,
+    "endLine": 5001,
     "calls": {
-        "wp-admin/includes/upgrade.php:538": [
+        "wp-admin/includes/upgrade.php:555": [
             "wp-admin/includes/upgrade.php",
-            538
+            555
         ],
-        "wp-includes/class-wp-query.php:987": [
+        "wp-includes/class-wp-query.php:1000": [
             "wp-includes/class-wp-query.php",
-            987
+            1000
         ],
-        "wp-includes/class-wp-query.php:992": [
+        "wp-includes/class-wp-query.php:1005": [
             "wp-includes/class-wp-query.php",
-            992
+            1005
         ],
-        "wp-includes/class-wp-query.php:2017": [
+        "wp-includes/class-wp-query.php:2032": [
             "wp-includes/class-wp-query.php",
-            2017
+            2032
         ],
-        "wp-includes/class-wp-query.php:2024": [
+        "wp-includes/class-wp-query.php:2039": [
             "wp-includes/class-wp-query.php",
-            2024
+            2039
         ],
-        "wp-includes/class-wp-query.php:3976": [
+        "wp-includes/class-wp-query.php:4009": [
             "wp-includes/class-wp-query.php",
-            3976
+            4009
         ],
-        "wp-includes/class-wp-query.php:4071": [
+        "wp-includes/class-wp-query.php:4116": [
             "wp-includes/class-wp-query.php",
-            4071
+            4116
         ],
-        "wp-includes/class-wp.php:227": [
+        "wp-includes/class-wp.php:228": [
             "wp-includes/class-wp.php",
-            227
+            228
         ],
-        "wp-includes/embed.php:368": [
+        "wp-includes/embed.php:377": [
             "wp-includes/embed.php",
-            368
+            377
         ],
         "wp-includes/rewrite.php:395": [
             "wp-includes/rewrite.php",

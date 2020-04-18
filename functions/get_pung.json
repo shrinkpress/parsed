@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_pung",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 4741,
-    "startLine": 4751,
-    "endLine": 4768,
+    "docCommentLine": 4779,
+    "startLine": 4789,
+    "endLine": 4806,
     "calls": {
-        "wp-includes/comment.php:2725": [
+        "wp-includes/comment.php:2731": [
             "wp-includes/comment.php",
-            2725
+            2731
         ],
-        "wp-includes/comment.php:2809": [
+        "wp-includes/comment.php:2815": [
             "wp-includes/comment.php",
-            2809
+            2815
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

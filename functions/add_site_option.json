@@ -6,25 +6,25 @@
     "startLine": 1171,
     "endLine": 1173,
     "calls": {
-        "wp-admin/includes/upgrade.php:1649": [
+        "wp-admin/includes/upgrade.php:1669": [
             "wp-admin/includes/upgrade.php",
-            1649
+            1669
         ],
-        "wp-includes/ms-functions.php:470": [
+        "wp-includes/ms-functions.php:489": [
             "wp-includes/ms-functions.php",
-            470
+            489
         ],
-        "wp-includes/ms-functions.php:609": [
+        "wp-includes/ms-functions.php:637": [
             "wp-includes/ms-functions.php",
-            609
+            637
         ],
-        "wp-includes/option.php:1856": [
+        "wp-includes/option.php:1857": [
             "wp-includes/option.php",
-            1856
+            1857
         ],
-        "wp-includes/option.php:1858": [
+        "wp-includes/option.php:1859": [
             "wp-includes/option.php",
-            1858
+            1859
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

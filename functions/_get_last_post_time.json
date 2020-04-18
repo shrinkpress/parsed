@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_get_last_post_time",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6457,
-    "startLine": 6472,
-    "endLine": 6519,
+    "docCommentLine": 6495,
+    "startLine": 6510,
+    "endLine": 6557,
     "calls": {
-        "wp-includes/post.php:6401": [
+        "wp-includes/post.php:6439": [
             "wp-includes/post.php",
-            6401
+            6439
         ],
-        "wp-includes/post.php:6437": [
+        "wp-includes/post.php:6475": [
             "wp-includes/post.php",
-            6437
+            6475
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

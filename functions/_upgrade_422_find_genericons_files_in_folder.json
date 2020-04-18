@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_upgrade_422_find_genericons_files_in_folder",
     "filename": "wp-admin/includes/update-core.php",
-    "docCommentLine": 1474,
-    "startLine": 1483,
-    "endLine": 1499,
+    "docCommentLine": 1483,
+    "startLine": 1492,
+    "endLine": 1508,
     "calls": {
-        "wp-admin/includes/update-core.php:1447": [
+        "wp-admin/includes/update-core.php:1456": [
             "wp-admin/includes/update-core.php",
-            1447
+            1456
         ],
-        "wp-admin/includes/update-core.php:1452": [
+        "wp-admin/includes/update-core.php:1461": [
             "wp-admin/includes/update-core.php",
-            1452
+            1461
         ],
-        "wp-admin/includes/update-core.php:1494": [
+        "wp-admin/includes/update-core.php:1503": [
             "wp-admin/includes/update-core.php",
-            1494
+            1503
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

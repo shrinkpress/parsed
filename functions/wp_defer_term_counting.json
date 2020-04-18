@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_defer_term_counting",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 3056,
-    "startLine": 3066,
-    "endLine": 3078,
+    "docCommentLine": 3059,
+    "startLine": 3069,
+    "endLine": 3081,
     "calls": {
-        "wp-admin/includes/nav-menu.php:1166": [
+        "wp-admin/includes/nav-menu.php:1167": [
             "wp-admin/includes/nav-menu.php",
-            1166
+            1167
         ],
-        "wp-admin/includes/nav-menu.php:1220": [
+        "wp-admin/includes/nav-menu.php:1221": [
             "wp-admin/includes/nav-menu.php",
-            1220
+            1221
         ],
-        "wp-includes/taxonomy.php:3116": [
+        "wp-includes/taxonomy.php:3119": [
             "wp-includes/taxonomy.php",
-            3116
+            3119
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

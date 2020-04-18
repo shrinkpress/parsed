@@ -1,23 +1,23 @@
 {
     "callbacks": {
-        "wp-includes/functions.php:6264": [
+        "wp-includes/functions.php:6456": [
             "wp-includes/functions.php",
-            6264,
+            6456,
             "admin_print_footer_scripts",
             "add_action"
         ],
-        "wp-includes/functions.php:6265": [
+        "wp-includes/functions.php:6457": [
             "wp-includes/functions.php",
-            6265,
+            6457,
             "wp_print_footer_scripts",
             "add_action"
         ]
     },
     "functionName": "wp_auth_check_html",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 6269,
-    "startLine": 6274,
-    "endLine": 6318,
+    "docCommentLine": 6461,
+    "startLine": 6466,
+    "endLine": 6510,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

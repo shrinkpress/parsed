@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "make_site_theme_from_default",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 3040,
-    "startLine": 3051,
-    "endLine": 3115,
+    "docCommentLine": 3065,
+    "startLine": 3076,
+    "endLine": 3140,
     "calls": {
-        "wp-admin/includes/upgrade.php:3153": [
+        "wp-admin/includes/upgrade.php:3178": [
             "wp-admin/includes/upgrade.php",
-            3153
+            3178
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

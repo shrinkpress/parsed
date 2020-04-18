@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "_load_image_to_edit_path",
     "filename": "wp-admin/includes/image.php",
-    "docCommentLine": 950,
-    "startLine": 963,
-    "endLine": 1012,
+    "docCommentLine": 958,
+    "startLine": 971,
+    "endLine": 1020,
     "calls": {
-        "wp-admin/includes/image-edit.php:632": [
+        "wp-admin/includes/image-edit.php:634": [
             "wp-admin/includes/image-edit.php",
-            632
+            634
         ],
-        "wp-admin/includes/image-edit.php:768": [
+        "wp-admin/includes/image-edit.php:770": [
             "wp-admin/includes/image-edit.php",
-            768
+            770
         ],
         "wp-admin/includes/image.php:33": [
             "wp-admin/includes/image.php",
             33
         ],
-        "wp-admin/includes/image.php:912": [
+        "wp-admin/includes/image.php:920": [
             "wp-admin/includes/image.php",
-            912
+            920
         ],
-        "wp-admin/includes/image.php:1028": [
+        "wp-admin/includes/image.php:1036": [
             "wp-admin/includes/image.php",
-            1028
+            1036
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

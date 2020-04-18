@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "addslashes_gpc",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 2704,
-    "startLine": 2715,
-    "endLine": 2717,
+    "docCommentLine": 2708,
+    "startLine": 2719,
+    "endLine": 2721,
     "calls": {
-        "wp-includes/class-wp-query.php:2203": [
+        "wp-includes/class-wp-query.php:2218": [
             "wp-includes/class-wp-query.php",
-            2203
+            2218
         ],
-        "wp-includes/class-wp-query.php:2309": [
+        "wp-includes/class-wp-query.php:2324": [
             "wp-includes/class-wp-query.php",
-            2309
+            2324
         ],
-        "wp-includes/class-wp-query.php:2322": [
+        "wp-includes/class-wp-query.php:2337": [
             "wp-includes/class-wp-query.php",
-            2322
+            2337
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

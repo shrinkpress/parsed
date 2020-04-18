@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_create_post_autosave",
     "filename": "wp-admin/includes/post.php",
-    "docCommentLine": 1783,
-    "startLine": 1791,
-    "endLine": 1846,
+    "docCommentLine": 1796,
+    "startLine": 1804,
+    "endLine": 1860,
     "calls": {
-        "wp-admin/includes/post.php:1880": [
+        "wp-admin/includes/post.php:1894": [
             "wp-admin/includes/post.php",
-            1880
+            1894
         ],
-        "wp-admin/includes/post.php:1949": [
+        "wp-admin/includes/post.php:1964": [
             "wp-admin/includes/post.php",
-            1949
+            1964
         ],
-        "wp-includes/class-wp-customize-manager.php:2948": [
+        "wp-includes/class-wp-customize-manager.php:2950": [
             "wp-includes/class-wp-customize-manager.php",
-            2948
+            2950
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

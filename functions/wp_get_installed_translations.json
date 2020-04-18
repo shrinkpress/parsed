@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_get_installed_translations",
     "filename": "wp-includes/l10n.php",
-    "docCommentLine": 1312,
-    "startLine": 1323,
-    "endLine": 1366,
+    "docCommentLine": 1326,
+    "startLine": 1337,
+    "endLine": 1380,
     "calls": {
-        "wp-admin/includes/plugin.php:937": [
+        "wp-admin/includes/plugin.php:949": [
             "wp-admin/includes/plugin.php",
-            937
+            949
         ],
-        "wp-admin/includes/theme.php:86": [
+        "wp-admin/includes/theme.php:87": [
             "wp-admin/includes/theme.php",
-            86
+            87
         ],
         "wp-includes/update.php:35": [
             "wp-includes/update.php",
@@ -22,9 +22,9 @@
             "wp-includes/update.php",
             272
         ],
-        "wp-includes/update.php:447": [
+        "wp-includes/update.php:448": [
             "wp-includes/update.php",
-            447
+            448
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

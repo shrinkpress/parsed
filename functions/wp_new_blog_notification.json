@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_new_blog_notification",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 570,
-    "startLine": 583,
-    "endLine": 615,
+    "docCommentLine": 587,
+    "startLine": 600,
+    "endLine": 632,
     "calls": {
-        "wp-admin/includes/upgrade.php:101": [
+        "wp-admin/includes/upgrade.php:117": [
             "wp-admin/includes/upgrade.php",
-            101
+            117
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

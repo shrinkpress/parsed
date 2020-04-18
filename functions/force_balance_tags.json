@@ -9,17 +9,17 @@
     },
     "functionName": "force_balance_tags",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 2440,
-    "startLine": 2459,
-    "endLine": 2602,
+    "docCommentLine": 2444,
+    "startLine": 2463,
+    "endLine": 2606,
     "calls": {
-        "wp-includes/formatting.php:2434": [
+        "wp-includes/formatting.php:2438": [
             "wp-includes/formatting.php",
-            2434
+            2438
         ],
-        "wp-includes/post-template.php:367": [
+        "wp-includes/post-template.php:369": [
             "wp-includes/post-template.php",
-            367
+            369
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

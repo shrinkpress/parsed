@@ -6,17 +6,17 @@
     "startLine": 77,
     "endLine": 98,
     "calls": {
-        "wp-admin/includes/post.php:1810": [
+        "wp-admin/includes/post.php:1823": [
             "wp-admin/includes/post.php",
-            1810
+            1823
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:344": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:363": [
             "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
-            344
+            363
         ],
-        "wp-includes/revision.php:313": [
+        "wp-includes/revision.php:315": [
             "wp-includes/revision.php",
-            313
+            315
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

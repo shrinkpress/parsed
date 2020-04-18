@@ -4,15 +4,15 @@
     "filename": "wp-admin/includes/image-edit.php",
     "docCommentLine": 9,
     "startLine": 18,
-    "endLine": 252,
+    "endLine": 254,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:2613": [
+        "wp-admin/includes/ajax-actions.php:2617": [
             "wp-admin/includes/ajax-actions.php",
-            2613
+            2617
         ],
-        "wp-admin/includes/media.php:3100": [
+        "wp-admin/includes/media.php:3119": [
             "wp-admin/includes/media.php",
-            3100
+            3119
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

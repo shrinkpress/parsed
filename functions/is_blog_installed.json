@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "is_blog_installed",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 1638,
-    "startLine": 1657,
-    "endLine": 1732,
+    "docCommentLine": 1674,
+    "startLine": 1693,
+    "endLine": 1768,
     "calls": {
-        "wp-admin/includes/upgrade.php:640": [
+        "wp-admin/includes/upgrade.php:657": [
             "wp-admin/includes/upgrade.php",
-            640
+            657
         ],
         "wp-admin/install.php:215": [
             "wp-admin/install.php",
@@ -18,13 +18,13 @@
             "wp-admin/upgrade.php",
             73
         ],
-        "wp-includes/load.php:600": [
+        "wp-includes/load.php:601": [
             "wp-includes/load.php",
-            600
+            601
         ],
-        "wp-includes/load.php:605": [
+        "wp-includes/load.php:606": [
             "wp-includes/load.php",
-            605
+            606
         ],
         "wp-includes/widgets.php:1718": [
             "wp-includes/widgets.php",

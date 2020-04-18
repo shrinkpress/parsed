@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "iis7_add_rewrite_rule",
     "filename": "wp-admin/includes/misc.php",
-    "docCommentLine": 783,
-    "startLine": 792,
-    "endLine": 864,
+    "docCommentLine": 790,
+    "startLine": 799,
+    "endLine": 871,
     "calls": {
-        "wp-admin/includes/misc.php:296": [
+        "wp-admin/includes/misc.php:303": [
             "wp-admin/includes/misc.php",
-            296
+            303
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

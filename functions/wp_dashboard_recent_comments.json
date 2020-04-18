@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_dashboard_recent_comments",
     "filename": "wp-admin/includes/dashboard.php",
-    "docCommentLine": 973,
-    "startLine": 981,
-    "endLine": 1033,
+    "docCommentLine": 994,
+    "startLine": 1002,
+    "endLine": 1054,
     "calls": {
-        "wp-admin/includes/dashboard.php:868": [
+        "wp-admin/includes/dashboard.php:889": [
             "wp-admin/includes/dashboard.php",
-            868
+            889
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

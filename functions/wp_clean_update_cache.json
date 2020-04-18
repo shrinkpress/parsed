@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/update.php:831": [
+        "wp-includes/update.php:832": [
             "wp-includes/update.php",
-            831,
+            832,
             "update_option_WPLANG",
             "add_action"
         ]
     },
     "functionName": "wp_clean_update_cache",
     "filename": "wp-includes/update.php",
-    "docCommentLine": 797,
-    "startLine": 802,
-    "endLine": 810,
+    "docCommentLine": 798,
+    "startLine": 803,
+    "endLine": 811,
     "calls": {
         "wp-admin/includes/class-language-pack-upgrader.php:305": [
             "wp-admin/includes/class-language-pack-upgrader.php",

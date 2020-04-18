@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "comment_link",
     "filename": "wp-includes/feed.php",
-    "docCommentLine": 296,
-    "startLine": 304,
-    "endLine": 315,
+    "docCommentLine": 295,
+    "startLine": 303,
+    "endLine": 314,
     "calls": {
-        "wp-includes/feed-atom-comments.php:91": [
+        "wp-includes/feed-atom-comments.php:90": [
             "wp-includes/feed-atom-comments.php",
-            91
+            90
         ],
         "wp-includes/feed-atom-comments.php:106": [
             "wp-includes/feed-atom-comments.php",
@@ -18,9 +18,9 @@
             "wp-includes/feed-atom-comments.php",
             108
         ],
-        "wp-includes/feed-rss2-comments.php:94": [
+        "wp-includes/feed-rss2-comments.php:93": [
             "wp-includes/feed-rss2-comments.php",
-            94
+            93
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

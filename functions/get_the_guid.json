@@ -6,21 +6,21 @@
     "startLine": 218,
     "endLine": 233,
     "calls": {
-        "wp-includes/feed.php:293": [
+        "wp-includes/feed.php:292": [
             "wp-includes/feed.php",
-            293
+            292
         ],
         "wp-includes/post-template.php:190": [
             "wp-includes/post-template.php",
             190
         ],
-        "wp-includes/post.php:5843": [
+        "wp-includes/post.php:5881": [
             "wp-includes/post.php",
-            5843
+            5881
         ],
-        "wp-includes/post.php:6729": [
+        "wp-includes/post.php:6767": [
             "wp-includes/post.php",
-            6729
+            6767
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

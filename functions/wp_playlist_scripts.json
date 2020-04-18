@@ -1,25 +1,25 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:523": [
+        "wp-includes/default-filters.php:524": [
             "wp-includes/default-filters.php",
-            523,
+            524,
             "wp_playlist_scripts",
             "add_action"
         ]
     },
     "functionName": "wp_playlist_scripts",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 2080,
-    "startLine": 2087,
-    "endLine": 2095,
+    "docCommentLine": 2138,
+    "startLine": 2145,
+    "endLine": 2153,
     "calls": {
-        "wp-includes/widgets/class-wp-widget-text.php:422": [
+        "wp-includes/widgets/class-wp-widget-text.php:425": [
             "wp-includes/widgets/class-wp-widget-text.php",
-            422
+            425
         ],
-        "wp-includes/widgets/class-wp-widget-text.php:423": [
+        "wp-includes/widgets/class-wp-widget-text.php:426": [
             "wp-includes/widgets/class-wp-widget-text.php",
-            423
+            426
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "show_admin_bar",
     "filename": "wp-includes/admin-bar.php",
-    "docCommentLine": 1145,
-    "startLine": 1157,
-    "endLine": 1160,
+    "docCommentLine": 1158,
+    "startLine": 1170,
+    "endLine": 1173,
     "calls": {
-        "wp-admin/includes/template.php:1954": [
+        "wp-admin/includes/template.php:1956": [
             "wp-admin/includes/template.php",
-            1954
+            1956
         ],
-        "wp-includes/class-wp-customize-manager.php:561": [
+        "wp-includes/class-wp-customize-manager.php:560": [
             "wp-includes/class-wp-customize-manager.php",
-            561
+            560
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "dbDelta",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 2531,
-    "startLine": 2547,
-    "endLine": 2908,
+    "docCommentLine": 2552,
+    "startLine": 2568,
+    "endLine": 2933,
     "calls": {
-        "wp-admin/includes/schema.php:938": [
+        "wp-admin/includes/schema.php:937": [
             "wp-admin/includes/schema.php",
-            938
+            937
         ],
-        "wp-admin/includes/upgrade.php:2923": [
+        "wp-admin/includes/upgrade.php:2948": [
             "wp-admin/includes/upgrade.php",
-            2923
+            2948
         ],
-        "wp-admin/includes/upgrade.php:2944": [
+        "wp-admin/includes/upgrade.php:2969": [
             "wp-admin/includes/upgrade.php",
-            2944
+            2969
         ],
-        "wp-admin/includes/upgrade.php:3331": [
+        "wp-admin/includes/upgrade.php:3356": [
             "wp-admin/includes/upgrade.php",
-            3331
+            3356
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

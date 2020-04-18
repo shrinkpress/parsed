@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_update_network_user_counts",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 2409,
-    "startLine": 2419,
-    "endLine": 2424,
+    "docCommentLine": 2452,
+    "startLine": 2462,
+    "endLine": 2467,
     "calls": {
-        "wp-includes/ms-functions.php:2324": [
+        "wp-includes/ms-functions.php:2367": [
             "wp-includes/ms-functions.php",
-            2324
+            2367
         ],
-        "wp-includes/ms-functions.php:2378": [
+        "wp-includes/ms-functions.php:2421": [
             "wp-includes/ms-functions.php",
-            2378
+            2421
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

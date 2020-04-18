@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "_deprecated_constructor",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 4663,
-    "startLine": 4683,
-    "endLine": 4754,
+    "docCommentLine": 4751,
+    "startLine": 4771,
+    "endLine": 4846,
     "calls": {
         "wp-includes/class-json.php:165": [
             "wp-includes/class-json.php",
@@ -18,13 +18,37 @@
             "wp-includes/class-json.php",
             1030
         ],
-        "wp-includes/class-wp-widget-factory.php:41": [
+        "wp-includes/class-wp-widget-factory.php:44": [
             "wp-includes/class-wp-widget-factory.php",
-            41
+            44
         ],
-        "wp-includes/class-wp-widget.php:192": [
+        "wp-includes/class-wp-widget.php:193": [
             "wp-includes/class-wp-widget.php",
-            192
+            193
+        ],
+        "wp-includes/pomo/entry.php:74": [
+            "wp-includes/pomo/entry.php",
+            74
+        ],
+        "wp-includes/pomo/streams.php:33": [
+            "wp-includes/pomo/streams.php",
+            33
+        ],
+        "wp-includes/pomo/streams.php:164": [
+            "wp-includes/pomo/streams.php",
+            164
+        ],
+        "wp-includes/pomo/streams.php:248": [
+            "wp-includes/pomo/streams.php",
+            248
+        ],
+        "wp-includes/pomo/streams.php:319": [
+            "wp-includes/pomo/streams.php",
+            319
+        ],
+        "wp-includes/pomo/streams.php:345": [
+            "wp-includes/pomo/streams.php",
+            345
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

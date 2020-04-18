@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_space_used",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 2426,
-    "startLine": 2433,
-    "endLine": 2448,
+    "docCommentLine": 2469,
+    "startLine": 2476,
+    "endLine": 2491,
     "calls": {
-        "wp-admin/includes/dashboard.php:1506": [
+        "wp-admin/includes/dashboard.php:1529": [
             "wp-admin/includes/dashboard.php",
-            1506
+            1529
         ],
         "wp-admin/includes/ms.php:225": [
             "wp-admin/includes/ms.php",
@@ -18,9 +18,9 @@
             "wp-admin/includes/ms.php",
             248
         ],
-        "wp-includes/ms-functions.php:2495": [
+        "wp-includes/ms-functions.php:2538": [
             "wp-includes/ms-functions.php",
-            2495
+            2538
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

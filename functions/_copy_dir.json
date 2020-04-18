@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_copy_dir",
     "filename": "wp-admin/includes/update-core.php",
-    "docCommentLine": 1300,
-    "startLine": 1319,
-    "endLine": 1365,
+    "docCommentLine": 1309,
+    "startLine": 1328,
+    "endLine": 1374,
     "calls": {
-        "wp-admin/includes/update-core.php:1090": [
+        "wp-admin/includes/update-core.php:1093": [
             "wp-admin/includes/update-core.php",
-            1090
+            1093
         ],
-        "wp-admin/includes/update-core.php:1142": [
+        "wp-admin/includes/update-core.php:1145": [
             "wp-admin/includes/update-core.php",
-            1142
+            1145
         ],
-        "wp-admin/includes/update-core.php:1358": [
+        "wp-admin/includes/update-core.php:1367": [
             "wp-admin/includes/update-core.php",
-            1358
+            1367
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

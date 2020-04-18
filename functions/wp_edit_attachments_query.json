@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_edit_attachments_query",
     "filename": "wp-admin/includes/post.php",
-    "docCommentLine": 1259,
-    "startLine": 1268,
-    "endLine": 1275,
+    "docCommentLine": 1262,
+    "startLine": 1271,
+    "endLine": 1278,
     "calls": {
         "wp-admin/includes/class-wp-media-list-table.php:72": [
             "wp-admin/includes/class-wp-media-list-table.php",
             72
         ],
-        "wp-admin/includes/media.php:2673": [
+        "wp-admin/includes/media.php:2692": [
             "wp-admin/includes/media.php",
-            2673
+            2692
         ],
-        "wp-admin/includes/media.php:2706": [
+        "wp-admin/includes/media.php:2725": [
             "wp-admin/includes/media.php",
-            2706
+            2725
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

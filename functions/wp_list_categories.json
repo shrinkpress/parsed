@@ -3,8 +3,8 @@
     "functionName": "wp_list_categories",
     "filename": "wp-includes/category-template.php",
     "docCommentLine": 467,
-    "startLine": 510,
-    "endLine": 653,
+    "startLine": 513,
+    "endLine": 656,
     "calls": {
         "wp-includes/blocks/categories.php:40": [
             "wp-includes/blocks/categories.php",
@@ -18,9 +18,9 @@
             "wp-includes/theme-compat/sidebar.php",
             126
         ],
-        "wp-includes/widgets/class-wp-widget-categories.php:126": [
+        "wp-includes/widgets/class-wp-widget-categories.php:128": [
             "wp-includes/widgets/class-wp-widget-categories.php",
-            126
+            128
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "is_main_network",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 5297,
-    "startLine": 5305,
-    "endLine": 5317,
+    "docCommentLine": 5489,
+    "startLine": 5497,
+    "endLine": 5509,
     "calls": {
         "wp-admin/includes/class-wp-automatic-updater.php:404": [
             "wp-admin/includes/class-wp-automatic-updater.php",
             404
         ],
-        "wp-admin/includes/upgrade.php:3364": [
+        "wp-admin/includes/upgrade.php:3389": [
             "wp-admin/includes/upgrade.php",
-            3364
+            3389
         ],
-        "wp-includes/functions.php:2321": [
+        "wp-includes/functions.php:2364": [
             "wp-includes/functions.php",
-            2321
+            2364
         ],
         "wp-includes/option.php:897": [
             "wp-includes/option.php",

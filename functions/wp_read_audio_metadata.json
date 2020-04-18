@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_read_audio_metadata",
     "filename": "wp-admin/includes/media.php",
-    "docCommentLine": 3541,
-    "startLine": 3549,
-    "endLine": 3603,
+    "docCommentLine": 3571,
+    "startLine": 3579,
+    "endLine": 3633,
     "calls": {
-        "wp-admin/includes/image.php:481": [
+        "wp-admin/includes/image.php:489": [
             "wp-admin/includes/image.php",
-            481
+            489
         ],
         "wp-admin/includes/media.php:319": [
             "wp-admin/includes/media.php",

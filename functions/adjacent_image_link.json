@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "adjacent_image_link",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 2941,
-    "startLine": 2953,
-    "endLine": 3002,
+    "docCommentLine": 2999,
+    "startLine": 3011,
+    "endLine": 3060,
     "calls": {
-        "wp-includes/media.php:2922": [
+        "wp-includes/media.php:2980": [
             "wp-includes/media.php",
-            2922
+            2980
         ],
-        "wp-includes/media.php:2938": [
+        "wp-includes/media.php:2996": [
             "wp-includes/media.php",
-            2938
+            2996
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

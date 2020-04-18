@@ -6,18 +6,18 @@
             "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Scalar_Encapsed\",\"parts\":[{\"nodeType\":\"Scalar_EncapsedStringPart\",\"value\":\"after_theme_row_\",\"attributes\":{\"startLine\":768,\"endLine\":768}},{\"nodeType\":\"Expr_Variable\",\"name\":\"stylesheet\",\"attributes\":{\"startLine\":768,\"endLine\":768}}],\"attributes\":{\"startLine\":768,\"endLine\":768,\"kind\":2}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":768,\"endLine\":768}}",
             "remove_action"
         ],
-        "wp-admin/includes/update.php:574": [
+        "wp-admin/includes/update.php:602": [
             "wp-admin/includes/update.php",
-            574,
-            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Scalar_Encapsed\",\"parts\":[{\"nodeType\":\"Scalar_EncapsedStringPart\",\"value\":\"after_theme_row_\",\"attributes\":{\"startLine\":574,\"endLine\":574}},{\"nodeType\":\"Expr_Variable\",\"name\":\"theme\",\"attributes\":{\"startLine\":574,\"endLine\":574}}],\"attributes\":{\"startLine\":574,\"endLine\":574,\"kind\":2}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":574,\"endLine\":574}}",
+            602,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Scalar_Encapsed\",\"parts\":[{\"nodeType\":\"Scalar_EncapsedStringPart\",\"value\":\"after_theme_row_\",\"attributes\":{\"startLine\":602,\"endLine\":602}},{\"nodeType\":\"Expr_Variable\",\"name\":\"theme\",\"attributes\":{\"startLine\":602,\"endLine\":602}}],\"attributes\":{\"startLine\":602,\"endLine\":602,\"kind\":2}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":602,\"endLine\":602}}",
             "add_action"
         ]
     },
     "functionName": "wp_theme_update_row",
     "filename": "wp-admin/includes/update.php",
-    "docCommentLine": 579,
-    "startLine": 586,
-    "endLine": 687,
+    "docCommentLine": 607,
+    "startLine": 616,
+    "endLine": 717,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

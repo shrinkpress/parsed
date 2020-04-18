@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "upgrade_230_old_tables",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 1481,
-    "startLine": 1489,
-    "endLine": 1494,
+    "docCommentLine": 1500,
+    "startLine": 1508,
+    "endLine": 1513,
     "calls": {
-        "wp-admin/includes/upgrade.php:733": [
+        "wp-admin/includes/upgrade.php:750": [
             "wp-admin/includes/upgrade.php",
-            733
+            750
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_comment_id_fields",
     "filename": "wp-includes/comment-template.php",
-    "docCommentLine": 1875,
-    "startLine": 1883,
-    "endLine": 1902,
+    "docCommentLine": 1894,
+    "startLine": 1902,
+    "endLine": 1921,
     "calls": {
-        "wp-includes/comment-template.php:1912": [
+        "wp-includes/comment-template.php:1931": [
             "wp-includes/comment-template.php",
-            1912
+            1931
         ],
-        "wp-includes/comment-template.php:2614": [
+        "wp-includes/comment-template.php:2635": [
             "wp-includes/comment-template.php",
-            2614
+            2635
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

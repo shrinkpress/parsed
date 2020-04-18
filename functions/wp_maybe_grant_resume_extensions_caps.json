@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:584": [
+        "wp-includes/default-filters.php:586": [
             "wp-includes/default-filters.php",
-            584,
+            586,
             "user_has_cap",
             "add_filter"
         ]
     },
     "functionName": "wp_maybe_grant_resume_extensions_caps",
     "filename": "wp-includes/capabilities.php",
-    "docCommentLine": 1001,
-    "startLine": 1009,
-    "endLine": 1021,
+    "docCommentLine": 1010,
+    "startLine": 1018,
+    "endLine": 1030,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_dropdown_roles",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 914,
-    "startLine": 921,
-    "endLine": 937,
+    "docCommentLine": 915,
+    "startLine": 922,
+    "endLine": 938,
     "calls": {
         "wp-admin/includes/class-wp-users-list-table.php:297": [
             "wp-admin/includes/class-wp-users-list-table.php",
@@ -22,9 +22,9 @@
             "wp-admin/options-general.php",
             151
         ],
-        "wp-admin/user-edit.php:419": [
+        "wp-admin/user-edit.php:418": [
             "wp-admin/user-edit.php",
-            419
+            418
         ],
         "wp-admin/user-new.php:418": [
             "wp-admin/user-new.php",

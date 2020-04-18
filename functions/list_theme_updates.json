@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "list_theme_updates",
     "filename": "wp-admin/update-core.php",
-    "docCommentLine": 438,
-    "startLine": 443,
-    "endLine": 518,
+    "docCommentLine": 442,
+    "startLine": 447,
+    "endLine": 522,
     "calls": {
-        "wp-admin/update-core.php:770": [
+        "wp-admin/update-core.php:774": [
             "wp-admin/update-core.php",
-            770
+            774
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

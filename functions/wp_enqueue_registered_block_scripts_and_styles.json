@@ -1,23 +1,23 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:499": [
-            "wp-includes/default-filters.php",
-            499,
-            "enqueue_block_assets",
-            "add_action"
-        ],
         "wp-includes/default-filters.php:500": [
             "wp-includes/default-filters.php",
             500,
+            "enqueue_block_assets",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:501": [
+            "wp-includes/default-filters.php",
+            501,
             "enqueue_block_editor_assets",
             "add_action"
         ]
     },
     "functionName": "wp_enqueue_registered_block_scripts_and_styles",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 2859,
-    "startLine": 2867,
-    "endLine": 2894,
+    "docCommentLine": 2483,
+    "startLine": 2491,
+    "endLine": 2518,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

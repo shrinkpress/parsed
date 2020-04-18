@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "wp_calculate_image_sizes",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 1368,
-    "startLine": 1382,
-    "endLine": 1420,
+    "docCommentLine": 1426,
+    "startLine": 1440,
+    "endLine": 1478,
     "calls": {
-        "wp-includes/media.php:1009": [
+        "wp-includes/media.php:1047": [
             "wp-includes/media.php",
-            1009
+            1047
         ],
-        "wp-includes/media.php:1365": [
+        "wp-includes/media.php:1423": [
             "wp-includes/media.php",
-            1365
+            1423
         ],
-        "wp-includes/media.php:1542": [
+        "wp-includes/media.php:1600": [
             "wp-includes/media.php",
-            1542
+            1600
         ],
-        "wp-includes/theme.php:1127": [
+        "wp-includes/theme.php:1130": [
             "wp-includes/theme.php",
-            1127
+            1130
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

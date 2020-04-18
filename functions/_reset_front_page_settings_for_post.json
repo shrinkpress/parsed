@@ -1,23 +1,23 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:476": [
-            "wp-includes/default-filters.php",
-            476,
-            "before_delete_post",
-            "add_action"
-        ],
         "wp-includes/default-filters.php:477": [
             "wp-includes/default-filters.php",
             477,
+            "before_delete_post",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:478": [
+            "wp-includes/default-filters.php",
+            478,
             "wp_trash_post",
             "add_action"
         ]
     },
     "functionName": "_reset_front_page_settings_for_post",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 3064,
-    "startLine": 3075,
-    "endLine": 3091,
+    "docCommentLine": 3075,
+    "startLine": 3086,
+    "endLine": 3102,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

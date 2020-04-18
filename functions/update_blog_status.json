@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "update_blog_status",
     "filename": "wp-includes/ms-blogs.php",
-    "docCommentLine": 682,
-    "startLine": 696,
-    "endLine": 719,
+    "docCommentLine": 685,
+    "startLine": 699,
+    "endLine": 722,
     "calls": {
         "wp-admin/includes/ms.php:116": [
             "wp-admin/includes/ms.php",
@@ -42,13 +42,13 @@
             "wp-admin/network/users.php",
             105
         ],
-        "wp-includes/ms-blogs.php:678": [
+        "wp-includes/ms-blogs.php:681": [
             "wp-includes/ms-blogs.php",
-            678
+            681
         ],
-        "wp-includes/ms-functions.php:2209": [
+        "wp-includes/ms-functions.php:2252": [
             "wp-includes/ms-functions.php",
-            2209
+            2252
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

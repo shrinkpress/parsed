@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "get_search_query",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 3893,
-    "startLine": 3905,
-    "endLine": 3919,
+    "docCommentLine": 3884,
+    "startLine": 3896,
+    "endLine": 3910,
     "calls": {
-        "wp-admin/edit.php:386": [
+        "wp-admin/edit.php:402": [
             "wp-admin/edit.php",
-            386
+            402
         ],
-        "wp-admin/upload.php:277": [
+        "wp-admin/upload.php:279": [
             "wp-admin/upload.php",
-            277
+            279
         ],
-        "wp-includes/blocks/search.php:33": [
+        "wp-includes/blocks/search.php:39": [
             "wp-includes/blocks/search.php",
-            33
+            39
         ],
         "wp-includes/feed-atom-comments.php:37": [
             "wp-includes/feed-atom-comments.php",
@@ -38,17 +38,17 @@
             "wp-includes/general-template.php",
             283
         ],
-        "wp-includes/general-template.php:1058": [
+        "wp-includes/general-template.php:1059": [
             "wp-includes/general-template.php",
-            1058
+            1059
         ],
-        "wp-includes/general-template.php:3034": [
+        "wp-includes/general-template.php:3039": [
             "wp-includes/general-template.php",
-            3034
+            3039
         ],
-        "wp-includes/general-template.php:3937": [
+        "wp-includes/general-template.php:3928": [
             "wp-includes/general-template.php",
-            3937
+            3928
         ],
         "wp-includes/link-template.php:1101": [
             "wp-includes/link-template.php",

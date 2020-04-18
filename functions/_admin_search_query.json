@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "_admin_search_query",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 1929,
-    "startLine": 1937,
-    "endLine": 1939,
+    "docCommentLine": 1931,
+    "startLine": 1939,
+    "endLine": 1941,
     "calls": {
         "wp-admin/includes/class-wp-list-table.php:368": [
             "wp-admin/includes/class-wp-list-table.php",
             368
         ],
-        "wp-admin/includes/class-wp-media-list-table.php:274": [
+        "wp-admin/includes/class-wp-media-list-table.php:278": [
             "wp-admin/includes/class-wp-media-list-table.php",
-            274
+            278
         ],
-        "wp-admin/includes/class-wp-plugins-list-table.php:389": [
+        "wp-admin/includes/class-wp-plugins-list-table.php:387": [
             "wp-admin/includes/class-wp-plugins-list-table.php",
-            389
+            387
         ],
         "wp-admin/upload.php:84": [
             "wp-admin/upload.php",

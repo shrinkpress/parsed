@@ -4,19 +4,19 @@
     "filename": "wp-admin/includes/file.php",
     "docCommentLine": 342,
     "startLine": 363,
-    "endLine": 622,
+    "endLine": 623,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:4665": [
+        "wp-admin/includes/ajax-actions.php:4669": [
             "wp-admin/includes/ajax-actions.php",
-            4665
+            4669
         ],
-        "wp-admin/plugin-editor.php:83": [
+        "wp-admin/plugin-editor.php:84": [
             "wp-admin/plugin-editor.php",
-            83
+            84
         ],
-        "wp-admin/theme-editor.php:121": [
+        "wp-admin/theme-editor.php:122": [
             "wp-admin/theme-editor.php",
-            121
+            122
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

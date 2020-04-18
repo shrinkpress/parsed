@@ -2,49 +2,49 @@
     "callbacks": [],
     "functionName": "register_post_type",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 1264,
-    "startLine": 1405,
-    "endLine": 1442,
+    "docCommentLine": 1273,
+    "startLine": 1415,
+    "endLine": 1452,
     "calls": {
         "wp-includes/post.php:21": [
             "wp-includes/post.php",
             21
         ],
-        "wp-includes/post.php:44": [
+        "wp-includes/post.php:45": [
             "wp-includes/post.php",
-            44
+            45
         ],
-        "wp-includes/post.php:68": [
+        "wp-includes/post.php:70": [
             "wp-includes/post.php",
-            68
+            70
         ],
-        "wp-includes/post.php:102": [
+        "wp-includes/post.php:105": [
             "wp-includes/post.php",
-            102
+            105
         ],
-        "wp-includes/post.php:123": [
+        "wp-includes/post.php:126": [
             "wp-includes/post.php",
-            123
+            126
         ],
-        "wp-includes/post.php:139": [
+        "wp-includes/post.php:142": [
             "wp-includes/post.php",
-            139
+            142
         ],
-        "wp-includes/post.php:171": [
+        "wp-includes/post.php:174": [
             "wp-includes/post.php",
-            171
+            174
         ],
-        "wp-includes/post.php:219": [
+        "wp-includes/post.php:222": [
             "wp-includes/post.php",
-            219
+            222
         ],
-        "wp-includes/post.php:237": [
+        "wp-includes/post.php:240": [
             "wp-includes/post.php",
-            237
+            240
         ],
-        "wp-includes/post.php:255": [
+        "wp-includes/post.php:258": [
             "wp-includes/post.php",
-            255
+            258
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

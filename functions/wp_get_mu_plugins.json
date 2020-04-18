@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_get_mu_plugins",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 618,
-    "startLine": 630,
-    "endLine": 648,
+    "docCommentLine": 619,
+    "startLine": 631,
+    "endLine": 649,
     "calls": {
-        "wp-settings.php:290": [
+        "wp-settings.php:301": [
             "wp-settings.php",
-            290
+            301
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

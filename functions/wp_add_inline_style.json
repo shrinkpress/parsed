@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_add_inline_style",
     "filename": "wp-includes/functions.wp-styles.php",
-    "docCommentLine": 67,
-    "startLine": 83,
-    "endLine": 101,
+    "docCommentLine": 68,
+    "startLine": 84,
+    "endLine": 102,
     "calls": {
-        "wp-includes/script-loader.php:2910": [
+        "wp-includes/script-loader.php:2534": [
             "wp-includes/script-loader.php",
-            2910
+            2534
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

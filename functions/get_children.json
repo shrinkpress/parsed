@@ -2,41 +2,41 @@
     "callbacks": [],
     "functionName": "get_children",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 587,
-    "startLine": 638,
-    "endLine": 694,
+    "docCommentLine": 590,
+    "startLine": 640,
+    "endLine": 696,
     "calls": {
-        "wp-admin/includes/media.php:1493": [
+        "wp-admin/includes/media.php:1505": [
             "wp-admin/includes/media.php",
-            1493
+            1505
         ],
-        "wp-includes/media.php:1875": [
+        "wp-includes/media.php:1933": [
             "wp-includes/media.php",
-            1875
+            1933
         ],
-        "wp-includes/media.php:1887": [
+        "wp-includes/media.php:1945": [
             "wp-includes/media.php",
-            1887
+            1945
         ],
-        "wp-includes/media.php:2211": [
+        "wp-includes/media.php:2269": [
             "wp-includes/media.php",
-            2211
+            2269
         ],
-        "wp-includes/media.php:2214": [
+        "wp-includes/media.php:2272": [
             "wp-includes/media.php",
-            2214
+            2272
         ],
-        "wp-includes/media.php:2956": [
+        "wp-includes/media.php:3014": [
             "wp-includes/media.php",
-            2956
+            3014
         ],
-        "wp-includes/media.php:4020": [
+        "wp-includes/media.php:4093": [
             "wp-includes/media.php",
-            4020
+            4093
         ],
-        "wp-includes/revision.php:492": [
+        "wp-includes/revision.php:494": [
             "wp-includes/revision.php",
-            492
+            494
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_get_update_php_url",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 7095,
-    "startLine": 7107,
-    "endLine": 7132,
+    "docCommentLine": 7287,
+    "startLine": 7299,
+    "endLine": 7324,
     "calls": {
         "wp-admin/includes/class-wp-plugin-install-list-table.php:656": [
             "wp-admin/includes/class-wp-plugin-install-list-table.php",
@@ -18,45 +18,45 @@
             "wp-admin/includes/class-wp-plugin-install-list-table.php",
             688
         ],
-        "wp-admin/includes/class-wp-site-health.php:697": [
+        "wp-admin/includes/class-wp-site-health.php:727": [
             "wp-admin/includes/class-wp-site-health.php",
-            697
+            727
         ],
-        "wp-admin/includes/dashboard.php:1716": [
+        "wp-admin/includes/dashboard.php:1745": [
             "wp-admin/includes/dashboard.php",
-            1716
+            1745
         ],
-        "wp-admin/includes/plugin-install.php:805": [
+        "wp-admin/includes/plugin-install.php:809": [
             "wp-admin/includes/plugin-install.php",
-            805
+            809
         ],
-        "wp-admin/includes/update-core.php:957": [
+        "wp-admin/includes/update-core.php:960": [
             "wp-admin/includes/update-core.php",
-            957
+            960
         ],
-        "wp-admin/includes/update.php:495": [
+        "wp-admin/includes/update.php:521": [
             "wp-admin/includes/update.php",
-            495
+            521
         ],
         "wp-admin/install.php:244": [
             "wp-admin/install.php",
             244
         ],
-        "wp-admin/update-core.php:85": [
+        "wp-admin/update-core.php:89": [
             "wp-admin/update-core.php",
-            85
+            89
         ],
-        "wp-admin/update-core.php:366": [
+        "wp-admin/update-core.php:370": [
             "wp-admin/update-core.php",
-            366
+            370
         ],
         "wp-admin/upgrade.php:88": [
             "wp-admin/upgrade.php",
             88
         ],
-        "wp-includes/functions.php:7181": [
+        "wp-includes/functions.php:7373": [
             "wp-includes/functions.php",
-            7181
+            7373
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

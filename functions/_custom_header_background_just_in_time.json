@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:456": [
+        "wp-includes/default-filters.php:457": [
             "wp-includes/default-filters.php",
-            456,
+            457,
             "wp_loaded",
             "add_action"
         ]
     },
     "functionName": "_custom_header_background_just_in_time",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 2613,
-    "startLine": 2622,
-    "endLine": 2652,
+    "docCommentLine": 2620,
+    "startLine": 2629,
+    "endLine": 2659,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

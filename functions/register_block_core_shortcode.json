@@ -1,8 +1,8 @@
 {
     "callbacks": {
-        "wp-includes/blocks/shortcode.php:37": [
+        "wp-includes/blocks/shortcode.php:36": [
             "wp-includes/blocks/shortcode.php",
-            37,
+            36,
             "init",
             "add_action"
         ]
@@ -11,7 +11,7 @@
     "filename": "wp-includes/blocks/shortcode.php",
     "docCommentLine": 20,
     "startLine": 23,
-    "endLine": 36,
+    "endLine": 35,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

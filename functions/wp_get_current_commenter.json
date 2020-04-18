@@ -3,8 +3,8 @@
     "functionName": "wp_get_current_commenter",
     "filename": "wp-includes/comment.php",
     "docCommentLine": 1771,
-    "startLine": 1783,
-    "endLine": 1815,
+    "startLine": 1789,
+    "endLine": 1821,
     "calls": {
         "wp-includes/class-walker-comment.php:267": [
             "wp-includes/class-walker-comment.php",
@@ -14,17 +14,17 @@
             "wp-includes/class-walker-comment.php",
             357
         ],
-        "wp-includes/comment-template.php:1337": [
+        "wp-includes/comment-template.php:1356": [
             "wp-includes/comment-template.php",
-            1337
+            1356
         ],
-        "wp-includes/comment-template.php:2269": [
+        "wp-includes/comment-template.php:2290": [
             "wp-includes/comment-template.php",
-            2269
+            2290
         ],
-        "wp-includes/comment.php:1839": [
+        "wp-includes/comment.php:1845": [
             "wp-includes/comment.php",
-            1839
+            1845
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

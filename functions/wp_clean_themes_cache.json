@@ -1,59 +1,59 @@
 {
     "callbacks": {
-        "wp-admin/includes/class-theme-upgrader.php:215": [
+        "wp-admin/includes/class-theme-upgrader.php:216": [
             "wp-admin/includes/class-theme-upgrader.php",
-            215,
+            216,
             "upgrader_process_complete",
             "add_action"
         ],
-        "wp-admin/includes/class-theme-upgrader.php:231": [
+        "wp-admin/includes/class-theme-upgrader.php:232": [
             "wp-admin/includes/class-theme-upgrader.php",
-            231,
+            232,
             "upgrader_process_complete",
             "remove_action"
         ],
-        "wp-admin/includes/class-theme-upgrader.php:287": [
+        "wp-admin/includes/class-theme-upgrader.php:288": [
             "wp-admin/includes/class-theme-upgrader.php",
-            287,
+            288,
             "upgrader_process_complete",
             "add_action"
         ],
-        "wp-admin/includes/class-theme-upgrader.php:304": [
+        "wp-admin/includes/class-theme-upgrader.php:305": [
             "wp-admin/includes/class-theme-upgrader.php",
-            304,
+            305,
             "upgrader_process_complete",
             "remove_action"
         ]
     },
     "functionName": "wp_clean_themes_cache",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 129,
-    "startLine": 135,
-    "endLine": 143,
+    "docCommentLine": 130,
+    "startLine": 136,
+    "endLine": 144,
     "calls": {
-        "wp-admin/includes/class-theme-upgrader.php:240": [
+        "wp-admin/includes/class-theme-upgrader.php:241": [
             "wp-admin/includes/class-theme-upgrader.php",
-            240
+            241
         ],
-        "wp-admin/includes/class-theme-upgrader.php:313": [
+        "wp-admin/includes/class-theme-upgrader.php:314": [
             "wp-admin/includes/class-theme-upgrader.php",
-            313
+            314
         ],
-        "wp-admin/includes/class-theme-upgrader.php:418": [
+        "wp-admin/includes/class-theme-upgrader.php:421": [
             "wp-admin/includes/class-theme-upgrader.php",
-            418
+            421
         ],
-        "wp-admin/includes/class-theme-upgrader.php:575": [
+        "wp-admin/includes/class-theme-upgrader.php:581": [
             "wp-admin/includes/class-theme-upgrader.php",
-            575
+            581
         ],
         "wp-admin/includes/class-wp-automatic-updater.php:437": [
             "wp-admin/includes/class-wp-automatic-updater.php",
             437
         ],
-        "wp-includes/update.php:808": [
+        "wp-includes/update.php:809": [
             "wp-includes/update.php",
-            808
+            809
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

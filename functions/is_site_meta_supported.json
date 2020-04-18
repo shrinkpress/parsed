@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "is_site_meta_supported",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 5395,
-    "startLine": 5408,
-    "endLine": 5425,
+    "docCommentLine": 5587,
+    "startLine": 5600,
+    "endLine": 5617,
     "calls": {
-        "wp-admin/includes/schema.php:1302": [
+        "wp-admin/includes/schema.php:1301": [
             "wp-admin/includes/schema.php",
-            1302
+            1301
         ],
-        "wp-admin/includes/upgrade.php:2284": [
+        "wp-admin/includes/upgrade.php:2305": [
             "wp-admin/includes/upgrade.php",
-            2284
+            2305
         ],
         "wp-includes/ms-site.php:254": [
             "wp-includes/ms-site.php",
             254
         ],
-        "wp-includes/ms-site.php:1321": [
+        "wp-includes/ms-site.php:1320": [
             "wp-includes/ms-site.php",
-            1321
+            1320
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

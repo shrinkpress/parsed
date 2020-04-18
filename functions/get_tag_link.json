@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_tag_link",
     "filename": "wp-includes/category-template.php",
-    "docCommentLine": 1104,
-    "startLine": 1113,
-    "endLine": 1115,
+    "docCommentLine": 1110,
+    "startLine": 1119,
+    "endLine": 1121,
     "calls": {
-        "wp-includes/class-wp-xmlrpc-server.php:3305": [
+        "wp-includes/class-wp-xmlrpc-server.php:3311": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            3305
+            3311
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

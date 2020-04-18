@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_insert_term",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 2071,
-    "startLine": 2114,
-    "endLine": 2403,
+    "docCommentLine": 2074,
+    "startLine": 2117,
+    "endLine": 2406,
     "calls": {
         "wp-admin/edit-tags.php:91": [
             "wp-admin/edit-tags.php",
@@ -14,13 +14,13 @@
             "wp-admin/includes/ajax-actions.php",
             593
         ],
-        "wp-admin/includes/ajax-actions.php:1027": [
+        "wp-admin/includes/ajax-actions.php:1030": [
             "wp-admin/includes/ajax-actions.php",
-            1027
+            1030
         ],
-        "wp-admin/includes/ajax-actions.php:1065": [
+        "wp-admin/includes/ajax-actions.php:1068": [
             "wp-admin/includes/ajax-actions.php",
-            1065
+            1068
         ],
         "wp-admin/includes/taxonomy.php:164": [
             "wp-admin/includes/taxonomy.php",
@@ -30,25 +30,25 @@
             "wp-admin/includes/taxonomy.php",
             313
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:1591": [
+        "wp-includes/class-wp-xmlrpc-server.php:1593": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            1591
+            1593
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:2075": [
+        "wp-includes/class-wp-xmlrpc-server.php:2081": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            2075
+            2081
         ],
         "wp-includes/nav-menu.php:360": [
             "wp-includes/nav-menu.php",
             360
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:420": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:450": [
             "wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php",
-            420
+            450
         ],
-        "wp-includes/taxonomy.php:2470": [
+        "wp-includes/taxonomy.php:2473": [
             "wp-includes/taxonomy.php",
-            2470
+            2473
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

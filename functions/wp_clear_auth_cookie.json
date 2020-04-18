@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "wp_clear_auth_cookie",
     "filename": "wp-includes/pluggable.php",
-    "docCommentLine": 942,
-    "startLine": 947,
-    "endLine": 986,
+    "docCommentLine": 953,
+    "startLine": 958,
+    "endLine": 997,
     "calls": {
         "wp-includes/pluggable-deprecated.php:123": [
             "wp-includes/pluggable-deprecated.php",
             123
         ],
-        "wp-includes/pluggable.php:573": [
+        "wp-includes/pluggable.php:577": [
             "wp-includes/pluggable.php",
-            573
+            577
         ],
-        "wp-includes/user.php:2121": [
+        "wp-includes/user.php:2131": [
             "wp-includes/user.php",
-            2121
+            2131
         ],
-        "wp-login.php:1334": [
+        "wp-login.php:1344": [
             "wp-login.php",
-            1334
+            1344
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

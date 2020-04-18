@@ -1,23 +1,23 @@
 {
     "callbacks": {
-        "wp-includes/option.php:2178": [
+        "wp-includes/option.php:2187": [
             "wp-includes/option.php",
-            2178,
-            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Scalar_Encapsed\",\"parts\":[{\"nodeType\":\"Scalar_EncapsedStringPart\",\"value\":\"default_option_\",\"attributes\":{\"startLine\":2178,\"endLine\":2178}},{\"nodeType\":\"Expr_Variable\",\"name\":\"option_name\",\"attributes\":{\"startLine\":2178,\"endLine\":2178}}],\"attributes\":{\"startLine\":2178,\"endLine\":2178,\"kind\":2}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":2178,\"endLine\":2178}}",
+            2187,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Scalar_Encapsed\",\"parts\":[{\"nodeType\":\"Scalar_EncapsedStringPart\",\"value\":\"default_option_\",\"attributes\":{\"startLine\":2187,\"endLine\":2187}},{\"nodeType\":\"Expr_Variable\",\"name\":\"option_name\",\"attributes\":{\"startLine\":2187,\"endLine\":2187}}],\"attributes\":{\"startLine\":2187,\"endLine\":2187,\"kind\":2}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":2187,\"endLine\":2187}}",
             "add_filter"
         ],
-        "wp-includes/option.php:2252": [
+        "wp-includes/option.php:2261": [
             "wp-includes/option.php",
-            2252,
-            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Scalar_Encapsed\",\"parts\":[{\"nodeType\":\"Scalar_EncapsedStringPart\",\"value\":\"default_option_\",\"attributes\":{\"startLine\":2252,\"endLine\":2252}},{\"nodeType\":\"Expr_Variable\",\"name\":\"option_name\",\"attributes\":{\"startLine\":2252,\"endLine\":2252}}],\"attributes\":{\"startLine\":2252,\"endLine\":2252,\"kind\":2}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":2252,\"endLine\":2252}}",
+            2261,
+            "{\"nodeType\":\"Arg\",\"value\":{\"nodeType\":\"Scalar_Encapsed\",\"parts\":[{\"nodeType\":\"Scalar_EncapsedStringPart\",\"value\":\"default_option_\",\"attributes\":{\"startLine\":2261,\"endLine\":2261}},{\"nodeType\":\"Expr_Variable\",\"name\":\"option_name\",\"attributes\":{\"startLine\":2261,\"endLine\":2261}}],\"attributes\":{\"startLine\":2261,\"endLine\":2261,\"kind\":2}},\"byRef\":false,\"unpack\":false,\"attributes\":{\"startLine\":2261,\"endLine\":2261}}",
             "remove_filter"
         ]
     },
     "functionName": "filter_default_option",
     "filename": "wp-includes/option.php",
-    "docCommentLine": 2278,
-    "startLine": 2291,
-    "endLine": 2302,
+    "docCommentLine": 2287,
+    "startLine": 2300,
+    "endLine": 2311,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

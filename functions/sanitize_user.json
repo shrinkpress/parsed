@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "sanitize_user",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 2076,
-    "startLine": 2090,
-    "endLine": 2117,
+    "docCommentLine": 2078,
+    "startLine": 2092,
+    "endLine": 2120,
     "calls": {
         "wp-admin/includes/user.php:44": [
             "wp-admin/includes/user.php",
@@ -30,17 +30,17 @@
             "wp-includes/class-wp-user.php",
             227
         ],
-        "wp-includes/ms-functions.php:454": [
+        "wp-includes/ms-functions.php:473": [
             "wp-includes/ms-functions.php",
-            454
+            473
         ],
-        "wp-includes/ms-functions.php:822": [
+        "wp-includes/ms-functions.php:851": [
             "wp-includes/ms-functions.php",
-            822
+            851
         ],
-        "wp-includes/ms-functions.php:1255": [
+        "wp-includes/ms-functions.php:1287": [
             "wp-includes/ms-functions.php",
-            1255
+            1287
         ],
         "wp-includes/ms-site.php:537": [
             "wp-includes/ms-site.php",
@@ -50,25 +50,25 @@
             "wp-includes/pluggable.php",
             522
         ],
-        "wp-includes/user.php:1446": [
+        "wp-includes/user.php:1452": [
             "wp-includes/user.php",
-            1446
+            1452
         ],
-        "wp-includes/user.php:1546": [
+        "wp-includes/user.php:1556": [
             "wp-includes/user.php",
-            1546
+            1556
         ],
-        "wp-includes/user.php:1591": [
+        "wp-includes/user.php:1601": [
             "wp-includes/user.php",
-            1591
+            1601
         ],
-        "wp-includes/user.php:2479": [
+        "wp-includes/user.php:2489": [
             "wp-includes/user.php",
-            2479
+            2489
         ],
-        "wp-login.php:1160": [
+        "wp-login.php:1170": [
             "wp-login.php",
-            1160
+            1170
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

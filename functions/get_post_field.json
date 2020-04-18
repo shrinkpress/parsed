@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "get_post_field",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 821,
-    "startLine": 841,
-    "endLine": 853,
+    "docCommentLine": 829,
+    "startLine": 849,
+    "endLine": 861,
     "calls": {
         "wp-admin/includes/post.php:127": [
             "wp-admin/includes/post.php",
@@ -14,21 +14,21 @@
             "wp-includes/nav-menu.php",
             464
         ],
-        "wp-includes/post.php:3603": [
+        "wp-includes/post.php:3614": [
             "wp-includes/post.php",
-            3603
+            3614
         ],
-        "wp-includes/post.php:3604": [
+        "wp-includes/post.php:3615": [
             "wp-includes/post.php",
-            3604
+            3615
         ],
-        "wp-includes/post.php:3697": [
+        "wp-includes/post.php:3708": [
             "wp-includes/post.php",
-            3697
+            3708
         ],
-        "wp-includes/post.php:3965": [
+        "wp-includes/post.php:3989": [
             "wp-includes/post.php",
-            3965
+            3989
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

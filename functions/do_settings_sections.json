@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "do_settings_sections",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 1615,
-    "startLine": 1628,
-    "endLine": 1651,
+    "docCommentLine": 1617,
+    "startLine": 1630,
+    "endLine": 1653,
     "calls": {
         "wp-admin/options-discussion.php:325": [
             "wp-admin/options-discussion.php",
             325
         ],
-        "wp-admin/options-general.php:415": [
+        "wp-admin/options-general.php:401": [
             "wp-admin/options-general.php",
-            415
+            401
         ],
         "wp-admin/options-media.php:148": [
             "wp-admin/options-media.php",
             148
         ],
-        "wp-admin/options-permalink.php:325": [
+        "wp-admin/options-permalink.php:337": [
             "wp-admin/options-permalink.php",
-            325
+            337
         ],
         "wp-admin/options-reading.php:213": [
             "wp-admin/options-reading.php",

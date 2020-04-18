@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "_find_post_by_old_slug",
     "filename": "wp-includes/query.php",
-    "docCommentLine": 1049,
-    "startLine": 1062,
-    "endLine": 1082,
+    "docCommentLine": 1082,
+    "startLine": 1095,
+    "endLine": 1115,
     "calls": {
-        "wp-includes/query.php:1004": [
+        "wp-includes/query.php:1037": [
             "wp-includes/query.php",
-            1004
+            1037
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

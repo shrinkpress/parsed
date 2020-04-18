@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "rest_sanitize_boolean",
     "filename": "wp-includes/rest-api.php",
-    "docCommentLine": 1105,
-    "startLine": 1113,
-    "endLine": 1124,
+    "docCommentLine": 1111,
+    "startLine": 1119,
+    "endLine": 1130,
     "calls": {
-        "wp-includes/rest-api.php:1469": [
+        "wp-includes/rest-api.php:1483": [
             "wp-includes/rest-api.php",
-            1469
+            1483
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

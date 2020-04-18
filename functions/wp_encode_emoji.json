@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_encode_emoji",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 5695,
-    "startLine": 5705,
-    "endLine": 5716,
+    "docCommentLine": 5707,
+    "startLine": 5717,
+    "endLine": 5728,
     "calls": {
-        "wp-includes/formatting.php:4633": [
+        "wp-includes/formatting.php:4638": [
             "wp-includes/formatting.php",
-            4633
+            4638
         ],
-        "wp-includes/formatting.php:5732": [
+        "wp-includes/formatting.php:5744": [
             "wp-includes/formatting.php",
-            5732
+            5744
         ],
-        "wp-includes/post.php:3858": [
+        "wp-includes/post.php:3882": [
             "wp-includes/post.php",
-            3858
+            3882
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_admin_url",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 3286,
-    "startLine": 3298,
-    "endLine": 3315,
+    "docCommentLine": 3291,
+    "startLine": 3303,
+    "endLine": 3320,
     "calls": {
         "wp-admin/import.php:166": [
             "wp-admin/import.php",
             166
         ],
-        "wp-admin/includes/class-wp-ms-sites-list-table.php:693": [
+        "wp-admin/includes/class-wp-ms-sites-list-table.php:694": [
             "wp-admin/includes/class-wp-ms-sites-list-table.php",
-            693
+            694
         ],
         "wp-admin/includes/ms.php:605": [
             "wp-admin/includes/ms.php",
@@ -42,21 +42,21 @@
             "wp-admin/press-this.php",
             69
         ],
-        "wp-includes/admin-bar.php:463": [
+        "wp-includes/admin-bar.php:476": [
             "wp-includes/admin-bar.php",
-            463
+            476
         ],
         "wp-includes/class-wp-xmlrpc-server.php:505": [
             "wp-includes/class-wp-xmlrpc-server.php",
             505
         ],
-        "wp-includes/link-template.php:3283": [
+        "wp-includes/link-template.php:3288": [
             "wp-includes/link-template.php",
-            3283
+            3288
         ],
-        "wp-includes/link-template.php:3696": [
+        "wp-includes/link-template.php:3701": [
             "wp-includes/link-template.php",
-            3696
+            3701
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

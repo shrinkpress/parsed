@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "wp_delete_object_term_relationships",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 1706,
-    "startLine": 1718,
-    "endLine": 1730,
+    "docCommentLine": 1709,
+    "startLine": 1721,
+    "endLine": 1733,
     "calls": {
         "wp-admin/includes/bookmark.php:101": [
             "wp-admin/includes/bookmark.php",
             101
         ],
-        "wp-includes/post.php:2980": [
+        "wp-includes/post.php:2991": [
             "wp-includes/post.php",
-            2980
+            2991
         ],
-        "wp-includes/post.php:5605": [
+        "wp-includes/post.php:5643": [
             "wp-includes/post.php",
-            5605
+            5643
         ],
-        "wp-includes/post.php:5606": [
+        "wp-includes/post.php:5644": [
             "wp-includes/post.php",
-            5606
+            5644
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

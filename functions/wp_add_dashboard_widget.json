@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_add_dashboard_widget",
     "filename": "wp-admin/includes/dashboard.php",
-    "docCommentLine": 142,
-    "startLine": 157,
-    "endLine": 196,
+    "docCommentLine": 156,
+    "startLine": 171,
+    "endLine": 210,
     "calls": {
         "wp-admin/includes/dashboard.php:32": [
             "wp-admin/includes/dashboard.php",
@@ -18,29 +18,33 @@
             "wp-admin/includes/dashboard.php",
             42
         ],
-        "wp-admin/includes/dashboard.php:47": [
-            "wp-admin/includes/dashboard.php",
-            47
-        ],
-        "wp-admin/includes/dashboard.php:51": [
-            "wp-admin/includes/dashboard.php",
-            51
-        ],
         "wp-admin/includes/dashboard.php:56": [
             "wp-admin/includes/dashboard.php",
             56
         ],
-        "wp-admin/includes/dashboard.php:62": [
+        "wp-admin/includes/dashboard.php:61": [
             "wp-admin/includes/dashboard.php",
-            62
+            61
         ],
-        "wp-admin/includes/dashboard.php:66": [
+        "wp-admin/includes/dashboard.php:65": [
             "wp-admin/includes/dashboard.php",
-            66
+            65
         ],
-        "wp-admin/includes/dashboard.php:123": [
+        "wp-admin/includes/dashboard.php:70": [
             "wp-admin/includes/dashboard.php",
-            123
+            70
+        ],
+        "wp-admin/includes/dashboard.php:76": [
+            "wp-admin/includes/dashboard.php",
+            76
+        ],
+        "wp-admin/includes/dashboard.php:80": [
+            "wp-admin/includes/dashboard.php",
+            80
+        ],
+        "wp-admin/includes/dashboard.php:137": [
+            "wp-admin/includes/dashboard.php",
+            137
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

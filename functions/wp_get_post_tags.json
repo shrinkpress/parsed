@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_get_post_tags",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 3394,
-    "startLine": 3410,
-    "endLine": 3412,
+    "docCommentLine": 3405,
+    "startLine": 3421,
+    "endLine": 3423,
     "calls": {
-        "wp-includes/class-wp-xmlrpc-server.php:5999": [
+        "wp-includes/class-wp-xmlrpc-server.php:6007": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            5999
+            6007
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6151": [
+        "wp-includes/class-wp-xmlrpc-server.php:6159": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6151
+            6159
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

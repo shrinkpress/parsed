@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_using_themes",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 1358,
-    "startLine": 1365,
-    "endLine": 1374,
+    "docCommentLine": 1371,
+    "startLine": 1378,
+    "endLine": 1387,
     "calls": {
         "wp-includes/template-loader.php:7": [
             "wp-includes/template-loader.php",
             7
         ],
-        "wp-includes/template-loader.php:47": [
+        "wp-includes/template-loader.php:55": [
             "wp-includes/template-loader.php",
-            47
+            55
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

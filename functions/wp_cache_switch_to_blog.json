@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_cache_switch_to_blog",
     "filename": "wp-includes/cache.php",
-    "docCommentLine": 202,
-    "startLine": 214,
-    "endLine": 218,
+    "docCommentLine": 205,
+    "startLine": 217,
+    "endLine": 221,
     "calls": {
-        "wp-includes/load.php:577": [
+        "wp-includes/load.php:578": [
             "wp-includes/load.php",
-            577
+            578
         ],
-        "wp-includes/ms-blogs.php:525": [
+        "wp-includes/ms-blogs.php:528": [
             "wp-includes/ms-blogs.php",
-            525
+            528
         ],
-        "wp-includes/ms-blogs.php:591": [
+        "wp-includes/ms-blogs.php:594": [
             "wp-includes/ms-blogs.php",
-            591
+            594
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

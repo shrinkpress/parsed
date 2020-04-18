@@ -6,9 +6,9 @@
             "wp_head",
             "add_action"
         ],
-        "wp-includes/default-filters.php:558": [
+        "wp-includes/default-filters.php:560": [
             "wp-includes/default-filters.php",
-            558,
+            560,
             "embed_head",
             "add_action"
         ]
@@ -17,15 +17,15 @@
     "filename": "wp-includes/functions.wp-styles.php",
     "docCommentLine": 28,
     "startLine": 42,
-    "endLine": 65,
+    "endLine": 66,
     "calls": {
         "wp-includes/class-wp-editor.php:208": [
             "wp-includes/class-wp-editor.php",
             208
         ],
-        "wp-includes/general-template.php:4460": [
+        "wp-includes/general-template.php:4452": [
             "wp-includes/general-template.php",
-            4460
+            4452
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "atom_enclosure",
     "filename": "wp-includes/feed.php",
-    "docCommentLine": 496,
-    "startLine": 509,
-    "endLine": 529,
+    "docCommentLine": 495,
+    "startLine": 508,
+    "endLine": 528,
     "calls": {
-        "wp-includes/feed-atom.php:77": [
+        "wp-includes/feed-atom.php:85": [
             "wp-includes/feed-atom.php",
-            77
+            85
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

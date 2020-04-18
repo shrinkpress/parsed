@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_get_admin_bar_pref",
     "filename": "wp-includes/admin-bar.php",
-    "docCommentLine": 1216,
-    "startLine": 1227,
-    "endLine": 1234,
+    "docCommentLine": 1229,
+    "startLine": 1240,
+    "endLine": 1247,
     "calls": {
-        "wp-admin/user-edit.php:333": [
+        "wp-admin/user-edit.php:332": [
             "wp-admin/user-edit.php",
-            333
+            332
         ],
-        "wp-includes/admin-bar.php:1197": [
+        "wp-includes/admin-bar.php:1210": [
             "wp-includes/admin-bar.php",
-            1197
+            1210
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

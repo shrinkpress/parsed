@@ -6,9 +6,9 @@
     "startLine": 263,
     "endLine": 276,
     "calls": {
-        "wp-admin/includes/template.php:924": [
+        "wp-admin/includes/template.php:925": [
             "wp-admin/includes/template.php",
-            924
+            925
         ],
         "wp-admin/includes/user.php:60": [
             "wp-admin/includes/user.php",
@@ -22,9 +22,9 @@
             "wp-admin/network/site-users.php",
             141
         ],
-        "wp-admin/user-edit.php:415": [
+        "wp-admin/user-edit.php:414": [
             "wp-admin/user-edit.php",
-            415
+            414
         ],
         "wp-admin/user-new.php:99": [
             "wp-admin/user-new.php",
@@ -34,9 +34,9 @@
             "wp-admin/users.php",
             114
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1108": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1217": [
             "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
-            1108
+            1217
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

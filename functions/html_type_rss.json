@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "html_type_rss",
     "filename": "wp-includes/feed.php",
-    "docCommentLine": 438,
-    "startLine": 445,
-    "endLine": 453,
+    "docCommentLine": 437,
+    "startLine": 444,
+    "endLine": 452,
     "calls": {
-        "wp-includes/feed-atom.php:66": [
+        "wp-includes/feed-atom.php:70": [
             "wp-includes/feed-atom.php",
-            66
+            70
         ],
-        "wp-includes/feed-atom.php:72": [
+        "wp-includes/feed-atom.php:78": [
             "wp-includes/feed-atom.php",
-            72
+            78
         ],
-        "wp-includes/feed-atom.php:74": [
+        "wp-includes/feed-atom.php:81": [
             "wp-includes/feed-atom.php",
-            74
+            81
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

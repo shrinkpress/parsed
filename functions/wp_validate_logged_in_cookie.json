@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:429": [
+        "wp-includes/default-filters.php:430": [
             "wp-includes/default-filters.php",
-            429,
+            430,
             "determine_current_user",
             "add_filter"
         ]
     },
     "functionName": "wp_validate_logged_in_cookie",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 327,
-    "startLine": 342,
-    "endLine": 352,
+    "docCommentLine": 328,
+    "startLine": 343,
+    "endLine": 353,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

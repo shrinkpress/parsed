@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_header_video_settings",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 1463,
-    "startLine": 1470,
-    "endLine": 1505,
+    "docCommentLine": 1467,
+    "startLine": 1474,
+    "endLine": 1509,
     "calls": {
-        "wp-includes/class-wp-customize-manager.php:5955": [
+        "wp-includes/class-wp-customize-manager.php:5945": [
             "wp-includes/class-wp-customize-manager.php",
-            5955
+            5945
         ],
-        "wp-includes/theme.php:1591": [
+        "wp-includes/theme.php:1595": [
             "wp-includes/theme.php",
-            1591
+            1595
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

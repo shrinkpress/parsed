@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "update_attached_file",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 521,
-    "startLine": 533,
-    "endLine": 554,
+    "docCommentLine": 524,
+    "startLine": 536,
+    "endLine": 557,
     "calls": {
-        "wp-admin/includes/image-edit.php:704": [
+        "wp-admin/includes/image-edit.php:706": [
             "wp-admin/includes/image-edit.php",
-            704
+            706
         ],
-        "wp-admin/includes/image-edit.php:873": [
+        "wp-admin/includes/image-edit.php:875": [
             "wp-admin/includes/image-edit.php",
-            873
+            875
         ],
-        "wp-admin/includes/image.php:197": [
+        "wp-admin/includes/image.php:199": [
             "wp-admin/includes/image.php",
-            197
+            199
         ],
-        "wp-admin/includes/upgrade.php:1178": [
+        "wp-admin/includes/upgrade.php:1197": [
             "wp-admin/includes/upgrade.php",
-            1178
+            1197
         ],
-        "wp-includes/post.php:3974": [
+        "wp-includes/post.php:3998": [
             "wp-includes/post.php",
-            3974
+            3998
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

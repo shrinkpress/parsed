@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_theme_update_available",
     "filename": "wp-admin/includes/theme.php",
-    "docCommentLine": 156,
-    "startLine": 168,
-    "endLine": 252,
+    "docCommentLine": 157,
+    "startLine": 169,
+    "endLine": 253,
     "calls": {
-        "wp-admin/includes/theme.php:153": [
+        "wp-admin/includes/theme.php:154": [
             "wp-admin/includes/theme.php",
-            153
+            154
         ],
-        "wp-admin/includes/theme.php:668": [
+        "wp-admin/includes/theme.php:669": [
             "wp-admin/includes/theme.php",
-            668
+            669
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

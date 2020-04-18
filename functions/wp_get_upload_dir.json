@@ -2,49 +2,49 @@
     "callbacks": [],
     "functionName": "wp_get_upload_dir",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 2169,
-    "startLine": 2182,
-    "endLine": 2184,
+    "docCommentLine": 2212,
+    "startLine": 2225,
+    "endLine": 2227,
     "calls": {
-        "wp-admin/includes/class-wp-debug-data.php:1227": [
+        "wp-admin/includes/class-wp-debug-data.php:1223": [
             "wp-admin/includes/class-wp-debug-data.php",
-            1227
+            1223
         ],
-        "wp-includes/comment.php:2584": [
+        "wp-includes/comment.php:2590": [
             "wp-includes/comment.php",
-            2584
+            2590
         ],
-        "wp-includes/functions.php:2476": [
+        "wp-includes/functions.php:2519": [
             "wp-includes/functions.php",
-            2476
+            2519
         ],
-        "wp-includes/media.php:1210": [
+        "wp-includes/media.php:1258": [
             "wp-includes/media.php",
-            1210
+            1258
         ],
-        "wp-includes/media.php:4242": [
+        "wp-includes/media.php:4315": [
             "wp-includes/media.php",
-            4242
+            4315
         ],
         "wp-includes/ms-site.php:833": [
             "wp-includes/ms-site.php",
             833
         ],
-        "wp-includes/post.php:500": [
+        "wp-includes/post.php:503": [
             "wp-includes/post.php",
-            500
+            503
         ],
-        "wp-includes/post.php:570": [
+        "wp-includes/post.php:573": [
             "wp-includes/post.php",
-            570
+            573
         ],
-        "wp-includes/post.php:5655": [
+        "wp-includes/post.php:5693": [
             "wp-includes/post.php",
-            5655
+            5693
         ],
-        "wp-includes/post.php:5822": [
+        "wp-includes/post.php:5860": [
             "wp-includes/post.php",
-            5822
+            5860
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

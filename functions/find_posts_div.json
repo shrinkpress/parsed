@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "find_posts_div",
     "filename": "wp-admin/includes/template.php",
-    "docCommentLine": 1859,
-    "startLine": 1866,
-    "endLine": 1894,
+    "docCommentLine": 1861,
+    "startLine": 1868,
+    "endLine": 1896,
     "calls": {
-        "wp-admin/upload.php:374": [
+        "wp-admin/upload.php:376": [
             "wp-admin/upload.php",
-            374
+            376
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

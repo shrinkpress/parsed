@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "get_blog_count",
     "filename": "wp-includes/ms-functions.php",
-    "docCommentLine": 113,
-    "startLine": 125,
-    "endLine": 127,
+    "docCommentLine": 118,
+    "startLine": 130,
+    "endLine": 132,
     "calls": {
         "wp-admin/admin.php:69": [
             "wp-admin/admin.php",
@@ -14,17 +14,17 @@
             "wp-admin/includes/class-wp-debug-data.php",
             369
         ],
-        "wp-admin/includes/dashboard.php:413": [
+        "wp-admin/includes/dashboard.php:427": [
             "wp-admin/includes/dashboard.php",
-            413
+            427
         ],
-        "wp-includes/ms-functions.php:19": [
+        "wp-includes/ms-functions.php:24": [
             "wp-includes/ms-functions.php",
-            19
+            24
         ],
-        "wp-includes/ms-functions.php:2570": [
+        "wp-includes/ms-functions.php:2613": [
             "wp-includes/ms-functions.php",
-            2570
+            2613
         ],
         "wp-includes/update.php:80": [
             "wp-includes/update.php",

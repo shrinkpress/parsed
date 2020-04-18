@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_comments_link",
     "filename": "wp-includes/comment-template.php",
-    "docCommentLine": 797,
-    "startLine": 805,
-    "endLine": 818,
+    "docCommentLine": 798,
+    "startLine": 806,
+    "endLine": 819,
     "calls": {
-        "wp-includes/comment-template.php:835": [
+        "wp-includes/comment-template.php:836": [
             "wp-includes/comment-template.php",
-            835
+            836
         ],
-        "wp-includes/feed.php:264": [
+        "wp-includes/feed.php:263": [
             "wp-includes/feed.php",
-            264
+            263
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

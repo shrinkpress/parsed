@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "_unzip_file_pclzip",
     "filename": "wp-admin/includes/file.php",
-    "docCommentLine": 1570,
-    "startLine": 1588,
-    "endLine": 1682,
+    "docCommentLine": 1586,
+    "startLine": 1604,
+    "endLine": 1698,
     "calls": {
-        "wp-admin/includes/file.php:1436": [
+        "wp-admin/includes/file.php:1452": [
             "wp-admin/includes/file.php",
-            1436
+            1452
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

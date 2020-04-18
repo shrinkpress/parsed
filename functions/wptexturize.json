@@ -60,9 +60,9 @@
             "widget_text_content",
             "add_filter"
         ],
-        "wp-includes/default-filters.php:571": [
+        "wp-includes/default-filters.php:573": [
             "wp-includes/default-filters.php",
-            571,
+            573,
             "the_excerpt_embed",
             "add_filter"
         ]
@@ -70,8 +70,8 @@
     "functionName": "wptexturize",
     "filename": "wp-includes/formatting.php",
     "docCommentLine": 10,
-    "startLine": 51,
-    "endLine": 316,
+    "startLine": 54,
+    "endLine": 319,
     "calls": {
         "wp-admin/includes/plugin.php:209": [
             "wp-admin/includes/plugin.php",
@@ -85,25 +85,25 @@
             "wp-admin/menu-header.php",
             238
         ],
-        "wp-includes/class-wp-theme.php:880": [
+        "wp-includes/class-wp-theme.php:891": [
             "wp-includes/class-wp-theme.php",
-            880
+            891
         ],
-        "wp-includes/comment-template.php:1197": [
+        "wp-includes/comment-template.php:1216": [
             "wp-includes/comment-template.php",
-            1197
+            1216
         ],
-        "wp-includes/general-template.php:1138": [
+        "wp-includes/general-template.php:1139": [
             "wp-includes/general-template.php",
-            1138
+            1139
         ],
-        "wp-includes/general-template.php:1738": [
+        "wp-includes/general-template.php:1739": [
             "wp-includes/general-template.php",
-            1738
+            1739
         ],
-        "wp-includes/media.php:2010": [
+        "wp-includes/media.php:2068": [
             "wp-includes/media.php",
-            2010
+            2068
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

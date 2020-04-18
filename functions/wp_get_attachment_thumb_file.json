@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_get_attachment_thumb_file",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 5900,
-    "startLine": 5908,
-    "endLine": 5937,
+    "docCommentLine": 5938,
+    "startLine": 5946,
+    "endLine": 5975,
     "calls": {
-        "wp-includes/media.php:237": [
+        "wp-includes/media.php:244": [
             "wp-includes/media.php",
-            237
+            244
         ],
-        "wp-includes/post.php:5964": [
+        "wp-includes/post.php:6002": [
             "wp-includes/post.php",
-            5964
+            6002
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

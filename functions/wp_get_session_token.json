@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "wp_get_session_token",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 2597,
-    "startLine": 2604,
-    "endLine": 2607,
+    "docCommentLine": 2607,
+    "startLine": 2614,
+    "endLine": 2617,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:3816": [
+        "wp-admin/includes/ajax-actions.php:3820": [
             "wp-admin/includes/ajax-actions.php",
-            3816
+            3820
         ],
-        "wp-includes/pluggable.php:2104": [
+        "wp-includes/pluggable.php:2140": [
             "wp-includes/pluggable.php",
-            2104
+            2140
         ],
-        "wp-includes/pluggable.php:2155": [
+        "wp-includes/pluggable.php:2191": [
             "wp-includes/pluggable.php",
-            2155
+            2191
         ],
-        "wp-includes/user.php:2626": [
+        "wp-includes/user.php:2636": [
             "wp-includes/user.php",
-            2626
+            2636
         ],
-        "wp-includes/user.php:2639": [
+        "wp-includes/user.php:2649": [
             "wp-includes/user.php",
-            2639
+            2649
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

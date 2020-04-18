@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_read_image_metadata",
     "filename": "wp-admin/includes/image.php",
-    "docCommentLine": 655,
-    "startLine": 671,
-    "endLine": 855,
+    "docCommentLine": 663,
+    "startLine": 679,
+    "endLine": 863,
     "calls": {
-        "wp-admin/includes/image.php:241": [
+        "wp-admin/includes/image.php:243": [
             "wp-admin/includes/image.php",
-            241
+            243
         ],
         "wp-admin/includes/media.php:378": [
             "wp-admin/includes/media.php",
@@ -18,9 +18,9 @@
             "wp-admin/includes/media.php",
             462
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:217": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:246": [
             "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
-            217
+            246
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

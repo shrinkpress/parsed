@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "drop_index",
     "filename": "wp-admin/includes/upgrade.php",
-    "docCommentLine": 2326,
-    "startLine": 2337,
-    "endLine": 2347,
+    "docCommentLine": 2347,
+    "startLine": 2358,
+    "endLine": 2368,
     "calls": {
-        "wp-admin/includes/upgrade.php:2362": [
+        "wp-admin/includes/upgrade.php:2383": [
             "wp-admin/includes/upgrade.php",
-            2362
+            2383
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

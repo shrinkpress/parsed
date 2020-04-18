@@ -6,17 +6,21 @@
     "startLine": 25,
     "endLine": 39,
     "calls": {
-        "wp-includes/embed.php:658": [
+        "wp-includes/blocks/latest-posts.php:60": [
+            "wp-includes/blocks/latest-posts.php",
+            60
+        ],
+        "wp-includes/embed.php:668": [
             "wp-includes/embed.php",
-            658
+            668
         ],
-        "wp-includes/post-template.php:526": [
+        "wp-includes/post-template.php:528": [
             "wp-includes/post-template.php",
-            526
+            528
         ],
-        "wp-includes/post-template.php:1663": [
+        "wp-includes/post-template.php:1668": [
             "wp-includes/post-template.php",
-            1663
+            1668
         ],
         "wp-includes/theme-compat/embed-content.php:17": [
             "wp-includes/theme-compat/embed-content.php",

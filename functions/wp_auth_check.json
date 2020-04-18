@@ -1,23 +1,23 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:421": [
-            "wp-includes/default-filters.php",
-            421,
-            "heartbeat_send",
-            "add_filter"
-        ],
         "wp-includes/default-filters.php:422": [
             "wp-includes/default-filters.php",
             422,
+            "heartbeat_send",
+            "add_filter"
+        ],
+        "wp-includes/default-filters.php:423": [
+            "wp-includes/default-filters.php",
+            423,
             "heartbeat_nopriv_send",
             "add_filter"
         ]
     },
     "functionName": "wp_auth_check",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 6320,
-    "startLine": 6333,
-    "endLine": 6336,
+    "docCommentLine": 6512,
+    "startLine": 6525,
+    "endLine": 6528,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

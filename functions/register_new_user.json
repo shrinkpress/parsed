@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "register_new_user",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 2467,
-    "startLine": 2476,
-    "endLine": 2577,
+    "docCommentLine": 2477,
+    "startLine": 2486,
+    "endLine": 2587,
     "calls": {
-        "wp-login.php:1049": [
+        "wp-login.php:1059": [
             "wp-login.php",
-            1049
+            1059
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

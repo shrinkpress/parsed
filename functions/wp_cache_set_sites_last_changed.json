@@ -21,13 +21,13 @@
     },
     "functionName": "wp_cache_set_sites_last_changed",
     "filename": "wp-includes/ms-site.php",
-    "docCommentLine": 1301,
-    "startLine": 1306,
-    "endLine": 1308,
+    "docCommentLine": 1300,
+    "startLine": 1305,
+    "endLine": 1307,
     "calls": {
-        "wp-admin/includes/schema.php:1334": [
+        "wp-admin/includes/schema.php:1333": [
             "wp-admin/includes/schema.php",
-            1334
+            1333
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

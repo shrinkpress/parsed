@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_wp_privacy_action_request_types",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 2900,
-    "startLine": 2908,
-    "endLine": 2913,
+    "docCommentLine": 2910,
+    "startLine": 2918,
+    "endLine": 2923,
     "calls": {
-        "wp-admin/includes/privacy-tools.php:114": [
+        "wp-admin/includes/privacy-tools.php:115": [
             "wp-admin/includes/privacy-tools.php",
-            114
+            115
         ],
-        "wp-includes/user.php:3348": [
+        "wp-includes/user.php:3527": [
             "wp-includes/user.php",
-            3348
+            3527
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

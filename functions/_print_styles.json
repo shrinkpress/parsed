@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_print_styles",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 2742,
-    "startLine": 2750,
-    "endLine": 2787,
+    "docCommentLine": 2366,
+    "startLine": 2374,
+    "endLine": 2411,
     "calls": {
-        "wp-includes/script-loader.php:2699": [
+        "wp-includes/script-loader.php:2323": [
             "wp-includes/script-loader.php",
-            2699
+            2323
         ],
-        "wp-includes/script-loader.php:2735": [
+        "wp-includes/script-loader.php:2359": [
             "wp-includes/script-loader.php",
-            2735
+            2359
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

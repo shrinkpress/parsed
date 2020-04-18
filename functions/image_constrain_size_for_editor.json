@@ -3,20 +3,20 @@
     "functionName": "image_constrain_size_for_editor",
     "filename": "wp-includes/media.php",
     "docCommentLine": 28,
-    "startLine": 59,
-    "endLine": 130,
+    "startLine": 61,
+    "endLine": 136,
     "calls": {
-        "wp-includes/media.php:260": [
+        "wp-includes/media.php:267": [
             "wp-includes/media.php",
-            260
+            267
         ],
-        "wp-includes/media.php:797": [
+        "wp-includes/media.php:820": [
             "wp-includes/media.php",
-            797
+            820
         ],
-        "wp-includes/media.php:3500": [
+        "wp-includes/media.php:3568": [
             "wp-includes/media.php",
-            3500
+            3568
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "use_block_editor_for_post_type",
     "filename": "wp-admin/includes/post.php",
-    "docCommentLine": 2102,
-    "startLine": 2113,
-    "endLine": 2136,
+    "docCommentLine": 2121,
+    "startLine": 2132,
+    "endLine": 2155,
     "calls": {
-        "wp-admin/includes/class-wp-screen.php:329": [
+        "wp-admin/includes/class-wp-screen.php:338": [
             "wp-admin/includes/class-wp-screen.php",
-            329
+            338
         ],
-        "wp-admin/includes/post.php:2089": [
+        "wp-admin/includes/post.php:2108": [
             "wp-admin/includes/post.php",
-            2089
+            2108
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

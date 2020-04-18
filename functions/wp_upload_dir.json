@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_upload_dir",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 2186,
-    "startLine": 2226,
-    "endLine": 2278,
+    "docCommentLine": 2229,
+    "startLine": 2269,
+    "endLine": 2321,
     "calls": {
         "wp-admin/includes/class-file-upload-upgrader.php:102": [
             "wp-admin/includes/class-file-upload-upgrader.php",
@@ -14,33 +14,33 @@
             "wp-admin/includes/class-wp-debug-data.php",
             36
         ],
-        "wp-admin/includes/file.php:837": [
+        "wp-admin/includes/file.php:853": [
             "wp-admin/includes/file.php",
-            837
+            853
         ],
-        "wp-admin/includes/template.php:959": [
+        "wp-admin/includes/template.php:960": [
             "wp-admin/includes/template.php",
-            959
+            960
         ],
-        "wp-includes/functions.php:2183": [
+        "wp-includes/functions.php:2226": [
             "wp-includes/functions.php",
-            2183
+            2226
         ],
-        "wp-includes/functions.php:2591": [
+        "wp-includes/functions.php:2634": [
             "wp-includes/functions.php",
-            2591
+            2634
         ],
-        "wp-includes/functions.php:7003": [
+        "wp-includes/functions.php:7195": [
             "wp-includes/functions.php",
-            7003
+            7195
         ],
-        "wp-includes/functions.php:7026": [
+        "wp-includes/functions.php:7218": [
             "wp-includes/functions.php",
-            7026
+            7218
         ],
-        "wp-includes/ms-functions.php:2443": [
+        "wp-includes/ms-functions.php:2486": [
             "wp-includes/ms-functions.php",
-            2443
+            2486
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

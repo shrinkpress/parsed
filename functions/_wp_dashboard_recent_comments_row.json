@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_wp_dashboard_recent_comments_row",
     "filename": "wp-admin/includes/dashboard.php",
-    "docCommentLine": 620,
-    "startLine": 631,
-    "endLine": 838,
+    "docCommentLine": 634,
+    "startLine": 645,
+    "endLine": 859,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:1346": [
+        "wp-admin/includes/ajax-actions.php:1349": [
             "wp-admin/includes/ajax-actions.php",
-            1346
+            1349
         ],
-        "wp-admin/includes/dashboard.php:1016": [
+        "wp-admin/includes/dashboard.php:1037": [
             "wp-admin/includes/dashboard.php",
-            1016
+            1037
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

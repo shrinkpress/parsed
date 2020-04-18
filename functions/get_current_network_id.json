@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "get_current_network_id",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 1100,
-    "startLine": 1107,
-    "endLine": 1119,
+    "docCommentLine": 1113,
+    "startLine": 1120,
+    "endLine": 1132,
     "calls": {
         "wp-admin/import.php:166": [
             "wp-admin/import.php",
@@ -34,49 +34,49 @@
             "wp-includes/class-wp-xmlrpc-server.php",
             699
         ],
-        "wp-includes/functions.php:5311": [
+        "wp-includes/functions.php:5503": [
             "wp-includes/functions.php",
-            5311
+            5503
         ],
-        "wp-includes/ms-blogs.php:763": [
+        "wp-includes/ms-blogs.php:766": [
             "wp-includes/ms-blogs.php",
-            763
+            766
         ],
-        "wp-includes/ms-blogs.php:868": [
+        "wp-includes/ms-blogs.php:879": [
             "wp-includes/ms-blogs.php",
-            868
+            879
         ],
         "wp-includes/ms-deprecated.php:190": [
             "wp-includes/ms-deprecated.php",
             190
         ],
-        "wp-includes/ms-deprecated.php:438": [
+        "wp-includes/ms-deprecated.php:440": [
             "wp-includes/ms-deprecated.php",
-            438
+            440
         ],
         "wp-includes/ms-deprecated.php:487": [
             "wp-includes/ms-deprecated.php",
             487
         ],
-        "wp-includes/ms-functions.php:74": [
+        "wp-includes/ms-functions.php:79": [
             "wp-includes/ms-functions.php",
-            74
+            79
         ],
-        "wp-includes/ms-functions.php:911": [
+        "wp-includes/ms-functions.php:940": [
             "wp-includes/ms-functions.php",
-            911
+            940
         ],
-        "wp-includes/ms-functions.php:1189": [
+        "wp-includes/ms-functions.php:1218": [
             "wp-includes/ms-functions.php",
-            1189
+            1218
         ],
-        "wp-includes/ms-functions.php:2392": [
+        "wp-includes/ms-functions.php:2435": [
             "wp-includes/ms-functions.php",
-            2392
+            2435
         ],
-        "wp-includes/ms-functions.php:2551": [
+        "wp-includes/ms-functions.php:2594": [
             "wp-includes/ms-functions.php",
-            2551
+            2594
         ],
         "wp-includes/ms-site.php:52": [
             "wp-includes/ms-site.php",
@@ -94,13 +94,13 @@
             "wp-includes/option.php",
             1364
         ],
-        "wp-includes/option.php:1485": [
+        "wp-includes/option.php:1486": [
             "wp-includes/option.php",
-            1485
+            1486
         ],
-        "wp-includes/option.php:1579": [
+        "wp-includes/option.php:1580": [
             "wp-includes/option.php",
-            1579
+            1580
         ],
         "wp-signup.php:476": [
             "wp-signup.php",

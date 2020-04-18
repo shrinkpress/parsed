@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_comments_number_text",
     "filename": "wp-includes/comment-template.php",
-    "docCommentLine": 885,
-    "startLine": 894,
-    "endLine": 944,
+    "docCommentLine": 884,
+    "startLine": 896,
+    "endLine": 946,
     "calls": {
-        "wp-includes/comment-template.php:882": [
+        "wp-includes/comment-template.php:881": [
             "wp-includes/comment-template.php",
-            882
+            881
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

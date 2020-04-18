@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "is_super_admin",
     "filename": "wp-includes/capabilities.php",
-    "docCommentLine": 852,
-    "startLine": 860,
-    "endLine": 883,
+    "docCommentLine": 861,
+    "startLine": 869,
+    "endLine": 892,
     "calls": {
         "wp-admin/includes/class-wp-ms-users-list-table.php:234": [
             "wp-admin/includes/class-wp-ms-users-list-table.php",
             234
         ],
-        "wp-admin/includes/upgrade.php:464": [
+        "wp-admin/includes/upgrade.php:480": [
             "wp-admin/includes/upgrade.php",
-            464
+            480
         ],
-        "wp-admin/includes/upgrade.php:481": [
+        "wp-admin/includes/upgrade.php:498": [
             "wp-admin/includes/upgrade.php",
-            481
+            498
         ],
         "wp-admin/network/site-new.php:143": [
             "wp-admin/network/site-new.php",
@@ -34,13 +34,13 @@
             "wp-admin/user-edit.php",
             190
         ],
+        "wp-admin/user-edit.php:435": [
+            "wp-admin/user-edit.php",
+            435
+        ],
         "wp-admin/user-edit.php:436": [
             "wp-admin/user-edit.php",
             436
-        ],
-        "wp-admin/user-edit.php:437": [
-            "wp-admin/user-edit.php",
-            437
         ],
         "wp-includes/capabilities.php:44": [
             "wp-includes/capabilities.php",
@@ -50,41 +50,41 @@
             "wp-includes/capabilities.php",
             62
         ],
-        "wp-includes/capabilities.php:395": [
+        "wp-includes/capabilities.php:403": [
             "wp-includes/capabilities.php",
-            395
+            403
         ],
-        "wp-includes/capabilities.php:406": [
+        "wp-includes/capabilities.php:414": [
             "wp-includes/capabilities.php",
-            406
+            414
         ],
-        "wp-includes/capabilities.php:420": [
+        "wp-includes/capabilities.php:428": [
             "wp-includes/capabilities.php",
-            420
+            428
         ],
-        "wp-includes/capabilities.php:439": [
+        "wp-includes/capabilities.php:447": [
             "wp-includes/capabilities.php",
-            439
+            447
         ],
-        "wp-includes/capabilities.php:453": [
+        "wp-includes/capabilities.php:461": [
             "wp-includes/capabilities.php",
-            453
+            461
         ],
-        "wp-includes/capabilities.php:481": [
+        "wp-includes/capabilities.php:489": [
             "wp-includes/capabilities.php",
-            481
+            489
         ],
-        "wp-includes/capabilities.php:490": [
+        "wp-includes/capabilities.php:498": [
             "wp-includes/capabilities.php",
-            490
+            498
         ],
-        "wp-includes/capabilities.php:569": [
+        "wp-includes/capabilities.php:577": [
             "wp-includes/capabilities.php",
-            569
+            577
         ],
-        "wp-includes/capabilities.php:1041": [
+        "wp-includes/capabilities.php:1050": [
             "wp-includes/capabilities.php",
-            1041
+            1050
         ],
         "wp-includes/class-wp-user.php:752": [
             "wp-includes/class-wp-user.php",
@@ -98,9 +98,9 @@
             "wp-includes/ms-load.php",
             89
         ],
-        "wp-login.php:1273": [
+        "wp-login.php:1283": [
             "wp-login.php",
-            1273
+            1283
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

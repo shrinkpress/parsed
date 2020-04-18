@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_object_subtype",
     "filename": "wp-includes/meta.php",
-    "docCommentLine": 1397,
-    "startLine": 1406,
-    "endLine": 1459,
+    "docCommentLine": 1412,
+    "startLine": 1422,
+    "endLine": 1475,
     "calls": {
-        "wp-includes/capabilities.php:289": [
+        "wp-includes/capabilities.php:296": [
             "wp-includes/capabilities.php",
-            289
+            296
         ],
         "wp-includes/meta.php:47": [
             "wp-includes/meta.php",
@@ -18,17 +18,17 @@
             "wp-includes/meta.php",
             173
         ],
-        "wp-includes/meta.php:719": [
+        "wp-includes/meta.php:723": [
             "wp-includes/meta.php",
-            719
+            723
         ],
-        "wp-includes/meta.php:1348": [
+        "wp-includes/meta.php:1363": [
             "wp-includes/meta.php",
-            1348
+            1363
         ],
-        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:352": [
+        "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:361": [
             "wp-includes/rest-api/fields/class-wp-rest-meta-fields.php",
-            352
+            361
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

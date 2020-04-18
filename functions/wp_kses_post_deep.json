@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_kses_post_deep",
     "filename": "wp-includes/kses.php",
-    "docCommentLine": 1944,
-    "startLine": 1955,
-    "endLine": 1957,
+    "docCommentLine": 1963,
+    "startLine": 1974,
+    "endLine": 1976,
     "calls": {
-        "wp-admin/includes/image.php:838": [
+        "wp-admin/includes/image.php:846": [
             "wp-admin/includes/image.php",
-            838
+            846
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

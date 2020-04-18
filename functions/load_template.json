@@ -2,37 +2,37 @@
     "callbacks": [],
     "functionName": "load_template",
     "filename": "wp-includes/template.php",
-    "docCommentLine": 677,
-    "startLine": 701,
-    "endLine": 726,
+    "docCommentLine": 678,
+    "startLine": 702,
+    "endLine": 727,
     "calls": {
-        "wp-includes/functions.php:1554": [
+        "wp-includes/functions.php:1573": [
             "wp-includes/functions.php",
-            1554
+            1573
         ],
-        "wp-includes/functions.php:1565": [
+        "wp-includes/functions.php:1584": [
             "wp-includes/functions.php",
-            1565
-        ],
-        "wp-includes/functions.php:1579": [
-            "wp-includes/functions.php",
-            1579
-        ],
-        "wp-includes/functions.php:1581": [
-            "wp-includes/functions.php",
-            1581
-        ],
-        "wp-includes/functions.php:1596": [
-            "wp-includes/functions.php",
-            1596
+            1584
         ],
         "wp-includes/functions.php:1598": [
             "wp-includes/functions.php",
             1598
         ],
-        "wp-includes/template.php:671": [
+        "wp-includes/functions.php:1600": [
+            "wp-includes/functions.php",
+            1600
+        ],
+        "wp-includes/functions.php:1615": [
+            "wp-includes/functions.php",
+            1615
+        ],
+        "wp-includes/functions.php:1617": [
+            "wp-includes/functions.php",
+            1617
+        ],
+        "wp-includes/template.php:672": [
             "wp-includes/template.php",
-            671
+            672
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

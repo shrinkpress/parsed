@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "get_term_field",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 1030,
-    "startLine": 1046,
-    "endLine": 1061,
+    "docCommentLine": 1033,
+    "startLine": 1049,
+    "endLine": 1064,
     "calls": {
-        "wp-includes/category-template.php:1216": [
+        "wp-includes/category-template.php:1222": [
             "wp-includes/category-template.php",
-            1216
+            1222
         ],
         "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:282": [
             "wp-includes/customize/class-wp-customize-nav-menu-item-setting.php",
@@ -22,9 +22,9 @@
             "wp-includes/nav-menu.php",
             481
         ],
-        "wp-includes/nav-menu.php:963": [
+        "wp-includes/nav-menu.php:971": [
             "wp-includes/nav-menu.php",
-            963
+            971
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

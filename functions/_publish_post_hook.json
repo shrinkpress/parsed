@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:354": [
+        "wp-includes/default-filters.php:355": [
             "wp-includes/default-filters.php",
-            354,
+            355,
             "publish_post",
             "add_action"
         ]
     },
     "functionName": "_publish_post_hook",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 6780,
-    "startLine": 6790,
-    "endLine": 6819,
+    "docCommentLine": 6818,
+    "startLine": 6828,
+    "endLine": 6857,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

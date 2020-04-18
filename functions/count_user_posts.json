@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "count_user_posts",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 354,
-    "startLine": 369,
-    "endLine": 389,
+    "docCommentLine": 355,
+    "startLine": 370,
+    "endLine": 390,
     "calls": {
         "wp-includes/author-template.php:269": [
             "wp-includes/author-template.php",
             269
         ],
-        "wp-includes/deprecated.php:2435": [
+        "wp-includes/deprecated.php:2432": [
             "wp-includes/deprecated.php",
-            2435
+            2432
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:401": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:429": [
             "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
-            401
+            429
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

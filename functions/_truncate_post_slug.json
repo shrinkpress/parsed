@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "_truncate_post_slug",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 4447,
-    "startLine": 4459,
-    "endLine": 4470,
+    "docCommentLine": 4485,
+    "startLine": 4497,
+    "endLine": 4508,
     "calls": {
-        "wp-includes/post.php:4344": [
+        "wp-includes/post.php:4382": [
             "wp-includes/post.php",
-            4344
+            4382
         ],
-        "wp-includes/post.php:4375": [
+        "wp-includes/post.php:4413": [
             "wp-includes/post.php",
-            4375
+            4413
         ],
-        "wp-includes/post.php:4424": [
+        "wp-includes/post.php:4462": [
             "wp-includes/post.php",
-            4424
+            4462
         ],
-        "wp-includes/post.php:7086": [
+        "wp-includes/post.php:7124": [
             "wp-includes/post.php",
-            7086
+            7124
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

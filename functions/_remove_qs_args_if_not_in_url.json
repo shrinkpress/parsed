@@ -2,33 +2,33 @@
     "callbacks": [],
     "functionName": "_remove_qs_args_if_not_in_url",
     "filename": "wp-includes/canonical.php",
-    "docCommentLine": 619,
-    "startLine": 631,
-    "endLine": 644,
+    "docCommentLine": 627,
+    "startLine": 639,
+    "endLine": 652,
     "calls": {
-        "wp-includes/canonical.php:101": [
+        "wp-includes/canonical.php:103": [
             "wp-includes/canonical.php",
-            101
+            103
         ],
-        "wp-includes/canonical.php:118": [
+        "wp-includes/canonical.php:120": [
             "wp-includes/canonical.php",
-            118
+            120
         ],
-        "wp-includes/canonical.php:133": [
+        "wp-includes/canonical.php:135": [
             "wp-includes/canonical.php",
-            133
+            135
         ],
-        "wp-includes/canonical.php:144": [
+        "wp-includes/canonical.php:146": [
             "wp-includes/canonical.php",
-            144
+            146
         ],
-        "wp-includes/canonical.php:148": [
+        "wp-includes/canonical.php:150": [
             "wp-includes/canonical.php",
-            148
+            150
         ],
-        "wp-includes/canonical.php:154": [
+        "wp-includes/canonical.php:156": [
             "wp-includes/canonical.php",
-            154
+            156
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

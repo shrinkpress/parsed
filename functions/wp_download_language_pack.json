@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_download_language_pack",
     "filename": "wp-admin/includes/translation-install.php",
-    "docCommentLine": 199,
-    "startLine": 210,
-    "endLine": 248,
+    "docCommentLine": 201,
+    "startLine": 212,
+    "endLine": 250,
     "calls": {
         "wp-admin/install.php:323": [
             "wp-admin/install.php",
@@ -18,9 +18,9 @@
             "wp-admin/network/site-new.php",
             79
         ],
-        "wp-admin/options.php:252": [
+        "wp-admin/options.php:255": [
             "wp-admin/options.php",
-            252
+            255
         ],
         "wp-admin/setup-config.php:145": [
             "wp-admin/setup-config.php",

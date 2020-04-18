@@ -6,30 +6,30 @@
             "attachment_fields_to_edit",
             "add_filter"
         ],
-        "wp-admin/includes/media.php:2306": [
+        "wp-admin/includes/media.php:2325": [
             "wp-admin/includes/media.php",
-            2306,
+            2325,
             "attachment_fields_to_edit",
             "add_filter"
         ],
-        "wp-admin/includes/media.php:2530": [
+        "wp-admin/includes/media.php:2549": [
             "wp-admin/includes/media.php",
-            2530,
+            2549,
             "attachment_fields_to_edit",
             "add_filter"
         ],
-        "wp-admin/includes/media.php:2836": [
+        "wp-admin/includes/media.php:2855": [
             "wp-admin/includes/media.php",
-            2836,
+            2855,
             "attachment_fields_to_edit",
             "add_filter"
         ]
     },
     "functionName": "media_post_single_attachment_fields_to_edit",
     "filename": "wp-admin/includes/media.php",
-    "docCommentLine": 1270,
-    "startLine": 1279,
-    "endLine": 1282,
+    "docCommentLine": 1278,
+    "startLine": 1287,
+    "endLine": 1290,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

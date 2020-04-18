@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "verify_file_md5",
     "filename": "wp-admin/includes/file.php",
-    "docCommentLine": 1141,
-    "startLine": 1152,
-    "endLine": 1176,
+    "docCommentLine": 1157,
+    "startLine": 1168,
+    "endLine": 1192,
     "calls": {
-        "wp-admin/includes/file.php:1054": [
+        "wp-admin/includes/file.php:1070": [
             "wp-admin/includes/file.php",
-            1054
+            1070
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

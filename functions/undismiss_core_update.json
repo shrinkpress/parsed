@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "undismiss_core_update",
     "filename": "wp-admin/includes/update.php",
-    "docCommentLine": 168,
-    "startLine": 173,
-    "endLine": 183,
+    "docCommentLine": 176,
+    "startLine": 185,
+    "endLine": 195,
     "calls": {
-        "wp-admin/update-core.php:681": [
+        "wp-admin/update-core.php:685": [
             "wp-admin/update-core.php",
-            681
+            685
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

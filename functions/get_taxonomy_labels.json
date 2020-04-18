@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_taxonomy_labels",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 491,
-    "startLine": 536,
-    "endLine": 596,
+    "docCommentLine": 494,
+    "startLine": 539,
+    "endLine": 599,
     "calls": {
         "wp-includes/blocks/tag-cloud.php:33": [
             "wp-includes/blocks/tag-cloud.php",
             33
         ],
-        "wp-includes/class-wp-taxonomy.php:378": [
+        "wp-includes/class-wp-taxonomy.php:383": [
             "wp-includes/class-wp-taxonomy.php",
-            378
+            383
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

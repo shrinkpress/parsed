@@ -24,27 +24,27 @@
             "upgrader_process_complete",
             "remove_action"
         ],
-        "wp-includes/update.php:825": [
-            "wp-includes/update.php",
-            825,
-            "load-themes.php",
-            "add_action"
-        ],
         "wp-includes/update.php:826": [
             "wp-includes/update.php",
             826,
-            "load-update.php",
+            "load-themes.php",
             "add_action"
         ],
         "wp-includes/update.php:827": [
             "wp-includes/update.php",
             827,
+            "load-update.php",
+            "add_action"
+        ],
+        "wp-includes/update.php:828": [
+            "wp-includes/update.php",
+            828,
             "load-update-core.php",
             "add_action"
         ],
-        "wp-includes/update.php:829": [
+        "wp-includes/update.php:830": [
             "wp-includes/update.php",
-            829,
+            830,
             "wp_update_themes",
             "add_action"
         ]
@@ -52,12 +52,12 @@
     "functionName": "wp_update_themes",
     "filename": "wp-includes/update.php",
     "docCommentLine": 427,
-    "startLine": 438,
-    "endLine": 598,
+    "startLine": 439,
+    "endLine": 599,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:4136": [
+        "wp-admin/includes/ajax-actions.php:4140": [
             "wp-admin/includes/ajax-actions.php",
-            4136
+            4140
         ],
         "wp-admin/includes/class-wp-automatic-updater.php:430": [
             "wp-admin/includes/class-wp-automatic-updater.php",
@@ -75,9 +75,9 @@
             "wp-admin/includes/class-wp-debug-data.php",
             19
         ],
-        "wp-includes/update.php:775": [
+        "wp-includes/update.php:776": [
             "wp-includes/update.php",
-            775
+            776
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "get_theme_mods",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 880,
-    "startLine": 887,
-    "endLine": 902,
+    "docCommentLine": 883,
+    "startLine": 890,
+    "endLine": 905,
     "calls": {
-        "wp-includes/theme.php:919": [
+        "wp-includes/theme.php:922": [
             "wp-includes/theme.php",
-            919
+            922
         ],
-        "wp-includes/theme.php:956": [
+        "wp-includes/theme.php:959": [
             "wp-includes/theme.php",
-            956
+            959
         ],
-        "wp-includes/theme.php:988": [
+        "wp-includes/theme.php:991": [
             "wp-includes/theme.php",
-            988
+            991
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

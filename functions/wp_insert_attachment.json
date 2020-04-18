@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_insert_attachment",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 5505,
-    "startLine": 5530,
-    "endLine": 5545,
+    "docCommentLine": 5543,
+    "startLine": 5568,
+    "endLine": 5583,
     "calls": {
-        "wp-admin/includes/ajax-actions.php:3910": [
+        "wp-admin/includes/ajax-actions.php:3914": [
             "wp-admin/includes/ajax-actions.php",
-            3910
+            3914
         ],
         "wp-admin/includes/class-custom-background.php:516": [
             "wp-admin/includes/class-custom-background.php",
@@ -30,13 +30,13 @@
             "wp-admin/includes/class-wp-site-icon.php",
             115
         ],
-        "wp-admin/includes/image.php:532": [
+        "wp-admin/includes/image.php:540": [
             "wp-admin/includes/image.php",
-            532
+            540
         ],
-        "wp-admin/includes/import.php:111": [
+        "wp-admin/includes/import.php:117": [
             "wp-admin/includes/import.php",
-            111
+            117
         ],
         "wp-admin/includes/media.php:408": [
             "wp-admin/includes/media.php",
@@ -46,17 +46,17 @@
             "wp-admin/includes/media.php",
             494
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:6366": [
+        "wp-includes/class-wp-xmlrpc-server.php:6374": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            6366
+            6374
         ],
-        "wp-includes/post.php:4194": [
+        "wp-includes/post.php:4218": [
             "wp-includes/post.php",
-            4194
+            4218
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:239": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:268": [
             "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
-            239
+            268
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "xmlrpc_getpostcategory",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 728,
-    "startLine": 742,
-    "endLine": 751,
+    "docCommentLine": 746,
+    "startLine": 760,
+    "endLine": 769,
     "calls": {
-        "wp-includes/class-wp-xmlrpc-server.php:5041": [
+        "wp-includes/class-wp-xmlrpc-server.php:5048": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            5041
+            5048
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:5127": [
+        "wp-includes/class-wp-xmlrpc-server.php:5134": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            5127
+            5134
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

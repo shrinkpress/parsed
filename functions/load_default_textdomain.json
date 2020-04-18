@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "load_default_textdomain",
     "filename": "wp-includes/l10n.php",
-    "docCommentLine": 726,
-    "startLine": 739,
-    "endLine": 763,
+    "docCommentLine": 741,
+    "startLine": 754,
+    "endLine": 778,
     "calls": {
-        "wp-admin/includes/update-core.php:1397": [
+        "wp-admin/includes/update-core.php:1406": [
             "wp-admin/includes/update-core.php",
-            1397
+            1406
         ],
         "wp-admin/install.php:325": [
             "wp-admin/install.php",
@@ -18,9 +18,9 @@
             "wp-admin/install.php",
             344
         ],
-        "wp-admin/options.php:296": [
+        "wp-admin/options.php:299": [
             "wp-admin/options.php",
-            296
+            299
         ],
         "wp-admin/setup-config.php:147": [
             "wp-admin/setup-config.php",
@@ -42,9 +42,9 @@
             "wp-includes/class-wp-locale-switcher.php",
             196
         ],
-        "wp-settings.php:467": [
+        "wp-settings.php:484": [
             "wp-settings.php",
-            467
+            484
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

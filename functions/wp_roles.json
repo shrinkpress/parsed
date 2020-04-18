@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_roles",
     "filename": "wp-includes/capabilities.php",
-    "docCommentLine": 775,
-    "startLine": 784,
-    "endLine": 791,
+    "docCommentLine": 783,
+    "startLine": 792,
+    "endLine": 799,
     "calls": {
         "wp-admin/includes/class-wp-users-list-table.php:178": [
             "wp-admin/includes/class-wp-users-list-table.php",
             178
         ],
-        "wp-admin/includes/class-wp-users-list-table.php:617": [
+        "wp-admin/includes/class-wp-users-list-table.php:616": [
             "wp-admin/includes/class-wp-users-list-table.php",
-            617
+            616
         ],
-        "wp-admin/includes/upgrade.php:2034": [
+        "wp-admin/includes/upgrade.php:2053": [
             "wp-admin/includes/upgrade.php",
-            2034
+            2053
         ],
         "wp-admin/includes/user.php:31": [
             "wp-admin/includes/user.php",
@@ -26,49 +26,49 @@
             "wp-admin/includes/user.php",
             264
         ],
-        "wp-includes/capabilities.php:802": [
+        "wp-includes/capabilities.php:810": [
             "wp-includes/capabilities.php",
-            802
+            810
         ],
-        "wp-includes/capabilities.php:819": [
+        "wp-includes/capabilities.php:828": [
             "wp-includes/capabilities.php",
-            819
+            828
         ],
-        "wp-includes/capabilities.php:830": [
+        "wp-includes/capabilities.php:839": [
             "wp-includes/capabilities.php",
-            830
+            839
         ],
-        "wp-includes/class-wp-role.php:58": [
+        "wp-includes/class-wp-role.php:59": [
             "wp-includes/class-wp-role.php",
-            58
+            59
         ],
-        "wp-includes/class-wp-role.php:75": [
+        "wp-includes/class-wp-role.php:76": [
             "wp-includes/class-wp-role.php",
-            75
+            76
         ],
         "wp-includes/class-wp-user.php:502": [
             "wp-includes/class-wp-user.php",
             502
         ],
-        "wp-includes/ms-blogs.php:639": [
+        "wp-includes/ms-blogs.php:642": [
             "wp-includes/ms-blogs.php",
-            639
+            642
         ],
-        "wp-includes/user.php:901": [
+        "wp-includes/user.php:907": [
             "wp-includes/user.php",
-            901
+            907
         ],
-        "wp-includes/user.php:904": [
+        "wp-includes/user.php:910": [
             "wp-includes/user.php",
-            904
+            910
         ],
-        "wp-includes/user.php:2676": [
+        "wp-includes/user.php:2686": [
             "wp-includes/user.php",
-            2676
+            2686
         ],
-        "wp-includes/user.php:2679": [
+        "wp-includes/user.php:2689": [
             "wp-includes/user.php",
-            2679
+            2689
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

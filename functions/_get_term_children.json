@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_get_term_children",
     "filename": "wp-includes/taxonomy.php",
-    "docCommentLine": 3496,
-    "startLine": 3515,
-    "endLine": 3570,
+    "docCommentLine": 3499,
+    "startLine": 3518,
+    "endLine": 3573,
     "calls": {
         "wp-includes/class-wp-term-query.php:738": [
             "wp-includes/class-wp-term-query.php",
             738
         ],
-        "wp-includes/taxonomy.php:3562": [
+        "wp-includes/taxonomy.php:3565": [
             "wp-includes/taxonomy.php",
-            3562
+            3565
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

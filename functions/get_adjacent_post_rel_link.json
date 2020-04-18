@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "get_adjacent_post_rel_link",
     "filename": "wp-includes/link-template.php",
-    "docCommentLine": 1879,
-    "startLine": 1893,
-    "endLine": 1938,
+    "docCommentLine": 1881,
+    "startLine": 1895,
+    "endLine": 1940,
     "calls": {
-        "wp-includes/link-template.php:1951": [
+        "wp-includes/link-template.php:1953": [
             "wp-includes/link-template.php",
-            1951
+            1953
         ],
-        "wp-includes/link-template.php:1952": [
+        "wp-includes/link-template.php:1954": [
             "wp-includes/link-template.php",
-            1952
+            1954
         ],
-        "wp-includes/link-template.php:1985": [
+        "wp-includes/link-template.php:1987": [
             "wp-includes/link-template.php",
-            1985
+            1987
         ],
-        "wp-includes/link-template.php:2001": [
+        "wp-includes/link-template.php:2003": [
             "wp-includes/link-template.php",
-            2001
+            2003
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

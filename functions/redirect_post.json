@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "redirect_post",
     "filename": "wp-admin/includes/post.php",
-    "docCommentLine": 1953,
-    "startLine": 1958,
-    "endLine": 2000,
+    "docCommentLine": 1968,
+    "startLine": 1975,
+    "endLine": 2017,
     "calls": {
-        "wp-admin/post.php:107": [
+        "wp-admin/post.php:115": [
             "wp-admin/post.php",
-            107
+            115
         ],
-        "wp-admin/post.php:226": [
+        "wp-admin/post.php:234": [
             "wp-admin/post.php",
-            226
+            234
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

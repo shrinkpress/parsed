@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "wp_referer_field",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 1790,
-    "startLine": 1801,
-    "endLine": 1808,
+    "docCommentLine": 1826,
+    "startLine": 1837,
+    "endLine": 1844,
     "calls": {
         "wp-admin/includes/class-wp-plugin-install-list-table.php:377": [
             "wp-admin/includes/class-wp-plugin-install-list-table.php",
             377
         ],
-        "wp-includes/functions.php:1780": [
+        "wp-includes/functions.php:1816": [
             "wp-includes/functions.php",
-            1780
+            1816
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

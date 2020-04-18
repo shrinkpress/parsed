@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "add_screen_option",
     "filename": "wp-admin/includes/screen.php",
-    "docCommentLine": 195,
-    "startLine": 203,
-    "endLine": 211,
+    "docCommentLine": 194,
+    "startLine": 202,
+    "endLine": 210,
     "calls": {
-        "wp-admin/edit-comments.php:181": [
+        "wp-admin/edit-comments.php:168": [
             "wp-admin/edit-comments.php",
-            181
+            168
         ],
         "wp-admin/edit-form-advanced.php:271": [
             "wp-admin/edit-form-advanced.php",
@@ -22,9 +22,9 @@
             "wp-admin/edit-tags.php",
             57
         ],
-        "wp-admin/edit.php:299": [
+        "wp-admin/edit.php:315": [
             "wp-admin/edit.php",
-            299
+            315
         ],
         "wp-admin/erase-personal-data.php:24": [
             "wp-admin/erase-personal-data.php",
@@ -54,13 +54,13 @@
             "wp-admin/network/users.php",
             210
         ],
-        "wp-admin/plugins.php:434": [
+        "wp-admin/plugins.php:439": [
             "wp-admin/plugins.php",
-            434
+            439
         ],
-        "wp-admin/upload.php:219": [
+        "wp-admin/upload.php:221": [
             "wp-admin/upload.php",
-            219
+            221
         ],
         "wp-admin/users.php:26": [
             "wp-admin/users.php",

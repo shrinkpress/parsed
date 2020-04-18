@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "the_search_query",
     "filename": "wp-includes/general-template.php",
-    "docCommentLine": 3921,
-    "startLine": 3929,
-    "endLine": 3938,
+    "docCommentLine": 3912,
+    "startLine": 3920,
+    "endLine": 3929,
     "calls": {
-        "wp-admin/includes/media.php:2685": [
+        "wp-admin/includes/media.php:2704": [
             "wp-admin/includes/media.php",
-            2685
+            2704
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

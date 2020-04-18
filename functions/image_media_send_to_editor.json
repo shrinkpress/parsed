@@ -1,23 +1,23 @@
 {
     "callbacks": {
-        "wp-admin/includes/ajax-actions.php:3210": [
+        "wp-admin/includes/ajax-actions.php:3214": [
             "wp-admin/includes/ajax-actions.php",
-            3210,
+            3214,
             "media_send_to_editor",
             "remove_filter"
         ],
-        "wp-includes/default-filters.php:545": [
+        "wp-includes/default-filters.php:547": [
             "wp-includes/default-filters.php",
-            545,
+            547,
             "media_send_to_editor",
             "add_filter"
         ]
     },
     "functionName": "image_media_send_to_editor",
     "filename": "wp-admin/includes/media.php",
-    "docCommentLine": 1309,
-    "startLine": 1319,
-    "endLine": 1333,
+    "docCommentLine": 1317,
+    "startLine": 1327,
+    "endLine": 1341,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

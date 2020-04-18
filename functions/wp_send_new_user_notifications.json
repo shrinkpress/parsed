@@ -1,14 +1,14 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:442": [
-            "wp-includes/default-filters.php",
-            442,
-            "register_new_user",
-            "add_action"
-        ],
         "wp-includes/default-filters.php:443": [
             "wp-includes/default-filters.php",
             443,
+            "register_new_user",
+            "add_action"
+        ],
+        "wp-includes/default-filters.php:444": [
+            "wp-includes/default-filters.php",
+            444,
             "edit_user_created_user",
             "add_action"
         ],
@@ -33,9 +33,9 @@
     },
     "functionName": "wp_send_new_user_notifications",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 2579,
-    "startLine": 2593,
-    "endLine": 2595,
+    "docCommentLine": 2589,
+    "startLine": 2603,
+    "endLine": 2605,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

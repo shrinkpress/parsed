@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "human_readable_duration",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 457,
-    "startLine": 466,
-    "endLine": 525,
+    "docCommentLine": 473,
+    "startLine": 482,
+    "endLine": 541,
     "calls": {
-        "wp-includes/media.php:3545": [
+        "wp-includes/media.php:3618": [
             "wp-includes/media.php",
-            3545
+            3618
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

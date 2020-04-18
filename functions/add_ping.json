@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "add_ping",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 4660,
-    "startLine": 4673,
-    "endLine": 4703,
+    "docCommentLine": 4698,
+    "startLine": 4711,
+    "endLine": 4741,
     "calls": {
-        "wp-includes/comment.php:2882": [
+        "wp-includes/comment.php:2894": [
             "wp-includes/comment.php",
-            2882
+            2894
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

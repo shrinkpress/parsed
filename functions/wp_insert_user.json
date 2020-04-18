@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "wp_insert_user",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 1460,
-    "startLine": 1519,
-    "endLine": 1901,
+    "docCommentLine": 1466,
+    "startLine": 1529,
+    "endLine": 1911,
     "calls": {
         "wp-admin/includes/user.php:230": [
             "wp-admin/includes/user.php",
             230
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:529": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:584": [
             "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
-            529
+            584
         ],
-        "wp-includes/user.php:1985": [
+        "wp-includes/user.php:1995": [
             "wp-includes/user.php",
-            1985
+            1995
         ],
-        "wp-includes/user.php:2161": [
+        "wp-includes/user.php:2171": [
             "wp-includes/user.php",
-            2161
+            2171
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,53 +2,53 @@
     "callbacks": [],
     "functionName": "is_feed",
     "filename": "wp-includes/query.php",
-    "docCommentLine": 381,
-    "startLine": 395,
-    "endLine": 404,
+    "docCommentLine": 389,
+    "startLine": 404,
+    "endLine": 413,
     "calls": {
-        "wp-includes/canonical.php:98": [
+        "wp-includes/canonical.php:100": [
             "wp-includes/canonical.php",
-            98
+            100
         ],
-        "wp-includes/canonical.php:192": [
+        "wp-includes/canonical.php:194": [
             "wp-includes/canonical.php",
-            192
+            194
         ],
-        "wp-includes/canonical.php:317": [
+        "wp-includes/canonical.php:325": [
             "wp-includes/canonical.php",
-            317
+            325
         ],
-        "wp-includes/canonical.php:326": [
+        "wp-includes/canonical.php:334": [
             "wp-includes/canonical.php",
-            326
+            334
         ],
-        "wp-includes/canonical.php:337": [
+        "wp-includes/canonical.php:345": [
             "wp-includes/canonical.php",
-            337
+            345
         ],
-        "wp-includes/canonical.php:356": [
+        "wp-includes/canonical.php:364": [
             "wp-includes/canonical.php",
-            356
+            364
         ],
-        "wp-includes/class-wp.php:704": [
+        "wp-includes/class-wp.php:710": [
             "wp-includes/class-wp.php",
-            704
+            710
         ],
-        "wp-includes/functions.php:3269": [
+        "wp-includes/functions.php:3326": [
             "wp-includes/functions.php",
-            3269
+            3326
         ],
-        "wp-includes/media.php:1903": [
+        "wp-includes/media.php:1961": [
             "wp-includes/media.php",
-            1903
+            1961
         ],
-        "wp-includes/media.php:2221": [
+        "wp-includes/media.php:2279": [
             "wp-includes/media.php",
-            2221
+            2279
         ],
-        "wp-includes/template-loader.php:39": [
+        "wp-includes/template-loader.php:47": [
             "wp-includes/template-loader.php",
-            39
+            47
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

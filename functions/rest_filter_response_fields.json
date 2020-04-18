@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/rest-api.php:183": [
+        "wp-includes/rest-api.php:184": [
             "wp-includes/rest-api.php",
-            183,
+            184,
             "rest_post_dispatch",
             "add_filter"
         ]
     },
     "functionName": "rest_filter_response_fields",
     "filename": "wp-includes/rest-api.php",
-    "docCommentLine": 715,
-    "startLine": 726,
-    "endLine": 772,
+    "docCommentLine": 717,
+    "startLine": 728,
+    "endLine": 774,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

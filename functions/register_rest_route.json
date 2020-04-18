@@ -4,7 +4,7 @@
     "filename": "wp-includes/rest-api.php",
     "docCommentLine": 17,
     "startLine": 33,
-    "endLine": 89,
+    "endLine": 90,
     "calls": {
         "wp-includes/class-wp-oembed-controller.php:34": [
             "wp-includes/class-wp-oembed-controller.php",
@@ -14,9 +14,9 @@
             "wp-includes/class-wp-oembed-controller.php",
             59
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:21": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:28": [
             "wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
-            21
+            28
         ],
         "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:83": [
             "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
@@ -26,17 +26,17 @@
             "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
             109
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:42": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:44": [
             "wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php",
-            42
+            44
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:46": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:48": [
             "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
-            46
+            48
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:66": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:68": [
             "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
-            66
+            68
         ],
         "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:38": [
             "wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php",
@@ -70,9 +70,9 @@
             "wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php",
             92
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:89": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:92": [
             "wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php",
-            89
+            92
         ],
         "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:38": [
             "wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php",

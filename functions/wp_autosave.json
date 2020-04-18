@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_autosave",
     "filename": "wp-admin/includes/post.php",
-    "docCommentLine": 1905,
-    "startLine": 1916,
-    "endLine": 1951,
+    "docCommentLine": 1919,
+    "startLine": 1930,
+    "endLine": 1966,
     "calls": {
-        "wp-admin/includes/misc.php:1178": [
+        "wp-admin/includes/misc.php:1185": [
             "wp-admin/includes/misc.php",
-            1178
+            1185
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

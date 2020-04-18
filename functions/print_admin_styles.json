@@ -12,18 +12,18 @@
             "login_head",
             "add_action"
         ],
-        "wp-includes/default-filters.php:347": [
+        "wp-includes/default-filters.php:348": [
             "wp-includes/default-filters.php",
-            347,
+            348,
             "admin_print_styles",
             "add_action"
         ]
     },
     "functionName": "print_admin_styles",
     "filename": "wp-includes/script-loader.php",
-    "docCommentLine": 2673,
-    "startLine": 2682,
-    "endLine": 2704,
+    "docCommentLine": 2297,
+    "startLine": 2306,
+    "endLine": 2328,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

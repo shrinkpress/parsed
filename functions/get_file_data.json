@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "get_file_data",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 5760,
-    "startLine": 5780,
-    "endLine": 5820,
+    "docCommentLine": 5952,
+    "startLine": 5972,
+    "endLine": 6012,
     "calls": {
-        "wp-admin/includes/class-theme-upgrader.php:484": [
+        "wp-admin/includes/class-theme-upgrader.php:487": [
             "wp-admin/includes/class-theme-upgrader.php",
-            484
+            487
         ],
         "wp-admin/includes/plugin.php:86": [
             "wp-admin/includes/plugin.php",
             86
         ],
-        "wp-admin/includes/plugin.php:1105": [
+        "wp-admin/includes/plugin.php:1118": [
             "wp-admin/includes/plugin.php",
-            1105
+            1118
         ],
-        "wp-includes/class-wp-theme.php:270": [
+        "wp-includes/class-wp-theme.php:274": [
             "wp-includes/class-wp-theme.php",
-            270
+            274
         ],
-        "wp-includes/l10n.php:1377": [
+        "wp-includes/l10n.php:1391": [
             "wp-includes/l10n.php",
-            1377
+            1391
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

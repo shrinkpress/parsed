@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_skip_paused_themes",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 772,
-    "startLine": 780,
-    "endLine": 799,
+    "docCommentLine": 773,
+    "startLine": 781,
+    "endLine": 800,
     "calls": {
-        "wp-includes/load.php:761": [
+        "wp-includes/load.php:762": [
             "wp-includes/load.php",
-            761
+            762
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

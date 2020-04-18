@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:475": [
+        "wp-includes/default-filters.php:476": [
             "wp-includes/default-filters.php",
-            475,
+            476,
             "admin_menu",
             "add_action"
         ]
     },
     "functionName": "_add_post_type_submenus",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 1789,
-    "startLine": 1795,
-    "endLine": 1804,
+    "docCommentLine": 1800,
+    "startLine": 1806,
+    "endLine": 1815,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "delete_user_meta",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 796,
-    "startLine": 811,
-    "endLine": 813,
+    "docCommentLine": 797,
+    "startLine": 812,
+    "endLine": 814,
     "calls": {
         "wp-admin/user-edit.php:107": [
             "wp-admin/user-edit.php",
@@ -26,13 +26,13 @@
             "wp-includes/class-wp-user.php",
             712
         ],
-        "wp-includes/user.php:559": [
+        "wp-includes/user.php:560": [
             "wp-includes/user.php",
-            559
+            560
         ],
-        "wp-includes/user.php:2810": [
+        "wp-includes/user.php:2820": [
             "wp-includes/user.php",
-            2810
+            2820
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -4,7 +4,7 @@
     "filename": "wp-admin/includes/screen.php",
     "docCommentLine": 9,
     "startLine": 19,
-    "endLine": 44,
+    "endLine": 43,
     "calls": {
         "wp-admin/includes/class-wp-list-table-compat.php:36": [
             "wp-admin/includes/class-wp-list-table-compat.php",
@@ -18,13 +18,13 @@
             "wp-admin/includes/class-wp-list-table.php",
             1050
         ],
-        "wp-admin/includes/class-wp-screen.php:959": [
+        "wp-admin/includes/class-wp-screen.php:995": [
             "wp-admin/includes/class-wp-screen.php",
-            959
+            995
         ],
-        "wp-admin/includes/class-wp-screen.php:1108": [
+        "wp-admin/includes/class-wp-screen.php:1144": [
             "wp-admin/includes/class-wp-screen.php",
-            1108
+            1144
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

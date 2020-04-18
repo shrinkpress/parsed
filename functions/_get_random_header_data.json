@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_get_random_header_data",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 1168,
-    "startLine": 1180,
-    "endLine": 1210,
+    "docCommentLine": 1171,
+    "startLine": 1183,
+    "endLine": 1213,
     "calls": {
-        "wp-includes/theme.php:1220": [
+        "wp-includes/theme.php:1223": [
             "wp-includes/theme.php",
-            1220
+            1223
         ],
-        "wp-includes/theme.php:1330": [
+        "wp-includes/theme.php:1333": [
             "wp-includes/theme.php",
-            1330
+            1333
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

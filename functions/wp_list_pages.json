@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "wp_list_pages",
     "filename": "wp-includes/post-template.php",
-    "docCommentLine": 1217,
-    "startLine": 1257,
-    "endLine": 1344,
+    "docCommentLine": 1221,
+    "startLine": 1261,
+    "endLine": 1348,
     "calls": {
-        "wp-includes/post-template.php:1447": [
+        "wp-includes/post-template.php:1451": [
             "wp-includes/post-template.php",
-            1447
+            1451
         ],
         "wp-includes/theme-compat/sidebar.php:117": [
             "wp-includes/theme-compat/sidebar.php",
             117
         ],
-        "wp-includes/widgets/class-wp-widget-pages.php:74": [
+        "wp-includes/widgets/class-wp-widget-pages.php:63": [
             "wp-includes/widgets/class-wp-widget-pages.php",
-            74
+            63
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

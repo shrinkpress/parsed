@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "do_core_upgrade",
     "filename": "wp-admin/update-core.php",
-    "docCommentLine": 546,
-    "startLine": 555,
-    "endLine": 650,
+    "docCommentLine": 550,
+    "startLine": 559,
+    "endLine": 654,
     "calls": {
-        "wp-admin/update-core.php:817": [
+        "wp-admin/update-core.php:821": [
             "wp-admin/update-core.php",
-            817
+            821
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

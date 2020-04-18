@@ -1,14 +1,14 @@
 {
     "callbacks": {
-        "wp-admin/includes/class-theme-upgrader.php:141": [
+        "wp-admin/includes/class-theme-upgrader.php:142": [
             "wp-admin/includes/class-theme-upgrader.php",
-            141,
+            142,
             "install_theme_complete_actions",
             "add_filter"
         ],
-        "wp-admin/includes/class-theme-upgrader.php:158": [
+        "wp-admin/includes/class-theme-upgrader.php:159": [
             "wp-admin/includes/class-theme-upgrader.php",
-            158,
+            159,
             "install_theme_complete_actions",
             "remove_filter"
         ],
@@ -42,9 +42,9 @@
             "wp_insert_post_empty_content",
             "remove_filter"
         ],
-        "wp-includes/load.php:765": [
+        "wp-includes/load.php:766": [
             "wp-includes/load.php",
-            765,
+            766,
             "wp_using_themes",
             "add_filter"
         ],
@@ -66,66 +66,66 @@
             "enable_edit_any_user_configuration",
             "add_filter"
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1610": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1771": [
             "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
-            1610,
+            1771,
             "post_password_required",
             "add_filter"
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1622": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1783": [
             "wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php",
-            1622,
+            1783,
             "post_password_required",
             "remove_filter"
-        ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:302": [
-            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
-            302,
-            "post_password_required",
-            "add_filter"
         ],
         "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:318": [
             "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
             318,
             "post_password_required",
-            "remove_filter"
-        ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:416": [
-            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
-            416,
-            "post_password_required",
             "add_filter"
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1537": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:334": [
             "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
-            1537,
-            "post_password_required",
-            "add_filter"
-        ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1571": [
-            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
-            1571,
+            334,
             "post_password_required",
             "remove_filter"
         ],
-        "wp-includes/rest-api.php:176": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:449": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            449,
+            "post_password_required",
+            "add_filter"
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1670": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1670,
+            "post_password_required",
+            "add_filter"
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1708": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php",
+            1708,
+            "post_password_required",
+            "remove_filter"
+        ],
+        "wp-includes/rest-api.php:177": [
             "wp-includes/rest-api.php",
-            176,
+            177,
             "deprecated_function_trigger_error",
             "add_filter"
         ],
-        "wp-includes/rest-api.php:178": [
+        "wp-includes/rest-api.php:179": [
             "wp-includes/rest-api.php",
-            178,
+            179,
             "deprecated_argument_trigger_error",
             "add_filter"
         ]
     },
     "functionName": "__return_false",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 5837,
-    "startLine": 5848,
-    "endLine": 5850,
+    "docCommentLine": 6029,
+    "startLine": 6040,
+    "endLine": 6042,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "require_wp_db",
     "filename": "wp-includes/load.php",
-    "docCommentLine": 401,
-    "startLine": 408,
-    "endLine": 426,
+    "docCommentLine": 402,
+    "startLine": 409,
+    "endLine": 427,
     "calls": {
         "wp-admin/setup-config.php:302": [
             "wp-admin/setup-config.php",
             302
         ],
-        "wp-settings.php:116": [
+        "wp-settings.php:126": [
             "wp-settings.php",
-            116
+            126
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

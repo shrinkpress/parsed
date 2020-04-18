@@ -1,17 +1,17 @@
 {
     "callbacks": {
-        "wp-includes/default-filters.php:385": [
+        "wp-includes/default-filters.php:386": [
             "wp-includes/default-filters.php",
-            385,
+            386,
             "begin_fetch_post_thumbnail_html",
             "add_action"
         ]
     },
     "functionName": "_wp_post_thumbnail_class_filter_add",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 1578,
-    "startLine": 1587,
-    "endLine": 1589,
+    "docCommentLine": 1636,
+    "startLine": 1645,
+    "endLine": 1647,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

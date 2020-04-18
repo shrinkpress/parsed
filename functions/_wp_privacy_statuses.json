@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "_wp_privacy_statuses",
     "filename": "wp-includes/post.php",
-    "docCommentLine": 967,
-    "startLine": 975,
-    "endLine": 982,
+    "docCommentLine": 975,
+    "startLine": 983,
+    "endLine": 990,
     "calls": {
-        "wp-admin/includes/class-wp-privacy-requests-table.php:144": [
+        "wp-admin/includes/class-wp-privacy-requests-table.php:146": [
             "wp-admin/includes/class-wp-privacy-requests-table.php",
-            144
+            146
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

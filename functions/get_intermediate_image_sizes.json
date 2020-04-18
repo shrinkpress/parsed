@@ -2,29 +2,29 @@
     "callbacks": [],
     "functionName": "get_intermediate_image_sizes",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 831,
-    "startLine": 838,
-    "endLine": 855,
+    "docCommentLine": 854,
+    "startLine": 861,
+    "endLine": 878,
     "calls": {
-        "wp-admin/includes/image-edit.php:682": [
+        "wp-admin/includes/image-edit.php:684": [
             "wp-admin/includes/image-edit.php",
-            682
+            684
         ],
-        "wp-admin/includes/image-edit.php:882": [
+        "wp-admin/includes/image-edit.php:884": [
             "wp-admin/includes/image-edit.php",
-            882
+            884
         ],
-        "wp-includes/media.php:870": [
+        "wp-includes/media.php:893": [
             "wp-includes/media.php",
-            870
+            893
         ],
-        "wp-includes/widgets/class-wp-widget-media-gallery.php:81": [
+        "wp-includes/widgets/class-wp-widget-media-gallery.php:82": [
             "wp-includes/widgets/class-wp-widget-media-gallery.php",
-            81
+            82
         ],
-        "wp-includes/widgets/class-wp-widget-media-image.php:69": [
+        "wp-includes/widgets/class-wp-widget-media-image.php:70": [
             "wp-includes/widgets/class-wp-widget-media-image.php",
-            69
+            70
         ],
         "wp-includes/widgets/class-wp-widget-media-image.php:211": [
             "wp-includes/widgets/class-wp-widget-media-image.php",

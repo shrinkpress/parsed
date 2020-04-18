@@ -1,23 +1,23 @@
 {
     "callbacks": {
-        "wp-includes/media.php:1588": [
+        "wp-includes/media.php:1646": [
             "wp-includes/media.php",
-            1588,
+            1646,
             "wp_get_attachment_image_attributes",
             "add_filter"
         ],
-        "wp-includes/media.php:1601": [
+        "wp-includes/media.php:1659": [
             "wp-includes/media.php",
-            1601,
+            1659,
             "wp_get_attachment_image_attributes",
             "remove_filter"
         ]
     },
     "functionName": "_wp_post_thumbnail_class_filter",
     "filename": "wp-includes/media.php",
-    "docCommentLine": 1561,
-    "startLine": 1573,
-    "endLine": 1576,
+    "docCommentLine": 1619,
+    "startLine": 1631,
+    "endLine": 1634,
     "calls": [],
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
 }

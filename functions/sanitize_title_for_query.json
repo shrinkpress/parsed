@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "sanitize_title_for_query",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 2184,
-    "startLine": 2194,
-    "endLine": 2196,
+    "docCommentLine": 2187,
+    "startLine": 2197,
+    "endLine": 2199,
     "calls": {
-        "wp-includes/class-wp-query.php:2004": [
+        "wp-includes/class-wp-query.php:2019": [
             "wp-includes/class-wp-query.php",
-            2004
+            2019
         ],
-        "wp-includes/class-wp-query.php:2035": [
+        "wp-includes/class-wp-query.php:2050": [
             "wp-includes/class-wp-query.php",
-            2035
+            2050
         ],
-        "wp-includes/class-wp-query.php:2048": [
+        "wp-includes/class-wp-query.php:2063": [
             "wp-includes/class-wp-query.php",
-            2048
+            2063
         ],
-        "wp-includes/class-wp-query.php:2231": [
+        "wp-includes/class-wp-query.php:2246": [
             "wp-includes/class-wp-query.php",
-            2231
+            2246
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

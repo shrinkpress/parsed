@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "media_upload_header",
     "filename": "wp-admin/includes/media.php",
-    "docCommentLine": 2014,
-    "startLine": 2019,
-    "endLine": 2029,
+    "docCommentLine": 2030,
+    "startLine": 2035,
+    "endLine": 2045,
     "calls": {
-        "wp-admin/includes/media.php:2261": [
+        "wp-admin/includes/media.php:2280": [
             "wp-admin/includes/media.php",
-            2261
+            2280
         ],
-        "wp-admin/includes/media.php:2338": [
+        "wp-admin/includes/media.php:2357": [
             "wp-admin/includes/media.php",
-            2338
+            2357
         ],
-        "wp-admin/includes/media.php:2486": [
+        "wp-admin/includes/media.php:2505": [
             "wp-admin/includes/media.php",
-            2486
+            2505
         ],
-        "wp-admin/includes/media.php:2649": [
+        "wp-admin/includes/media.php:2668": [
             "wp-admin/includes/media.php",
-            2649
+            2668
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

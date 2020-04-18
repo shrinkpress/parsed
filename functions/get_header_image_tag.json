@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "get_header_image_tag",
     "filename": "wp-includes/theme.php",
-    "docCommentLine": 1090,
-    "startLine": 1099,
-    "endLine": 1155,
+    "docCommentLine": 1093,
+    "startLine": 1102,
+    "endLine": 1158,
     "calls": {
-        "wp-includes/theme.php:1165": [
+        "wp-includes/theme.php:1168": [
             "wp-includes/theme.php",
-            1165
+            1168
         ],
-        "wp-includes/theme.php:1570": [
+        "wp-includes/theme.php:1574": [
             "wp-includes/theme.php",
-            1570
+            1574
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,13 +2,13 @@
     "callbacks": [],
     "functionName": "wp_notify_postauthor",
     "filename": "wp-includes/pluggable.php",
-    "docCommentLine": 1459,
-    "startLine": 1468,
-    "endLine": 1676,
+    "docCommentLine": 1477,
+    "startLine": 1486,
+    "endLine": 1703,
     "calls": {
-        "wp-includes/comment.php:2228": [
+        "wp-includes/comment.php:2234": [
             "wp-includes/comment.php",
-            2228
+            2234
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

@@ -2,9 +2,9 @@
     "callbacks": [],
     "functionName": "wp_is_post_autosave",
     "filename": "wp-includes/revision.php",
-    "docCommentLine": 267,
-    "startLine": 275,
-    "endLine": 286,
+    "docCommentLine": 269,
+    "startLine": 277,
+    "endLine": 288,
     "calls": {
         "wp-admin/includes/revision.php:182": [
             "wp-admin/includes/revision.php",
@@ -22,29 +22,29 @@
             "wp-admin/revision.php",
             90
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:4632": [
+        "wp-includes/class-wp-xmlrpc-server.php:4638": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            4632
+            4638
         ],
-        "wp-includes/class-wp-xmlrpc-server.php:4683": [
+        "wp-includes/class-wp-xmlrpc-server.php:4689": [
             "wp-includes/class-wp-xmlrpc-server.php",
-            4683
+            4689
         ],
-        "wp-includes/post-template.php:1828": [
+        "wp-includes/post-template.php:1833": [
             "wp-includes/post-template.php",
-            1828
+            1833
         ],
-        "wp-includes/post-template.php:1882": [
+        "wp-includes/post-template.php:1887": [
             "wp-includes/post-template.php",
-            1882
+            1887
         ],
-        "wp-includes/post-template.php:1933": [
+        "wp-includes/post-template.php:1938": [
             "wp-includes/post-template.php",
-            1933
+            1938
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:391": [
+        "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:414": [
             "wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
-            391
+            414
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

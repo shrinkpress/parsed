@@ -2,21 +2,21 @@
     "callbacks": [],
     "functionName": "sanitize_user_field",
     "filename": "wp-includes/user.php",
-    "docCommentLine": 1217,
-    "startLine": 1233,
-    "endLine": 1327,
+    "docCommentLine": 1223,
+    "startLine": 1239,
+    "endLine": 1333,
     "calls": {
         "wp-includes/class-wp-user.php:322": [
             "wp-includes/class-wp-user.php",
             322
         ],
-        "wp-includes/deprecated.php:2643": [
+        "wp-includes/deprecated.php:2640": [
             "wp-includes/deprecated.php",
-            2643
+            2640
         ],
-        "wp-includes/deprecated.php:2651": [
+        "wp-includes/deprecated.php:2648": [
             "wp-includes/deprecated.php",
-            2651
+            2648
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

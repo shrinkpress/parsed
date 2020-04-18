@@ -2,17 +2,17 @@
     "callbacks": [],
     "functionName": "_deep_replace",
     "filename": "wp-includes/formatting.php",
-    "docCommentLine": 4220,
-    "startLine": 4235,
-    "endLine": 4244,
+    "docCommentLine": 4224,
+    "startLine": 4239,
+    "endLine": 4248,
     "calls": {
-        "wp-includes/formatting.php:4301": [
+        "wp-includes/formatting.php:4305": [
             "wp-includes/formatting.php",
-            4301
+            4305
         ],
-        "wp-includes/pluggable.php:1305": [
+        "wp-includes/pluggable.php:1321": [
             "wp-includes/pluggable.php",
-            1305
+            1321
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"

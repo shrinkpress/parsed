@@ -2,25 +2,25 @@
     "callbacks": [],
     "functionName": "dead_db",
     "filename": "wp-includes/functions.php",
-    "docCommentLine": 4556,
-    "startLine": 4574,
-    "endLine": 4592,
+    "docCommentLine": 4613,
+    "startLine": 4631,
+    "endLine": 4649,
     "calls": {
-        "wp-includes/functions.php:1724": [
+        "wp-includes/functions.php:1760": [
             "wp-includes/functions.php",
-            1724
+            1760
         ],
-        "wp-includes/load.php:443": [
+        "wp-includes/load.php:444": [
             "wp-includes/load.php",
-            443
+            444
         ],
-        "wp-includes/ms-load.php:465": [
+        "wp-includes/ms-load.php:468": [
             "wp-includes/ms-load.php",
-            465
+            468
         ],
-        "wp-includes/wp-db.php:1864": [
+        "wp-includes/wp-db.php:1858": [
             "wp-includes/wp-db.php",
-            1864
+            1858
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Funcs\\WordPress_Func"
