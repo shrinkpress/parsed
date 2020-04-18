@@ -15,6 +15,7 @@
         "wp-includes/blocks/rss.php",
         "wp-includes/blocks/search.php",
         "wp-includes/blocks/shortcode.php",
+        "wp-includes/blocks/social-link.php",
         "wp-includes/blocks/tag-cloud.php",
         "wp-includes/canonical.php",
         "wp-includes/class-wp-ajax-response.php",
@@ -61,8 +62,7 @@
         "wp-login.php",
         "wp-mail.php",
         "wp-settings.php",
-        "xmlrpc.php",
-        "wp-includes/blocks/social-link.php"
+        "xmlrpc.php"
     ],
     ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
 }

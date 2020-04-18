@@ -67,6 +67,7 @@
         "wp-admin/includes/import.php",
         "wp-admin/includes/media.php",
         "wp-admin/includes/menu.php",
+        "wp-admin/includes/meta-boxes.php",
         "wp-admin/includes/misc.php",
         "wp-admin/includes/ms-admin-filters.php",
         "wp-admin/includes/network.php",
@@ -146,8 +147,7 @@
         "wp-admin/user-edit.php",
         "wp-admin/user-new.php",
         "wp-admin/users.php",
-        "wp-admin/widgets.php",
-        "wp-admin/includes/meta-boxes.php"
+        "wp-admin/widgets.php"
     ],
     ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
 }

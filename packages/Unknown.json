@@ -4,10 +4,10 @@
         "wp-admin/includes/class-pclzip.php",
         "wp-admin/includes/class-wp-filesystem-ssh2.php",
         "wp-admin/includes/class-wp-importer.php",
-        "wp-admin/includes/meta-boxes.php",
         "wp-admin/install-helper.php",
         "wp-admin/load-scripts.php",
         "wp-admin/load-styles.php",
+        "wp-includes/assets/script-loader-packages.php",
         "wp-includes/class-IXR.php",
         "wp-includes/class-json.php",
         "wp-includes/class-simplepie.php",
@@ -169,8 +169,7 @@
         "wp-includes/sodium_compat/src/PHP52/SplFixedArray.php",
         "wp-includes/sodium_compat/src/SodiumException.php",
         "wp-includes/Text/Diff/Engine/native.php",
-        "wp-signup.php",
-        "wp-includes/assets/script-loader-packages.php"
+        "wp-signup.php"
     ],
     ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
 }
