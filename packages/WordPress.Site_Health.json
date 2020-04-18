@@ -1,0 +1,9 @@
+{
+    "packageName": "WordPress.Site_Health",
+    "files": [
+        "wp-admin/includes/class-wp-debug-data.php",
+        "wp-admin/includes/class-wp-site-health-auto-updates.php",
+        "wp-admin/includes/class-wp-site-health.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

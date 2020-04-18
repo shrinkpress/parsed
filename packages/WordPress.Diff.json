@@ -1,0 +1,9 @@
+{
+    "packageName": "WordPress.Diff",
+    "files": [
+        "wp-includes/class-wp-text-diff-renderer-inline.php",
+        "wp-includes/class-wp-text-diff-renderer-table.php",
+        "wp-includes/wp-diff.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

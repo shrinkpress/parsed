@@ -1,0 +1,25 @@
+{
+    "packageName": "WordPress.Upgrader",
+    "files": [
+        "wp-admin/includes/class-automatic-upgrader-skin.php",
+        "wp-admin/includes/class-bulk-plugin-upgrader-skin.php",
+        "wp-admin/includes/class-bulk-theme-upgrader-skin.php",
+        "wp-admin/includes/class-bulk-upgrader-skin.php",
+        "wp-admin/includes/class-core-upgrader.php",
+        "wp-admin/includes/class-file-upload-upgrader.php",
+        "wp-admin/includes/class-language-pack-upgrader-skin.php",
+        "wp-admin/includes/class-language-pack-upgrader.php",
+        "wp-admin/includes/class-plugin-installer-skin.php",
+        "wp-admin/includes/class-plugin-upgrader-skin.php",
+        "wp-admin/includes/class-plugin-upgrader.php",
+        "wp-admin/includes/class-theme-installer-skin.php",
+        "wp-admin/includes/class-theme-upgrader-skin.php",
+        "wp-admin/includes/class-theme-upgrader.php",
+        "wp-admin/includes/class-wp-ajax-upgrader-skin.php",
+        "wp-admin/includes/class-wp-automatic-updater.php",
+        "wp-admin/includes/class-wp-upgrader-skin.php",
+        "wp-admin/includes/class-wp-upgrader-skins.php",
+        "wp-admin/includes/class-wp-upgrader.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

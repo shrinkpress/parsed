@@ -1,0 +1,12 @@
+{
+    "packageName": "WordPress.Feed",
+    "files": [
+        "wp-includes/class-feed.php",
+        "wp-includes/class-wp-feed-cache-transient.php",
+        "wp-includes/class-wp-feed-cache.php",
+        "wp-includes/class-wp-simplepie-file.php",
+        "wp-includes/class-wp-simplepie-sanitize-kses.php",
+        "wp-includes/feed.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

@@ -1,0 +1,9 @@
+{
+    "packageName": "Requests.Transport",
+    "files": [
+        "wp-includes/Requests/Transport/cURL.php",
+        "wp-includes/Requests/Transport/fsockopen.php",
+        "wp-includes/Requests/Transport.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

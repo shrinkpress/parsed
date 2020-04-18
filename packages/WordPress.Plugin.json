@@ -1,0 +1,8 @@
+{
+    "packageName": "WordPress.Plugin",
+    "files": [
+        "wp-includes/class-wp-hook.php",
+        "wp-includes/plugin.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

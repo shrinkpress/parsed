@@ -1,0 +1,8 @@
+{
+    "packageName": "WordPress.Query",
+    "files": [
+        "wp-includes/class-wp-query.php",
+        "wp-includes/query.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

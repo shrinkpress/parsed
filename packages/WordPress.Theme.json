@@ -1,0 +1,8 @@
+{
+    "packageName": "WordPress.Theme",
+    "files": [
+        "wp-includes/class-wp-theme.php",
+        "wp-includes/theme.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

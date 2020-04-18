@@ -1,0 +1,10 @@
+{
+    "packageName": "WordPress.Blocks",
+    "files": [
+        "wp-includes/blocks.php",
+        "wp-includes/class-wp-block-styles-registry.php",
+        "wp-includes/class-wp-block-type-registry.php",
+        "wp-includes/class-wp-block-type.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

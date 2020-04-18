@@ -1,0 +1,8 @@
+{
+    "packageName": "Requests.Authentication",
+    "files": [
+        "wp-includes/Requests/Auth/Basic.php",
+        "wp-includes/Requests/Auth.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

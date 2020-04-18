@@ -1,0 +1,9 @@
+{
+    "packageName": "WordPress.Comments",
+    "files": [
+        "wp-includes/class-walker-comment.php",
+        "wp-includes/class-wp-comment-query.php",
+        "wp-includes/class-wp-comment.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

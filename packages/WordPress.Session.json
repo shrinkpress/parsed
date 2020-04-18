@@ -1,0 +1,8 @@
+{
+    "packageName": "WordPress.Session",
+    "files": [
+        "wp-includes/class-wp-session-tokens.php",
+        "wp-includes/class-wp-user-meta-session-tokens.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

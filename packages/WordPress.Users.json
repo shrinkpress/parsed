@@ -1,0 +1,12 @@
+{
+    "packageName": "WordPress.Users",
+    "files": [
+        "wp-includes/capabilities.php",
+        "wp-includes/class-wp-role.php",
+        "wp-includes/class-wp-roles.php",
+        "wp-includes/class-wp-user-query.php",
+        "wp-includes/class-wp-user.php",
+        "wp-includes/user.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

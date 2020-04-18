@@ -1,0 +1,8 @@
+{
+    "packageName": "WordPress.Rewrite",
+    "files": [
+        "wp-includes/class-wp-rewrite.php",
+        "wp-includes/rewrite.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

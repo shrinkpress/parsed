@@ -1,0 +1,16 @@
+{
+    "packageName": "WordPress.HTTP",
+    "files": [
+        "wp-includes/class-http.php",
+        "wp-includes/class-wp-http-cookie.php",
+        "wp-includes/class-wp-http-curl.php",
+        "wp-includes/class-wp-http-encoding.php",
+        "wp-includes/class-wp-http-proxy.php",
+        "wp-includes/class-wp-http-requests-hooks.php",
+        "wp-includes/class-wp-http-requests-response.php",
+        "wp-includes/class-wp-http-response.php",
+        "wp-includes/class-wp-http-streams.php",
+        "wp-includes/http.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

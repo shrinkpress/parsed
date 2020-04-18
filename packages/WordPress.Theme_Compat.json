@@ -1,0 +1,14 @@
+{
+    "packageName": "WordPress.Theme_Compat",
+    "files": [
+        "wp-includes/theme-compat/comments.php",
+        "wp-includes/theme-compat/embed-404.php",
+        "wp-includes/theme-compat/embed-content.php",
+        "wp-includes/theme-compat/footer-embed.php",
+        "wp-includes/theme-compat/footer.php",
+        "wp-includes/theme-compat/header-embed.php",
+        "wp-includes/theme-compat/header.php",
+        "wp-includes/theme-compat/sidebar.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

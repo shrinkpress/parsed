@@ -1,0 +1,7 @@
+{
+    "packageName": "plugins.mail_fetch",
+    "files": [
+        "wp-includes/class-pop3.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

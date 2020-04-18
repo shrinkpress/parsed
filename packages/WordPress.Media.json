@@ -1,0 +1,8 @@
+{
+    "packageName": "WordPress.Media",
+    "files": [
+        "wp-includes/media-template.php",
+        "wp-includes/media.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

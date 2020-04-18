@@ -1,0 +1,8 @@
+{
+    "packageName": "WordPress.Database",
+    "files": [
+        "wp-admin/maint/repair.php",
+        "wp-includes/wp-db.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

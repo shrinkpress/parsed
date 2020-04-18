@@ -1,0 +1,14 @@
+{
+    "packageName": "Requests.Utilities",
+    "files": [
+        "wp-includes/Requests/Hooker.php",
+        "wp-includes/Requests/Hooks.php",
+        "wp-includes/Requests/IDNAEncoder.php",
+        "wp-includes/Requests/IPv6.php",
+        "wp-includes/Requests/IRI.php",
+        "wp-includes/Requests/SSL.php",
+        "wp-includes/Requests/Utility/CaseInsensitiveDictionary.php",
+        "wp-includes/Requests/Utility/FilteredIterator.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

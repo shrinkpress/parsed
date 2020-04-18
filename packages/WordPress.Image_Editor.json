@@ -1,0 +1,9 @@
+{
+    "packageName": "WordPress.Image_Editor",
+    "files": [
+        "wp-includes/class-wp-image-editor-gd.php",
+        "wp-includes/class-wp-image-editor-imagick.php",
+        "wp-includes/class-wp-image-editor.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

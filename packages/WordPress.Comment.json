@@ -1,0 +1,7 @@
+{
+    "packageName": "WordPress.Comment",
+    "files": [
+        "wp-includes/comment.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

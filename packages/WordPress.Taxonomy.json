@@ -1,0 +1,12 @@
+{
+    "packageName": "WordPress.Taxonomy",
+    "files": [
+        "wp-includes/category.php",
+        "wp-includes/class-wp-tax-query.php",
+        "wp-includes/class-wp-taxonomy.php",
+        "wp-includes/class-wp-term-query.php",
+        "wp-includes/class-wp-term.php",
+        "wp-includes/taxonomy.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

@@ -1,0 +1,9 @@
+{
+    "packageName": "WordPress.Meta",
+    "files": [
+        "wp-includes/class-wp-meta-query.php",
+        "wp-includes/class-wp-metadata-lazyloader.php",
+        "wp-includes/meta.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

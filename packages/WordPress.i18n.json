@@ -1,0 +1,11 @@
+{
+    "packageName": "WordPress.i18n",
+    "files": [
+        "wp-admin/includes/continents-cities.php",
+        "wp-includes/class-wp-locale-switcher.php",
+        "wp-includes/class-wp-locale.php",
+        "wp-includes/l10n.php",
+        "wp-includes/locale.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

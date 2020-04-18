@@ -1,0 +1,12 @@
+{
+    "packageName": "Text_Diff",
+    "files": [
+        "wp-includes/Text/Diff/Engine/shell.php",
+        "wp-includes/Text/Diff/Engine/string.php",
+        "wp-includes/Text/Diff/Engine/xdiff.php",
+        "wp-includes/Text/Diff/Renderer/inline.php",
+        "wp-includes/Text/Diff/Renderer.php",
+        "wp-includes/Text/Diff.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

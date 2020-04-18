@@ -1,0 +1,11 @@
+{
+    "packageName": "WordPress.oEmbed",
+    "files": [
+        "wp-includes/class-oembed.php",
+        "wp-includes/class-wp-oembed.php",
+        "wp-includes/embed-template.php",
+        "wp-includes/embed.php",
+        "wp-includes/theme-compat/embed.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "PHPMailer",
+    "files": [
+        "wp-includes/class-phpmailer.php",
+        "wp-includes/class-smtp.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

@@ -1,0 +1,12 @@
+{
+    "packageName": "WordPress.Dependencies",
+    "files": [
+        "wp-includes/class-wp-dependency.php",
+        "wp-includes/class.wp-dependencies.php",
+        "wp-includes/class.wp-scripts.php",
+        "wp-includes/class.wp-styles.php",
+        "wp-includes/functions.wp-scripts.php",
+        "wp-includes/functions.wp-styles.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

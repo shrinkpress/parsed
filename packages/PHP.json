@@ -1,0 +1,8 @@
+{
+    "packageName": "PHP",
+    "files": [
+        "wp-includes/compat.php",
+        "wp-includes/spl-autoload-compat.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

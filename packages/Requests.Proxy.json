@@ -1,0 +1,8 @@
+{
+    "packageName": "Requests.Proxy",
+    "files": [
+        "wp-includes/Requests/Proxy/HTTP.php",
+        "wp-includes/Requests/Proxy.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

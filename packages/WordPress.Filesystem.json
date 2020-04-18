@@ -1,0 +1,11 @@
+{
+    "packageName": "WordPress.Filesystem",
+    "files": [
+        "wp-admin/includes/class-wp-filesystem-base.php",
+        "wp-admin/includes/class-wp-filesystem-direct.php",
+        "wp-admin/includes/class-wp-filesystem-ftpext.php",
+        "wp-admin/includes/class-wp-filesystem-ftpsockets.php",
+        "wp-admin/includes/file.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}

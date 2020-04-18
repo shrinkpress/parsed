@@ -1,0 +1,9 @@
+{
+    "packageName": "WordPress.List_Table",
+    "files": [
+        "wp-admin/includes/class-wp-list-table-compat.php",
+        "wp-admin/includes/class-wp-list-table.php",
+        "wp-admin/includes/list-table.php"
+    ],
+    ":class": "ShrinkPress\\Build\\Entity\\Packages\\WordPress_Package"
+}
