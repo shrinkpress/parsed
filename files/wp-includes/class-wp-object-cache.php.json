@@ -1,14 +1,12 @@
 {
     "docPackage": "WordPress",
-    "docSubPackage": "Toolbar",
+    "docSubPackage": "Cache",
     "classes": {
-        "WP_Admin_Bar": 15
+        "WP_Object_Cache": 24
     },
     "functions": [],
-    "globals": {
-        "is_IE": 431
-    },
+    "globals": [],
     "includes": [],
-    "filename": "wp-includes/class-wp-admin-bar.php",
+    "filename": "wp-includes/class-wp-object-cache.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
 }

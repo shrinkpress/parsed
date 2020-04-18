@@ -9,7 +9,7 @@
         "xmlrpc_logging": 101
     },
     "includes": {
-        "wp-includes/wp-load.php": 30,
+        "/wp-load.php": 30,
         "wp-admin/includes/admin.php": 63,
         "wp-includes/class-IXR.php": 64,
         "wp-includes/class-wp-xmlrpc-server.php": 65

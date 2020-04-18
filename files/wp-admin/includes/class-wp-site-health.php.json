@@ -6,10 +6,11 @@
     },
     "functions": [],
     "globals": {
-        "wpdb": 1151
+        "wpdb": 1185
     },
     "includes": {
-        "wp-admin/includes/class-wp-site-health-auto-updates.php": 1603
+        "wp-admin/includes/class-wp-site-health-auto-updates.php": 1641,
+        "wp-includes/wp-admin/includes/admin.php": 2232
     },
     "filename": "wp-admin/includes/class-wp-site-health.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

@@ -5,9 +5,9 @@
     "functions": [],
     "globals": [],
     "includes": {
-        "wp-includes/admin.php": 10,
+        "wp-admin/admin.php": 10,
         "wp-admin/admin-header.php": 187,
-        "wp-admin/admin-footer.php": 792
+        "wp-admin/admin-footer.php": 791
     },
     "filename": "wp-admin/user-edit.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

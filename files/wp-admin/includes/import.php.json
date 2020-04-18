@@ -8,13 +8,13 @@
         "register_importer": 54,
         "wp_import_cleanup": 71,
         "wp_import_handle_upload": 82,
-        "wp_get_popular_importers": 132
+        "wp_get_popular_importers": 138
     },
     "globals": {
         "wp_importers": 55
     },
     "includes": {
-        "wp-includes/version.php": 133
+        "wp-includes/version.php": 140
     },
     "filename": "wp-admin/includes/import.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

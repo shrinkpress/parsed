@@ -5,10 +5,10 @@
     "functions": [],
     "globals": [],
     "includes": {
-        "wp-includes/admin.php": 10,
-        "wp-includes/includes/credits.php": 11,
+        "wp-admin/admin.php": 10,
+        "wp-admin/includes/credits.php": 11,
         "wp-admin/admin-header.php": 17,
-        "wp-admin/admin-footer.php": 132
+        "wp-admin/admin-footer.php": 135
     },
     "filename": "wp-admin/credits.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

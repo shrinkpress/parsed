@@ -7,8 +7,8 @@
     "functions": [],
     "globals": [],
     "includes": {
-        "wp-includes/translations.php": 10,
-        "wp-includes/streams.php": 11
+        "wp-includes/pomo/translations.php": 10,
+        "wp-includes/pomo/streams.php": 11
     },
     "filename": "wp-includes/pomo/mo.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"

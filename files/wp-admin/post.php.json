@@ -9,11 +9,11 @@
         "post": 35
     },
     "includes": {
-        "wp-includes/admin.php": 12,
+        "wp-admin/admin.php": 12,
         "wp-admin/includes/dashboard.php": 79,
-        "wp-admin/edit-form-blocks.php": 179,
-        "wp-admin/edit-form-advanced.php": 198,
-        "wp-admin/admin-footer.php": 353
+        "wp-admin/edit-form-blocks.php": 187,
+        "wp-admin/edit-form-advanced.php": 206,
+        "wp-admin/admin-footer.php": 362
     },
     "filename": "wp-admin/post.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

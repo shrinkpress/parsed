@@ -3,25 +3,25 @@
     "docSubPackage": "Administration",
     "classes": [],
     "functions": {
-        "update_core": 885,
-        "_copy_dir": 1319,
-        "_redirect_to_about_wordpress": 1380,
-        "_upgrade_422_remove_genericons": 1439,
-        "_upgrade_422_find_genericons_files_in_folder": 1483,
-        "_upgrade_440_force_deactivate_incompatible_plugins": 1505
+        "update_core": 888,
+        "_copy_dir": 1328,
+        "_redirect_to_about_wordpress": 1389,
+        "_upgrade_422_remove_genericons": 1448,
+        "_upgrade_422_find_genericons_files_in_folder": 1492,
+        "_upgrade_440_force_deactivate_incompatible_plugins": 1514
     },
     "globals": {
-        "_old_files": 886,
-        "_new_bundled_files": 886,
-        "wp_filesystem": 1440,
-        "wpdb": 886,
-        "wp_version": 1381,
-        "pagenow": 1381,
-        "action": 1381,
-        "wp_theme_directories": 1440
+        "_old_files": 889,
+        "_new_bundled_files": 889,
+        "wp_filesystem": 1449,
+        "wpdb": 889,
+        "wp_version": 1390,
+        "pagenow": 1390,
+        "action": 1390,
+        "wp_theme_directories": 1449
     },
     "includes": {
-        "wp-admin/admin-footer.php": 1427
+        "wp-admin/admin-footer.php": 1436
     },
     "filename": "wp-admin/includes/update-core.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

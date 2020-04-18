@@ -4,13 +4,13 @@
     "classes": [],
     "functions": [],
     "globals": {
-        "wp_locale": 403
+        "wp_locale": 389
     },
     "includes": {
-        "wp-includes/admin.php": 10,
+        "wp-admin/admin.php": 10,
         "wp-admin/includes/translation-install.php": 13,
         "wp-admin/admin-header.php": 52,
-        "wp-admin/admin-footer.php": 422
+        "wp-admin/admin-footer.php": 408
     },
     "filename": "wp-admin/options-general.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

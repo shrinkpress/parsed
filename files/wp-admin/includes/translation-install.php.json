@@ -4,17 +4,17 @@
     "classes": [],
     "functions": {
         "translations_api": 19,
-        "wp_get_available_translations": 121,
-        "wp_install_language_form": 159,
-        "wp_download_language_pack": 210,
-        "wp_can_install_language_pack": 258
+        "wp_get_available_translations": 122,
+        "wp_install_language_form": 161,
+        "wp_download_language_pack": 212,
+        "wp_can_install_language_pack": 260
     },
     "globals": {
-        "wp_local_package": 160
+        "wp_local_package": 162
     },
     "includes": {
-        "wp-includes/version.php": 129,
-        "wp-admin/includes/class-wp-upgrader.php": 263
+        "wp-includes/version.php": 131,
+        "wp-admin/includes/class-wp-upgrader.php": 265
     },
     "filename": "wp-admin/includes/translation-install.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

@@ -5,10 +5,10 @@
     "functions": [],
     "globals": [],
     "includes": {
-        "wp-includes/admin.php": 10,
+        "wp-admin/admin.php": 10,
         "wp-admin/includes/widgets.php": 13,
         "wp-admin/admin-header.php": 382,
-        "wp-admin/admin-footer.php": 575
+        "wp-admin/admin-footer.php": 578
     },
     "filename": "wp-admin/widgets.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

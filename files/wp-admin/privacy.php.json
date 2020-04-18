@@ -5,9 +5,9 @@
     "functions": [],
     "globals": [],
     "includes": {
-        "wp-includes/admin.php": 10,
+        "wp-admin/admin.php": 10,
         "wp-admin/admin-header.php": 16,
-        "wp-admin/admin-footer.php": 79
+        "wp-admin/admin-footer.php": 71
     },
     "filename": "wp-admin/privacy.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

@@ -6,11 +6,10 @@
     },
     "functions": [],
     "globals": {
-        "wp_roles": 1081
+        "wp_roles": 1182
     },
     "includes": {
-        "wp-admin/includes/user.php": 803,
-        "wp-admin/includes/admin.php": 1105
+        "wp-admin/includes/user.php": 1214
     },
     "filename": "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"

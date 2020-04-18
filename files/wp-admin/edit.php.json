@@ -8,9 +8,9 @@
         "post_type_object": 30
     },
     "includes": {
-        "wp-includes/admin.php": 10,
-        "wp-admin/admin-header.php": 370,
-        "wp-admin/admin-footer.php": 448
+        "wp-admin/admin.php": 10,
+        "wp-admin/admin-header.php": 386,
+        "wp-admin/admin-footer.php": 464
     },
     "filename": "wp-admin/edit.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

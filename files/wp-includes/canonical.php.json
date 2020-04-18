@@ -3,18 +3,18 @@
     "docSubPackage": "",
     "classes": [],
     "functions": {
-        "lowercase_octets": 580,
+        "lowercase_octets": 588,
         "redirect_canonical": 42,
-        "_remove_qs_args_if_not_in_url": 631,
-        "strip_fragment_from_url": 654,
-        "redirect_guess_404_permalink": 684,
-        "wp_redirect_admin_locations": 733
+        "_remove_qs_args_if_not_in_url": 639,
+        "strip_fragment_from_url": 662,
+        "redirect_guess_404_permalink": 692,
+        "wp_redirect_admin_locations": 741
     },
     "globals": {
-        "wp_rewrite": 734,
+        "wp_rewrite": 742,
         "is_IIS": 43,
         "wp_query": 43,
-        "wpdb": 685,
+        "wpdb": 693,
         "wp": 43
     },
     "includes": [],

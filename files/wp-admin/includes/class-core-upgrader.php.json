@@ -7,13 +7,13 @@
     "functions": [],
     "globals": {
         "wp_filesystem": 63,
-        "_wp_filesystem_direct_method": 231,
-        "wp_version": 391,
-        "wp_local_package": 391
+        "_wp_filesystem_direct_method": 232,
+        "wp_version": 395,
+        "wp_local_package": 395
     },
     "includes": {
-        "wp-includes/version.php": 272,
-        "wp-admin/includes/update-core.php": 163
+        "wp-includes/version.php": 273,
+        "wp-admin/includes/update-core.php": 164
     },
     "filename": "wp-admin/includes/class-core-upgrader.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

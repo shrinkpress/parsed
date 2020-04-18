@@ -8,8 +8,8 @@
     },
     "globals": [],
     "includes": {
-        "wp-includes/wp-load.php": 12,
-        "wp-includes/wp-blog-header.php": 14
+        "/wp-load.php": 12,
+        "/wp-blog-header.php": 14
     },
     "filename": "wp-activate.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WordPress_PHP"

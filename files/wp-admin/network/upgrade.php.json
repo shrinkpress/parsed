@@ -7,7 +7,7 @@
         "wp_db_version": 135
     },
     "includes": {
-        "wp-includes/admin.php": 11,
+        "wp-admin/network/admin.php": 11,
         "wp-includes/http.php": 13,
         "wp-admin/admin-header.php": 35,
         "wp-admin/admin-footer.php": 155

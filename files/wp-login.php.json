@@ -3,20 +3,20 @@
     "docSubPackage": "",
     "classes": [],
     "functions": {
-        "login_header": 35,
-        "login_footer": 274,
-        "wp_shake_js": 326,
-        "wp_login_viewport_meta": 343,
-        "retrieve_password": 356
+        "login_header": 41,
+        "login_footer": 283,
+        "wp_shake_js": 335,
+        "wp_login_viewport_meta": 348,
+        "retrieve_password": 361
     },
     "globals": {
-        "error": 36,
-        "interim_login": 275,
-        "action": 36
+        "error": 42,
+        "interim_login": 284,
+        "action": 42
     },
     "includes": {
-        "wp-includes/wp-load.php": 12,
-        "wp-includes/class-phpass.php": 729
+        "/wp-load.php": 12,
+        "wp-includes/class-phpass.php": 739
     },
     "filename": "wp-login.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WordPress_PHP"

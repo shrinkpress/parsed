@@ -9,8 +9,8 @@
     "functions": [],
     "globals": [],
     "includes": {
-        "wp-includes/plural-forms.php": 10,
-        "wp-includes/entry.php": 11
+        "wp-includes/pomo/plural-forms.php": 10,
+        "wp-includes/pomo/entry.php": 11
     },
     "filename": "wp-includes/pomo/translations.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"

@@ -23,20 +23,20 @@
         "apply_filters_deprecated": 626,
         "do_action_deprecated": 653,
         "plugin_basename": 679,
-        "wp_register_plugin_realpath": 717,
-        "plugin_dir_path": 749,
-        "plugin_dir_url": 761,
-        "register_activation_hook": 783,
-        "register_deactivation_hook": 806,
-        "register_uninstall_hook": 837,
-        "_wp_call_all_hook": 874,
-        "_wp_filter_build_unique_id": 914
+        "wp_register_plugin_realpath": 718,
+        "plugin_dir_path": 750,
+        "plugin_dir_url": 762,
+        "register_activation_hook": 784,
+        "register_deactivation_hook": 807,
+        "register_uninstall_hook": 838,
+        "_wp_call_all_hook": 875,
+        "_wp_filter_build_unique_id": 912
     },
     "globals": {
-        "wp_filter": 915,
+        "wp_filter": 876,
         "wp_actions": 518,
         "wp_current_filter": 518,
-        "wp_plugin_paths": 718
+        "wp_plugin_paths": 719
     },
     "includes": {
         "wp-includes/class-wp-hook.php": 25

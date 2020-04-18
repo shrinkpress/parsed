@@ -8,16 +8,16 @@
         "ms_site_check": 74,
         "get_network_by_path": 141,
         "get_site_by_path": 165,
-        "ms_load_current_site_and_network": 296,
-        "ms_not_installed": 461,
-        "get_current_site_name": 522,
-        "wpmu_current_site": 541,
-        "wp_get_network": 559
+        "ms_load_current_site_and_network": 297,
+        "ms_not_installed": 464,
+        "get_current_site_name": 525,
+        "wpmu_current_site": 544,
+        "wp_get_network": 562
     },
     "globals": {
-        "current_site": 542,
-        "current_blog": 297,
-        "wpdb": 462
+        "current_site": 545,
+        "current_blog": 298,
+        "wpdb": 465
     },
     "includes": [],
     "filename": "wp-includes/ms-load.php",

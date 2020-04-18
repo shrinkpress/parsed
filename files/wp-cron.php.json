@@ -9,7 +9,7 @@
         "wpdb": 60
     },
     "includes": {
-        "wp-includes/wp-load.php": 44
+        "/wp-load.php": 44
     },
     "filename": "wp-cron.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WordPress_PHP"

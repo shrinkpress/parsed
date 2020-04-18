@@ -1,0 +1,16 @@
+{
+    "docPackage": "WordPress",
+    "docSubPackage": "",
+    "classes": [],
+    "functions": {
+        "render_block_core_social_link": 15,
+        "register_block_core_social_link": 36,
+        "block_core_social_link_get_icon": 60,
+        "block_core_social_link_get_name": 76,
+        "block_core_social_link_services": 93
+    },
+    "globals": [],
+    "includes": [],
+    "filename": "wp-includes/blocks/social-link.php",
+    ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Block"
+}

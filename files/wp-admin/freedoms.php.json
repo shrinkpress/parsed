@@ -5,9 +5,9 @@
     "functions": [],
     "globals": [],
     "includes": {
-        "wp-includes/admin.php": 10,
+        "wp-admin/admin.php": 10,
         "wp-admin/admin-header.php": 22,
-        "wp-admin/admin-footer.php": 126
+        "wp-admin/admin-footer.php": 120
     },
     "filename": "wp-admin/freedoms.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

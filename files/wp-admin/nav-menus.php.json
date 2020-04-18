@@ -9,10 +9,10 @@
         "_wp_nav_menu_max_depth": 522
     },
     "includes": {
-        "wp-includes/admin.php": 13,
+        "wp-admin/admin.php": 13,
         "wp-admin/includes/nav-menu.php": 16,
         "wp-admin/admin-header.php": 609,
-        "wp-admin/admin-footer.php": 1033
+        "wp-admin/admin-footer.php": 1038
     },
     "filename": "wp-admin/nav-menus.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

@@ -3,10 +3,13 @@
     "docSubPackage": "",
     "classes": [],
     "functions": {
-        "render_block_core_latest_posts": 15,
-        "register_block_core_latest_posts": 121
+        "block_core_latest_posts_get_excerpt_length": 23,
+        "render_block_core_latest_posts": 35,
+        "register_block_core_latest_posts": 172
     },
-    "globals": [],
+    "globals": {
+        "block_core_latest_posts_excerpt_length": 36
+    },
     "includes": [],
     "filename": "wp-includes/blocks/latest-posts.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Block"

@@ -1,29 +1,29 @@
 {
     "docPackage": "WordPress",
     "docSubPackage": "Cache",
-    "classes": {
-        "WP_Object_Cache": 288
-    },
+    "classes": [],
     "functions": {
-        "wp_cache_add": 27,
-        "wp_cache_close": 46,
-        "wp_cache_decr": 63,
-        "wp_cache_delete": 81,
-        "wp_cache_flush": 97,
-        "wp_cache_get": 120,
-        "wp_cache_incr": 139,
-        "wp_cache_init": 152,
-        "wp_cache_replace": 172,
-        "wp_cache_set": 196,
-        "wp_cache_switch_to_blog": 214,
-        "wp_cache_add_global_groups": 230,
-        "wp_cache_add_non_persistent_groups": 243,
-        "wp_cache_reset": 266
+        "wp_cache_add": 30,
+        "wp_cache_close": 49,
+        "wp_cache_decr": 66,
+        "wp_cache_delete": 84,
+        "wp_cache_flush": 100,
+        "wp_cache_get": 123,
+        "wp_cache_incr": 142,
+        "wp_cache_init": 155,
+        "wp_cache_replace": 175,
+        "wp_cache_set": 199,
+        "wp_cache_switch_to_blog": 217,
+        "wp_cache_add_global_groups": 233,
+        "wp_cache_add_non_persistent_groups": 246,
+        "wp_cache_reset": 269
     },
     "globals": {
-        "wp_object_cache": 269
+        "wp_object_cache": 272
     },
-    "includes": [],
+    "includes": {
+        "wp-includes/class-wp-object-cache.php": 12
+    },
     "filename": "wp-includes/cache.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Include"
 }

@@ -7,9 +7,10 @@
     "includes": {
         "wp-admin/export-personal-data.php": 13,
         "wp-admin/erase-personal-data.php": 16,
-        "wp-includes/admin.php": 22,
-        "wp-admin/admin-header.php": 56,
-        "wp-admin/admin-footer.php": 95
+        "wp-includes/wp-load.php": 33,
+        "wp-admin/admin.php": 40,
+        "wp-admin/admin-header.php": 59,
+        "wp-admin/admin-footer.php": 98
     },
     "filename": "wp-admin/tools.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

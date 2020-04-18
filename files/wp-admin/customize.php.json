@@ -8,7 +8,7 @@
         "wp_customize": 27
     },
     "includes": {
-        "wp-includes/admin.php": 13
+        "wp-admin/admin.php": 13
     },
     "filename": "wp-admin/customize.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

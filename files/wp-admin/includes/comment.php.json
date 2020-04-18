@@ -5,17 +5,17 @@
     "functions": {
         "comment_exists": 27,
         "edit_comment": 50,
-        "get_comment_to_edit": 106,
-        "get_pending_comments_num": 143,
-        "floated_admin_avatar": 190,
-        "enqueue_comment_hotkeys_js": 198,
-        "comment_footer_die": 209
+        "get_comment_to_edit": 107,
+        "get_pending_comments_num": 144,
+        "floated_admin_avatar": 191,
+        "enqueue_comment_hotkeys_js": 199,
+        "comment_footer_die": 210
     },
     "globals": {
-        "wpdb": 144
+        "wpdb": 145
     },
     "includes": {
-        "wp-admin/admin-footer.php": 211
+        "wp-admin/admin-footer.php": 212
     },
     "filename": "wp-admin/includes/comment.php",
     ":class": "ShrinkPress\\Build\\Entity\\Files\\WP_Admin"

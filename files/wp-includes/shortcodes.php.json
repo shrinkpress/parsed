@@ -8,19 +8,20 @@
         "remove_all_shortcodes": 108,
         "shortcode_exists": 124,
         "has_shortcode": 140,
-        "do_shortcode": 177,
-        "get_shortcode_regex": 230,
-        "do_shortcode_tag": 287,
-        "do_shortcodes_in_html_tags": 355,
-        "unescape_invalid_shortcodes": 460,
-        "get_shortcode_atts_regex": 479,
-        "shortcode_parse_atts": 498,
-        "shortcode_atts": 551,
-        "strip_shortcodes": 592,
-        "strip_shortcode_tag": 643
+        "apply_shortcodes": 176,
+        "do_shortcode": 196,
+        "get_shortcode_regex": 249,
+        "do_shortcode_tag": 305,
+        "do_shortcodes_in_html_tags": 373,
+        "unescape_invalid_shortcodes": 480,
+        "get_shortcode_atts_regex": 499,
+        "shortcode_parse_atts": 518,
+        "shortcode_atts": 571,
+        "strip_shortcodes": 613,
+        "strip_shortcode_tag": 664
     },
     "globals": {
-        "shortcode_tags": 593
+        "shortcode_tags": 614
     },
     "includes": [],
     "filename": "wp-includes/shortcodes.php",
