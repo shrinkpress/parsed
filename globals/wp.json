@@ -1,0 +1,81 @@
+{
+    "globalName": "wp",
+    "mentions": {
+        "wp-includes/canonical.php:43": [
+            "wp-includes/canonical.php",
+            43,
+            "keyword"
+        ],
+        "wp-includes/class-wp-post-type.php:549": [
+            "wp-includes/class-wp-post-type.php",
+            549,
+            "keyword"
+        ],
+        "wp-includes/class-wp-post-type.php:641": [
+            "wp-includes/class-wp-post-type.php",
+            641,
+            "keyword"
+        ],
+        "wp-includes/class-wp-rewrite.php:1684": [
+            "wp-includes/class-wp-rewrite.php",
+            1684,
+            "keyword"
+        ],
+        "wp-includes/class-wp-taxonomy.php:391": [
+            "wp-includes/class-wp-taxonomy.php",
+            391,
+            "keyword"
+        ],
+        "wp-includes/class-wp-taxonomy.php:419": [
+            "wp-includes/class-wp-taxonomy.php",
+            419,
+            "keyword"
+        ],
+        "wp-includes/functions.php:1254": [
+            "wp-includes/functions.php",
+            1254,
+            "keyword"
+        ],
+        "wp-includes/rest-api.php:144": [
+            "wp-includes/rest-api.php",
+            144,
+            "keyword"
+        ],
+        "wp-includes/rest-api.php:285": [
+            "wp-includes/rest-api.php",
+            285,
+            "array"
+        ],
+        "wp-includes/rest-api.php:301": [
+            "wp-includes/rest-api.php",
+            301,
+            "array"
+        ],
+        "wp-includes/rewrite.php:165": [
+            "wp-includes/rewrite.php",
+            165,
+            "keyword"
+        ],
+        "wp-includes/rewrite.php:595": [
+            "wp-includes/rewrite.php",
+            595,
+            "keyword"
+        ],
+        "wp-includes/template.php:702": [
+            "wp-includes/template.php",
+            702,
+            "keyword"
+        ],
+        "wp-settings.php:438": [
+            "wp-settings.php",
+            438,
+            "array"
+        ],
+        "wp-settings.php:510": [
+            "wp-settings.php",
+            510,
+            "array"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

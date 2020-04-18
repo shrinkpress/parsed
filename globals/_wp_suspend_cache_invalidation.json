@@ -1,0 +1,41 @@
+{
+    "globalName": "_wp_suspend_cache_invalidation",
+    "mentions": {
+        "wp-includes/functions.php:5242": [
+            "wp-includes/functions.php",
+            5242,
+            "keyword"
+        ],
+        "wp-includes/ms-network.php:79": [
+            "wp-includes/ms-network.php",
+            79,
+            "keyword"
+        ],
+        "wp-includes/ms-site.php:972": [
+            "wp-includes/ms-site.php",
+            972,
+            "keyword"
+        ],
+        "wp-includes/post.php:6554": [
+            "wp-includes/post.php",
+            6554,
+            "keyword"
+        ],
+        "wp-includes/post.php:6682": [
+            "wp-includes/post.php",
+            6682,
+            "keyword"
+        ],
+        "wp-includes/taxonomy.php:3185": [
+            "wp-includes/taxonomy.php",
+            3185,
+            "keyword"
+        ],
+        "wp-includes/taxonomy.php:3229": [
+            "wp-includes/taxonomy.php",
+            3229,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

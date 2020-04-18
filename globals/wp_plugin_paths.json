@@ -1,0 +1,21 @@
+{
+    "globalName": "wp_plugin_paths",
+    "mentions": {
+        "wp-includes/plugin.php:680": [
+            "wp-includes/plugin.php",
+            680,
+            "keyword"
+        ],
+        "wp-includes/plugin.php:718": [
+            "wp-includes/plugin.php",
+            718,
+            "keyword"
+        ],
+        "wp-settings.php:287": [
+            "wp-settings.php",
+            287,
+            "array"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

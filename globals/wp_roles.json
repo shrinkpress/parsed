@@ -1,0 +1,31 @@
+{
+    "globalName": "wp_roles",
+    "mentions": {
+        "wp-includes/capabilities.php:785": [
+            "wp-includes/capabilities.php",
+            785,
+            "keyword"
+        ],
+        "wp-includes/ms-deprecated.php:606": [
+            "wp-includes/ms-deprecated.php",
+            606,
+            "keyword"
+        ],
+        "wp-includes/ms-site.php:667": [
+            "wp-includes/ms-site.php",
+            667,
+            "keyword"
+        ],
+        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1081": [
+            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
+            1081,
+            "keyword"
+        ],
+        "wp-settings.php:454": [
+            "wp-settings.php",
+            454,
+            "array"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

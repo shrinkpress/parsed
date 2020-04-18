@@ -1,0 +1,16 @@
+{
+    "globalName": "taxnow",
+    "mentions": {
+        "wp-admin/admin.php:125": [
+            "wp-admin/admin.php",
+            125,
+            "keyword"
+        ],
+        "wp-admin/includes/class-wp-screen.php:400": [
+            "wp-admin/includes/class-wp-screen.php",
+            400,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

@@ -1,0 +1,26 @@
+{
+    "globalName": "parent_file",
+    "mentions": {
+        "wp-admin/admin-header.php:27": [
+            "wp-admin/admin-header.php",
+            27,
+            "keyword"
+        ],
+        "wp-admin/includes/plugin.php:1810": [
+            "wp-admin/includes/plugin.php",
+            1810,
+            "keyword"
+        ],
+        "wp-admin/menu-header.php:27": [
+            "wp-admin/menu-header.php",
+            27,
+            "keyword"
+        ],
+        "wp-admin/menu-header.php:69": [
+            "wp-admin/menu-header.php",
+            69,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

@@ -1,0 +1,16 @@
+{
+    "globalName": "pass_allowed_html",
+    "mentions": {
+        "wp-includes/kses.php:944": [
+            "wp-includes/kses.php",
+            944,
+            "keyword"
+        ],
+        "wp-includes/kses.php:1013": [
+            "wp-includes/kses.php",
+            1013,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

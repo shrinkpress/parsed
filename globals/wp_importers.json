@@ -1,0 +1,21 @@
+{
+    "globalName": "wp_importers",
+    "mentions": {
+        "wp-admin/admin.php:125": [
+            "wp-admin/admin.php",
+            125,
+            "keyword"
+        ],
+        "wp-admin/includes/import.php:18": [
+            "wp-admin/includes/import.php",
+            18,
+            "keyword"
+        ],
+        "wp-admin/includes/import.php:55": [
+            "wp-admin/includes/import.php",
+            55,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

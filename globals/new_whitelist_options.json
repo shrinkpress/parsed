@@ -1,0 +1,21 @@
+{
+    "globalName": "new_whitelist_options",
+    "mentions": {
+        "wp-admin/includes/plugin.php:2107": [
+            "wp-admin/includes/plugin.php",
+            2107,
+            "keyword"
+        ],
+        "wp-includes/option.php:2113": [
+            "wp-includes/option.php",
+            2113,
+            "keyword"
+        ],
+        "wp-includes/option.php:2198": [
+            "wp-includes/option.php",
+            2198,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

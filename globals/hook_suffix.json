@@ -1,0 +1,41 @@
+{
+    "globalName": "hook_suffix",
+    "mentions": {
+        "wp-admin/admin-footer.php:17": [
+            "wp-admin/admin-footer.php",
+            17,
+            "keyword"
+        ],
+        "wp-admin/admin-header.php:26": [
+            "wp-admin/admin-header.php",
+            26,
+            "keyword"
+        ],
+        "wp-admin/admin.php:125": [
+            "wp-admin/admin.php",
+            125,
+            "keyword"
+        ],
+        "wp-admin/includes/class-wp-screen.php:214": [
+            "wp-admin/includes/class-wp-screen.php",
+            214,
+            "array"
+        ],
+        "wp-admin/includes/list-table.php:54": [
+            "wp-admin/includes/list-table.php",
+            54,
+            "array"
+        ],
+        "wp-admin/includes/template.php:1955": [
+            "wp-admin/includes/template.php",
+            1955,
+            "keyword"
+        ],
+        "wp-admin/includes/template.php:2044": [
+            "wp-admin/includes/template.php",
+            2044,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

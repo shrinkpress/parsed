@@ -1,0 +1,21 @@
+{
+    "globalName": "posts",
+    "mentions": {
+        "wp-includes/class-wp.php:581": [
+            "wp-includes/class-wp.php",
+            581,
+            "array"
+        ],
+        "wp-includes/general-template.php:2062": [
+            "wp-includes/general-template.php",
+            2062,
+            "keyword"
+        ],
+        "wp-includes/template.php:702": [
+            "wp-includes/template.php",
+            702,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

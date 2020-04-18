@@ -1,0 +1,16 @@
+{
+    "globalName": "user_identity",
+    "mentions": {
+        "wp-includes/comment-template.php:1322": [
+            "wp-includes/comment-template.php",
+            1322,
+            "keyword"
+        ],
+        "wp-includes/user.php:1003": [
+            "wp-includes/user.php",
+            1003,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

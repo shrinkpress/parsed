@@ -1,0 +1,31 @@
+{
+    "globalName": "blog_id",
+    "mentions": {
+        "wp-includes/default-constants.php:19": [
+            "wp-includes/default-constants.php",
+            19,
+            "keyword"
+        ],
+        "wp-includes/load.php:1096": [
+            "wp-includes/load.php",
+            1096,
+            "keyword"
+        ],
+        "wp-includes/ms-blogs.php:522": [
+            "wp-includes/ms-blogs.php",
+            522,
+            "array"
+        ],
+        "wp-includes/ms-blogs.php:587": [
+            "wp-includes/ms-blogs.php",
+            587,
+            "array"
+        ],
+        "wp-settings.php:49": [
+            "wp-settings.php",
+            49,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

@@ -1,0 +1,31 @@
+{
+    "globalName": "required_php_version",
+    "mentions": {
+        "wp-admin/install.php:230": [
+            "wp-admin/install.php",
+            230,
+            "keyword"
+        ],
+        "wp-admin/update-core.php:219": [
+            "wp-admin/update-core.php",
+            219,
+            "keyword"
+        ],
+        "wp-admin/upgrade.php:43": [
+            "wp-admin/upgrade.php",
+            43,
+            "keyword"
+        ],
+        "wp-includes/load.php:130": [
+            "wp-includes/load.php",
+            130,
+            "keyword"
+        ],
+        "wp-settings.php:23": [
+            "wp-settings.php",
+            23,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

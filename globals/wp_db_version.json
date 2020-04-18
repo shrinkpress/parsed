@@ -1,0 +1,46 @@
+{
+    "globalName": "wp_db_version",
+    "mentions": {
+        "wp-admin/includes/ms.php:693": [
+            "wp-admin/includes/ms.php",
+            693,
+            "keyword"
+        ],
+        "wp-admin/includes/schema.php:362": [
+            "wp-admin/includes/schema.php",
+            362,
+            "keyword"
+        ],
+        "wp-admin/includes/schema.php:1118": [
+            "wp-admin/includes/schema.php",
+            1118,
+            "keyword"
+        ],
+        "wp-admin/includes/upgrade.php:631": [
+            "wp-admin/includes/upgrade.php",
+            631,
+            "keyword"
+        ],
+        "wp-admin/includes/upgrade.php:684": [
+            "wp-admin/includes/upgrade.php",
+            684,
+            "keyword"
+        ],
+        "wp-admin/network/upgrade.php:54": [
+            "wp-admin/network/upgrade.php",
+            54,
+            "keyword"
+        ],
+        "wp-admin/network/upgrade.php:135": [
+            "wp-admin/network/upgrade.php",
+            135,
+            "array"
+        ],
+        "wp-settings.php:23": [
+            "wp-settings.php",
+            23,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

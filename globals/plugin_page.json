@@ -1,0 +1,36 @@
+{
+    "globalName": "plugin_page",
+    "mentions": {
+        "wp-admin/admin.php:125": [
+            "wp-admin/admin.php",
+            125,
+            "keyword"
+        ],
+        "wp-admin/includes/plugin.php:1811": [
+            "wp-admin/includes/plugin.php",
+            1811,
+            "keyword"
+        ],
+        "wp-admin/includes/plugin.php:1882": [
+            "wp-admin/includes/plugin.php",
+            1882,
+            "keyword"
+        ],
+        "wp-admin/includes/plugin.php:2013": [
+            "wp-admin/includes/plugin.php",
+            2013,
+            "keyword"
+        ],
+        "wp-admin/menu-header.php:69": [
+            "wp-admin/menu-header.php",
+            69,
+            "keyword"
+        ],
+        "wp-includes/deprecated.php:2530": [
+            "wp-includes/deprecated.php",
+            2530,
+            "keyword"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}

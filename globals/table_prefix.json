@@ -1,0 +1,31 @@
+{
+    "globalName": "table_prefix",
+    "mentions": {
+        "wp-admin/includes/upgrade.php:139": [
+            "wp-admin/includes/upgrade.php",
+            139,
+            "keyword"
+        ],
+        "wp-includes/load.php:441": [
+            "wp-includes/load.php",
+            441,
+            "keyword"
+        ],
+        "wp-includes/ms-blogs.php:521": [
+            "wp-includes/ms-blogs.php",
+            521,
+            "array"
+        ],
+        "wp-includes/ms-blogs.php:588": [
+            "wp-includes/ms-blogs.php",
+            588,
+            "array"
+        ],
+        "wp-settings.php:119": [
+            "wp-settings.php",
+            119,
+            "array"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Globals\\WordPress_Global"
+}
