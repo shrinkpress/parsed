@@ -1,10 +1,10 @@
 {
-    "includedFile": "wp-includes/streams.php",
+    "includedFile": "wp-includes/class-wp-object-cache.php",
     "includes": {
-        "wp-includes/pomo/mo.php:11": [
-            "wp-includes/pomo/mo.php",
+        "wp-includes/cache.php:12": [
+            "wp-includes/cache.php",
+            12,
             11,
-            0,
             "require_once"
         ]
     },

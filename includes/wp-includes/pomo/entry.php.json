@@ -1,8 +1,8 @@
 {
-    "includedFile": "wp-includes/includes/credits.php",
+    "includedFile": "wp-includes/pomo/entry.php",
     "includes": {
-        "wp-admin/credits.php:11": [
-            "wp-admin/credits.php",
+        "wp-includes/pomo/translations.php:11": [
+            "wp-includes/pomo/translations.php",
             11,
             0,
             "require_once"

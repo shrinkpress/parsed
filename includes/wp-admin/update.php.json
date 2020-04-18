@@ -5,7 +5,7 @@
             "wp-admin/network/themes.php",
             117,
             0,
-            "include"
+            "require"
         ],
         "wp-admin/network/update.php:17": [
             "wp-admin/network/update.php",
@@ -13,11 +13,11 @@
             0,
             "require"
         ],
-        "wp-admin/plugins.php:278": [
+        "wp-admin/plugins.php:280": [
             "wp-admin/plugins.php",
-            278,
+            280,
             0,
-            "include"
+            "require"
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"

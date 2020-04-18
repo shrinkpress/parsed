@@ -5,13 +5,13 @@
             "wp-admin/post-new.php",
             72,
             0,
-            "include"
+            "require"
         ],
-        "wp-admin/post.php:179": [
+        "wp-admin/post.php:187": [
             "wp-admin/post.php",
-            179,
+            187,
             0,
-            "include"
+            "require"
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"

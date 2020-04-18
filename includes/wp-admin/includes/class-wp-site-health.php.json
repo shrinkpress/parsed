@@ -1,27 +1,33 @@
 {
     "includedFile": "wp-admin/includes/class-wp-site-health.php",
     "includes": {
-        "wp-admin/includes/ajax-actions.php:5118": [
+        "wp-admin/includes/ajax-actions.php:5122": [
             "wp-admin/includes/ajax-actions.php",
-            5118,
+            5122,
             0,
             "require_once"
         ],
-        "wp-admin/includes/ajax-actions.php:5138": [
+        "wp-admin/includes/ajax-actions.php:5142": [
             "wp-admin/includes/ajax-actions.php",
-            5138,
+            5142,
             0,
             "require_once"
         ],
-        "wp-admin/includes/ajax-actions.php:5158": [
+        "wp-admin/includes/ajax-actions.php:5162": [
             "wp-admin/includes/ajax-actions.php",
-            5158,
+            5162,
             0,
             "require_once"
         ],
-        "wp-admin/includes/ajax-actions.php:5179": [
+        "wp-admin/includes/ajax-actions.php:5183": [
             "wp-admin/includes/ajax-actions.php",
-            5179,
+            5183,
+            0,
+            "require_once"
+        ],
+        "wp-admin/includes/dashboard.php:48": [
+            "wp-admin/includes/dashboard.php",
+            48,
             0,
             "require_once"
         ],
@@ -34,6 +40,12 @@
         "wp-admin/site-health.php:27": [
             "wp-admin/site-health.php",
             27,
+            0,
+            "require_once"
+        ],
+        "wp-settings.php:370": [
+            "wp-settings.php",
+            370,
             0,
             "require_once"
         ]

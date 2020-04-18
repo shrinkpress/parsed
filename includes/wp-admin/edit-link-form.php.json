@@ -5,13 +5,13 @@
             "wp-admin/link-add.php",
             29,
             0,
-            "include"
+            "require"
         ],
         "wp-admin/link.php:120": [
             "wp-admin/link.php",
             120,
             0,
-            "include"
+            "require"
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"

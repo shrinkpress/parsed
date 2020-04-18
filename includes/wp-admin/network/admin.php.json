@@ -1,0 +1,168 @@
+{
+    "includedFile": "wp-admin/network/admin.php",
+    "includes": {
+        "wp-admin/network/about.php:11": [
+            "wp-admin/network/about.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/credits.php:11": [
+            "wp-admin/network/credits.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/edit.php:11": [
+            "wp-admin/network/edit.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/freedoms.php:11": [
+            "wp-admin/network/freedoms.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/index.php:11": [
+            "wp-admin/network/index.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/plugin-editor.php:11": [
+            "wp-admin/network/plugin-editor.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/plugin-install.php:15": [
+            "wp-admin/network/plugin-install.php",
+            15,
+            14,
+            "require_once"
+        ],
+        "wp-admin/network/plugins.php:11": [
+            "wp-admin/network/plugins.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/privacy.php:11": [
+            "wp-admin/network/privacy.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/profile.php:11": [
+            "wp-admin/network/profile.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/settings.php:11": [
+            "wp-admin/network/settings.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/setup.php:11": [
+            "wp-admin/network/setup.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/site-info.php:11": [
+            "wp-admin/network/site-info.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/site-new.php:11": [
+            "wp-admin/network/site-new.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/site-settings.php:11": [
+            "wp-admin/network/site-settings.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/site-themes.php:11": [
+            "wp-admin/network/site-themes.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/site-users.php:11": [
+            "wp-admin/network/site-users.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/sites.php:11": [
+            "wp-admin/network/sites.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/theme-editor.php:11": [
+            "wp-admin/network/theme-editor.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/theme-install.php:15": [
+            "wp-admin/network/theme-install.php",
+            15,
+            14,
+            "require_once"
+        ],
+        "wp-admin/network/themes.php:11": [
+            "wp-admin/network/themes.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/update-core.php:11": [
+            "wp-admin/network/update-core.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/update.php:15": [
+            "wp-admin/network/update.php",
+            15,
+            14,
+            "require_once"
+        ],
+        "wp-admin/network/upgrade.php:11": [
+            "wp-admin/network/upgrade.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/user-edit.php:11": [
+            "wp-admin/network/user-edit.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/user-new.php:11": [
+            "wp-admin/network/user-new.php",
+            11,
+            10,
+            "require_once"
+        ],
+        "wp-admin/network/users.php:11": [
+            "wp-admin/network/users.php",
+            11,
+            10,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

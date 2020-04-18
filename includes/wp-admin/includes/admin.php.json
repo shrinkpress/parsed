@@ -31,15 +31,9 @@
             16,
             "require_once"
         ],
-        "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1105": [
-            "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php",
-            1105,
-            1104,
-            "require_once"
-        ],
-        "wp-includes/update.php:606": [
+        "wp-includes/update.php:607": [
             "wp-includes/update.php",
-            606,
+            607,
             0,
             "include_once"
         ],
@@ -47,7 +41,7 @@
             "xmlrpc.php",
             63,
             0,
-            "include_once"
+            "require_once"
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"

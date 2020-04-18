@@ -1,0 +1,12 @@
+{
+    "includedFile": "wp-admin/includes/network.php",
+    "includes": {
+        "wp-admin/network.php:33": [
+            "wp-admin/network.php",
+            33,
+            0,
+            "require_once"
+        ]
+    },
+    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+}

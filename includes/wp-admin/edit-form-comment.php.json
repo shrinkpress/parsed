@@ -5,7 +5,7 @@
             "wp-admin/comment.php",
             80,
             0,
-            "include"
+            "require"
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"

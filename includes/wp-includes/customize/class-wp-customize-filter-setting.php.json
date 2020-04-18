@@ -1,16 +1,16 @@
 {
     "includedFile": "wp-includes/customize/class-wp-customize-filter-setting.php",
     "includes": {
-        "wp-includes/class-wp-customize-manager.php:331": [
+        "wp-includes/class-wp-customize-manager.php:330": [
             "wp-includes/class-wp-customize-manager.php",
-            331,
+            330,
             0,
             "require_once"
         ],
-        "wp-includes/class-wp-customize-setting.php:947": [
+        "wp-includes/class-wp-customize-setting.php:962": [
             "wp-includes/class-wp-customize-setting.php",
-            947,
-            944,
+            962,
+            959,
             "require_once"
         ]
     },

@@ -1,12 +1,6 @@
 {
     "includedFile": "wp-includes/wp-load.php",
     "includes": {
-        "wp-activate.php:12": [
-            "wp-activate.php",
-            12,
-            11,
-            "require"
-        ],
         "wp-admin/admin-ajax.php:22": [
             "wp-admin/admin-ajax.php",
             22,
@@ -55,71 +49,35 @@
             2,
             "require_once"
         ],
+        "wp-admin/tools.php:23": [
+            "wp-admin/tools.php",
+            23,
+            0,
+            "require_once"
+        ],
+        "wp-admin/tools.php:29": [
+            "wp-admin/tools.php",
+            29,
+            0,
+            "require_once"
+        ],
+        "wp-admin/tools.php:33": [
+            "wp-admin/tools.php",
+            33,
+            0,
+            "require_once"
+        ],
         "wp-admin/upgrade.php:18": [
             "wp-admin/upgrade.php",
             18,
             17,
             "require"
         ],
-        "wp-blog-header.php:13": [
-            "wp-blog-header.php",
-            13,
-            0,
-            "require_once"
-        ],
-        "wp-comments-post.php:21": [
-            "wp-comments-post.php",
-            21,
-            20,
-            "require"
-        ],
-        "wp-cron.php:44": [
-            "wp-cron.php",
-            44,
-            43,
-            "require_once"
-        ],
         "wp-includes/ms-files.php:12": [
             "wp-includes/ms-files.php",
             12,
             0,
             "require_once"
-        ],
-        "wp-links-opml.php:15": [
-            "wp-links-opml.php",
-            15,
-            2,
-            "require_once"
-        ],
-        "wp-login.php:12": [
-            "wp-login.php",
-            12,
-            11,
-            "require"
-        ],
-        "wp-mail.php:11": [
-            "wp-mail.php",
-            11,
-            10,
-            "require"
-        ],
-        "wp-signup.php:4": [
-            "wp-signup.php",
-            4,
-            3,
-            "require"
-        ],
-        "wp-trackback.php:12": [
-            "wp-trackback.php",
-            12,
-            0,
-            "require_once"
-        ],
-        "xmlrpc.php:30": [
-            "xmlrpc.php",
-            30,
-            29,
-            "include"
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"

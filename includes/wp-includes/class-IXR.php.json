@@ -1,21 +1,21 @@
 {
     "includedFile": "wp-includes/class-IXR.php",
     "includes": {
-        "wp-includes/comment.php:2798": [
+        "wp-includes/comment.php:2804": [
             "wp-includes/comment.php",
-            2798,
+            2804,
             0,
             "include_once"
         ],
-        "wp-includes/comment.php:2954": [
+        "wp-includes/comment.php:2966": [
             "wp-includes/comment.php",
-            2954,
+            2966,
             0,
             "include_once"
         ],
-        "wp-includes/functions.php:820": [
+        "wp-includes/functions.php:838": [
             "wp-includes/functions.php",
-            820,
+            838,
             0,
             "include_once"
         ],
@@ -23,7 +23,7 @@
             "xmlrpc.php",
             64,
             0,
-            "include_once"
+            "require_once"
         ]
     },
     ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
