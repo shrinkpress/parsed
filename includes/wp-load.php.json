@@ -1,5 +1,5 @@
 {
-    "includedFile": "/wp-load.php",
+    "includedFile": "wp-load.php",
     "includes": {
         "wp-activate.php:12": [
             "wp-activate.php",
@@ -74,5 +74,5 @@
             "require_once"
         ]
     },
-    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+    ":class": "ShrinkPress\\Reframe\\Entity\\Includes\\WordPress_Include"
 }

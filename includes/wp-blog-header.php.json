@@ -1,5 +1,5 @@
 {
-    "includedFile": "/wp-blog-header.php",
+    "includedFile": "wp-blog-header.php",
     "includes": {
         "index.php:17": [
             "index.php",
@@ -20,5 +20,5 @@
             "require"
         ]
     },
-    ":class": "ShrinkPress\\Build\\Entity\\Includes\\WordPress_Include"
+    ":class": "ShrinkPress\\Reframe\\Entity\\Includes\\WordPress_Include"
 }
