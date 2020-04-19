@@ -15,9 +15,9 @@
         "action": 42
     },
     "includes": {
-        "/wp-load.php": 12,
+        "wp-load.php": 12,
         "wp-includes/class-phpass.php": 739
     },
     "filename": "wp-login.php",
-    ":class": "ShrinkPress\\Build\\Entity\\Files\\WordPress_PHP"
+    ":class": "ShrinkPress\\Reframe\\Entity\\Files\\WordPress_PHP"
 }

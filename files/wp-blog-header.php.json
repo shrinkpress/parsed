@@ -5,9 +5,9 @@
     "functions": [],
     "globals": [],
     "includes": {
-        "/wp-load.php": 13,
+        "wp-load.php": 13,
         "wp-includes/template-loader.php": 19
     },
     "filename": "wp-blog-header.php",
-    ":class": "ShrinkPress\\Build\\Entity\\Files\\WordPress_PHP"
+    ":class": "ShrinkPress\\Reframe\\Entity\\Files\\WordPress_PHP"
 }
