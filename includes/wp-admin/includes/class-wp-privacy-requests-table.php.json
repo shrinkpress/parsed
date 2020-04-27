@@ -4,7 +4,7 @@
         "wp-admin/includes/admin.php:78": [
             "wp-admin/includes/admin.php",
             78,
-            0,
+            76,
             "require_once"
         ],
         "wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:11": [
@@ -20,5 +20,5 @@
             "require_once"
         ]
     },
-    ":class": "ShrinkPress\\Reframe\\Entity\\Includes\\WordPress_Include"
+    ":class": "ShrinkPress\\Index\\Entity\\Includes\\WordPress_Include"
 }
